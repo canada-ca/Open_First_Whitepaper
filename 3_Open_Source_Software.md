@@ -11,10 +11,10 @@ Open Source Software is the name used by the Open Source Initiative. They're the
 The two are almost equivalent but represent two different visions and neither want to be included in the other.  You will find authors using FOSS for "Free Open Source Software" or even FLOSS for "Free/Libre Open Source Software".  For the purposes of this whitepaper we opted to use "open source" to talk about free (in the sense of freedom) software and open source software.
 
 ### History
-Free Software goes back to the beginnings of computer science.
+Free Software goes back to the beginnings of computer science. Many of the successes of Open Government could only be possible because of open source code and the generosity of internet community. We should pay that back.
 
 ### Free Beer?
-Free in English can mean something is available a no costs or that it gives you certain freedoms.
+Free in English can mean something is available a no costs or that it gives you certain freedoms. Much is available online comparing free speech, free beer & even free kittens as metaphors for free software. To avoid confusion some have expressed it as [Free/Libre and Open Source Software (FLOSS)](http://www.flora.ca/floss.shtml).
 
 ### Intellectual property and Licences
 #### Copyright
