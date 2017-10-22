@@ -10,3 +10,6 @@
 - Review & assess the [following policies](https://github.com/mgifford/open-source-contracting)
 ### Interoperability framework based on open standards
 ### Open Source Program Office (Center of expertise)
+### Contributing Back
+- Supporting the The Linux Foundation's [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) will help to ensure that critical libraries are monitored which are critical for modern internet communications
+- Ensure that government employees attend open source events like [Drupal GovCon](https://www.drupalgovcon.org/) & [Codefest](http://wet-boew.github.io/codefest/)
