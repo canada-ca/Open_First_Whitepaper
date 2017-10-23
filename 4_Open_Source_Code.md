@@ -9,3 +9,10 @@ More permissive licenses exist, and should be sought to maximize the freedoms av
 ### Code Repositories
 
 ### Examples
+#### US
+- [Digital Services Playbook](https://playbook.cio.gov/) - If the codebase has not been released under an open source license, explain why.
+- 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Develop our work in the open - publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
+- [Federal Source Code Policy](https://sourcecode.cio.gov/) - Pilot program that requires agencies, when commissioning new custom software, to release at least 20% of new custom-developed code as OSS.
+
+#### UK
+- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
