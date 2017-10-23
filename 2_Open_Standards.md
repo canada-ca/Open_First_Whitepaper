@@ -14,3 +14,9 @@ Inspired by the four policy documents, the GC will adhere to the following crite
 - must be supported by the market and demonstrate independence or approved through due process by rough consensus among participants
 
 ### Examples
+#### UK
+- [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government)
+- [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
+
+#### Canada
+- TBS [Open Data Principles](http://open.canada.ca/en/open-data-principles) (Use of Commonly Owned Standards)
