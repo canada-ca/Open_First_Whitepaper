@@ -38,3 +38,18 @@ OSS is how modern organizations build software. Documented advantages over softw
 See Open Source Code.
 
 ### Examples
+#### US
+- [Digital Services Playbook](https://playbook.cio.gov/) - Contract ensures open source solutions are evaluated when technology choices are made and consider OSS solutions at every layer of the stack.
+- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Use FOSS in our projects and contribute back to the open source community.
+- [DoD Open Source Software FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/) - Educational resource for government employees and government contractors to understand the policies and legal issues relating to the use of OSS in the DoD.
+- [DoD Memorandum on Guidance Regarding Open Source Software](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) - There have been misconceptions and misinterpretations of the existing laws, policies and regulations that deal with software and apply to OSS, that have hampered effective DoD use and development of OSS.
+
+#### UK
+- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by giving equal consideration to free or open source software when you choose technology - taking account of the total cost of ownership of the service, including exit and transition costs.
+
+#### France
+- [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/sites/default/files/SILL-2016-socle-interministeriel-logiciels-libres.pdf) - L’ensemble des logiciels libres préconisés se présente sous la forme du SILL. Dans sa version actuelle, il porte sur le poste de travail, la gestion de parc, l’exploitation de serveurs, les base de données et les environnements de développement.
+
+#### Australia
+- [Australian Government Open Source Software Policy](http://www.finance.gov.au/sites/default/files/australian-government-open-source-software-policy-2013.pdf) - Procurement processes must actively and fairly consider all types of available software. Agencies will actively participate in OSS communities and contribute back where appropriate.
+
