@@ -43,6 +43,7 @@ See Open Source Code.
 - [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Use FOSS in our projects and contribute back to the open source community.
 - [DoD Open Source Software FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/) - Educational resource for government employees and government contractors to understand the policies and legal issues relating to the use of OSS in the DoD.
 - [DoD Memorandum on Guidance Regarding Open Source Software](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) - There have been misconceptions and misinterpretations of the existing laws, policies and regulations that deal with software and apply to OSS, that have hampered effective DoD use and development of OSS.
+- USA [Federal Source Code Policy](https://sourcecode.cio.gov/)
 
 #### UK
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by giving equal consideration to free or open source software when you choose technology - taking account of the total cost of ownership of the service, including exit and transition costs.
