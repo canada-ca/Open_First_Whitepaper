@@ -60,6 +60,7 @@ Test all new public-facing services with the Deputy Minister and/or Minister res
 
 ----
 ### Principes numériques
+
 1. #### Comprendre les utilisateurs et leurs besoins
 Commencer avec les besoins des utilisateurs et ensuite construire pour eux et avec eux. Mener des essais continus avec les utilisateurs. Faire le travail difficile afin qu’ils ne soient pas obligés de le faire.
 
