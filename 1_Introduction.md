@@ -58,6 +58,53 @@ Enter into sensible contracts and comply with procurement standards.
 15. #### Test services with the Deputy Minister and/or Minister
 Test all new public-facing services with the Deputy Minister and/or Minister responsible.
 
+----
+### Principes numériques
+1. #### Comprendre les utilisateurs et leurs besoins
+Commencer avec les besoins des utilisateurs et ensuite construire pour eux et avec eux. Mener des essais continus avec les utilisateurs. Faire le travail difficile afin qu’ils ne soient pas obligés de le faire.
+
+2. #### Effectuer constamment des itérations et des améliorations 
+Développement agile au moyen des phases alpha, bêta et réelles. Effectuer des essais de bout en bout et apporter sans cesse des améliorations en réponse à la rétroaction des utilisateurs. Faire des essais le plus tôt et le plus souvent possible.
+
+3. #### Bâtir la bonne équipe
+Mettre sur pied et habiliter des équipes multidisciplinaires, en établissant des liens entre stratégie et exécution.
+
+4. #### Développer une culture orientée vers le service
+Diriger une équipe et mettre en œuvre une culture ministérielle axée sur les utilisateurs.
+
+5. #### Travailler dans un environnement ouvert
+Échanger et collaborer dans un environnement ouvert, élaborer des plans pour faire en sorte que les données sont ouvertes dès le début.
+
+6. #### Intégrer, de façon équilibrée, la sécurité et la protection des renseignements dès le début 
+Considérer le contexte opérationnel. Gérer les risques.
+
+7. #### Créer de façon ouverte et interopérable
+Considérer également les sources libres. Utiliser des normes ouvertes. Créer de façon interopérable et songer à ce qui peut être réutilisé.
+
+8. #### Utiliser les bons outils pour le travail
+Utiliser les solutions et les plateformes gouvernementales communes. Construire l’informatique en nuage d’abord.
+
+9. #### Concevoir et fournir des services transparents et éthiques
+Faire preuve d’ouverture et de transparence dans l’utilisation des systèmes automatisés et respecter les lignes directrices en matière d’éthique.
+
+10. #### Être inclusif et offrir du soutien pour ceux qui en ont besoin
+Favoriser un environnement inclusif, les langues officielles et l’accessibilité dans la conception. 
+
+11. #### Connaître vos données
+Gérer les données conformément aux normes. Mettre en œuvre des outils analytiques et utiliser les données recueillies.
+
+12. #### Être responsable envers les Canadiens
+Définir les paramètres du rendement axé sur les utilisateurs. Publier des données en temps réel.
+
+13. #### Développer des partenariats ouverts et innovateurs
+Reconnaître qu’une organisation ne peut pas avoir toutes les meilleures idées. Créer des partenariats et collaborer.
+
+14. #### Dépenser l’argent judicieusement
+Signer des contrats de façon sensée et respecter les normes d’approvisionnement. 
+
+15. #### Faire l’essai des services avec le sous-ministre ou le ministre
+Faire l’essai de tous les services destinés au public avec le sous-ministre ou le ministre responsable.
+
 Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.  
 
 #### Acting Open
