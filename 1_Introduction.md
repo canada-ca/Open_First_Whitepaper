@@ -25,7 +25,7 @@ Create and empower multidisciplinary teams, linking policy with delivery. Do thi
 4. #### Work in the open, build in the open
 Share and collaborate in the open, plan to make data and systems open from the start. Be open and transparent in use of automated systems. Give equal consideration for open source. Use open standards. Build in an interoperable and reusable way.
 
-5. #### Use the right tools for the job
+5. #### Use the right tools for the job
 Use common government solutions and platforms. Build cloud first.
 
 6. #### Integrate proportionate security and privacy from the outset
@@ -34,7 +34,7 @@ Consider business context. Manage risks.
 7. #### Be inclusive and provide support for those who need it
 Build in inclusiveness, official languages, and accessibility by design.
 
-8. #### Know your data. Be accountable to Canadians.
+8. #### Know your data. Be accountable to Canadians.
 Collect, measure, track, and manage your data. Implement analytics tools and use the data you collect to make informed course corrections and decisions. Define user-centric performance metrics. Publish real time data.
 
 9. #### Test services with the Deputy Minister and/or Minister
