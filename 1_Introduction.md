@@ -11,9 +11,35 @@ This whitepaper is being co-developed by members of the GC open source community
 We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
 
 ### GC Digital Principles (DRAFT)
-Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC is in the process of drafting digital principles that will guide how we work, interact with Canadians, and do business. 
+Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly drafted digital principles that will guide how we work, interact with Canadians, and do business. 
 
-The draft principles are in their final stages of development and will be released through a public consultation. We will share a link here as soon as they become available.
+Digital Principles
+1. '''Build a service-oriented culture that focuses on understanding users and their needs'''
+Start with user needs and build for them, and with them. Conduct ongoing testing with users. Do the hard work so that they don’t have to.
+
+2. '''Iterate and improve frequently'''
+Develop in an agile manner using alpha, beta and live phases. Test end-to-end and continuously improve in response to user feedback. Test early and often.
+
+3. '''Build the right team'''
+Create and empower multidisciplinary teams, linking policy with delivery. Do this at interdepartmental level and externally with academia, industry, civil society, etc. Recognise that an organisation can’t have all the best ideas. Create open and innovative partnerships and collaborate.
+
+4. '''Work in the open, build in the open'''
+Share and collaborate in the open, plan to make data and systems open from the start. Be open and transparent in use of automated systems. Give equal consideration for open source. Use open standards. Build in an interoperable and reusable way.
+
+5. '''Use the right tools for the job'''
+Use common government solutions and platforms. Build cloud first.
+
+6. '''Integrate proportionate security and privacy from the outset'''
+Consider business context. Manage risks.
+
+7. '''Be inclusive and provide support for those who need it'''
+Build in inclusiveness, official languages, and accessibility by design.
+
+8. '''Know your data. Be accountable to Canadians.'''
+Collect, measure, track, and manage your data. Implement analytics tools and use the data you collect to make informed course corrections and decisions. Define user-centric performance metrics. Publish real time data.
+
+9. '''Test services with the Deputy Minister and/or Minister'''
+Test all new public facing services with the Deputy Minister and/or Minister responsible.
 
 Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.  
 
