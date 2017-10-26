@@ -13,7 +13,50 @@ We want to learn from Canadians, our partners, academics and technical experts t
 ### GC Digital Principles (DRAFT)
 Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly drafted digital principles that will guide how we work, interact with Canadians, and do business. 
 
+1. #### Understand users and their needs
+Start with user needs and build for them, and with them. Conduct ongoing testing with users. Do the hard work so that they don’t have to.
 
+2. #### Iterate and improve frequently
+Develop in an agile manner using alpha, beta and live phases. Test end-to-end and continuously improve in response to user feedback. Test early and often.
+
+3. #### Build the right team
+Create and empower multidisciplinary teams, linking policy with delivery.
+
+4. #### Build a service-oriented culture
+Lead and implement a team and departmental culture focused on users.
+
+5. #### Work in the open
+Share and collaborate in the open, plan to make data open from the start.
+
+6. #### Integrate proportionate security and privacy from the outset 
+Consider business context. Manage risks.
+
+7. #### Build in an open and interoperable way
+Give equal consideration for open source. Use open standards. Build in an interoperable and reusable way.
+
+8. #### Use the right tools for the job
+Use common government solutions and platforms. Build cloud first.
+
+9. #### Design and deliver transparent and ethical services
+Be open and transparent in the use of automated systems and comply with ethical guidelines.
+
+10. #### Be inclusive and provide support for those who need it
+Build in inclusiveness, official languages, and accessibility by design. 
+
+11. #### Know your data
+Manage data in line with standards. Implement analytical tools and use the data you collect.
+
+12. #### Be accountable to Canadians
+Define user-centred performance metrics. Publish real time data.
+
+13. #### Develop open and innovative partnerships
+Recognize that an organization can’t have all the best ideas. Create partnerships and collaborate.
+
+14. #### Spend money wisely 
+Enter into sensible contracts and comply with procurement standards. 
+
+15. #### Test services with the Deputy Minister and/or Minister
+Test all new public-facing services with the Deputy Minister and/or Minister responsible.
 
 Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.  
 
