@@ -3,6 +3,6 @@
 
 **Open standards** refer to who owns the format in which data is stored.
 
-**Free Software** is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom to run, copy, distribute, study, change and improve the software.
+**Free Software** is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom to run, copy, distribute, study, change and improve the software. For most practical puproses it means the same as Open Source Software, although this is widely debated.
 
 **Open Source Software**
