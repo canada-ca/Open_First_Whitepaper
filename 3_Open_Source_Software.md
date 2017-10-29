@@ -13,6 +13,14 @@ The two are almost equivalent but represent two different visions and neither wa
 ### History
 Free Software goes back to the beginnings of computer science. Many of the successes of Open Government could only be possible because of open source code and the generosity of internet communities. We should pay that back.
 
+### Benefits
+
+Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality of the final product. Other benefits include:
+- **Flexible usage.** The benefits of using FOSS compel GC to meet user needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
+- **Community involvement.** Publicly available source code enables continuous and broad peer review. Whether simply publishing the completed code or opening the development process, the practice of expanding the review and testing process to a wider audience—beyond the development team—ensures increased software reliability and security. Developing in the open also allows for other opinions to help adjust the direction of a product to maximize its usefulness to the community it serves.
+- **Cost-savings.** The ability to modify FOSS enables GC to respond rapidly to changing missions and markets. Support and maintenance of open source code—as opposed to more burdensome usages of proprietary software—provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
+- **Reusability.** The code we create belongs to the public as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at GC.
+
 ### Free Beer?
 Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer & even free kittens as metaphors for free software. To avoid confusion some have expressed it as [Free/Libre and Open Source Software (FLOSS)](http://www.flora.ca/floss.shtml).
 
