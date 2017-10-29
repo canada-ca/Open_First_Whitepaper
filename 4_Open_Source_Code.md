@@ -1,6 +1,11 @@
 ## Open Source Code
 The Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
+The default position when developing new projects is to:
+- Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
+- Develop our work in the open.
+- Publish publicly all source code created or modified, whether developed in-house by government staff or through negotiated contracts.
+
 ### Licences
 Paying attention to the particular license of the software is particularly important. Some licenses include clauses that stipulate that changes to the software which are then redistributed must automatically be licensed under the same license as the original software. This binds the GC to a particular license agreement in these cases. In some cases, this may limit the methods by which the GC is able to distribute goods. For example, the iOS app store does not allow GPLv2 licensed software distribution, and therefore would prevent the GC from prohibit the GC from distributing an app within that platform if it were restricted solely to GPL based licensing.
 
