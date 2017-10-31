@@ -6,7 +6,13 @@ Paying attention to the particular license of the software is particularly impor
 
 More permissive licenses exist, and should be sought to maximize the freedoms available not only to the GC, but to all Canadians. In cases where a restrictive license is in place for a particular piece of software, it may be possible to ask the authors to relicense that software under more permissive terms.
 
-### Maximizing Community Involvement and Reuse ###
+## Distribution of Code
+
+There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
+
+In addition, while open source licenses permit the user to modify FOSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified FOSS outside the user's organization, then the code is subject to whatever license it carries.
+
+### Maximizing Community Involvement and Reuse
 
 Active involvement from the open source community is integral to the success of open source code. The Government of Canada will be an active contributor to FOSS projects that it or its clients utilize.
 
