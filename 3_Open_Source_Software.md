@@ -1,4 +1,15 @@
 ## Open Source Software
+- [Terminology](#terminology)
+- [History](#history)
+- [Intellectual property](#intellectual-property)
+- [Benefits](#benefits)
+- [Security](#security)
+- [Economic models](#economic-models)
+- [Using and Procuring](#using-and-procuring)
+- [Development](#development)
+- [Publishing code](#publishing-code)
+- [Examples](#examples)
+
 ### Terminology
 Source code is the human readable version of software.  The code is written by developers and can be read and modified by others.  The code can be compiled into an executable or binary, that is not readable.
 
@@ -15,7 +26,8 @@ Free software and open source software are almost equivalent but represent two d
 ### History
 OSS goes back to the beginnings of computer science. Many of the successes of Open Government could only be possible because of open source code and the generosity of internet communities. We should pay that back.
 
-### Intellectual property and Licences
+### Intellectual property
+#### Licences
 #### Copyright
 
 ### Benefits
@@ -38,8 +50,8 @@ OSS is how modern organizations build software. Documented advantages over softw
 
 #### Contributing to projects
 
-### Publishing Code
-See Open Source Code.
+### Publishing code
+See [Open Source Code](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/4_Open_Source_Code.md).
 
 ### Examples
 #### US
