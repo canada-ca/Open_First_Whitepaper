@@ -12,9 +12,9 @@ Fair and Transparent - We are working on making procurement more fair and transp
 
 Agile and Challenge based - We are achieving this in an agile manner using a new open procurement process, short challenges and iterative projects, such as with the open-by-default pilot portal
 
-Paying for Open - A common misunderstanding of open is that it’s free. While a key principle of open is to provide the resources whether it be data or source code for free, there is still a cost to provide the data or develop the open source tool. As such the GC needs to develop an approach for being an active and fair player in the open source community.
+Paying for Open - A common misunderstanding of open is that it’s free. While a key principle of open is to provide the resources whether it be data or source code for free, there is still a cost to provide the data or develop the open source tool. As such the GC needs to develop an approach for being an active and fair player in the open source community. 
 
-
+Open/Free projects only remain relevant when there is a critical mass contributing back. It is the GC's interest to encourage easier adoption of tools that are accessible, secure and mult-linugal to meet the needs of Canadians. The GC will actively work to support an ecosystem of business, non-profits, and government agencies who will support the growth of open innovation in our communities. 
 
 ### Examples
 #### Canada
