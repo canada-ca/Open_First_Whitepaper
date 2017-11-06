@@ -13,6 +13,8 @@ Inspired by the four policy documents, the GC will adhere to the following crite
 - Specifications and supporting material are freely available with limited restrictions
 - must be supported by the market and demonstrate independence or approved through due process by rough consensus among participants
 
+The GC will require that all new purchases store and manage data on platforms with commonly accepted open standards, starting immediately. The GC also commits to publish of their data in commonly accepted open standards, unless there are privacy, security or legal reasons for not doing so.
+
 ### Examples
 #### UK
 - [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government)
