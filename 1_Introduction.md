@@ -102,3 +102,23 @@ In the context of enterprise architecture fully under your control, one option t
 
 ###### Application adherence - Vendor lock-in
 Internally, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factor in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
+
+###### Cloud computing
+Cloud computing consists of providing infrastructure services and application services on demand. This is made possible through a high level of virtualization of hardware components by way of service infrastructure software. Cloud computing is based on a complex software architecture that simultaneously manages the elasticity of resources (processors, random access memory, storage and networks) and the ability of applications to make optimal use of these resources.
+
+In terms of interoperability, there is no fundamental difference between a conventional infrastructure and a cloud, other than the complexity of the latter and the need to standardize vertical and horizontal components to a much greater degree. In particular, any outsourcing of infrastructure or applications to a public cloud must take into account the private or third-party organization's ability to apply standards that allow for the possibility of changing providers or reinstating a certain number of services, if necessary. In this context, the lack of an interoperability framework and open standards accepted by the provider poses a significant risk to the sustainability of the solution.
+
+With respect to deploying a private cloud, interoperability promotes competition between providers, with respect to both hardware and software, as well as the ability to further develop the infrastructure over time. Indeed, the use of standards, through APIs for example, increases independence from the different drivers specific to the hardware components, and makes these infrastructure services independent from the software it deploys.
+
+The implementation of a cloud is therefore a unique opportunity to standardize these processes and agree on a common framework. The use of an interoperability framework and the use of standards makes it easier and less costly to outsource part of the infrastructure of it to a third-party organization, or to migrate onto Shared Services Canada, in a hybrid solution.
+
+##### Interoperability framework
+An interoperability framework is defined as a set of policies, guidelines, standards, rules and recommendations made by a network of actors with a view to achieving the highest level of interoperability possible.
+
+It also describes the operating rules that govern the analysis, selection, adoption and updating of each of these elements.
+
+To ensure the deployment and longevity of interoperable systems, it is necessary to jointly select the standards to be adopted as well as the conditions for their implementation.
+
+This is why several European countries (including France and the UK) and Canadian provinces such as Quebec have chosen to establish interoperability frameworks. The results are compelling, as open standards are regularly and widely used, and always the first approach to be considered when new requirements emerge.
+
+As mentioned in the various interoperability frameworks that have already been published, they are designed only to identify key standards and not to offer predefined, unique solutions (for example, in terms of which software to choose). The objective of an interoperability framework is, therefore, to facilitate and guide an organization's interoperability choices while also limiting the number of potential standards in order to guarantee maximum clarity.
