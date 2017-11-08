@@ -38,11 +38,9 @@ Using OSS allows for product customization, advances interoperability between to
 - **Reusability.** The code we create belongs to the public as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in OSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at GC.
 
 ### Security
-
 One of the most misunderstood aspects of the Open Source Software (OSS) development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
 
 #### Reliance on Hardening, Not Obfuscation
-
 Hiding code does not prevent attacks—and it it foolish to assume that it does. Open Source development practices rely on actually hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
 
 OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues. 
@@ -50,16 +48,13 @@ OSS is not always more secure, however in both theory and practice the OSS secur
 Obfuscation relies on attacker ignorance and hides poor security practices. Within five months of the source code release of InterBase version 6, a hard-coded backdoor that had existed for seven years was found by the OSS community and fixed.
 
 #### Wide Peer Review
-
 Assuming that the goal is to make secure software, it is obvious that the easiest way to find flaws in a project is to make all of the project's code completely transparent. This approach may seem counter-intuitive, if the ultimate goal is anything other than the integrity of the technology.
 
 By openly releasing a project's code and making it readily available via the Internet the community of peer reviewers is expanded exponentially across the globe. The community will quickly find flaws and the project team can take action to fix them. This simultaneously garners exceptionally wide and deep testing feedback from developers who need the code to be as secure as possible for their own use as well as the community's. Both the project owners and community benefit from sharing flaws and fixes.
 
-#### Look Good Naked
+Because the OSS security model is established on industry-accepted best practices and the actual code is widely available, projects are widely reviewed, thoroughly scrutinized, practically improved and quickly hardened.
 
-Jim Whitehurst, Red Hat CEO, summed up the OSS security model by saying, "If we all had to walk around naked we'd all spend more time in the gym." Because the OSS security model is established on industry-accepted best practices and the actual code is widely available, projects are widely reviewed, thoroughly scrutinized, practically improved and quickly hardened.
-
-"Lock-picking is a dying art. Not because basic lock technology has changed all that much since it was invented, but because it's just easier to break a window" noted Kane McLean of BRTRC Technology Research Corporation. "Cyber attacks follow the path of least resistance, if the security obstacles are open and known that becomes a deterrent in itself." When the strength of a project is well known, atteckers tend to search for another path of attack
+Sound security and accessibility practices are only possible with open peer review. This is the basis of a evidence based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
 
 ### Economic models
 #### Market
