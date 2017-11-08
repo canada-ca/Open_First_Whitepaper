@@ -70,7 +70,8 @@ Individuals, businesses, the public, institutions and things all communicate via
 
 For any organization, especially public adminstrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, through the availability of open data.
 
-In terms of external interoperability, the crux of the matter is not only technical, but also based on a set of concerns at various levels. The [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) defines these as:
+##### External interoperability
+The crux of the matter is not only technical, but also based on a set of concerns at various levels. The [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) defines these as:
 - **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
 - **Legal interoperability** is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together;
 - **Organisational interoperability** refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals;
@@ -80,6 +81,7 @@ In terms of external interoperability, the crux of the matter is not only techni
 This the EIF definition of general interoperability:
 >  Interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems.
 
+##### Internal interoperability
 Internal interoperability is much more focused on the technical dimension. Particular attention should be paid to its definition, to ensure that it faithfully reflects expectations associated with the term, particularly in terms of independence - the term sovereignty is sometimes used - and neutrality.
 
 A commonly used definition is the one proposed by the [Interoperability Working Group of the French speaking Libre Software Users' Association](http://interoperability-definition.info/en/):
@@ -92,3 +94,11 @@ A major obstacle to interoperability arises from legacy systems. Historically, a
 Due to the size of public administration and the fragmentation of IM-IT solutions, the plethora of legacy systems creates an additional interoperability barrier in the technical layer.
 
 Technical interoperability should be ensured, whenever possible, via the use of open standards.
+
+###### Independence and substitutability
+From an internal perspective, interoperability is closely linked to the issue of enterprise architecture, in that it allows its various components to be decoupled while remaining integrated. Thus, the [Quebec government's common interoperability framework](http://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/) (CCIGQ) is linked to the Cadre de référence de l'architecture d'entreprise gouvernementale (government enterprise architecture reference framework); and version 2 of France's [Référentiel général d'interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (General Guidelines for Interoperability) refers back to the [Cadre Commun d'Urbanisation du Système d'Information de l'État](http://references.modernisation.gouv.fr/sites/default/files/Cadre%20Commun%20d%27Urbanisation%20du%20SI%20de%20l%27Etat%20v1.0_0.pdf) (common enterprise architecture framework for the State information system).
+
+In the context of enterprise architecture fully under your control, one option to ensure the components' integration is standardization, either of the products directly or within a family of products generally offered by a single vendor. This approach can have functional advantages (generally in terms of a smooth integration between products), but it has the disadvantage of tying internal information technologies to an external system or a particular vendor. This connection can become both a technical handicap (by ruling out the possibility of adopting new, more relevant solutions) and an economic handicap (by decreasing opportunities to negotiate and by increasing switching costs). In an ideal interoperability scenario, however, the building blocks are substitutable: each one can be changed more easily and independently. This approach strengthens the freedom of choice and makes enterprise architecture more flexible, because each building block can be replaced by another with the same functionality without impacting the rest of the systems.
+
+###### Application adherence - Vendor lock-in
+In an internal IS, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factor in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
