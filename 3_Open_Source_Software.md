@@ -69,6 +69,7 @@ OSS is how modern organizations build software. Documented advantages over softw
 
 ### Publishing code
 See [Open Source Code](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/4_Open_Source_Code.md).
+Need to look at different licensing options. Government of Québec (https://www.forge.gouv.qc.ca/licence/fr/)
 
 ### Examples
 #### US
