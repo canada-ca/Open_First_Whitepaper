@@ -7,4 +7,4 @@
 
 **Open Source Software**
 
-**Open Government** overning doctrine which holds that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. 
+**Open Government** A governing culture that holds that the public has the right to access the documents and proceedings of government to allow for greater openness, accountability, and engagement.
