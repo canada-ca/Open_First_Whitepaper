@@ -26,9 +26,34 @@ Free software and open source software are almost equivalent but represent two d
 ### History
 OSS goes back to the beginnings of computer science. Many of the successes of Open Government could only be possible because of open source code and the generosity of internet communities. We should pay that back.
 
+Software licensing (open source and proprietary) trace their origins from a common source: the Unix operating system.  This story is detailed in the [Origins and History of Unix](http://www.faqs.org/docs/artu/ch02s01.html). Unix was developed by AT&T Bell Laboratories in the late 1960s and early 1970s and was the first general-purpose operating system. At that time, the US Justice Department issued a consent decree barring AT&T from engaging in commercial activities outside the field of its primary business, telephone service. Because of the consent decree, AT&T could not exploit Unix as a commercial product, so Bell Labs gave Unix away in source code form under terms that allowed its modification and redistribution. This led to Unix’s widespread use and popularity among computer scientists in the 1970s and 1980s.
+
+After the US Justice Department lifted the consent decree in 1983, AT&T commercialized Unix as a proprietary product and adopted more restrictive licensing terms. Meanwhile, the 1980s saw the advent of microcomputers (PCs), which led to the standardization of software. This standardization, in turn, encouraged companies to distribute their software in binary-only form because there was less need for users to investigate or troubleshoot source code. And so proprietary licensing became the dominant model for licensing software.
+
+Following to this change, Richard Stallman and the GNU Project started to build an operating system that would be a free alternative to UNIX.  This is around the same time as the Free Software Foundation was started to promote the use of free software. The operating system needed both kernel and the tools necessary to install, run and develop programs for it.  The GNU Project developed the tools but was missing a working kernel.  This is when Linus Torvalds, a teenager in Finland, developed the first Linux kernel as a school project.
+
+The combination of the Linux kernel and the GNU tools - most commonly called Linux - was released under the GNU General Public License (GPL), a licensing model that was created by the GNU Project. The GPL granted recipients unfettered rights to redistribute software with the condition that the source code could not be kept secret. As Linux grew in popularity, with thousands of contributors and billions of users, the industry learned to follow and adopt GPL’s terms. By the late 1990s, GPL and the open source licensing paradigm more broadly gained traction and industry-wide acceptance.
+
 ### Intellectual property
 #### Licences
+Today, the GPL license is in its third version (GNU GPLv3) and is only one of several dozen types of open source licenses. The Open Source Initiative has approved more than 80 open source licenses. These generally fall into one of two categories: permissive licenses and reciprocal licenses.
+
+A permissive license is simple and is the most basic type of open source license: It allows you to do whatever you want with the software as long as you abide by the notice requirements. Permissive licenses provide the software as-is, with no warranties. So permissive licenses can be summarized as follows:
+- Do whatever you want with the code
+- Use at your own risk
+- Acknowledge the author/contributor
+
+Examples of permissive licenses include: BSD, MIT and Apache
+
+Reciprocal licenses add requirements to the permissive license. In addition to the requirements listed above, reciprocal licenses also require that:
+- If you distribute binaries, you must make the source code for those binaries available
+- Code must be available under the same reciprocal terms under which you got the code
+- You cannot place additional restrictions on the licensee's exercise of the license
+
+Examples of reciprocal licenses include: GNU licenses (GPL, AGPL, LGPL), Mozilla Public License and Eclipse Public License.
+
 #### Copyright
+License and copyright are two seperate things.  In some cases the license may grant additionnal rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
 
 ### Benefits
 Using OSS allows for product customization, advances interoperability between tools, and improves the overall quality of the final product. Other benefits include:
