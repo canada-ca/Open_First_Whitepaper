@@ -11,7 +11,7 @@ Inspired by the four policy documents, the GC will adhere to the following crite
 - A process for the standard's development that is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests
 - Platform independent, vendor neutral and usable for multiple implementations
 - Specifications and supporting material are freely available with limited restrictions
-- must be supported by the market and demonstrate independence or approved through due process by rough consensus among participants
+- must be supported by the community and demonstrate independence or approved through due process by rough consensus among participants
 
 The GC will require that all new purchases store and manage data on platforms with commonly accepted open standards, starting immediately. The GC also commits to publish of their data in commonly accepted open standards, unless there are privacy, security or legal reasons for not doing so.
 

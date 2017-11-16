@@ -6,6 +6,7 @@
 - Ensure it is a talking point for senior bureaucrats & Members of Cabinet
 - Integrate into plans for Innovation, Science and Economic Development Canada (ISED) & The Minister of Small Business and Tourism
 ### Development of guidelines for use and release of open source software
+- Define a process for ensuring that obligations outlined by the Official Languages Act is met. A process needs to exist in order to ensure no written contribution will reach master before being made available in both official languages. 
 ### Develop generic procurement policies for open source software
 - Review & assess the [following policies](https://github.com/mgifford/open-source-contracting)
 ### Interoperability framework based on open standards

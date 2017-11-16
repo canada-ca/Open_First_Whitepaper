@@ -66,7 +66,7 @@ Using OSS allows for product customization, advances interoperability between to
 One of the most misunderstood aspects of the Open Source Software (OSS) development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
 
 #### Reliance on Hardening, Not Obfuscation
-Hiding code does not prevent attacks—and it it foolish to assume that it does. Open Source development practices rely on actually hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
+Open Source Software relies on security over obscurity. A common misconception is that hiding code helps to prevent successful attacks. Open Source development practices rely on hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
 
 OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues. 
 
