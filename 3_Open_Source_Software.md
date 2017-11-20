@@ -96,6 +96,17 @@ OSS is how modern organizations build software. Documented advantages over softw
 See [Open Source Code](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/4_Open_Source_Code.md).
 Need to look at different licensing options. Government of Québec (https://www.forge.gouv.qc.ca/licence/fr/)
 
+
+### Actions
+The GC will:
+- publish OSS adoption guidelines, update IM-IT strategic plan and cloud adoption stratagy to reflect direction on OSS;
+- plan to eliminate current lock-in to propriatary operating system by favoring use of multiplatform or Web applications;
+- select open source Web browser and office suite for use by all departments and agencies;
+- require that all new purchases, upgrades or migrations activly and fairly consider OSS, starting immediately;
+- factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
+- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost diference with propriatary solutions;
+
+
 ### Examples
 #### US
 - [Digital Services Playbook](https://playbook.cio.gov/) - Contract ensures open source solutions are evaluated when technology choices are made and consider OSS solutions at every layer of the stack.

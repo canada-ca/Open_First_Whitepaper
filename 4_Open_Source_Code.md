@@ -11,7 +11,7 @@ Paying attention to the particular license of the software is particularly impor
 
 More permissive licenses exist, and should be sought to maximize the freedoms available not only to the GC, but to all Canadians. In cases where a restrictive license is in place for a particular piece of software, it may be possible to ask the authors to relicense that software under more permissive terms.
 
-## Distribution of Code
+### Distribution of Code
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
@@ -32,6 +32,17 @@ Code previously released under an open source license and then modified by GC or
 The public can use our code as the basis of wholly proprietary and commercial systems. Notifications that our work is used in a new system are always greatly appreciated.
 
 ### Code Repositories
+- Framagit
+- Gitlab
+- Github
+
+
+### Actions
+The GC will:
+- publish guidance for departments and agencies to release code developed interaly as OSS;
+- require that all newly developed code be published as OSS, starting immediately;
+
+
 
 ### Examples
 #### US
