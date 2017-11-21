@@ -1,3 +1,5 @@
+[« Previous Page : Introduction](1_Introduction.md) | [Table of Content](TOC.md) | [Next Page: Open Source Software »](3_Open_Source_Software.md)
+
 ## Open Standards
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
