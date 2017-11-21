@@ -1,3 +1,5 @@
+[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Content](TOC.md) | [Next Page: Open Source Code »](4_Open_Source_Code.md)
+
 ## Open Source Software
 - [Terminology](#terminology)
 - [History](#history)
@@ -68,7 +70,7 @@ One of the most misunderstood aspects of the Open Source Software (OSS) developm
 #### Reliance on Hardening, Not Obfuscation
 Open Source Software relies on security over obscurity. A common misconception is that hiding code helps to prevent successful attacks. Open Source development practices rely on hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
 
-OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues. 
+OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues.
 
 Obfuscation relies on attacker ignorance and hides poor security practices. Within five months of the source code release of InterBase version 6, a hard-coded backdoor that had existed for seven years was found by the OSS community and fixed.
 
@@ -122,4 +124,3 @@ The GC will:
 
 #### Australia
 - [Australian Government Open Source Software Policy](http://www.finance.gov.au/sites/default/files/australian-government-open-source-software-policy-2013.pdf) - Procurement processes must actively and fairly consider all types of available software. Agencies will actively participate in OSS communities and contribute back where appropriate.
-

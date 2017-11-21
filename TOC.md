@@ -9,3 +9,4 @@
 6.  [Open Culture](6_Open_Culture.md)
 7.  [Next Steps](7_Next_Steps.md)
 8.  [Definitions](8_Definitions.md)
+9.  [Open Platforms](9_Open_Platforms.md)

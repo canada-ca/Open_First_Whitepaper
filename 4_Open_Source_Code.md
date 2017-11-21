@@ -1,3 +1,5 @@
+[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Content](TOC.md) | [Next Page: Open Markets »](5_Open_Markets.md)
+
 ## Open Source Code
 The Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
@@ -21,11 +23,11 @@ In addition, while open source licenses permit the user to modify FOSS for inter
 
 Active involvement from the open source community is integral to the success of open source code. The Government of Canada will be an active contributor to FOSS projects that it or its clients utilize.
 
-Code written entirely by the GC will be released under an open license. In addition, any contracts GC enters into, where others will develop software on it's behalf, will ensure that all results are open source unless there is a defensible reason not to. 
+Code written entirely by the GC will be released under an open license. In addition, any contracts GC enters into, where others will develop software on it's behalf, will ensure that all results are open source unless there is a defensible reason not to.
 
 GC encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
 
-Forks or clones of our code repositories are free to be re-distributed. 
+Forks or clones of our code repositories are free to be re-distributed.
 
 Code previously released under an open source license and then modified by GC or its contractors must be released under terms permitted by the original open source license.
 

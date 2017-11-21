@@ -1,3 +1,5 @@
+[« Previous Page : Definitions](8_Definitions.md) | [Table of Content](TOC.md)
+
 ## Open Platforms
 It is recognized that different department and organization across the Canadian federal government need specialized development tools and platforms. It is of value, however, to share the open toolkit that has been approved through the federal government in order to promote a level of standardization that will allow for expertise sharing, greater transparency on the toolkit being used and community engagement on the tools that should be used. This will give the opportunity for the open community to comment, suggest enhancements and identify opportunities within the federal technological landscape.
 
@@ -42,4 +44,3 @@ Below, you will find the development stack used by the Public Service Commission
 
 **Container**
 - Docker
-
