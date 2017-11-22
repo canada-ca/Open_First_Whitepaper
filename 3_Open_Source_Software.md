@@ -10,6 +10,7 @@
 - [Using and Procuring](#using-and-procuring)
 - [Development](#development)
 - [Publishing code](#publishing-code)
+- [Actions](#actions)
 - [Examples](#examples)
 
 ### Terminology

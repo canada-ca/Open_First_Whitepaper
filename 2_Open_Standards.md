@@ -1,6 +1,12 @@
 [« Previous Page : Introduction](1_Introduction.md) | [Table of Content](TOC.md) | [Next Page: Open Source Software »](3_Open_Source_Software.md)
 
 ## Open Standards
+- [Definition](#definition)
+- [Interoperability](#interoperability)
+- [Actions](#actions)
+- [Examples](#examples)
+
+### Definition
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
 The exact definition of open standards can vary depending on who has jurisdiction, but there is a high level of convergence in the [RGI](http://references.modernisation.gouv.fr/interoperabilite) (France's ''Référentiel Général d'Interopérabilité'', or General Guidelines for Interoperability), the [CCIGQ](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (''Cadre Commun d'Interopérabilité du Gouvernement du Québec'', or the Quebec government's common interoperability framework), the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
