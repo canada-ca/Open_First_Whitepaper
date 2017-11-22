@@ -1,11 +1,22 @@
 [« Previous Page : Definitions](8_Definitions.md) | [Table of Content](TOC.md)
 
 ## Open Platforms
-It is recognized that different department and organization across the Canadian federal government need specialized development tools and platforms. It is of value, however, to share the open toolkit that has been approved through the federal government in order to promote a level of standardization that will allow for expertise sharing, greater transparency on the toolkit being used and community engagement on the tools that should be used. This will give the opportunity for the open community to comment, suggest enhancements and identify opportunities within the federal technological landscape.
+It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these standards in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be re-used.  
+This list will be updated regularly updated to ensure the most up-to-date list of tools are being offered to the community.
+Below you will find a list of recommended platforms by domain, based on standards co-developed by the community, with best of breed tools assessed against this criteria. 
 
-This list is also of use to share expertise, experience and best practices amongst federal organization, promote innovation and help accelerate the open initiative by allowing for information sharing on the tools being used.
+### Web Development
 
-This list is only of value if it is regularly updated, as such, the information 
+The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development. 
+Standards and tools will be required for the following categories of web development:
+
+**Conetent Management Systems**
+
+**Web Development Technical Stack**
+
+**Data Distribution**
+
+**Visualizations**
 
 Below, you will find the development stack used by the Public Service Commission of Canada for its new development initiatives since 2017.
 
