@@ -5,6 +5,7 @@
 - [Interoperability](#interoperability)
 - [Actions](#actions)
 - [Examples](#examples)
+- [GC Standards in Development](#gcstandards)
 
 ### Definition
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
@@ -91,3 +92,18 @@ The GC will:
 
 #### Canada
 - TBS [Open Data Principles](http://open.canada.ca/en/open-data-principles) (Use of Commonly Owned Standards)
+
+### GC Standards in Development 
+
+#### Web Development
+
+The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development. 
+Standards and tools will be required for the following categories of web development:
+
+**Conetent Management Systems**
+
+**Web Development Technical Stack**
+
+**Data Distribution**
+
+**Visualizations**
