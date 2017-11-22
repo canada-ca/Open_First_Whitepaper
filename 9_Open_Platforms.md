@@ -5,7 +5,7 @@ It is recognized that different department and organization across the Canadian 
 
 This list is also of use to share expertise, experience and best practices amongst federal organization, promote innovation and help accelerate the open initiative by allowing for information sharing on the tools being used.
 
-This list is only of value if it is regularly updated, as such, the information should be updated regularly upon changes and update.
+This list is only of value if it is regularly updated, as such, the information 
 
 Below, you will find the development stack used by the Public Service Commission of Canada for its new development initiatives since 2017.
 
