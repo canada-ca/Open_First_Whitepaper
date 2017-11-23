@@ -88,7 +88,7 @@ The GC will:
 
 ### Preferred Open Standards
 #### Web publishing
-- **Content and style**: HTML5, CSS
+- **Content and style**: HTML5, CSS3
 - **Graphics**: PNG, SVG
 - **Accessibility**: WCAG 2.0 AA, WAI-ARIA
 
