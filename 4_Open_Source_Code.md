@@ -6,6 +6,8 @@
 - [Best Practices](#best-practices)
 - [Code Repositories](#code-repositories)
 - [Actions](#actions)
+- [Preferred OSS Licences](#preferred-oss-licences)
+- [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
 
 The Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
@@ -17,7 +19,7 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 ### Benefits
 #### Collaboration to Lower Development Costs
-Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects. When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under hereditary licences (which a company or organization can only ever distribute if its project is OSS as well).
+Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects. When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
 
 #### Long-term Feasibility
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
@@ -57,35 +59,31 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties.  The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
 
 #### Choosing a Licence
-You will not always have a choice as to which licence you apply. Where a hereditary licence obligation is in force, you need to license your code under the same licence - see the section on Due Diligence / Licence Management, below. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
+You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on Due Diligence / Licence Management, below. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
 
-Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage hereditary obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
+Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 
-Overall, licensing decisions tend to involve one primary and consequential decision: whether to apply a hereditary or permissive licence:
-- Permissive licences maximize the scope of downstream users (with broad appeal to the
-entire private sector); while
-- Hereditary licences are appropriate in cases where it is important to receive back
-downstream changes, or where it is important to ensure that work built on an initial
-investment remains open and free. Hereditary licences can also put a focus on benefiting
-other private-sector businesses that provide services and support.
+Overall, licensing decisions tend to involve one primary and consequential decision: whether to apply a reciprocal or permissive licence:
+- Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
+- Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
 
 #### Due Diligence / Licence Management
 ##### Managing Licence Obligations
-Where hereditary licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code - to the extent specified in the hereditary licence - must come under the exact same licence when you distribute it (or, if the licence permits, a later version of the same licence). In such a case where you encounter a hereditary licensing obligation, there are three ways to comply:
+Where reciprocal licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code - to the extent specified in the reciprocal licence - must come under the exact same licence when you distribute it (or, if the licence permits, a later version of the same licence). In such a case where you encounter a reciprocal licensing obligation, there are three ways to comply:
 1. Do not distribute your software;
 2. License your software under the exact same licence (or, where the licence permits, a compatible licence); or
-3. Re-implement parts of your software such that it does not include any code or libraries that come under a hereditary licence (or, at least, ensure that your code does not integrate tightly with hereditary code such that the obligation engages).
+3. Re-implement parts of your software such that it does not include any code or libraries that come under a reciprocal licence (or, at least, ensure that your code does not integrate tightly with reciprocal code such that the obligation engages).
 
-Closed-source software vendors typically opt for solution three when they notice inadvertent hereditary code, given that they need to distribute their software to paying customers but do not usually want to open up the rest of their source code to others. It is therefore important for these vendors to conduct a “due diligence” audit on their software projects, checking that their software does not include any OSS code or libraries that engage a hereditary licensing obligation.
+Closed-source software vendors typically opt for solution three when they notice inadvertent reciprocal code, given that they need to distribute their software to paying customers but do not usually want to open up the rest of their source code to others. It is therefore important for these vendors to conduct a “due diligence” audit on their software projects, checking that their software does not include any OSS code or libraries that engage a reciprocal licensing obligation.
 
-Likewise, organizations and businesses releasing their code as OSS should also conduct due diligence audits. Although they are already applying a OSS licence, a hereditary licensing obligation generally imposes a requirement to licence the code under the exact same licence. Thus, releasing code under a different OSS licence may not always comply. It may be necessary to dual-license your own code under the other hereditary licence, or, in a similar manner to the closed-source context, ensure that the software does not include any code or libraries that engage the hereditary obligation. Although hereditary obligations pose the strictest set of parameters, organizations and businesses must also ensure they comply with other licensing terms. For example, they must comply with notice requirements and obligations to distribute the original source code. A due diligence audit ensures that this compliance is in place.
+Likewise, organizations and businesses releasing their code as OSS should also conduct due diligence audits. Although they are already applying a OSS licence, a reciprocal licensing obligation generally imposes a requirement to licence the code under the exact same licence. Thus, releasing code under a different OSS licence may not always comply. It may be necessary to dual-license your own code under the other reciprocal licence, or, in a similar manner to the closed-source context, ensure that the software does not include any code or libraries that engage the reciprocal obligation. Although reciprocal obligations pose the strictest set of parameters, organizations and businesses must also ensure they comply with other licensing terms. For example, they must comply with notice requirements and obligations to distribute the original source code. A due diligence audit ensures that this compliance is in place.
 
 There are two general methods to conduct a due diligence audit: provenance checking and code scanning.
 
 ##### Provenance Checking
 Provenance checking involves maintaining a careful audit trail: the developers maintain internal records of what code is in the project, how that code is used, and what licence applies to each element. Some build automation tools such as Maven (which developers use to automate code compilation and deployment) help with functionality to indicate, track, and report licences in a project, thereby assisting and standardizing the task of keeping records.
 
-Looking at the internal audit records, a licensing expert can check a project for compliance either when a developer adds a new external element or upon release of the software (or both). A fresh legal analysis of the licence text is not required for each and every new library imported into a project. Once a licence manager approves use of a particular licence within a project, developers can generally safely use other libraries under the same licence, as long as they use them in a similar manner. For example, a business or organization might establish a policy for a project that: grants automatic approval for specific permissive licences including BSD, MIT and Apache; grants approval for weak hereditary licences such as the LGPL on a case-by-case basis; and grants approval for strong hereditary licences, such as the GPL, only after a careful and thorough legal analysis.
+Looking at the internal audit records, a licensing expert can check a project for compliance either when a developer adds a new external element or upon release of the software (or both). A fresh legal analysis of the licence text is not required for each and every new library imported into a project. Once a licence manager approves use of a particular licence within a project, developers can generally safely use other libraries under the same licence, as long as they use them in a similar manner. For example, a business or organization might establish a policy for a project that: grants automatic approval for specific permissive licences including BSD, MIT and Apache; grants approval for weak reciprocal licences such as the LGPL on a case-by-case basis; and grants approval for strong reciprocal licences, such as the GPL, only after a careful and thorough legal analysis.
 
 ##### Automated Code Scanning
 In many cases, provenance checking should prove sufficient for smaller projects. However, it may prove impractical for larger companies or larger projects. A large company often owns code purchased from other parties, or code received from acquisitions and mergers, that may have no accurate licence audit for the code. In this case, it is best to use automated code scanning tools that search through the entire code base to determine the licences that apply. Automated code scanning utilities search text files and embedded code comments that may indicate the licence applicable to a particular element of the software. Some tools even compare the code itself against known third-party OSS code.
@@ -116,13 +114,6 @@ Some licences also include broader retaliation clauses - that is, a broader term
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
 
-### Code Repositories
-- Framagit
-- Gitlab
-- Github
-- GCcode (internal)
-
-
 ### Actions
 The GC will:
 - publish guidance for departments and agencies to release code developed interaly as OSS;
@@ -131,6 +122,18 @@ The GC will:
 - be an active contributor to OSS projects that it or its clients utilize;
 - encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
 - adopt permissive licenses for its OSS projects and comply to the licenses of OSS projects they contribute to.
+
+
+### Preferred OSS licences
+- **Permissive**: MIT
+- **reciprocal**: GPL
+
+
+### Preferred Code Repositories
+- Gitlab
+- Github
+- Framagit
+- GCcode (internal)
 
 
 ### Examples

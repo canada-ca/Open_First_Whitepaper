@@ -4,8 +4,9 @@
 - [Definition](#definition)
 - [Interoperability](#interoperability)
 - [Actions](#actions)
+- [Preferred Open Standards](#preferred-open-standards)
 - [Examples](#examples)
-- [GC Standards in Development](#gc-standards-in-development)
+
 
 ### Definition
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
@@ -19,6 +20,7 @@ Inspired by the four policy documents, the following criteria define open standa
 - must be supported by the community and demonstrate independence or approved through due process by rough consensus among participants
 
 Open source software (OSS) tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, open-source software economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
+
 
 ### Interoperability
 For any organization, especially public adminstrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, through the availability of open data.
@@ -84,6 +86,25 @@ The GC will:
 - factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs;
 
 
+### Preferred Open Standards
+#### Web publishing
+- **Content and style**: HTML5, CSS
+- **Graphics**: PNG, SVG
+- **Accessibility**: WCAG 2.0 AA, WAI-ARIA
+
+#### Publications
+- **Information**: EPUB3, PDF/A-1, PDF/A-2
+- **Data**: CSV
+
+#### Documents for editing and collaborating
+- **Plain text**: ASCII Text
+- **Office (text, presentation, spreadsheet, diagram)**: ODF 1.2
+- **Email**: EML, MBOX
+- **Images**: TIFF, JPEG 2000, PNG
+- **Audio**: BWF, OGG, FLAC
+- **Video**: AVI, OGG Theora
+- **Computer Aided Design (CAD)**: DXF
+
 
 ### Examples
 #### UK
@@ -92,18 +113,4 @@ The GC will:
 
 #### Canada
 - TBS [Open Data Principles](http://open.canada.ca/en/open-data-principles) (Use of Commonly Owned Standards)
-
-## GC Standards in Development 
-
-### Web Development
-
-The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development. 
-Standards and tools will be required for the following categories of web development:
-
-**Conetent Management Systems**
-
-**Web Development Technical Stack**
-
-**Data Distribution**
-
-**Visualizations**
+- LAC [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) (Prefered formats are open standards)

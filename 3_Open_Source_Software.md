@@ -8,6 +8,7 @@
 - [Perspectives on OSS Use](#perspectives-on-oss-use)
 - [Publishing code](#publishing-code)
 - [Actions](#actions)
+- [Preferred Open Source Software](#preferred-open-source-software)
 - [Examples](#examples)
 
 ### Terminology
@@ -289,6 +290,37 @@ The GC will:
 - require that all new purchases, upgrades or migrations activly and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
 - select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost diference with propriatary solutions;
+
+
+### Preferred Open Source Software
+- **Web front-end**: WET-BOEW, Bootstrap
+- **Web Visualizations**: D3, Plotly
+- **Web Content Management System**: Drupal, Jekyll
+- **Web Learning Management System**: Moodle
+- **data distribution**: CKAN
+- **Social collaboration**: Elgg
+- **Wiki**: Mediawiki
+- **Document sharing**: OwnCloud
+- **Instant messaging**: Riot
+- **Search engin**: Solr
+- **Web visitor tracking**: Piwik
+- **Web Server**: Apache, NGINX, Tomcat
+- **Database**: PostGreSQL, MariaDB, MySQL, MongoDB
+- **Programming language**: PHP, Python
+- **Development framework**: Laravel, Django
+- **Testing**: PHPUnit, JUnit, Selenium
+- **Continuous integration**: Jenkins, Maven
+- **Containers**: Docker, Kubernetes, Openshift
+- **Cloud Environment**: OpenStack
+- **Operating system**: Ubuntu, CentOS
+- **Identity authentication, federation and management**: 
+- **Web Browser**: Firefox
+- **Office Suite**: LibreOffice, LibreOffice Online
+
+### Preferred hosted OSS (Cloud)
+- Etherpad (many open instances. Ex.: [Openstack](https://etherpad.openstack.org/))
+- [Framasoft Free Services](https://framasoft.org/#topPgCloud) (many OSS available)
+- [Sandstorm.io Apps](https://apps.sandstorm.io/) (many OSS available)
 
 
 ### Examples
