@@ -87,6 +87,12 @@ The GC will:
 
 
 ### Preferred Open Standards
+Open standards are difined above in under [Definition](#definition). The following are open standards identified or recommended in the [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875), the [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601), the Library and Archives
+Canada [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx), France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), the UK's [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia).
+
+#### Character encoding
+- UTF-8
+
 #### Web publishing
 - **Content and style**: HTML5, CSS
 - **Graphics**: PNG, SVG
@@ -101,8 +107,8 @@ The GC will:
 - **Office (text, presentation, spreadsheet, diagram)**: ODF 1.2
 - **Email**: EML, MBOX
 - **Images**: TIFF, JPEG 2000, PNG
-- **Audio**: BWF, OGG, FLAC
-- **Video**: AVI, OGG Theora
+- **Audio**: OGG/Vorbis, FLAC, BWF
+- **Video**: AVI, OGG/Theora
 - **Computer Aided Design (CAD)**: DXF
 
 
@@ -110,6 +116,9 @@ The GC will:
 #### UK
 - [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government)
 - [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
+
+#### France
+- [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf)
 
 #### Canada
 - TBS [Open Data Principles](http://open.canada.ca/en/open-data-principles) (Use of Commonly Owned Standards)

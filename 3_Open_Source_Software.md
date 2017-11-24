@@ -197,7 +197,7 @@ In general, the same factors applicable to an evaluation of the feature set and 
 - **Community** A strong user community involved in a project provides people to answer questions, test the software, report bugs, suggest improvements and drive forward overall interest in the software.
 - **Release Activity** A strong developer community with a history of releases and continued involvement tends to demonstrate that fixes and improvements to the software will continue into the future.
 - **Longevity** Longevity, measured in both in terms of the age of the product and the number of versions released, indicates a project's stability and chance of survival.
-- **Licence** The licence of a project can affect the level of legal risk which you must assume (see “Legal Risk Management” below).
+- **Licence** Software is available for re-use under an OSS licence and code is in a common code repository. The licence of a project can affect the level of legal risk which you must assume (see [Legal Risk Management](#legal-risk-management)).
 - **Support Availability** Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software). Support for OSS can be provided by the community and/or paid support services businesses.
 - **Documentation** User documentation provides important information to help users install software and use its features.
 - **Security** Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
@@ -293,6 +293,8 @@ The GC will:
 
 
 ### Preferred Open Source Software
+The criteria used for evluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section.  Preferred OSS must also suport the use of the [Preferred Open Standards](2_Open_Standards.md#preferred-open-standards).  France has a list of recommended OSS in it's [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/sites/default/files/SILL-2016-socle-interministeriel-logiciels-libres.pdf). The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 "profesionnal" OSS solutions with reviews and evaluations. The following OSS are currently being used by the some departments and agencies. This list should become the preferred OSS list for the GC. This list will be evergreen and departments will be encouraged to propose alternative innovative OSS if those meet the criteria for open standards and OSS.
+
 - **Web front-end**: WET-BOEW, Bootstrap
 - **Web Visualizations**: D3, Plotly
 - **Web Content Management System**: Drupal, Jekyll
@@ -315,7 +317,8 @@ The GC will:
 - **Operating system**: Ubuntu, CentOS
 - **Identity authentication, federation and management**: 
 - **Web Browser**: Firefox
-- **Office Suite**: LibreOffice, LibreOffice Online
+- **Office Suite**: LibreOffice
+
 
 ### Preferred hosted OSS (Cloud)
 - Etherpad (many open instances. Ex.: [Openstack](https://etherpad.openstack.org/))
