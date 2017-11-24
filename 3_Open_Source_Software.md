@@ -6,6 +6,7 @@
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)
 - [Perspectives on OSS Use](#perspectives-on-oss-use)
+- [Best Practices for OSS Use](#best-practices-for-oss-use)
 - [Publishing code](#publishing-code)
 - [Actions](#actions)
 - [Preferred Open Source Software](#preferred-open-source-software)
