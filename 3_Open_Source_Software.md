@@ -305,7 +305,7 @@ The criteria used for evluating OSS are defined above in the [Software Evaluatio
 - **Wiki**: Mediawiki
 - **Document sharing**: OwnCloud
 - **Instant messaging**: Riot
-- **Search engin**: Solr
+- **Search engine**: Solr, Elasticsearch
 - **Web visitor tracking**: Piwik
 - **Web Server**: Apache, NGINX, Tomcat
 - **Database**: PostGreSQL, MariaDB, MySQL, MongoDB
