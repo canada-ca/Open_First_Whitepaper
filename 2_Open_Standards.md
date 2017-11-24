@@ -94,7 +94,7 @@ Canada [Guidelines on File Formats for Transferring Information Resources of End
 - UTF-8
 
 #### Web publishing
-- **Content and style**: HTML5, CSS
+- **Content and style**: HTML5, CSS3
 - **Graphics**: PNG, SVG
 - **Accessibility**: WCAG 2.0 AA, WAI-ARIA
 
