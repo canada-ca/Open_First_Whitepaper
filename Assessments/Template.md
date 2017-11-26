@@ -15,11 +15,11 @@
 |•	Ability to serve multiple use cases |   |
 |•	Tool is adaptable and compatible with existing and custom extensions |   |
 | Usability |    | 
-|•  [Has capacity to meet Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |  
+|•  Has capacity to meet[Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |  
 | Accessibility |  |
-|•	Has capacity to meet Government of Canada Standard on Web Accessibility |   |
+|•	Has capacity to meet [Government of Canada Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) |   |
 |Interoperability |   |
-|• Meets Government of Canada Web Interoperability Standards |   |
+|• Meets [Government of Canada Web Interoperability Standards](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) |   |
 |Compatibility |   |
 |•	Code base is compatible with security tools |   |
 |•	Code base is compatible with analytics tools |  |
