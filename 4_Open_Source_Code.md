@@ -33,9 +33,12 @@ OSS can align well with the role of public sector agencies in providing wide ben
 
 A newer phenomenon is the emergence of social enterprises and entrepreneurial interest in making governments work better, particularly at the local level. Civically-engaged technologists develop OSS applications to solve social issues such as bureaucratic delays. Although not all software projects with broader social aims are OSS, the benefits of OSS in improving the overall availability of re-usable technology in society often aligns well with the aims of these social entrepreneurs.
 
-Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
+Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house. 
 
 OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend efforts duplicating an existing project.
+
+### GOC Benefits 
+During hiring processes IT management may use contributions as a metric to assess the quality of potential hires. Further, applicants can be encouraged to familiarize themselves with parts of the source code in preparation for the interview process. As a result, employees can enter the workplace familiar with parts of the code base reducing the amount of time required to train the employee to become a maximally productive member of the team.
 
 #### Security
 As discussed with respect to [Open Source Software](3_Open_Source_Software.md), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
@@ -46,16 +49,13 @@ As discussed with respect to [Open Source Software](3_Open_Source_Software.md), 
 The fact that anyone can redistribute OSS for free is an obvious barrier for many software vendors who are not engaging the OSS business model. Other than nominal charges for distribution on physical media, it is generally not feasible to profit from OSS using the traditional business model of directly selling software licences. The lack of direct licensing revenue can also pose a barrier in public sector organizations where “cost recovery” policies are in place. Even though OSS may aid numerous public service goals, these do not necessarily help to offset the costs and risks of developing the software.
 
 #### Community May Not Coalesce
-There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement.
+There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement. To address this risk the GoC should create systems which promote, or introduce a reward system for, open-source contributions which is geared to promoting the efforts of employees toward the achievement of open, collaborative outcomes[2].
 
 #### Legal Complexities
 Releasing software as OSS usually requires a careful legal consideration of the licences, especially when the software includes libraries and code from multiple sources. Although closed-source licences also require careful legal scrutiny, many OSS licences are long and contain legal complexities with which in-house legal staff may not be familiar.
 
 #### Patent Liability Risk
 Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
-
-#### Business Process Modifications 
-
 
 ### Best Practices
 #### Deciding to Distribute Software as OSS
@@ -150,3 +150,4 @@ The GC will:
 
 ### Sources
 [1]: Saebi, Tina, and Nicolai Foss. “Business Models for Open Innovation: Matching Heterogenous Open Innovation Strategies with Business Model Dimensions.” By Tina Saebi, Nicolai Foss, 10 Sept. 2014, papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736.
+[2]: Chesbrough, Henry W. “Open Innovation: The New Imperative for Creating and Profiting from Technology.” Harvard Business Review, hbr.org/product/open-innovation-the-new-imperative-for-creating-an/an/8377-HBK-ENG.
