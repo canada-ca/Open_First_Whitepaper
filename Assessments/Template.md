@@ -25,7 +25,7 @@
 |•	Code base is compatible with analytics tools |  |
 |•	Code base is compatible with search engines |   |
 |Content and style|   | 
-|•	Must be built on the HTML5 framework|   |  
-|•	Must be built using Cascading Style Sheets|   |
+|•	Must be built on the [HTML5 framework](https://www.w3.org/TR/html5/)|   |  
+|•	Must be built using [Cascading Style Sheets](https://www.w3.org/Style/CSS/Overview.en.html)|   |
 |Ease of use |  | 
 |•	Language and existing code base and extensions are easy to use |   |
