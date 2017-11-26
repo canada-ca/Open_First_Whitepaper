@@ -19,7 +19,8 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 ### Benefits
 #### Collaboration to Lower Development Costs
-Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects. When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
+Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects. When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well). 
+With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on  traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process[1]. 
 
 #### Long-term Feasibility
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
@@ -52,6 +53,8 @@ Releasing software as OSS usually requires a careful legal consideration of the 
 
 #### Patent Liability Risk
 Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
+
+#### Business Process Modifications 
 
 
 ### Best Practices
@@ -144,3 +147,6 @@ The GC will:
 
 #### UK
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
+
+### Sources
+[1]: Saebi, Tina, and Nicolai Foss. “Business Models for Open Innovation: Matching Heterogenous Open Innovation Strategies with Business Model Dimensions.” By Tina Saebi, Nicolai Foss, 10 Sept. 2014, papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736.
