@@ -1,9 +1,12 @@
 [« Previous Page : Definitions](8_Definitions.md) | [Table of Content](TOC.md)
 
 ## Open Platforms
-It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these standards in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be re-used.  
-This list will be updated regularly updated to ensure the most up-to-date list of tools are being offered to the community.
+It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be effeciently re-used.  
+This list will be regularly updated to ensure the most up-to-date list of tools are being offered to the community.
 Below you will find a list of recommended platforms by domain, based on standards co-developed by the community, with best of breed tools assessed against this criteria. 
+More information about how these assessments are being done in the open can be found on our [Assessment Approach page](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/Assessments/Assessment%20Approach.md). 
+If you are interested in a particular assessment, see [Assessment folder](https://github.com/canada-ca/Open_First_Whitepaper/tree/master/Assessments) for all completed Assessments against tools. 
+If you would like to submit a tool for assessment, please add a through a pull request using the [emplate](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/Assessments/Template.md). 
 
 ### Web Development
 
