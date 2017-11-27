@@ -26,6 +26,15 @@
 |• Code base is compatible with search engines |   |
 |**Ease of use**|  | 
 |• Language and existing code base and extensions are easy to use |   |
+
+CMS Extension
 |**Content and style**|   | 
 |• Must be built on the [HTML5 framework](https://www.w3.org/TR/html5/)|   |  
 |• Must be built using [Cascading Style Sheets](https://www.w3.org/Style/CSS/Overview.en.html)|   |
+
+
+Data Catalogue Extension
+|**Data Collection and distribution**|
+|• Ability to collect large amounts of data in different formats|   |Y|
+|• Ability to distribute data large amounts of data in different formats, including through an API |  |Y|
+|• Ability to customize metadata schema|  |Y|
