@@ -8,9 +8,9 @@
 |• Content is easy to migrate to another platform |     |   |
 |• Code is freely available |   |  |
 |**Strong and Robust Community**| |
-|• Community should be active and diverse|   |   |
-|• Community should be present in more than one region 
-|• There should be a governance model present for how changes are made |
+|• Community is active and diverse|   |   |
+|• Community is present in more than one region 
+|• There is a governance model present for how changes are made |
 |• Technical roadmap is publicly available |    |
 |**Customisable** |   |
 |• Ability to serve multiple use cases |   |
