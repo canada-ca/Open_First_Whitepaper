@@ -9,7 +9,7 @@ With a goal to determine the Government of Canada's preferred open source platfo
 **2. Collaborative assessment against criteria:**
  - Leveraging open sourcs knowledge within the GC, domain experts will complete assessments 
  - Tools to be assessed against will be contributed by the community based on existing and emerging tools 
- - If you would like to assess a tool that you don't see listed, make a poll request for a new file, and use the [assessment template](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/Assessments/Template.md) 
+ - If you would like to assess a tool that you don't see listed, make a pull request for a new file, and use the [assessment template](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/Assessments/Template.md) 
 
 **3. Consult with open source community:** 
  - Assessments will be shared through existing open source communities within and external to the GC 
