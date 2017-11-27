@@ -18,4 +18,5 @@ With a goal to determine the Government of Canada's preferred open source platfo
  
  **4. GC Governance:**
   - Following the completion of the collaborative design process and consultations, recommendations for preferred open source platforms will be provided to the GC's Enterprise Architecture Review Board (EARB). 
-  - If recommendation for preffered tool is approved by EARB, it will be added to the list of [Preferred Open Platforms](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/9_Preferred_Open_Platforms.md). 
+  - If recommendation for preferred tool is approved by EARB, it will be added to the list of [Preferred Open Platforms](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/9_Preferred_Open_Platforms.md). 
+ - Internal governance will continue to adopt preferred platforms within necessary GC Standards and Guidelines. 
