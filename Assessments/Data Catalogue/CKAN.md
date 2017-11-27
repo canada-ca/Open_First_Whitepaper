@@ -10,7 +10,7 @@
 |**Strong and Robust Community**| |
 |• Community is active and diverse|   |  Y |
 |• Community is present in more than one region |    | Y  |
-|• There should be a governance model present for how changes are made |   | Y|
+|• There is a governance model present for how changes are made |   | Y|
 |• Technical roadmap is publicly available |    | Y|
 |**Customisable** |   |
 |• Ability to serve multiple use cases |   |Y|
