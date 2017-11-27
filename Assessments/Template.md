@@ -29,16 +29,15 @@
 
 CMS Extension
 
-| Guideline                                                    | Assessment against guideline       | Met |
-|**Content and style**|   | 
-|• Must be built on the [HTML5 framework](https://www.w3.org/TR/html5/)|   |  
-|• Must be built using [Cascading Style Sheets](https://www.w3.org/Style/CSS/Overview.en.html)|   |
+|**Content and style**|   | |
+|• Must be built on the [HTML5 framework](https://www.w3.org/TR/html5/)|   |  |
+|• Must be built using [Cascading Style Sheets](https://www.w3.org/Style/CSS/Overview.en.html)|   |  |
 
 
 Data Catalogue Extension
 
-| Guideline                                                    | Assessment against guideline       | Met |
-|**Data Collection and distribution**|
-|• Ability to collect large amounts of data in different formats|   |Y|
-|• Ability to distribute data large amounts of data in different formats, including through an API |  |Y|
-|• Ability to customize metadata schema|  |Y|
+
+|**Data Collection and distribution**|  |  |
+|• Ability to collect large amounts of data in different formats|   ||
+|• Ability to distribute data large amounts of data in different formats, including through an API |  ||
+|• Ability to customize metadata schema|  ||
