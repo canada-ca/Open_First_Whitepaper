@@ -20,7 +20,7 @@ Open/Free projects only remain relevant when there is a critical mass contributi
 
 ### Increase use of Canadian Resources 
 As a small number of large foreign companies become increasingly influential in the current global technological ecosystem the government of Canada's procurement process has come to reflect this. As a result, Canada has become overly reliant on foreign services and businesses rather than directing government funds to promoting the development of Canadian industry or investing in developing in-house talent. The GoC should take advantage of this opportunity by reducing its reliance on commercial software and increasing its promotion of Canadian industry and talent. 
-According to Public Services and Procurement Canada (PSPC) between complex non-military goods and services and basic services the government spends approximately 6 billion [1]. The complexity of the government's procurement process reduces the viability of small and medium sized Canadian companies to bid on and win contracts. Efforts should be made to ensure small and medium sized companies are in a competitive position to benefit from the large purchasing power of the GoC. By reducing its use of expensive monolthic commercial software smaller Canadian companies are provided with an opportunity to grow by supporting, developing, or maintaining, software used by the GoC.
+According to Public Services and Procurement Canada (PSPC) between complex non-military goods and services and basic services the government spends approximately 6 billion (www.tpsgc-pwgsc.gc.ca/apropos-about/cdi-mbb/1/survol-overview-eng.html). The complexity of the government's procurement process reduces the viability of small and medium sized Canadian companies to bid on and win contracts. Efforts should be made to ensure small and medium sized companies are in a competitive position to benefit from the large purchasing power of the GoC. By reducing its use of expensive monolthic commercial software smaller Canadian companies are provided with an opportunity to grow by supporting, developing, or maintaining, software used by the GoC.
 
 ### Examples
 #### Canada
@@ -58,5 +58,3 @@ Preliminary options include:
 - International Open Data Working Group - Part of CKAN: is a web-based open source management system for the storage and distribution of open data.
 - NIST and ISO: Federated Cloud
 
-#### Sources
-[1]: Government of Canada, Public Services and Procurement Canada, Communications. “Overview of the Department - Public Services and Procurement Canada Minister's Briefing Books - Accountability - About PSPC - PSPC.” Government of Canada, Public Services and Procurement Canada, Communications, 3 Mar. 2016, www.tpsgc-pwgsc.gc.ca/apropos-about/cdi-mbb/1/survol-overview-eng.html.
