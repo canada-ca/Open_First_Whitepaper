@@ -42,7 +42,7 @@ Hire three full-time positions that would support CKAN. These would be funded th
   - Coordinating the development team to maximize development activity
 -  Engagement lead
     - Respond to community questions
-      - Grow membership
+    - Grow membership
 
 ##### Canada’s role
 
