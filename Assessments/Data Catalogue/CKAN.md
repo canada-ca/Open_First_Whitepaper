@@ -34,3 +34,11 @@
 |• Ability to collect large amounts of data in different formats|   |Y|
 |• Ability to distribute data large amounts of data in different formats, including through an API |  |Y|
 |• Ability to customize metadata schema|  |Y|
+|**Security**|
+|• Code is actively patched to address known security issues|   |Y|
+|• Core project team provides a secure channel for reporting security issues |  |Y|
+|**Dependencies**|
+|• Project does not rely on proprietary dependencies|   |Y|
+|• Any open source project dependencies are also available for assessment  |  |Y|
+|**Documentation**|
+|• Clear, comprehensive and up to date documentation is available publicly |   |Y|
