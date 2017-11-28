@@ -41,8 +41,8 @@ Hire three full-time positions that would support CKAN. These would be funded th
   - Management of the technical road map
   - Coordinating the development team to maximize development activity
 -  Engagement lead
-  -  Respond to community questions
-    - Grow membership
+    - Respond to community questions
+      - Grow membership
 
 ##### Canada’s role
 
