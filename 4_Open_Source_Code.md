@@ -12,21 +12,30 @@
 
 The Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
-When developing entirely new software a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary  to  their  core  business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
+When developing entirely new software a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary to their core business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
 
-Developers who contribute to OSS and distribute it come from wide and varied environments across the public sector, private sector and academia. Risks and drawbacks of OSS participation also widely differ, depending on the context.
+Developers who contribute to OSS and distribute it come from wide and varied environments across the public sector, private sector and academia. Studies show numerous and diverse motivations for FOSS participation, ranging from economic gain to a sense of civic duty towards social and technological advancement. Risks and drawbacks of OSS participation also widely differ, depending on the context. ([source](http://www.irma-international.org/viewtitle/10083/))
 
 
 ### Benefits
 #### Collaboration to Lower Development Costs
-Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects. When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well). 
-With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on  traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process (papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736). 
+Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+
+When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
+
+With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736)) 
 
 #### Long-term Feasibility
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
 
 #### Reputation Building
-For individuals participating in OSS development, a common motivating factor and concrete benefit is building a good reputation. In some cases, the goal is to exhibit skills and talents to employers; in other cases, it is to earn status with a community. Most OSS projects are open for any developer to contribute. Thus, participants are able to develop and demonstrate their talent to potential employers. These developers may have proven competencies in desirable areas of expertise. In general, the strongest contributors tend to have the most control over the project - for example, in deciding upon priorities for new features. Of course, reputation and good will are also extremely important to public sector contributors. Participation in OSS can help build a positive reputation amongst other developers and amongst OSS users.
+For individuals participating in OSS development, a common motivating factor and concrete benefit is building a good reputation. In some cases, the goal is to exhibit skills and talents to employers; in other cases, it is to earn status with a community.
+
+Most OSS projects are open for any developer to contribute. Thus, participants are able to develop and demonstrate their talent to potential employers. Not only can participants add their involvement to a C.V., but employers can also screen and hire talent directly from a pool of the developers contributing to a OSS project. These developers may have proven competencies in desirable areas of expertise. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+
+A culture of “meritocracy” popular within many FOSS projects also serves to benefit contributors with status and privilege. In general, the strongest contributors tend to have the most control over the project - for example, in deciding upon priorities for new features. ([source](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel))
+
+Of course, reputation and good will are also extremely important to public sector contributors. Participation in OSS can help build a positive reputation amongst other developers and amongst OSS users.
 
 #### Public Benefits
 OSS can align well with the role of public sector agencies in providing wide benefits to the public-at-large, such as in maintaining society’s technological infrastructure and helping it evolve.
@@ -59,7 +68,7 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 
 ### Best Practices
 #### Deciding to Distribute Software as OSS
-A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties.  The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
+A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
 
 #### Choosing a Licence
 You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on Due Diligence / Licence Management, below. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
@@ -69,6 +78,10 @@ Where you distribute a project consisting entirely of your own code, or consisti
 Overall, licensing decisions tend to involve one primary and consequential decision: whether to apply a reciprocal or permissive licence:
 - Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
 - Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
+
+(table..)
+
+[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widly used licenses.
 
 #### Due Diligence / Licence Management
 ##### Managing Licence Obligations
@@ -106,10 +119,10 @@ Although a OSS licence could feasibly grant a broader patent licence that would 
 Therefore, as a best practice, whenever you modify OSS you should consider whether the modifications change the use of the software in a way that might implicate other patent licences, or in such a way that existing patent licences may not cover the new use.
 
 ##### Patent Termination and Retaliation Clauses
-Many OSS licences attempt to protect the software against patent infringement lawsuits by including automatic-termination clauses. These clauses trigger whenever a licensee alleges that any part of the software infringes his or her patent. For example, the Apache Version 2.0 licence succinctly states:
+Many OSS licences attempt to protect the software against patent infringement lawsuits by including automatic-termination clauses. These clauses trigger whenever a licensee alleges that any part of the software infringes his or her patent. For example, the [Apache Version 2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0.html) succinctly states:
 >  If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
 
-These triggers differ amongst licences. For example, unlike the Apache Version 2.0 licence, the Mozilla Public License Version 2 (MPLv2) explicitly allows parties to defend themselves with patent infringement counterclaims and crossclaims, all without triggering the termination clause.
+These triggers differ amongst licences. For example, unlike the Apache Version 2.0 licence, the [Mozilla Public License Version 2](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) explicitly allows parties to defend themselves with patent infringement counterclaims and crossclaims, all without triggering the termination clause.
 
 Some licences also include broader retaliation clauses - that is, a broader termination of rights. The Apache Version 2.0 patent termination clause, set out above, only terminates patent licences. The MPLv2, on the other hand, terminates all rights under both copyright and patent law. When involved in patent infringement litigation - whether initiating an originating action or a counterclaim - it is important to carefully assess the impact this could have on any OSS that you use or contribute towards.
 
@@ -147,3 +160,6 @@ The GC will:
 
 #### UK
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
+
+#### Canada
+ - [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
