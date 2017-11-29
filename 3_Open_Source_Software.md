@@ -5,7 +5,8 @@
 - [History](#history)
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)
-- [Perspectives on OSS Use](#perspectives-on-oss-use)
+- [Benefits](#benefits)
+- [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for OSS Use](#best-practices-for-oss-use)
 - [Publishing code](#publishing-code)
 - [Actions](#actions)
@@ -127,15 +128,14 @@ The scenario of “use without distribution” (i.e., the context which does not
 Given that separate government departments operate semi-autonomously, there is a possible argument that the different departments constitute different “parties”. However, this interpretation is unlikely. Such an understanding would be incongruent with the general legal understanding of a federal or provincial Crown as being a single legal entity. However, distribution between the different legal entities of the federal crown and a provincial crown, or between provincial crowns, almost certainly constitutes “distribution”.
 
 
-### Perspectives on OSS Use
-A key feature of OSS is that anyone can freely distribute the software. As a result, most OSS is available for download on the internet without cost, but there are certainly still maintenance and management expenses. For businesses choosing to use OSS, the nil up-front licensing cost is an attractive and key policy driver for making this decision. It can lower operating expenses. For the public sector, cost is also important. In addition, other public benefits can motivate public sector use of OSS. Of course, a business or government organization must balance these benefits against several drawbacks, such as lower user familiarity with OSS software packages.
+### Benefits
+A key feature of OSS is that anyone can freely distribute the software. As a result, most OSS is available for download on the internet without cost, but there are certainly still maintenance and management expenses. For businesses choosing to use OSS, the nil up-front licensing cost is an attractive and key policy driver for making this decision. It can lower operating expenses. For the public sector, cost is also important. In addition, other public benefits can motivate public sector use of OSS.
 
-#### Benefits
 OSS is how modern organizations build software. Documented advantages over software built by a handful of developers include the quality of solutions generated through the diversity of ideas and communities that form around a shared challenge. Exposing the problem space to other interested organizations also provides additional human capital to tackle challenges. For example, Linux, an open source operating system, is the largest development project in the world, with thousands of people contributing to every release. Many competing companies contribute to Linux and other OSS, allowing them to leverage the work of a global community of OSS developers and shift developers from low-value work to high-value work.
 
 Using OSS allows for product customization, advances interoperability between tools through the use of [Open Standards](2_Open_Standards.md), and improves the overall quality of the final product. Other benefits include:
 
-##### Avoiding Vendor Lock-in
+#### Avoiding Vendor Lock-in
 When a closed-source software application becomes entrenched into an organization’s or business’s processes or products, the organization becomes beholden, or “locked-in”, to that software vendor for any new features, for bug fixes, and in many cases, for receiving product support. Where a vendor is unwilling to implement a new feature, you may need to switch to an alternative – often at considerable cost. Where a particular vendor is slow to provide bug fixes or support, this can adversely affect your own timelines and may also impose a security risk.
 
 OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines.
@@ -149,7 +149,7 @@ Publicly available source code enables continuous and broad peer review. Whether
 
 The code created by public administration belongs to the public. By developing OSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed by the GC.
 
-##### Cost
+#### Cost
 The total cost of ownership for using any software application involves three over-arching categories of expenses: (1) up-front licensing costs, (2) on-going maintenance and support costs, and (3) software upgrade costs.
 
 When using OSS, the up-front licensing cost is zero (aside from internal costs of assessing the software and the licence). A OSS licence is always “open” and granted to the world, in that it licenses everyone to use the software without any fees due. Moreover, due to the fact that OSS licences grant everyone the right to redistribute the software, nearly all OSS packages are available for free download over the internet. At most, some companies charge a nominal fee for the service of distributing OSS on a CD or DVD.
@@ -158,21 +158,21 @@ As well, OSS software often incurs lower on-going maintenance costs. With closed
 
 The ability to modify OSS enables rapid response to changing missions and markets. Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
 
-##### Security
+#### Security
 One of the most misunderstood aspects of the Open Source Software (OSS) development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
 
 When using OSS, all of the source code is openly published. This makes it difficult for anyone to surreptitiously insert malicious code. It also allows security auditors and security researchers to inspect the code for flaws. While software security is a concern for all entities, it is of paramount importance to governments. For this reason, defense and national security agencies very often use OSS.
 
 Thus, where OSS is well-developed and well-inspected by third parties, security is generally improved. There are some security risks as well, discussed below.
 
-###### Reliance on Hardening, Not Obfuscation
+##### Reliance on Hardening, Not Obfuscation
 OSS relies on security over obscurity. A common misconception is that hiding code helps to prevent successful attacks. Open Source development practices rely on hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
 
 OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues.
 
 Obfuscation relies on attacker ignorance and hides poor security practices. Within five months of the source code release of InterBase version 6, a hard-coded backdoor that had existed for seven years was found by the OSS community and fixed.
 
-###### Wide Peer Review
+##### Wide Peer Review
 Assuming that the goal is to make secure software, it is obvious that the easiest way to find flaws in a project is to make all of the project's code completely transparent. This approach may seem counter-intuitive, if the ultimate goal is anything other than the integrity of the technology.
 
 By openly releasing a project's code and making it readily available via the Internet the community of peer reviewers is expanded exponentially across the globe. The community will quickly find flaws and the project team can take action to fix them. This simultaneously garners exceptionally wide and deep testing feedback from developers who need the code to be as secure as possible for their own use as well as the community's. Both the project owners and community benefit from sharing flaws and fixes.
@@ -181,14 +181,17 @@ Because the OSS security model is established on industry-accepted best practice
 
 Sound security practices are only possible with open peer review. This is the basis of a evidence based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
 
-#### Risks and Drawbacks
-##### Lower User Familiarity
+
+### Risks and Drawbacks
+Of course, a business or government organization must balance these benefits against several drawbacks, such as lower user familiarity with OSS software packages.
+
+#### Lower User Familiarity
 User familiarity with OSS software packages is often much lower than with closed-source software packages. Closed-source software has a strong foothold in schools (at least in Canada) and many people learn to use computers through closed-source software, due to its pre-installation by hardware suppliers. For this reason, OSS can require more training and support.
 
-##### Security
+#### Security
 Because all of the source code of OSS is openly published, anyone – including “black hat hackers” – can examine the code for security holes. Of course, one must weigh this drawback against the aforementioned security benefits. In many cases, malicious hackers can still obtain access to the source code of closed-source software where non-disclosure agreements, company ethics procedures, or vendor security mechanisms fail. Whereas closed-source software security depends on an attempt to maintain an information imbalance between the “white hats” (computer security analysts) and the “black hats” (malicious computer hackers) , OSS software security depends upon an open competitive process of finding and closing security holes. The models rely on different strategies, and each has its particular risks that an organization must weigh and consider.
 
-##### Loss of Control over Software Management
+#### Loss of Control over Software Management
 The ease and no-cost option of downloading OSS from the internet, and instantly installing it, can create an attractive proposition for employees to side-step procurement processes altogether. This creates two problems: first, employees may contractually commit the company or government organization to the terms of the software licence without management even becoming aware of this fact; and second, losing track of what software is running on employee workstations makes systems security management more difficult. However, this systems management issue subsists whether or not a company or organization chooses to make use of OSS.
 
 
