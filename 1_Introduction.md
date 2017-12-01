@@ -15,60 +15,15 @@ This whitepaper is being co-developed by members of the GC open source community
 We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
 
 ### GC Digital Principles (DRAFT)
-Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly drafted digital principles that will guide how we work, interact with Canadians, and do business.
+Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, our technology, and providing services.
 
-1. #### Understand users and their needs
-Start with user needs and build for them, and with them. Conduct ongoing testing with users. Do the hard work so that they don’t have to.
-
-2. #### Iterate and improve frequently
-Develop in an agile manner using alpha, beta and live phases. Test end-to-end and continuously improve in response to user feedback. Test early and often.
-
-3. #### Build the right team
-Create and empower multidisciplinary teams, linking policy with delivery.
-
-4. #### Build a service-oriented culture
-Lead and implement a team and departmental culture focused on users.
-
-5. #### Work in the open
-Share and collaborate in the open, plan to make data open from the start.
-
-6. #### Integrate proportionate security and privacy from the outset
-Consider business context. Manage risks.
-
-7. #### Build in an open and interoperable way
-Give equal consideration for open source. Use open standards. Build in an interoperable and reusable way.
-
-8. #### Use the right tools for the job
-Use common government solutions and platforms. Build cloud first.
-
-9. #### Design and deliver transparent and ethical services
-Be open and transparent in the use of automated systems and comply with ethical guidelines.
-
-10. #### Be inclusive and provide support for those who need it
-Build in inclusiveness, official languages, and accessibility by design.
-
-11. #### Know your data
-Manage data in line with standards. Implement analytical tools and use the data you collect.
-
-12. #### Be accountable to Canadians
-Define user-centred performance metrics. Publish real time data.
-
-13. #### Develop open and innovative partnerships
-Recognize that an organization can’t have all the best ideas. Create partnerships and collaborate.
-
-14. #### Spend money wisely
-Enter into sensible contracts and comply with procurement standards.
-
-15. #### Test services with the Deputy Minister and/or Minister
-Test all new public-facing services with the Deputy Minister and/or Minister responsible.
-
-Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.  
+Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.
 
 #### Acting Open
 Being self aware of how we do our business is key. Conversations about how to break down silos between departments, our conversations with our partners, academia and the public continue to evolve. The use of open tools, practices, and involvement in open communities will help us to break through these silos and more directly connect people, ideas, tools, information, and services.
 
 #### User Needs
-Gone are the days of designing a program, service, or tool without talking to the person who is going to be using it. Consultations, user experience testing, public opinion research are all important aspects of how we do business, and will continue to do business in the future. Once we incorporate the needs of our users, we can build servicea that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.  
+Gone are the days of designing a program, service, or tool without talking to the person who is going to be using it. Consultations, user experience testing, public opinion research are all important aspects of how we do business, and will continue to do business in the future. Once we incorporate the needs of our users, we can build servicea that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
 
 #### Interoperability
 Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
