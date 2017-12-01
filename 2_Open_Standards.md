@@ -87,8 +87,6 @@ The GC will:
 
 
 ### Preferred Open Standards
-Open standards are defined above in under [Definition](#definition).
-
 The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) make the following open standards mandatory for GC Websites.
 - **Mark-up language**: [HTML5](https://www.w3.org/TR/html5/)
 - **Character encoding**: [UTF-8](https://tools.ietf.org/html/rfc3629)
@@ -98,6 +96,9 @@ The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.
 The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) make the following open standard mandatory for GC Websites.
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
+
+### Examples
+#### Canada
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
 - **Text**
   - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
@@ -113,8 +114,11 @@ The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferri
 
 The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify alot of the same open standards as recommended.
 
+The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) list "Use of Commonly Owned Standards" as a principle, with the intent that datasets released by the Government of Canada be in freely available file formats as often as possible.
+
 Public Services and Procurement Canada (PSPC) has been piloting the [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/) to demonstrate use of the standard by linking the phases of the procurement process using data from procurements conducted by PSPC on behalf of government departments and agencies. ([source](https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot))
 
+#### UK
 The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selecte after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
 - **Viewing government documents**: [HTML5](https://www.w3.org/TR/html5/), [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html), [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Sharing or collaborating with government documents**: [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
@@ -128,15 +132,3 @@ The UK government is selecting a set of open standards for use in government tec
 - **Persistent resolvable identifiers**: [Hypertext Transfer Protocol (HTTP) 1.1](https://tools.ietf.org/html/rfc2616), [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
 - **Exchange of contact information**: [vCard](https://tools.ietf.org/html/rfc6350)
 - **Exchange of calendar events**: [iCalendar](https://tools.ietf.org/html/rfc5545)
-
-### Examples
-#### UK
-- [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government)
-- [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
-
-#### France
-- [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf)
-
-#### Canada
-- TBS [Open Data Principles](http://open.canada.ca/en/open-data-principles) (Use of Commonly Owned Standards)
-- LAC [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) (Preferred formats are open standards)
