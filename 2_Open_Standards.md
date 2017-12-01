@@ -79,7 +79,7 @@ As mentioned in the various interoperability frameworks that have already been p
 
 ### Actions
 The GC will:
-- publish an interoperability framework with selected open standards for use by all departments and agencies (ex.: HTML5/EPUB3 for publications and ODF for sharing/collaborating on documents);
+- select a set of open standards for use by all departments and agencies;
 - configure existing solutions to use open standards where possible;
 - use commonly accepted open standards for open data and information;
 - require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards, starting immediately;
@@ -87,30 +87,45 @@ The GC will:
 
 
 ### Preferred Open Standards
-Open standards are defined above in under [Definition](#definition). The following are open standards identified or recommended in the [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875), the [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601), the Library and Archives
-Canada [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx), France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), the UK's [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia).
+Open standards are defined above in under [Definition](#definition).
 
-#### Character encoding
-- UTF-8
+The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) make the following open standards mandatory for GC Websites.
+- **Mark-up language**: [HTML5](https://www.w3.org/TR/html5/)
+- **Character encoding**: [UTF-8](https://tools.ietf.org/html/rfc3629)
+- **HTML data and data vocabulary**: [RDFa Lite](https://www.w3.org/TR/rdfa-lite/), [Schema.org](http://schema.org/)
+- **Web feed**: [Atom Syndication Format](https://tools.ietf.org/html/rfc4287)
 
-#### Web publishing
-- **Content and style**: HTML5, CSS3
-- **Graphics**: PNG, SVG
-- **Accessibility**: WCAG 2.0 AA, WAI-ARIA
+The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) make the following open standard mandatory for GC Websites.
+- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
-#### Publications
-- **Information**: EPUB3, PDF/A-1, PDF/A-2
-- **Data**: CSV
+The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
+- **Text**
+  - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
+  - [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
+  - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
+  - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
+  - [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
+  - [UTF-8](https://tools.ietf.org/html/rfc3629)
+  - [UTF-16](https://tools.ietf.org/html/rfc2781)
+- **Presentation**
+  - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
+  - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
 
-#### Documents for editing and collaborating
-- **Plain text**: ASCII Text
-- **Office (text, presentation, spreadsheet, diagram)**: ODF 1.2
-- **Email**: EML, MBOX
-- **Images**: TIFF, JPEG 2000, PNG
-- **Audio**: OGG/Vorbis, FLAC, BWF
-- **Video**: AVI, OGG/Theora
-- **Computer Aided Design (CAD)**: DXF
+The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify alot of the same open standards as recommended.
 
+The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selecte after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
+- **Viewing government documents**: [HTML5](https://www.w3.org/TR/html5/), [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html), [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
+- **Sharing or collaborating with government documents**: [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
+- **Cross platform character encoding profile**: [Unicode 6.2](http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)
+- **Open contracting data**: [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/)
+- **Country codes**: [ISO 3166-1:2013](https://www.iso.org/standard/63545.html)
+- **Language tags**: [ISO 639-1:2002](https://www.iso.org/standard/22109.html)
+- **International development data**: [IATI](http://iatistandard.org/202/)
+- **Publishing vacancies**: [JobPosting - Schema.org](http://schema.org/JobPosting)
+- **Exchange of location point**: [European Terrestrial Reference System (ETRS) 89](http://etrs89.ensg.ign.fr/), [World Geodetic System (WGS) 84)](https://www.nga.mil/ProductsServices/GeodesyandGeophysics/Pages/WorldGeodeticSystem.aspx)
+- **Persistent resolvable identifiers**: [Hypertext Transfer Protocol (HTTP) 1.1](https://tools.ietf.org/html/rfc2616), [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
+- **Exchange of contact information**: [vCard](https://tools.ietf.org/html/rfc6350)
+- **Exchange of calendar events**: [iCalendar](https://tools.ietf.org/html/rfc5545)
 
 ### Examples
 #### UK
