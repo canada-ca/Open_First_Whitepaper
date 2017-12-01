@@ -46,7 +46,7 @@ Even outside of social enterprises, the release of OSS by public sector organiza
 
 OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend efforts duplicating an existing project.
 
-### GOC Benefits 
+#### Employer Benefits
 During hiring processes IT management may use contributions as a metric to assess the quality of potential hires. Further, applicants can be encouraged to familiarize themselves with parts of the source code in preparation for the interview process. As a result, employees can enter the workplace familiar with parts of the code base reducing the amount of time required to train the employee to become a maximally productive member of the team.
 
 #### Security
