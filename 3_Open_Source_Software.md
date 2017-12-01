@@ -303,46 +303,19 @@ See [Open Source Code](4_Open_Source_Code.md).
 
 ### Actions
 The GC will:
-- publish OSS adoption guidelines, update IM-IT strategic plan and cloud adoption stratagy to reflect direction on OSS;
-- plan to eliminate current lock-in to propriatary operating system by favoring use of multiplatform or Web applications;
-- select open source Web browser and office suite for use by all departments and agencies;
 - require that all new purchases, upgrades or migrations activly and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
 - select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost diference with propriatary solutions;
+- publish OSS adoption guidelines, update IM-IT strategic plan (done) and cloud adoption stratagy to reflect direction on OSS;
+- maintain a list of preferred OSS to guide departments and agencies looking for OSS;
+- plan to eliminate current lock-in to propriatary operating system by favoring use of multiplatform or Web applications;
+- select open source Web browser and office suite for use by all departments and agencies;
 
 
 ### Preferred Open Source Software
-The criteria used for evluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. Preferred OSS must also suport the use of the [Preferred Open Standards](2_Open_Standards.md#preferred-open-standards). France has a list of recommended OSS in it's [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/sites/default/files/SILL-2016-socle-interministeriel-logiciels-libres.pdf).  This list should become the preferred OSS list for the GC. This list will be evergreen and departments will be encouraged to propose alternative innovative OSS if those meet the criteria for open standards and OSS. The following OSS are currently being used by the some departments and agencies.
+The criteria used for evluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. Preferred OSS must also suport the use of [Open Standards](2_Open_Standards.md).
 
-- **Web front-end**: WET-BOEW, Bootstrap
-- **Web Visualizations**: D3, Plotly
-- **Web Content Management System**: Drupal, Jekyll
-- **Web Learning Management System**: Moodle
-- **data distribution**: CKAN
-- **Social collaboration**: Elgg
-- **Wiki**: Mediawiki
-- **Document sharing**: OwnCloud
-- **Instant messaging**: Riot
-- **Search engine**: Solr, Elasticsearch
-- **Web visitor tracking**: Piwik
-- **Web Server**: Apache, NGINX, Tomcat
-- **Database**: PostGreSQL, MariaDB, MySQL, MongoDB
-- **Programming language**: PHP, Python
-- **Development framework**: Laravel, Django
-- **Testing**: PHPUnit, JUnit, Selenium
-- **Continuous integration**: Jenkins, Maven
-- **Containers**: Docker, Kubernetes, Openshift
-- **Cloud Environment**: OpenStack
-- **Operating system**: Ubuntu, CentOS
-- **Identity authentication, federation and management**: 
-- **Web Browser**: Firefox
-- **Office Suite**: LibreOffice
-
-
-### Preferred hosted OSS (Cloud)
-- Etherpad (many open instances. Ex.: [Openstack](https://etherpad.openstack.org/))
-- [Framasoft Free Services](https://framasoft.org/#topPgCloud) (many OSS available)
-- [Sandstorm.io Apps](https://apps.sandstorm.io/) (many OSS available)
+To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of preferred OSS will be maintained by the Enterprise Architecture Review Board (EARB) at TBS based on solutions assessments departments present. This list is not an obstacle to innovation or testing of new solutions, which can help the evolution of the list. On the other hand it defines OSS to privilege and with time will indicates the OSS to give up. It thus participates in the gradual convergence of OSS use and promotes a culture of collaboration between departments and agencies, but also with OSS communities. As such, it must be integrated into the IM-IT strategic plans of departments and agencies and taken into account during new developments, purchases, upgrades or migrations.
 
 
 ### Examples
@@ -356,7 +329,7 @@ The criteria used for evluating OSS are defined above in the [Software Evaluatio
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by giving equal consideration to free or open source software when you choose technology - taking account of the total cost of ownership of the service, including exit and transition costs.
 
 #### France
-- [Socle interministériel des logiciels libres](https://references.modernisation.gouv.fr/sites/default/files/SILL%202017%20-%20socle%20interminist%C3%A9riel%20logiciels%20libres_0.pdf) - L’ensemble des logiciels libres préconisés se présente sous la forme du SILL. Dans sa version actuelle, il porte sur le poste de travail, la gestion de parc, l’exploitation de serveurs, les base de données et les environnements de développement.
+France has a list of recommended OSS in it's [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/socle-logiciels-libres). It's been updated every year since 2012 and covers OSS for workstations, servers, databases and development environments.
 
 #### Australia
 - [Australian Government Open Source Software Policy](http://www.finance.gov.au/sites/default/files/australian-government-open-source-software-policy-2013.pdf) - Procurement processes must actively and fairly consider all types of available software. Agencies will actively participate in OSS communities and contribute back where appropriate.

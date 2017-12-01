@@ -79,7 +79,7 @@ As mentioned in the various interoperability frameworks that have already been p
 
 ### Actions
 The GC will:
-- select a set of open standards for use by all departments and agencies;
+- select a set of preferred open standards for use by all departments and agencies;
 - configure existing solutions to use open standards where possible;
 - use commonly accepted open standards for open data and information;
 - require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards, starting immediately;
