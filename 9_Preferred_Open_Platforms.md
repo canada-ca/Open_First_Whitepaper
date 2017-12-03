@@ -15,11 +15,47 @@ If you would like to submit a tool for assessment, please add a through a pull r
 ### Web Development
 
 The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development. 
-Standards and tools will be required for the following categories of web development:
+Below is a set of criteria by which standards and tools should be judged for the following categories of web development (particularly for primary functions for business critical applications):
+
+**General Guidelnes (applicable to all)**
+- Growing or consistent community support 
+- Optional enterprise support options 
 
 **Conetent Management Systems**
 
+
 **Web Development Technical Stack**
+
+***Database*** 
+- Wide variety of OS capatible server operating systems 
+- Has been active for strictly greater than a decade 
+- Support of SQL
+
+According to solid IT (https://db-engines.com/en/ranking) the top ten databases are as follows ... 
+
+1.  Oracle X
+2.  MySQL X
+3.  Microsoft SQL Server X
+4.  PostgreSQL
+5.  MongoDB X
+6.  DB2 X
+7.  Microsoft Access X
+8.  Redis X
+9.  Cassandra X
+10. ElasticsearchX 
+
+Firstly, we will eliminate those options which do not adhere to an OS model. The eliminates Oracle, Microsoft SQL Server, DB2, and Microsoft Access.
+Using our criteria of a growing or consistence popularity we can eliminate the following MySQL, and Cassandra. 
+Given that we are searching for defaults and standards most business critical applications should use commonly known standards which have withstood the test of time - RDB SQL databases. Applying this rule, we can eliminate Elasticsearch, Redis and MongoDB.
+The last remaining database remaining, then, becomes PostgreSQL which also have optional enterprise support in the form of EnterpriseDB.
+
+***Web Server*** 
+
+****Java****
+
+****Standard****
+
+****JavaEE****
 
 **Data Distribution**
 
