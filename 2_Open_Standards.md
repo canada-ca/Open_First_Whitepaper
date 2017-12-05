@@ -108,18 +108,21 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 #### Canada
 
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
-- **Text**
-  - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
-  - [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
-  - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
-  - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
-  - [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
-  - [UTF-8](https://tools.ietf.org/html/rfc3629)
-  - [UTF-16](https://tools.ietf.org/html/rfc2781)
 
-- **Presentation**
-  - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
-  - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
+**Text**
+
+- [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
+- [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
+- [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
+- [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
+- [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
+- [UTF-8](https://tools.ietf.org/html/rfc3629)
+- [UTF-16](https://tools.ietf.org/html/rfc2781)
+
+**Presentation**
+
+- [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
+- [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
 
 The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify alot of the same open standards as recommended.
 
