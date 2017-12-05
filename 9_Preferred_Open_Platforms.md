@@ -48,7 +48,7 @@ According to solid IT (https://db-engines.com/en/ranking) the top ten databases 
 
 Firstly, we will eliminate those options which do not adhere to an OS model. This eliminates Oracle, Microsoft SQL Server, DB2, and Microsoft Access.
 
-Using our criteria of increasing or consistent popularity we can eliminate the following MySQL, and Cassandra. 
+Using our criteria of increasing or consistent popularity we can eliminate the following MySQL, and Cassandra.
 
 Given that we are searching for defaults and standards most business critical applications should use commonly known standards which have withstood the test of time - RDB SQL databases. Applying this rule, we can eliminate Elasticsearch, Redis, and MongoDB.
 
