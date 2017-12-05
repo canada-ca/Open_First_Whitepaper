@@ -23,7 +23,6 @@ Below is a set of criteria by which standards and tools should be judged for the
 
 **Conetent Management Systems**
 
-
 **Web Development Technical Stack**
 
   ***Database***

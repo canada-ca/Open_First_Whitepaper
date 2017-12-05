@@ -7,7 +7,6 @@
 - [Preferred Open Standards](#preferred-open-standards)
 - [Examples](#examples)
 
-
 ### Definition
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
@@ -20,7 +19,6 @@ Inspired by the four policy documents, the following criteria define open standa
 - supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
 [Open source software](3_Open_Source_Software.md) (OSS) tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, open-source software economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
-
 
 ### Interoperability
 For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, through the availability of open data.
@@ -76,7 +74,6 @@ This is why several European countries (including France and the UK) and Canadia
 
 As mentioned in the various interoperability frameworks that have already been published, they are designed only to identify key standards and not to offer predefined, unique solutions (for example, in terms of which software to choose). The objective of an interoperability framework is, therefore, to facilitate and guide an organization's interoperability choices while also limiting the number of potential standards in order to guarantee maximum clarity.
 
-
 ### Actions
 The GC will:
 - select a set of preferred open standards for use by all departments and agencies;
@@ -84,7 +81,6 @@ The GC will:
 - use commonly accepted open standards for open data and information;
 - require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards, starting immediately;
 - factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs;
-
 
 ### Preferred Open Standards
 The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) make the following open standards mandatory for GC Websites.
@@ -95,7 +91,6 @@ The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.
 
 The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) make the following open standard mandatory for GC Websites.
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
-
 
 ### Examples
 #### Canada
