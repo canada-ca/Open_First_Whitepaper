@@ -1,6 +1,6 @@
 | Guideline                                                    | Assessment against guideline       | Met |
 |--------------------------------------------------------------|---|---------------------------------|
-|**Open Standard**|    
+|**Open Standard**|
 |• Code base is available for re-use in a common code repository under an open licence |   | Y  |
 |• Content is easy to migrate to another platform |     | Y |
 |• Code is freely available |   | Y |

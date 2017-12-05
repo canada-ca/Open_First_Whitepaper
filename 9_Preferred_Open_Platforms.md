@@ -121,9 +121,9 @@ Using these metrics Wildfly is the most popular containerized solution, however,
 
 Tomcat
 - 1.6k stars
-- 10M+ pulls    
+- 10M+ pulls
 
-Taking the above into consideration the conclusion is that Wildfly is a viable option if an application server with built in JEE compliance is required. However, Tomcat is the preferred solution as it is a lightweight, long-standing community standard, and remains the favoured choice for containerized solutions which are becoming a vital aspect of web development.  
+Taking the above into consideration the conclusion is that Wildfly is a viable option if an application server with built in JEE compliance is required. However, Tomcat is the preferred solution as it is a lightweight, long-standing community standard, and remains the favoured choice for containerized solutions which are becoming a vital aspect of web development.
 
 **Data Distribution**
 

@@ -1,6 +1,6 @@
 | Guideline                                                    | Assessment against guideline       | Met |
 |--------------------------------------------------------------|---|---------------------------------|
-|**Open Standard**|    
+|**Open Standard**|
 |• Code base is available for re-use in a public common code repository under an open licence |  | Y  |
 |• Content can be exported in a non-proprietary format from current platform to another platform |     |   |
 |• Code is freely available (easy to access and available for no cost)|   |  |
@@ -12,7 +12,7 @@
 |**Customisable** |   |
 |• Tool can be adapted to be used with existing and custom extensions |   |
 |**Usability**|    |
-|• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |  
+|• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |
 |**Accessibility**|  |
 |• Meets or has the capacity to meet the [Government of Canada Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) |   |
 |**Interoperability**|   |
