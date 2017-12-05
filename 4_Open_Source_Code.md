@@ -23,7 +23,7 @@ Distributing code as OSS allows others to join in on the development effort, mak
 
 When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
 
-With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736)) 
+With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
 
 #### Long-term Feasibility
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
@@ -42,7 +42,7 @@ OSS can align well with the role of public sector agencies in providing wide ben
 
 A newer phenomenon is the emergence of social enterprises and entrepreneurial interest in making governments work better, particularly at the local level. Civically-engaged technologists develop OSS applications to solve social issues such as bureaucratic delays. Although not all software projects with broader social aims are OSS, the benefits of OSS in improving the overall availability of re-usable technology in society often aligns well with the aims of these social entrepreneurs.
 
-Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house. 
+Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
 
 OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend efforts duplicating an existing project.
 
@@ -168,4 +168,4 @@ The GC will:
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
 
 #### Canada
- - [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
+- [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
