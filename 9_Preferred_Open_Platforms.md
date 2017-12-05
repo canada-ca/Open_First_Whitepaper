@@ -2,7 +2,7 @@
 
 ## Open Platforms
 
-It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be effeciently re-used. 
+It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be efficiently re-used. 
 
 This list will be regularly updated to ensure the most up-to-date list of tools are being offered to the community.
 Below you will find a list of recommended platforms by domain, based on standards co-developed by the community, with best of breed tools assessed against this criteria.
@@ -18,18 +18,18 @@ If you would like to submit a tool for assessment, please add a through a pull r
 The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development.
 Below is a set of criteria by which standards and tools should be judged for the following categories of web development (particularly for primary functions for business critical applications):
 
-**General Guidelnes (applicable to all)**
+**General Guidelines (applicable to all)**
 
 - Growing or consistent community support
 - Optional enterprise support options
 
-**Conetent Management Systems**
+**Content Management Systems**
 
 **Web Development Technical Stack**
 
 ***Database***
 
-- Wide variety of OS capatible server operating systems
+- Wide variety of OS compatible server operating systems
 - Has been active for strictly greater than a decade
 - Support of SQL
 
@@ -143,7 +143,7 @@ Taking the above into consideration the conclusion is that Wildfly is a viable o
 
 Below, you will find the development stack used by the Public Service Commission of Canada for its new development initiatives since 2017.
 
-### Pubic Service Commision Development Stack
+### Pubic Service Commission Development Stack
 
 *Approved for use in 2017*
 

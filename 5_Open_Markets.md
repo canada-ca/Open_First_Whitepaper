@@ -18,12 +18,12 @@ Agile and Challenge based - We are achieving this in an agile manner using a new
 
 Paying for Open - A common misunderstanding of open is that it’s free. While a key principle of open is to provide the resources whether it be data or source code for free, there is still a cost to provide the data or develop the open source tool. As such the GC needs to develop an approach for being an active and fair player in the open source community.
 
-Open/Free projects only remain relevant when there is a critical mass contributing back. It is the GC's interest to encourage easier adoption of tools that are accessible, secure and mult-linugal to meet the needs of Canadians. The GC will actively work to support an ecosystem of business, non-profits, and government agencies who will support the growth of open innovation in our communities.
+Open/Free projects only remain relevant when there is a critical mass contributing back. It is the GC's interest to encourage easier adoption of tools that are accessible, secure and multi-lingual to meet the needs of Canadians. The GC will actively work to support an ecosystem of business, non-profits, and government agencies who will support the growth of open innovation in our communities.
 
 ### Increase use of Canadian Resources
 
 As a small number of large foreign companies become increasingly influential in the current global technological ecosystem the government of Canada's procurement process has come to reflect this. As a result, Canada has become overly reliant on foreign services and businesses rather than directing government funds to promoting the development of Canadian industry or investing in developing in-house talent. The GoC should take advantage of this opportunity by reducing its reliance on commercial software and increasing its promotion of Canadian industry and talent.
-According to Public Services and Procurement Canada (PSPC) between complex non-military goods and services and basic services the government spends approximately 6 billion (www.tpsgc-pwgsc.gc.ca/apropos-about/cdi-mbb/1/survol-overview-eng.html). The complexity of the government's procurement process reduces the viability of small and medium sized Canadian companies to bid on and win contracts. Efforts should be made to ensure small and medium sized companies are in a competitive position to benefit from the large purchasing power of the GoC. By reducing its use of expensive monolthic commercial software smaller Canadian companies are provided with an opportunity to grow by supporting, developing, or maintaining, software used by the GoC.
+According to Public Services and Procurement Canada (PSPC) between complex non-military goods and services and basic services the government spends approximately 6 billion (www.tpsgc-pwgsc.gc.ca/apropos-about/cdi-mbb/1/survol-overview-eng.html). The complexity of the government's procurement process reduces the viability of small and medium sized Canadian companies to bid on and win contracts. Efforts should be made to ensure small and medium sized companies are in a competitive position to benefit from the large purchasing power of the GoC. By reducing its use of expensive monolithic commercial software smaller Canadian companies are provided with an opportunity to grow by supporting, developing, or maintaining, software used by the GoC.
 
 ### Examples
 
@@ -36,7 +36,7 @@ In 2013 the GC made a decision to leverage the open source platform, CKAN, as th
 Through a membership agreement with the CKAN Association, Canada provides in-kind contributions through the development of projects and acting as the Chair of the CKAN Association. Within this role, we have identified several challenges that have the potential to impact the sustainability of the community. These include:
 
 - Due to a lack of central resources, it’s difficult for users to have a common technical roadmap to follow. This can lead to in-effective and redundant development. More development is needed to maintain and update core CKAN vs. focus on extension developments.
-- Not all members are contributing back. This could be due to lack of awareness, as many usres are government jurisdictions who are new to the world of open government, aren’t familiar with the principles and code of conduct related to open source.
+- Not all members are contributing back. This could be due to lack of awareness, as many users are government jurisdictions who are new to the world of open government, aren’t familiar with the principles and code of conduct related to open source.
 - Community could grow more if there was greater awareness. This would require more communications and outreach.
 
 ##### Mitigation efforts

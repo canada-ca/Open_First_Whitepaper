@@ -61,7 +61,7 @@ As discussed with respect to [Open Source Software](3_Open_Source_Software.md), 
 
 #### Open Science
 
-The scope of data sets used in scientific research has expanded dramatically recently. Genetic studies now routinely use terrabytes of sequence data. The technologies that generate these data are developing rapidly, and rigorous analysis increasingly requires scientists to modify existing software, or create entirely new programs. This is only possible because standard practice in the scientific community has embraced the creation and sharing of computer code using Open Software licensing.
+The scope of data sets used in scientific research has expanded dramatically recently. Genetic studies now routinely use terabytes of sequence data. The technologies that generate these data are developing rapidly, and rigorous analysis increasingly requires scientists to modify existing software, or create entirely new programs. This is only possible because standard practice in the scientific community has embraced the creation and sharing of computer code using Open Software licensing.
 
 Consequently, full participation in the scientific community will increasingly require government scientists to produce and share computer code. Indeed, as software becomes more important to science, journals are starting to require the release of code as a condition of publication. [PLOSOne](http://journals.plos.org/plosone/s/materials-and-software-sharing "PLOSOne"), one of the premier open-access science publishers, expects "that all researchers submitting to PLOS submissions in which software is the central part of the manuscript will make all relevant software available without restrictions upon publication of the work". As the proportion of research in which "software is central" to the work increases, it is clear that government scientists will need supportive policies in order to continue to participate.
 
@@ -104,7 +104,7 @@ Overall, licensing decisions tend to involve one primary and consequential decis
 
 (table..)
 
-[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widly used licenses.
+[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
 
 #### Due Diligence / Licence Management
 
@@ -164,7 +164,7 @@ Open source software often brings together a disparate community of developers, 
 
 The GC will:
 
-- publish guidance for departments and agencies to release code developed interaly as OSS;
+- publish guidance for departments and agencies to release code developed internally as OSS;
 - use OSS in our projects and contribute back to the open source community;
 - publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts, starting immediately;
 - be an active contributor to OSS projects that it or its clients utilize;

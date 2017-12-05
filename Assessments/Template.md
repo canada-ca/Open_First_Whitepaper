@@ -9,7 +9,7 @@
 |• Community is present in more than one region
 |• There is a governance model publicly available for how changes are made |
 |• Technical roadmap is publicly available |    |
-|**Customisable** |   |
+|**Customizable** |   |
 |• Tool can be adapted to be used with existing and custom extensions |   |
 |**Usability**|    |
 |• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |

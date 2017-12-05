@@ -18,7 +18,7 @@ We want to learn from Canadians, our partners, academics and technical experts t
 
 ### GC Digital Principles (DRAFT)
 
-Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, our technology, and providing services.
+Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, our technology, and providing services.
 
 Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.
 
@@ -28,7 +28,7 @@ Being self aware of how we do our business is key. Conversations about how to br
 
 #### User Needs
 
-Gone are the days of designing a program, service, or tool without talking to the person who is going to be using it. Consultations, user experience testing, public opinion research are all important aspects of how we do business, and will continue to do business in the future. Once we incorporate the needs of our users, we can build servicea that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
+Gone are the days of designing a program, service, or tool without talking to the person who is going to be using it. Consultations, user experience testing, public opinion research are all important aspects of how we do business, and will continue to do business in the future. Once we incorporate the needs of our users, we can build services that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
 
 #### Interoperability
 

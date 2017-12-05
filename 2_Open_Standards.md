@@ -31,14 +31,14 @@ For any organization, especially public administrations, the need for interopera
 
 The crux of the matter is not only technical, but also based on a set of concerns at various levels. The [EFI](https://ec.europa.eu/isa2/eif_en) defines these as:
 
-- **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
-- **Legal interoperability** is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together;
+- **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organizational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
+- **Legal interoperability** is about ensuring that organizations operating under different legal frameworks, policies and strategies are able to work together;
 - **Organisational interoperability** refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals;
 - **Semantic interoperability** ensures that the precise format and meaning of exchanged data and information is preserved and understood throughout exchanges between parties, in other words ‘what is sent is what is understood’. In the [EFI](https://ec.europa.eu/isa2/eif_en), semantic interoperability covers both semantic and syntactic aspects;
 - **Technical interoperability** covers the applications and infrastructures linking systems and services. Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols.
 
 This the EIF definition of general interoperability:
->  Interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems.
+>  Interoperability is the ability of organizations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems.
 
 #### Internal interoperability
 
@@ -129,7 +129,7 @@ The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferri
 - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
 - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
 
-The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify alot of the same open standards as recommended.
+The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify a lot of the same open standards as recommended.
 
 The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) list "Use of Commonly Owned Standards" as a principle, with the intent that datasets released by the Government of Canada be in freely available file formats as often as possible.
 
@@ -137,7 +137,7 @@ Public Services and Procurement Canada (PSPC) has been piloting the [Open Contra
 
 #### UK
 
-The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selecte after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
+The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selected after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
 
 - **Viewing government documents**: [HTML5](https://www.w3.org/TR/html5/), [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html), [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Sharing or collaborating with government documents**: [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)

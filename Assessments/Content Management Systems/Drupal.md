@@ -9,7 +9,7 @@
 |• Community is present in more than one region
 |• There is a governance model present for how changes are made |
 |• Technical roadmap is publicly available |    |
-|**Customisable** |   |
+|**Customizable** |   |
 |• Ability to serve multiple use cases |   |
 |• Tool is adaptable and compatible with existing and custom extensions |   |
 |**Usability**|    |

@@ -115,19 +115,19 @@ In some cases, it is not feasible for a person to directly provide the source co
 
 #### Copyright
 
-License and copyright are two seperate things. In some cases the license may grant additionnal rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
+License and copyright are two separate things. In some cases the license may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
 
 ### Using open source software
 
 Within the context of OSS use where one does not distribute the software, there are five scenarios in which organizations typically make use of OSS: web and file services, desktop office suites, specialty software applications, customized software for in-house use, and customized software for use within other departments in the same organization.
 
-The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 "profesionnal" OSS solutions with reviews and evaluations.
+The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 "professional" OSS solutions with reviews and evaluations.
 
 #### Server-side software
 
 Especially on the internet, OSS has long been a cornerstone of server software. OSS web server software such as Apache and Nginx run more than 65% of the active sites on the internet according to [Netcraft February 2017 Web Server Survey](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). The OSS database server MySQL and MariaDB is widely popular, and the OSS-licensed TomCat software captures a majority of the Java application servers market ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/)).
 
-Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada website at [Canada.ca](https:www.canada.gc.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
+Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada website at [Canada.ca](https://www.canada.gc.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
 
 #### Desktop Productivity Software
 
@@ -149,7 +149,7 @@ However, although there is no legal difference between these two scenarios, some
 
 The scenario of “use without distribution” (i.e., the context which does not engage reciprocal licensing obligations) is relatively broad in scope. In general, internal distribution within a business or organization does not constitute a legal “distribution” or “conveyance” and does not implicate reciprocal licensing obligations. For example, the GPL considers distribution as “any kind of propagation that enables other parties to make or receive copies”. A corporation is only a single legal party and can make, modify and distribute OSS to its employees without engaging additional obligations.
 
-Given that separate government departments operate semi-autonomously, there is a possible argument that the different departments constitute different “parties”. However, this interpretation is unlikely. Such an understanding would be incongruent with the general legal understanding of a federal or provincial Crown as being a single legal entity. A 2005 reseach paper [Legal Issues for the Use of Free and Open Source Software in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) show that Eben Moglen, general counsel for the FSF, which typically promotes a strong and wide understanding of distribution, takes the view that “[f]ederal Government agencies may share free software without making a ‘distribution’“.
+Given that separate government departments operate semi-autonomously, there is a possible argument that the different departments constitute different “parties”. However, this interpretation is unlikely. Such an understanding would be incongruent with the general legal understanding of a federal or provincial Crown as being a single legal entity. A 2005 research paper [Legal Issues for the Use of Free and Open Source Software in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) show that Eben Moglen, general counsel for the FSF, which typically promotes a strong and wide understanding of distribution, takes the view that “[f]ederal Government agencies may share free software without making a ‘distribution’“.
 
 However, distribution between the different legal entities of the federal crown and a provincial crown, or between provincial crowns, almost certainly constitutes “distribution”.
 
@@ -191,7 +191,7 @@ The ability to modify OSS enables rapid response to changing missions and market
 
 One of the most misunderstood aspects of the Open Source Software (OSS) development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
 
-When using OSS, all of the source code is openly published. This makes it difficult for anyone to surreptitiously insert malicious code. It also allows security auditors and security researchers to inspect the code for flaws. While software security is a concern for all entities, it is of paramount importance to governments. For this reason, defense and national security agencies very often use OSS. As shown in the 2008 research paper [Open Source Technology and Policy](http://www.cambridge.org/gb/academic/subjects/computer-science/computing-and-society/open-source-technology-and-policy#reAzLTMdGB0YmGoC.97) gives the example of extensive use of OSS within U.S. D.o.D. and NSA and explain the security benefits:
+When using OSS, all of the source code is openly published. This makes it difficult for anyone to surreptitiously insert malicious code. It also allows security auditors and security researchers to inspect the code for flaws. While software security is a concern for all entities, it is of paramount importance to governments. For this reason, defence and national security agencies very often use OSS. As shown in the 2008 research paper [Open Source Technology and Policy](http://www.cambridge.org/gb/academic/subjects/computer-science/computing-and-society/open-source-technology-and-policy#reAzLTMdGB0YmGoC.97) gives the example of extensive use of OSS within U.S. D.o.D. and NSA and explain the security benefits:
 >  A key factor in the attractiveness of open software in security (and national security) applications is its auditability. It is obviously harder to conceal things in open source code, while, conversely, governments may have reason to be leery of what may lurk inside proprietary code...In the U.S. context, the major proprietary vendor Microsoft is a domestic corporation, so at least the government can be expected to work out disclosure mechanisms with the vendor. However, this is a less likely scenario for foreign-held entities. For example, is Microsoft likely to disclose proprietary code to the government of Venezuela because that government wants to scrutinize Microsoft applications for security flaws or traps?
 
 Thus, where OSS is well-developed and well-inspected by third parties, security is generally improved. There are some security risks as well, discussed below.
@@ -348,17 +348,17 @@ See [Open Source Code](4_Open_Source_Code.md).
 
 The GC will:
 
-- require that all new purchases, upgrades or migrations activly and fairly consider OSS, starting immediately;
+- require that all new purchases, upgrades or migrations actively and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
-- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost diference with propriatary solutions;
-- publish OSS adoption guidelines, update IM-IT strategic plan (done) and cloud adoption stratagy to reflect direction on OSS;
+- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost difference with proprietary solutions;
+- publish OSS adoption guidelines, update IM-IT strategic plan (done) and cloud adoption strategy to reflect direction on OSS;
 - maintain a list of preferred OSS to guide departments and agencies looking for OSS;
-- plan to eliminate current lock-in to propriatary operating system by favoring use of multiplatform or Web applications;
+- plan to eliminate current lock-in to proprietary operating system by favouring use of multi-platform or Web applications;
 - select open source Web browser and office suite for use by all departments and agencies;
 
 ### Preferred Open Source Software
 
-The criteria used for evluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. Preferred OSS must also suport the use of [Open Standards](2_Open_Standards.md).
+The criteria used for evaluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. Preferred OSS must also support the use of [Open Standards](2_Open_Standards.md).
 
 To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of preferred OSS will be maintained by the Enterprise Architecture Review Board (EARB) at TBS based on solutions assessments departments present. This list is not an obstacle to innovation or testing of new solutions, which can help the evolution of the list. On the other hand it defines OSS to privilege and with time will indicates the OSS to give up. It thus participates in the gradual convergence of OSS use and promotes a culture of collaboration between departments and agencies, but also with OSS communities. As such, it must be integrated into the IM-IT strategic plans of departments and agencies and taken into account during new developments, purchases, upgrades or migrations.
 

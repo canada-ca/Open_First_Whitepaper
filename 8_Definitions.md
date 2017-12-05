@@ -7,7 +7,7 @@ platform independent, vendor neutral and usable for multiple implementations;
 specifications and supporting material are freely available with limited restrictions;
 supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
-**Free Software** is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom to run, copy, distribute, study, change and improve the software. For most practical puproses it means the same as Open Source Software, although this is widely debated.
+**Free Software** is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom to run, copy, distribute, study, change and improve the software. For most practical purposes it means the same as Open Source Software, although this is widely debated.
 
 **Interoperability** an environment where people, processes and systems work in such a fashion that the right information is available to the right people at the right time to meet their business objectives.
 
@@ -17,4 +17,4 @@ supported by the community and demonstrate independence or approved through due 
 
 **Open Source Hardware** are tangible artifacts — machines, devices, or other physical things — whose design has been released to the public in such a way that anyone can make, modify, distribute, and use those things.
 
-**Version control system** software product or service designed to store and retrieve several versions of source code and related assets in a consistent way, can be centralised, decentralised or distributed.
+**Version control system** software product or service designed to store and retrieve several versions of source code and related assets in a consistent way, can be centralized, decentralized or distributed.
