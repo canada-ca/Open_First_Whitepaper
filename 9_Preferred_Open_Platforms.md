@@ -1,6 +1,7 @@
 [« Previous Page : Definitions](8_Definitions.md) | [Table of Content](TOC.md)
 
 ## Open Platforms
+
 It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be effeciently re-used. 
 
 This list will be regularly updated to ensure the most up-to-date list of tools are being offered to the community.
@@ -49,6 +50,7 @@ Given that we are searching for defaults and standards most business critical ap
 The last remaining database remaining, then, becomes PostgreSQL which also have optional enterprise support in the form of EnterpriseDB.
 
 ## Web Server
+
 - Viability with up and coming technologies (specifically containerization)
 
 ### Java
@@ -130,6 +132,7 @@ Taking the above into consideration the conclusion is that Wildfly is a viable o
 Below, you will find the development stack used by the Public Service Commission of Canada for its new development initiatives since 2017.
 
 ### Pubic Service Commision Development Stack
+
 *Approved for use in 2017*
 
 **Programming language and framework**

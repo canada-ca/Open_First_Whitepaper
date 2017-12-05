@@ -4,12 +4,13 @@
 
 The Treasury Board of Canada Secretariat is writing this whitepaper to pull together our thinking on how to shift government to an “Open” approach. This paper will unpack and get into the details on the subject of “Open” in order to inform a few initiatives, including the new Enterprise Architecture Review Board (EARB) in setting standards (open standards, open source software (OSS)) that would drive procurement.  Hopefully, this whitepaper will lead to a number of strategic changes to the Government of Canada (GC) approach, including an Information Management - Information Technology (IM-IT) digital strategy that favors the use of open standards as well as OSS and that this would be a central part of the GC digital policy. It's not just open standards and OSS, we're also including open source code, open market and open culture.
 
-This whitepaper is being co-developed by many members of the GC open source community in an effort to get the full-picture of open in the GC. Once we can better understand our use of open tools, programs and activities, we can find new ways to work, build and provide services. While we have made a first attempt at gathering information, including best practices and jurisdictional case studies, there is still a lot more that can be contributed in order to make this document complete. If you have something to add, we would encourage you to contribute your thoughts, expertise and references. 
+This whitepaper is being co-developed by many members of the GC open source community in an effort to get the full-picture of open in the GC. Once we can better understand our use of open tools, programs and activities, we can find new ways to work, build and provide services. While we have made a first attempt at gathering information, including best practices and jurisdictional case studies, there is still a lot more that can be contributed in order to make this document complete. If you have something to add, we would encourage you to contribute your thoughts, expertise and references.
 
 We want to learn as much as possible from Canadians, our partners, academics and technical experts to help us update GC policies, governance, funding and processes with an open lens
 
 ## How to Contribute
-When contributing to this Whitepaper, post comments and discuss changes you wish to make via Issues. 
+
+When contributing to this Whitepaper, post comments and discuss changes you wish to make via Issues.
 
 Feel free to propose changes by creating Pull Requests.  If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to.  Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
 
@@ -26,6 +27,7 @@ Ce livre blanc est le fruit d'une collaboration entre plusieurs membres de la co
 Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos partenaires, des universitaires et des experts techniques afin que nous puissions procéder à la mise à jour des politiques, de la gouvernance, du financement et des processus du GC, dans une optique ouverte.
 
 ## Comment contribuer
+
 Lorsque vous contribuez au présent livre blanc, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
 
 N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).

@@ -1,6 +1,7 @@
 [« Previous Page : Next Steps](7_Next_Steps.md) | [Table of Content](TOC.md) | [Next Page: Open Platforms »](8_Open_Platforms.md)
 
 ## Definitions
+
 **Open Standards** Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike). Process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
 platform independent, vendor neutral and usable for multiple implementations;
 specifications and supporting material are freely available with limited restrictions;
