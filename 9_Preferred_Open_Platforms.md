@@ -19,6 +19,7 @@ The GC vision to take an "open first" approach to web development using open sou
 Below is a set of criteria by which standards and tools should be judged for the following categories of web development (particularly for primary functions for business critical applications):
 
 **General Guidelnes (applicable to all)**
+
 - Growing or consistent community support
 - Optional enterprise support options
 
@@ -26,7 +27,8 @@ Below is a set of criteria by which standards and tools should be judged for the
 
 **Web Development Technical Stack**
 
-  ***Database***
+***Database***
+
 - Wide variety of OS capatible server operating systems
 - Has been active for strictly greater than a decade
 - Support of SQL
@@ -64,30 +66,35 @@ Despite servlet containers falling out of favour for application servers Tomcat,
 The following options have had releases since 2016 accompanied by relevant statistics from github (as of 12-03-2017)...
 
 Payara (based on GlassFish)
+
 - 37 releases
 - 10,499 commits
 - 35 branches
 - 43 contributors
 
 GlassFish
+
 - 29 releases
 - 35,461 commits
 - 2 branches
 - 82 contributors
 
 TomEE (based on Tomcat)
+
 - 24 releases
 - 10,622 commits
 - 18 contributors
 - 36 branches
 
 Apache Geronimo
+
 - 4,560 commits
 - 35 releases
 - 6 contributors
 - 36 branches
 
 Wildfly (previously JBoss)
+
 - 24,309 commits
 - 78 releases
 - 290 contributors
@@ -102,24 +109,29 @@ Of these options neither ColdFusion nor WebLogic Server are OS solutions.
 Looking to the future of web development environments are shifting towards containerized solutions. As such, it is important to take into account the likely future technological ecosystem. Limiting our list to projects with a longer life span and a more popular community we will further analyze the viability of Tomee, GlassFish, Payara, and Wildfly. By looking at each projects popularity on [Docker Hub](https://hub.docker.com/) we can paint a more accurate picture of each projects viability moving forward.
 
 GlassFish
+
 - 100 stars
 - 500K+ pulls
 
 Payara
+
 - 29 stars
 - 100K+ pulls
 
 Wildfly
+
 - 358 stars
 - 1M+ pulls
 
 TomcatEE
+
 - 43 stars
 - 1M+ pulls
 
 Using these metrics Wildfly is the most popular containerized solution, however, Tomcat (the base project of Tomee) far surpasses all other options:
 
 Tomcat
+
 - 1.6k stars
 - 10M+ pulls
 
@@ -136,34 +148,43 @@ Below, you will find the development stack used by the Public Service Commission
 *Approved for use in 2017*
 
 **Programming language and framework**
+
 - Java SE 9
 - Java EE 8
 - Spring Framework 5 (Spring Boot, Spring MVC and Thymeleaf, and Hibernate (JPA))
 
 **Source repository**
+
 - GitHub
 
 **Testing (unit/functional testing)**
+
 - JUnit
 - Selenium
 
 **Database**
+
 - PostgreSQL 10.0
 
 **Application server / servlet container**
+
 - Tomcat 9
 
 **Web server**
+
 - Apache HTTP Server 2.4
 
 **Build / Automation / integration**
+
 - Maven
 - Flyway
 - Jenkins
 - Nexus Repository Manager
 
 **OS**
+
 - Red Hat Enterprise Linux 7
 
 **Container**
+
 - Docker

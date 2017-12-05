@@ -1,9 +1,8 @@
 rules "~MD001",
-"~MD002",
-"~MD013",
+"~MD002", # All docs currently using H2 starts
+"~MD013", # TODO: line lengths
 "~MD024", # Security is used multiple times in 02
-"~MD029",
-"~MD030",
-"~MD032",
-"~MD034",
+"~MD029", # Explicit ol order is used by TOC and top 10 DBs
+"~MD030", # Explicit ol intend is used by TOC and top 10 DBs
+"~MD034", # Bare URLs are used in several palces
 "~MD036"

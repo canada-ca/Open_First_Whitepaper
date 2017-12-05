@@ -98,6 +98,7 @@ You will not always have a choice as to which licence you apply. Where a recipro
 Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 
 Overall, licensing decisions tend to involve one primary and consequential decision: whether to apply a reciprocal or permissive licence:
+
 - Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
 - Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
 
@@ -110,6 +111,7 @@ Overall, licensing decisions tend to involve one primary and consequential decis
 ##### Managing Licence Obligations
 
 Where reciprocal licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code - to the extent specified in the reciprocal licence - must come under the exact same licence when you distribute it (or, if the licence permits, a later version of the same licence). In such a case where you encounter a reciprocal licensing obligation, there are three ways to comply:
+
 1. Do not distribute your software;
 2. License your software under the exact same licence (or, where the licence permits, a compatible licence); or
 3. Re-implement parts of your software such that it does not include any code or libraries that come under a reciprocal licence (or, at least, ensure that your code does not integrate tightly with reciprocal code such that the obligation engages).
@@ -161,6 +163,7 @@ Open source software often brings together a disparate community of developers, 
 ### Actions
 
 The GC will:
+
 - publish guidance for departments and agencies to release code developed interaly as OSS;
 - use OSS in our projects and contribute back to the open source community;
 - publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts, starting immediately;

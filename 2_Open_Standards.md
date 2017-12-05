@@ -15,6 +15,7 @@ Open standards refer to file formats, protocols and application interfaces that 
 The exact definition of open standards can vary depending on who has jurisdiction, but there is a high level of convergence in France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (RGI) or "General Guidelines for Interoperability", the [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ) of the "Quebec government's common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
 
 Inspired by the four policy documents, the following criteria define open standards:
+
 - process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
 - platform independent, vendor neutral and usable for multiple implementations;
 - specifications and supporting material are freely available with limited restrictions;
@@ -29,6 +30,7 @@ For any organization, especially public administrations, the need for interopera
 #### External interoperability
 
 The crux of the matter is not only technical, but also based on a set of concerns at various levels. The [EFI](https://ec.europa.eu/isa2/eif_en) defines these as:
+
 - **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
 - **Legal interoperability** is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together;
 - **Organisational interoperability** refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals;
@@ -86,6 +88,7 @@ As mentioned in the various interoperability frameworks that have already been p
 ### Actions
 
 The GC will:
+
 - select a set of preferred open standards for use by all departments and agencies;
 - configure existing solutions to use open standards where possible;
 - use commonly accepted open standards for open data and information;
@@ -95,12 +98,14 @@ The GC will:
 ### Preferred Open Standards
 
 The [GC Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) make the following open standards mandatory for GC Websites.
+
 - **Mark-up language**: [HTML5](https://www.w3.org/TR/html5/)
 - **Character encoding**: [UTF-8](https://tools.ietf.org/html/rfc3629)
 - **HTML data and data vocabulary**: [RDFa Lite](https://www.w3.org/TR/rdfa-lite/), [Schema.org](http://schema.org/)
 - **Web feed**: [Atom Syndication Format](https://tools.ietf.org/html/rfc4287)
 
 The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) make the following open standard mandatory for GC Websites.
+
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
 ### Examples
@@ -133,6 +138,7 @@ Public Services and Procurement Canada (PSPC) has been piloting the [Open Contra
 #### UK
 
 The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selecte after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
+
 - **Viewing government documents**: [HTML5](https://www.w3.org/TR/html5/), [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html), [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Sharing or collaborating with government documents**: [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
 - **Cross platform character encoding profile**: [Unicode 6.2](http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)

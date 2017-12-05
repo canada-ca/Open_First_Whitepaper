@@ -47,6 +47,7 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 Today, the GPL license is in its third version (GNU GPLv3) and is only one of several dozen types of open source licenses. The Open Source Initiative has approved more than 80 open source licenses. These generally fall into one of two categories: permissive licenses and reciprocal licenses.
 
 Even amongst the licences that the FSF and OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
+
 - General disclaimers of warranty and/or liability;
 - Notice obligations, which generally require you to notify downstream users of the particular OSS licence that applies to the work;
 - Source code obligations, which generally require you to provide the source code of the software when you distribute it; and
@@ -89,10 +90,12 @@ Only some OSS licences contain this stipulation: other popular licences such as 
 However, blurring the distinction between these types of licences, different reciprocal licences stipulate varying degrees of when this reciprocal obligation to distribute under the same licence engages. This is perhaps the most confusing aspect of OSS licences and deserves careful attention. To determine whether a certain activity implicates a reciprocal obligation, one must consider (1) the type of distribution and (2) the extent of integration with the original code.
 
 With respect to the type of distribution, reciprocal obligations only arise upon certain “distribution”-like activities. Where there is no such distribution, the licences almost always allow a person to use and modify reciprocal-licensed software without ever releasing their code. For example, a company can change and customize software under a reciprocal licence for in-house use, and it does not need to share this software or the software source code. However, a “distribution” does trigger a reciprocal obligation to distribute under the original licence. There are two common types of triggers found in OSS licences:
+
 - **Distribution of Source or Object Code**: Distribution of the software, either through the internet or on a physical medium such as a CD, whether as source code or object code, is the most common trigger for a reciprocal obligation. For example, this is the trigger set out in the popular GPL licence.
 - **Access over a computer network**: Found in the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) (AGPL), access over a computer network is a much broader trigger that imposes a reciprocal obligation whenever others access the licenced software over a computer network. This trigger aims to capture web service businesses that run their platforms on OSS – these businesses must make their source code available to others.
 
 Even if the software is distributed, the reciprocal obligations still only extend to certain modifications (depending on the licence):
+
 - **Derivative works**: As set out in the GPL, this type of reciprocal clause stipulates that the obligation applies to all “derivative works” (the U.S. analog of an “adaptation” under Canadian copyright law, likely with similar scope). The exact boundary of what constitutes a “derivative work” is hotly debated; however, it is clear that a mere “collection” of works does not trigger reciprocal obligations.
 - **Collections** is where multiple software programs are distributed together (such as on the same CD-ROM), but where the programs do not tightly interact.
 - **Derivative works w/a linking allowance**: The most prominent example of this type of clause is that found in the [GNU Lessor General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html) (LGPL). This licence is similar to the GPL, but it explicitly allows a person to statically or dynamically link their code to a LGPL software library, without triggering the reciprocal obligation (in software development, “linking” involves a loose coupling where one piece of the software communicates with other software and makes use of its functionality).
@@ -236,6 +239,7 @@ The ease and no-cost option of downloading OSS from the internet, and instantly 
 ##### Evaluating Software Features
 
 In general, the same factors applicable to an evaluation of the feature set and maturity of closed-source software also apply to OSS. The following factors merit consideration when evaluating OSS:
+
 - **Community** A strong user community involved in a project provides people to answer questions, test the software, report bugs, suggest improvements and drive forward overall interest in the software.
 - **Release Activity** A strong developer community with a history of releases and continued involvement tends to demonstrate that fixes and improvements to the software will continue into the future.
 - **Longevity** Longevity, measured in both in terms of the age of the product and the number of versions released, indicates a project's stability and chance of survival.
@@ -320,6 +324,7 @@ One other difference that OSS users should keep in mind is that OSS licences rar
 OSS is built upon, and depends upon, collaboration and community participation. It is generally a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
 
 Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
+
 - **Submit software suggestions**: provide bug reports and suggest any new features that could improve the software;
 - **Improve documentation**: help write new user guides, correct and improve existing documentation, or submit artwork such icons, backgrounds and logos;
 - **Assist others**: participate in help forums and product support mailing lists;
@@ -342,6 +347,7 @@ See [Open Source Code](4_Open_Source_Code.md).
 ### Actions
 
 The GC will:
+
 - require that all new purchases, upgrades or migrations activly and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
 - select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost diference with propriatary solutions;
