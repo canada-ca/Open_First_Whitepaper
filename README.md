@@ -1,4 +1,5 @@
 (Le français suit)
+[![Build Status](https://travis-ci.org/canada-ca/Open_First_Whitepaper.svg?branch=master)](https://travis-ci.org/canada-ca/Open_First_Whitepaper)
 
 # Open First Whitepaper (DRAFT)
 
