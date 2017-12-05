@@ -1,0 +1,3 @@
+lang: ruby
+
+script: bundle exec mdl -g .

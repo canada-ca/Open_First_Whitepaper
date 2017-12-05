@@ -1,6 +1,7 @@
 # Open First Whitepaper (DRAFT)
 
 ## Table of Content
+
 1.  [Introduction](1_Introduction.md)
 2.  [Open Standards](2_Open_Standards.md)
 3.  [Open Source Software](3_Open_Source_Software.md)
