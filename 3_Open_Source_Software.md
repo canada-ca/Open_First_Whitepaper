@@ -222,18 +222,18 @@ If you'd like to read more on OSS security, you can consult [UK CESG | OSS – E
 
 OSS project openness and availability of source code allows IT professionals to be more efficient in many ways, for example:
 
-* Quickly assess/test a platform with minimal costs and administrative delays (e.g. Proof of Concept);
-* Easily interact with the community (developers, users) to ask questions, suggest enhancements and report bugs;
-* Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
-* Influence the roadmap of the project.
+- Quickly assess/test a platform with minimal costs and administrative delays (e.g. Proof of Concept);
+- Easily interact with the community (developers, users) to ask questions, suggest enhancements and report bugs;
+- Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
+- Influence the roadmap of the project.
 
 ##### IT Talent
 
 There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
-* OSS is widely used by companies, from development to production, generating high demand for talent;
-* Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume; and
-* Some prefer to work with OSS because it improves their job satisfaction (see next benefit).
+- OSS is widely used by companies, from development to production, generating high demand for talent;
+- Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume; and
+- Some prefer to work with OSS because it improves their job satisfaction (see next benefit).
 
 Therefore, being OSS friendly is increasingly becoming a necessity to attract talented and innovative IT Talent.
 
@@ -241,9 +241,9 @@ Therefore, being OSS friendly is increasingly becoming a necessity to attract ta
 
 OSS can as well increase the satisfaction of employees supporting OSS solutions:
 
-* More learning opportunities as they have access to everything running under the hood;
-* The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
-* Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
+- More learning opportunities as they have access to everything running under the hood;
+- The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
+- Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
 
 ##### External contributions
 
