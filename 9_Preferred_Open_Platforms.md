@@ -140,6 +140,31 @@ Tomcat
 
 Taking the above into consideration the conclusion is that Wildfly is a viable option if an application server with built in JEE compliance is required. However, Tomcat is the preferred solution as it is a lightweight, long-standing community standard, and remains the favoured choice for containerized solutions which are becoming a vital aspect of web development.
 
+### Containerization
+
+#### Container Platform 
+Presently the tool with the most support, largest community, and most active community is Docker, which makes it the clear choice for a GoC default containerization platform. The community addition has Github statistics as follows:
+
+- 39,164 commits
+- 7 branches
+- 33 releases 
+- 1,797 contributors
+
+#### Container Management System 
+A relatively new but quickly emerging set of tools are those aiming to manage containers. Kubernetes (aka K8) is the tool that appears to be pulling ahead of it's competitors in terms of popularity, activity, and support. It's statistics on Github as of 12-10-2017 are as follows: 
+
+- 58 832 commits 
+- 31 branches 
+- 323 releases 
+- 1,478 contributors 
+
+A competitor to K8 is Docker Swarm. However, looking at it's high level Github statistics activity seems much more focused around K8 than Docker Swarm. 
+
+- 3,493 commits 
+- 6 branches
+- 56 releases
+- 167 contributors
+
 **Data Distribution**
 
 **Visualizations**
