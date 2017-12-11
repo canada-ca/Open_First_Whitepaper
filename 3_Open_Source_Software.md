@@ -171,21 +171,21 @@ The flexibility of using OSS compel GC to meet user needs by modifying existing 
 
 #### Support for the Local Economy and Communities
 
-Depending on the dynamics of a software industry in a particular locality, OSS use may better support local businesses in the area. Because OSS is openly available, distributable, and modifiable, a wider breadth of smaller “support service” businesses may provide commercial services. Rather than a single vendor providing the warranty and technical support, any competent local IT business can provide these services. Rather than a single vendor being the only party in a position to customize software, a local consulting or software development business can provide specialized versions of the software.
+Depending on the dynamics of a software industry in a particular locality, OSS use may better support local businesses in the area. Because OSS is openly available, distributable, and modifiable, a wider breadth of smaller “support service” businesses may provide commercial services. Rather than a single vendor providing the warranty and technical support, any competent local IT business can provide these services. Rather than a single vendor being the only party in a position to customize software, a local consulting or software development business can provide specialized versions of the software. This dynamic can directly contribute to Canadian economic growth.
 
-Publicly available source code enables continuous and broad peer review. Whether simply publishing the completed code or opening the development process, the practice of expanding the review and testing process to a wider audience—beyond the development team—ensures increased software reliability and security. Developing in the open also allows for other opinions to help adjust the direction of a product to maximize its usefulness to the community it serves.
+Publicly available source code enables continuous and broad peer review. Whether simply publishing the completed code or opening the development process, the practice of expanding the review and testing process to a wider audience beyond the development team ensures increased software reliability and security. Developing in the open also allows for other opinions to help adjust the direction of a product to maximize its usefulness to the community it serves.
 
-The code created by public administration belongs to the public. By developing OSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed by the GC.
+The code created by public administration belongs to the public. By developing OSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed by the GC. OSS is globally recognized as a major enabler of innovation.
 
 #### Cost
 
-The total cost of ownership for using any software application involves three over-arching categories of expenses: (1) up-front licensing costs, (2) on-going maintenance and support costs, and (3) software upgrade costs.
+The total cost of ownership for using any software application involves three over-arching categories of expenses: (1) up-front licensing and implementation costs, (2) on-going maintenance and support costs, and (3) software upgrade or transition costs.
 
 When using OSS, the up-front licensing cost is zero (aside from internal costs of assessing the software and the licence). A OSS licence is always “open” and granted to the world, in that it licenses everyone to use the software without any fees due. Moreover, due to the fact that OSS licences grant everyone the right to redistribute the software, nearly all OSS packages are available for free download over the internet.
 
 As well, OSS software often incurs lower on-going maintenance costs. With closed-source software, the vendor and its select business partners are quite often the only businesses able to provide adequate support (either because the software licence grants the vendor an exclusive support contract, or due to the vendor's specialized expertise with the software and its sole ability to examine and work with the source code). This can potentially undermine competitive tendering and, in some cases, result in poor support with no available alternative. OSS, on the other hand, permits anyone to install, fix, and otherwise support the software. This can allow for a more competitive tendering of support services amongst firms. With respect to software upgrades, some closed-source vendors require licensees to purchase a new licence, or pay an upgrade fee, for new versions of the software. For OSS, on the other hand, no new licence is necessary to start using a new version of the software.
 
-The ability to modify OSS enables rapid response to changing missions and markets. Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
+The flexibility of OSS enables rapid response to changing missions and markets as well as rapid provisioning of both known and unanticipated users. Being scalable in both directions leads to a risk reduction of longer term financial implications (and potential redundant licences). Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
 
 #### Security
 
@@ -198,7 +198,7 @@ Thus, where OSS is well-developed and well-inspected by third parties, security 
 
 ##### Reliance on Hardening, Not Obfuscation
 
-OSS relies on security over obscurity. A common misconception is that hiding code helps to prevent successful attacks. Open Source development practices rely on hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
+OSS relies on good security practices instead of obscurity. A common misconception is that hiding code helps to prevent successful attacks. As NIST standard body recommends: "System security should not depend on the secrecy of the implementation or its components." Open Source development practices rely on hardening (or improving the security of) code by making it available for peers to test and try to break, and then fixing the problems found.
 
 OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues.
 
@@ -214,6 +214,42 @@ Because the OSS security model is established on industry-accepted best practice
 
 Sound security practices are only possible with open peer review. This is the basis of a evidence based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
 
+If you'd like to read more on OSS security, you can consult [UK CESG | OSS – Exploring the Risk (PDF) ](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) and [US DoD | OSS FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
+
+#### Other Benefits
+
+##### Productivity Gains
+
+OSS project openness and availability of source code allows IT professionals to be more efficient in many ways, for example:
+* Quickly assess/test a platform with minimal costs and administrative delays (e.g. Proof of Concept);
+* Easily interact with the community (developers, users) to ask questions, suggest enhancements and report bugs;
+* Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
+* Influence the roadmap of the project.
+
+##### IT Talent
+
+There's a growing number of IT professionals with OSS background/experience due to many reasons:
+* OSS is widely used by companies, from development to production, generating high demand for talent;
+* Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume; and
+* Some prefer to work with OSS because it improves their job satisfaction (see next benefit).
+
+Therefore, being OSS friendly is increasingly becoming a necessity to attract talented and innovative IT Talent.
+
+##### Job Satisfaction
+
+OSS can as well increase the satisfaction of employees supporting OSS solutions:
+* More learning opportunities as they have access to everything running under the hood;
+* The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
+* Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
+
+##### External contributions
+
+When we publicly release in-house software program under an open source licence (on GitHub for example), it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation.
+
+##### Transparency
+
+Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
+
 ### Risks and Drawbacks
 
 Of course, a business or government organization must balance these benefits against several drawbacks, such as lower user familiarity with OSS software packages.
@@ -226,11 +262,35 @@ User familiarity with OSS software packages is often much lower than with closed
 
 Because all of the source code of OSS is openly published, anyone – including “black hat hackers” – can examine the code for security holes. In particular, malicious attackers can observe where OSS software shares the same design, code base, or architecture as software that may have known security vulnerabilities. ([source](https://www.igi-global.com/book/handbook-research-open-source-software/494))
 
-Of course, one must weigh this drawback against the aforementioned security benefits. In many cases, malicious hackers can still obtain access to the source code of closed-source software where non-disclosure agreements, company ethics procedures, or vendor security mechanisms fail. Whereas closed-source software security depends on an attempt to maintain an information imbalance between the “white hats” (computer security analysts) and the “black hats” (malicious computer hackers) , OSS software security depends upon an open competitive process of finding and closing security holes. The models rely on different strategies, and each has its particular risks that an organization must weigh and consider.
+Of course, one must weigh this drawback against the aforementioned security benefits. In many cases, malicious hackers can still obtain access to the source code of closed-source software where non-disclosure agreements, company ethics procedures, or vendor security mechanisms fail. Or they can disassemble the closed binary and analyze it to identify potential flaws. Whereas closed-source software security depends on an attempt to maintain an information imbalance between the “white hats” (computer security analysts) and the “black hats” (malicious computer hackers), OSS software security depends upon an open competitive process of finding and closing security holes. The models rely on different strategies, and each has its particular risks that an organization must weigh and consider.
 
 #### Loss of Control over Software Management
 
 The ease and no-cost option of downloading OSS from the internet, and instantly installing it, can create an attractive proposition for employees to side-step procurement processes altogether. This creates two problems: first, employees may contractually commit the company or government organization to the terms of the software licence without management even becoming aware of this fact; and second, losing track of what software is running on employee workstations makes systems security management more difficult. However, this systems management issue subsists whether or not a company or organization chooses to make use of OSS.
+
+The same is true for source code modified or mixed without proper oversight, including through an external contractor, legal risks may arise around intellectual property (copyright and licence). It is important to ensure legal compliance with the Copyright Act and make sure such activities are integrated and planned in the software development lifecycle.
+
+#### Other Risks and Drawbacks
+
+##### Costs
+
+OSS may require additional development to enable integration with an existing proprietary environment. Support and maintenance costs may outweigh those of the proprietary solutions and include "hidden" commitments. A full assessment of the total cost of ownership will help to mitigate this risk.
+
+##### In-house Expertise
+
+Those considering using and developing open source "in-house" must ensure that they have the right level of expertise to manage it effectively. Staff are often traditionally trained in using proprietary software so the introduction of new open source solutions may require retraining.
+
+##### Supplier Availability
+
+Large system integrators may be reluctant to propose open source solutions which may generate less revenue and not be aligned with their product or skill set.
+
+##### Rate of Change
+
+Some open source projects evolve rapidly with short release cycles, which can require more work to deploy the updates to the users. On the other side, some projects can have a very slow rate of change attributed by a lack of participation by the community (users, vendors...). This is why it is important to carefully assess the level of activity of a given community if we envision relying on it in some ways.
+
+##### International Agreements
+
+Some international interoperability agreements may include clauses that prevent use of OSS components.
 
 ### Best Practices for OSS Use
 
