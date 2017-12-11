@@ -10,7 +10,6 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for OSS Use](#best-practices-for-oss-use)
 - [Publishing code](#publishing-code)
-- [Actions](#actions)
 - [Preferred Open Source Software](#preferred-open-source-software)
 - [Examples](#examples)
 
@@ -386,18 +385,6 @@ However, cultural tendencies and the dynamics of the OSS business model tend to 
 ### Publishing code
 
 See [Open Source Code](4_Open_Source_Code.md).
-
-### Actions
-
-The GC will:
-
-- require that all new purchases, upgrades or migrations actively and fairly consider OSS, starting immediately;
-- factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
-- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost difference with proprietary solutions;
-- publish OSS adoption guidelines, update IM-IT strategic plan (done) and cloud adoption strategy to reflect direction on OSS;
-- maintain a list of preferred OSS to guide departments and agencies looking for OSS;
-- plan to eliminate current lock-in to proprietary operating system by favouring use of multi-platform or Web applications;
-- select open source Web browser and office suite for use by all departments and agencies;
 
 ### Preferred Open Source Software
 

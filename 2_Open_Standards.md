@@ -4,7 +4,6 @@
 
 - [Definition](#definition)
 - [Interoperability](#interoperability)
-- [Actions](#actions)
 - [Preferred Open Standards](#preferred-open-standards)
 - [Examples](#examples)
 
@@ -84,16 +83,6 @@ To ensure the deployment and longevity of interoperable systems, it is necessary
 This is why several European countries (including France and the UK) and Canadian provinces such as Quebec have chosen to establish interoperability frameworks. The results are compelling, as open standards are regularly and widely used, and always the first approach to be considered when new requirements emerge.
 
 As mentioned in the various interoperability frameworks that have already been published, they are designed only to identify key standards and not to offer predefined, unique solutions (for example, in terms of which software to choose). The objective of an interoperability framework is, therefore, to facilitate and guide an organization's interoperability choices while also limiting the number of potential standards in order to guarantee maximum clarity.
-
-### Actions
-
-The GC will:
-
-- select a set of preferred open standards for use by all departments and agencies;
-- configure existing solutions to use open standards where possible;
-- use commonly accepted open standards for open data and information;
-- require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards, starting immediately;
-- factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs;
 
 ### Preferred Open Standards
 

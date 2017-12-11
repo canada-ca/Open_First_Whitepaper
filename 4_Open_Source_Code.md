@@ -6,7 +6,6 @@
 - [Drawbacks and Risks](#drawbacks-and-risks)
 - [Best Practices](#best-practices)
 - [Code Repositories](#code-repositories)
-- [Actions](#actions)
 - [Preferred OSS Licences](#preferred-oss-licences)
 - [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
@@ -163,17 +162,6 @@ Some licences also include broader retaliation clauses - that is, a broader term
 #### Managing Project Participation
 
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
-
-### Actions
-
-The GC will:
-
-- publish guidance for departments and agencies to release code developed internally as OSS;
-- use OSS in our projects and contribute back to the open source community;
-- publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts, starting immediately;
-- be an active contributor to OSS projects that it or its clients utilize;
-- encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
-- adopt permissive licenses for its OSS projects and comply to the licenses of OSS projects they contribute to.
 
 ### Preferred OSS licences
 
