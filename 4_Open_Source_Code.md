@@ -21,7 +21,7 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 #### Collaboration to Lower Development Costs
 
-Distributing code as OSS allows others to join in on the development effort, making a project a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+When we publicly release in-house software program under an OSS licence, it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
 
 When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
 
@@ -65,6 +65,10 @@ The scope of data sets used in scientific research has expanded dramatically rec
 
 Consequently, full participation in the scientific community will increasingly require government scientists to produce and share computer code. Indeed, as software becomes more important to science, journals are starting to require the release of code as a condition of publication. [PLOSOne](http://journals.plos.org/plosone/s/materials-and-software-sharing "PLOSOne"), one of the premier open-access science publishers, expects "that all researchers submitting to PLOS submissions in which software is the central part of the manuscript will make all relevant software available without restrictions upon publication of the work". As the proportion of research in which "software is central" to the work increases, it is clear that government scientists will need supportive policies in order to continue to participate.
 
+#### Transparency
+
+Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
+
 ### Drawbacks and Risks
 
 #### Lack of Direct Licensing Revenue
@@ -79,7 +83,7 @@ There are many examples of thriving OSS projects such as the Linux kernel, the A
 
 #### Legal Complexities
 
-Releasing software as OSS usually requires a careful legal consideration of the licences, especially when the software includes libraries and code from multiple sources. Although closed-source licences also require careful legal scrutiny, many OSS licences are long and contain legal complexities with which in-house legal staff may not be familiar.
+Releasing software as OSS usually requires a careful legal consideration of the licences, especially when the software includes libraries and code from multiple sources. Although closed-source licences also require careful legal scrutiny, many OSS licences are long and contain legal complexities with which in-house legal staff may not be familiar. Some international interoperability agreements may include clauses that prevent use of OSS components. (example?)
 
 #### Patent Liability Risk
 

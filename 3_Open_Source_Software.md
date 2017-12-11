@@ -216,9 +216,7 @@ Sound security practices are only possible with open peer review. This is the ba
 
 If you'd like to read more on OSS security, you can consult [UK CESG | OSS – Exploring the Risk (PDF) ](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) and [US DoD | OSS FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
 
-#### Other Benefits
-
-##### Productivity Gains
+#### Productivity Gains
 
 OSS project openness and availability of source code allows IT professionals to be more efficient in many ways, for example:
 
@@ -227,7 +225,7 @@ OSS project openness and availability of source code allows IT professionals to 
 - Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
 - Influence the roadmap of the project.
 
-##### IT Talent
+#### IT Talent
 
 There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
@@ -244,14 +242,6 @@ OSS can as well increase the satisfaction of employees supporting OSS solutions:
 - More learning opportunities as they have access to everything running under the hood;
 - The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
 - Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
-
-##### External contributions
-
-When we publicly release in-house software program under an open source licence (on GitHub for example), it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation.
-
-##### Transparency
-
-Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
 
 ### Risks and Drawbacks
 
@@ -273,27 +263,17 @@ The ease and no-cost option of downloading OSS from the internet, and instantly 
 
 The same is true for source code modified or mixed without proper oversight, including through an external contractor, legal risks may arise around intellectual property (copyright and licence). It is important to ensure legal compliance with the Copyright Act and make sure such activities are integrated and planned in the software development lifecycle.
 
-#### Other Risks and Drawbacks
-
-##### Costs
-
-OSS may require additional development to enable integration with an existing proprietary environment. Support and maintenance costs may outweigh those of the proprietary solutions and include "hidden" commitments. A full assessment of the total cost of ownership will help to mitigate this risk.
-
-##### In-house Expertise
+#### In-house Expertise
 
 Those considering using and developing open source "in-house" must ensure that they have the right level of expertise to manage it effectively. Staff are often traditionally trained in using proprietary software so the introduction of new open source solutions may require retraining.
 
-##### Supplier Availability
+#### Supplier Availability
 
 Large system integrators may be reluctant to propose open source solutions which may generate less revenue and not be aligned with their product or skill set.
 
-##### Rate of Change
+#### Rate of Change
 
 Some open source projects evolve rapidly with short release cycles, which can require more work to deploy the updates to the users. On the other side, some projects can have a very slow rate of change attributed by a lack of participation by the community (users, vendors...). This is why it is important to carefully assess the level of activity of a given community if we envision relying on it in some ways.
-
-##### International Agreements
-
-Some international interoperability agreements may include clauses that prevent use of OSS components.
 
 ### Best Practices for OSS Use
 
