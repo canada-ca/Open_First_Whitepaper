@@ -52,7 +52,7 @@ Using our criteria of increasing or consistent popularity we can eliminate the f
 
 Given that we are searching for defaults and standards most business critical applications should use commonly known standards which have withstood the test of time - RDB SQL databases. Applying this rule, we can eliminate Elasticsearch, Redis, and MongoDB.
 
-The last remaining database remaining, then, becomes PostgreSQL which also has optional enterprise support in the form of EnterpriseDB.
+The last remaining database, then, becomes PostgreSQL which also has optional enterprise support in the form of EnterpriseDB.
 
 ## Web Server
 
