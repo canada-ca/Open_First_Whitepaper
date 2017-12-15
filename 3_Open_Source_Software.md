@@ -25,7 +25,7 @@ Open Source Software is the name used by the Open Source Initiative. They're the
 
 Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer & even free kittens as metaphors for free software.
 
-Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (OSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
+Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
 
 ### History
 
