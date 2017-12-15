@@ -17,6 +17,8 @@
 |• Meets or has the capacity to meet the [Government of Canada Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) |   |
 |**Interoperability**|   |
 |• Meets or has the capacity to meet the [Government of Canada Web Interoperability Standards](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) |   |
+|**Mobile-optimized**|   |
+|• Optimized for mobile devices (e.g., smartphones, tablets) or has the capacity to be optimized for mobile devices |   |
 |**Compatibility**|   |
 |• Code base is compatible with security tools |   |
 |• Code base is compatible with analytics tools |  |
