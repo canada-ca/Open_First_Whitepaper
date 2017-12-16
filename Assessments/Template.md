@@ -11,6 +11,7 @@
 |• Technical roadmap is publicly available |    |
 |**Customizable** |   |
 |• Tool can be adapted to be used with existing and custom extensions |   |
+|• Tool's customizability is competitive with similar commercial and open source tools |   |
 |**Usability**|    |
 |• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |
 |**Accessibility**|  |
@@ -23,6 +24,12 @@
 |• Code base is compatible with search engines |   |
 |**Ease of use**|  |
 |• Programming language and existing code base and extensions are easy to use |   |
+|**Performance**|   |
+|• Tool's performance is competitive with similar commercial and open source tools |   |
+|**Reliability**|   |
+|• Tool's reliability is competitive with similar commercial and open source tools |   |
+|**Scaleability**|   |
+|• Tool's scaleability is competitive with similar commercial and open source tools |   |
 
 CMS Extension
 
