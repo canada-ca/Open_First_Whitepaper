@@ -2,8 +2,7 @@
 
 ## Open Markets
 
-Procuring goods and services is a significant components
-There are two components to open procurement
+Procuring goods and services in the open is an important part of an open environment. There are two parts to open procurement:
 
 1. changing process
 2. how to procure open tools
