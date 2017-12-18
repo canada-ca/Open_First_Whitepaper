@@ -1,5 +1,6 @@
-(Le français suit)
 [![Build Status](https://travis-ci.org/canada-ca/Open_First_Whitepaper.svg?branch=master)](https://travis-ci.org/canada-ca/Open_First_Whitepaper)
+
+(Le français suit)
 
 # Open First Whitepaper (DRAFT)
 
@@ -7,7 +8,18 @@ The Treasury Board of Canada Secretariat is writing this whitepaper to pull toge
 
 This whitepaper is being co-developed by many members of the GC open source community in an effort to get the full-picture of open in the GC. Once we can better understand our use of open tools, programs and activities, we can find new ways to work, build and provide services. While we have made a first attempt at gathering information, including best practices and jurisdictional case studies, there is still a lot more that can be contributed in order to make this document complete. If you have something to add, we would encourage you to contribute your thoughts, expertise and references.
 
-We want to learn as much as possible from Canadians, our partners, academics and technical experts to help us update GC policies, governance, funding and processes with an open lens
+We want to learn as much as possible from Canadians, our partners, academics and technical experts to help us update GC policies, governance, funding and processes with an open lens.
+
+## Table of Content
+
+1. [Introduction](1_Introduction.md)
+2. [Open Standards](2_Open_Standards.md)
+3. [Open Source Software](3_Open_Source_Software.md)
+4. [Open Source Code](4_Open_Source_Code.md)
+5. [Open Markets](5_Open_Markets.md)
+6. [Open Culture](6_Open_Culture.md)
+7. [Next Steps](7_Next_Steps.md)
+8. [Definitions](8_Definitions.md)
 
 ## How to Contribute
 
@@ -26,6 +38,17 @@ Le Secrétariat du Conseil du Trésor du Canada procéde à la rédaction d'un l
 Ce livre blanc est le fruit d'une collaboration entre plusieurs membres de la collectivité des logiciels libres du GC, afin d'obtenir une image intégrale de l'ouverture au sein du GC. Une fois que nous serons mieux en mesure de comprendre l'utilisation que nous faisons des outils, programmes et activités ouverts, nous pouvons trouver de nouvelles façons de travailler, de construire et de fournir des services. Bien que nous ayons fait une première tentative de collecte d'information, y compris des pratiques exemplaires et des études de cas juridictionnelles, il reste encore beaucoup à faire pour peaufiner le présent document. Si vous avez de quoi à ajouter, nous vous encourageons à nous faire part de vos idées, de votre expertise et de vos références.
 
 Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos partenaires, des universitaires et des experts techniques afin que nous puissions procéder à la mise à jour des politiques, de la gouvernance, du financement et des processus du GC, dans une optique ouverte.
+
+## Table des matières
+
+1. [Introduction](1_Introduction.md)
+2. [Normes ouvertes](2_Open_Standards.md)
+3. [Logiciels libres (open source)](3_Open_Source_Software.md)
+4. [Code source ouvert](4_Open_Source_Code.md)
+5. [Marchés ouverts](5_Open_Markets.md)
+6. [Culture ouverte](6_Open_Culture.md)
+7. [Prochaines étapes](7_Next_Steps.md)
+8. [Définitions](8_Definitions.md)
 
 ## Comment contribuer
 
