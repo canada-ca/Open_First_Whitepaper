@@ -9,9 +9,9 @@ The ability of organizations to interact towards mutually beneficial goals, and 
 ### Open Standards
 
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike). The process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests. Some key features of open standards include:
-*they are supported by an active community and demonstrate independence or are approved through due process by rough consensus among participants;
-*they are platform independent, vendor neutral and usable for multiple implementations; and,
-*their specifications and supporting material are freely available restrictions.
+* they are supported by an active community and demonstrate independence or are approved through due process by rough consensus among participants;
+* they are platform independent, vendor neutral and usable for multiple implementations; and,
+* their specifications and supporting material are freely available restrictions.
 
 ### Free Software
 
