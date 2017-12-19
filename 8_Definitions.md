@@ -20,7 +20,7 @@ Software with its source code made available with a license in which the copyrig
 
 ### Open Source Hardware
 
-are tangible artifacts — machines, devices, or other physical things — whose design has been released to the public in such a way that anyone can make, modify, distribute, and use those things.
+Open source hardware products are tangible artifacts — machines, devices, or other physical things — whose design has been released to the public in such a way that anyone can make, modify, distribute, and use those things.
 
 ### Intellectual property
 
@@ -36,8 +36,8 @@ Copyright is a form of intellectual property, applicable to certain forms of cre
 
 ### Copyleft
 
-Copyleft is a copyright licensing scheme in which an author surrenders some, but not all, rights under copyright law. Copyleft allows an author to impose some restrictions on those who want to engage in activities that would more usually be reserved by the copyright holder. Under copyleft, derived works may be produced provided they are released under the compatible copyleft scheme.
+Copyleft is a copyright licensing scheme in which an author surrenders some, but not all, rights under copyright law. Copyleft allows an author to impose some restrictions on those who want to engage in activities that would usually be reserved by the copyright holder. Under copyleft, derived works may be produced if they are released under the compatible copyleft scheme.
 
 ### Version control system
 
-Software product or service designed to store and retrieve several versions of source code and related assets in a consistent way, can be centralized, decentralized or distributed.
+A software product or service that is designed to store and retrieve several versions of source code and related assets in a consistent way, and that can be centralized, decentralized or distributed.
