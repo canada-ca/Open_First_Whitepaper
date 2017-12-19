@@ -4,11 +4,14 @@
 
 ### Interoperability
 
-The ability of organizations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems. It enables a product or system, whose interfaces are completely understood (open standards), to work with other products or systems, present or future, without any restricted access or implementation.
+The ability of organizations to interact towards mutually beneficial goals, and involves the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems. It enables a product or system, whose interfaces are completely understood (open standards), to work with other products or systems, present or future, without any restricted access or implementation.
 
 ### Open Standards
 
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike). Process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests; they're supported by an active community and demonstrate independence or are approved through due process by rough consensus among participants; they are platform independent, vendor neutral and usable for multiple implementations; their specifications and supporting material are freely available restrictions;
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike). The process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests. Some key features of open standards include:
+*they are supported by an active community and demonstrate independence or are approved through due process by rough consensus among participants;
+*they are platform independent, vendor neutral and usable for multiple implementations; and,
+*their specifications and supporting material are freely available restrictions.
 
 ### Free Software
 
