@@ -1,4 +1,4 @@
-[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Content](TOC.md) | [Next Page: Open Markets »](5_Open_Markets.md)
+[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Content](README.md#table-of-content) | [Next Page: Open Markets »](5_Open_Markets.md)
 
 ## Open Source Code
 

@@ -1,4 +1,4 @@
-[« Previous Page : Next Steps](7_Next_Steps.md) | [Table of Content](TOC.md) | [Next Page: Open Platforms »](8_Open_Platforms.md)
+[« Previous Page : Next Steps](7_Next_Steps.md) | [Table of Content](README.md#table-of-content) | [Next Page: Open Platforms »](8_Open_Platforms.md)
 
 ## Definitions
 

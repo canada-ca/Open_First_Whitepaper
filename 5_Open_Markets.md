@@ -1,4 +1,4 @@
-[« Previous Page : Open Source Code](4_Open_Source_Code.md) | [Table of Content](TOC.md) | [Next Page: Open Culture »](6_Open_Culture.md)
+[« Previous Page : Open Source Code](4_Open_Source_Code.md) | [Table of Content](README.md#table-of-content) | [Next Page: Open Culture »](6_Open_Culture.md)
 
 ## Open Markets
 
