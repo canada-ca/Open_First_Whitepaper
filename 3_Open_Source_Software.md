@@ -258,7 +258,7 @@ Of course, one must weigh this drawback against the aforementioned security bene
 
 #### Loss of Control over Software Management
 
-The ease and no-cost option of downloading OSS from the internet, and instantly installing it, can create an attractive proposition for employees to side-step procurement processes altogether. This creates two problems: first, employees may contractually commit the company or government organization to the terms of the software licence without management even becoming aware of this fact; and second, losing track of what software is running on employee workstations makes systems security management more difficult. However, this systems management issue subsists whether or not a company or organization chooses to make use of OSS.
+The ease and no-cost option of downloading OSS from the internet, and instantly installing it, can create an attractive proposition for employees to side-step procurement processes altogether. As a consequence, IT staff may lose track of what software is running on employee workstations, making systems security management more difficult.
 
 The same is true for source code modified or mixed without proper oversight, including through an external contractor, legal risks may arise around intellectual property (copyright and licence). It is important to ensure legal compliance with the Copyright Act and make sure such activities are integrated and planned in the software development lifecycle.
 
