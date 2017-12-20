@@ -242,6 +242,10 @@ OSS can as well increase the satisfaction of employees supporting OSS solutions:
 - The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
 - Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
 
+#### Reduction in liability
+
+OSS licenses don't create obligations on the mere use of software and reduce the increased legal risks associated with the use of closed-source solutions. Not allowing obligations for the mere use of the software is part of the FSF's definition of free software, and the OSI's definition of open source. If an obligation from the use of the software exists, then the software doesn't qualify as OSS.
+
 ### Risks and Drawbacks
 
 Of course, a business or government organization must balance these benefits against several drawbacks, such as lower user familiarity with OSS software packages.
