@@ -9,9 +9,9 @@
 
 ### Definition
 
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available no cost and development / standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. These organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
-The exact definition of open standards can vary depending on who has jurisdiction, but there is a high level of convergence in France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (RGI) or "General Guidelines for Interoperability", the [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ) of the "Quebec government's common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
+The exact definition of open standards can vary by jurisdiction, but there is a high level of convergence in France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (RGI) or "General Guidelines for Interoperability", the [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ) of the "Quebec government's common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
 
 Inspired by the four policy documents, the following criteria define open standards:
 
@@ -60,7 +60,7 @@ In the context of enterprise architecture fully under your control, one option t
 
 ##### Application adherence - Vendor lock-in
 
-Internally, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factor in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
+Internally, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factors in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
 
 #### Cloud computing
 
@@ -74,13 +74,9 @@ The implementation of a cloud is therefore a unique opportunity to standardize t
 
 #### Interoperability framework
 
-An interoperability framework is defined as a set of policies, guidelines, standards, rules and recommendations made by a network of actors with a view to achieving the highest level of interoperability possible.
+An interoperability framework is defined as a set of policies, guidelines, standards, rules and recommendations made by a network of actors with a view to achieving the highest level of interoperability possible. It also describes the operating rules that govern the analysis, selection, adoption and updating of each of these elements.
 
-It also describes the operating rules that govern the analysis, selection, adoption and updating of each of these elements.
-
-To ensure the deployment and longevity of interoperable systems, it is necessary to jointly select the standards to be adopted as well as the conditions for their implementation.
-
-This is why several European countries (including France and the UK) and Canadian provinces such as Quebec have chosen to establish interoperability frameworks. The results are compelling, as open standards are regularly and widely used, and always the first approach to be considered when new requirements emerge.
+To ensure the deployment and longevity of interoperable systems, it is necessary to jointly select the standards to be adopted as well as the conditions for their implementation. This is why several European countries (including France and the UK) and Canadian provinces such as Quebec have chosen to establish interoperability frameworks. The results are compelling, as open standards are regularly and widely used, and always the first approach to be considered when new requirements emerge.
 
 As mentioned in the various interoperability frameworks that have already been published, they are designed only to identify key standards and not to offer predefined, unique solutions (for example, in terms of which software to choose). The objective of an interoperability framework is, therefore, to facilitate and guide an organization's interoperability choices while also limiting the number of potential standards in order to guarantee maximum clarity.
 
