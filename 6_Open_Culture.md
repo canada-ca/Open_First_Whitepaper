@@ -4,8 +4,17 @@
 
 To become open by default, government will require changes to the policies, practices, and the culture of the institution.
 
-Governments around the world have adopted open source software and in the last decade there has been a movement to publish the new code that they develop as open source software. There are great examples of how open coding improves the quality of the code produced and makes it easier to hire more qualified programmers. Working in the open allows developers to share in some of the big challenges, and have their code contributions exposed to a larger audience.
+Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of open within the GC. However, this has been limited to particular practices and domains. 
 
-Normalizing this process so that it filters down from the innovative hubs of government and into the basic method of work will take time. An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians.
+An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians.
+
+The drivers that have been identified for the question of "Why Open?" include:
+- Build together and learn from one another 
+- Co-develop solutions faster, in a more transparent manner 
+- Create common and sustainable solutions to resolve common business problems
+- Accelerate the deveopment of an interoperable eco-system 
+- Share code and solutions with other countries, provinces, territories, and municipalities
+- Increase the ease of interconneted services with provinces territories, municipalities, and other governments 
+- Implement an ecosystem taht enables open procurement practices which will spur gorwth and innovation. 
 
 The Government of Canada is the countries' largest employer. Adopting an Open First approach will have huge benefits. Canada can lead in more innovative, inclusive, and agile government.
