@@ -6,7 +6,7 @@ To become open by default, government will require changes to the policies, prac
 
 Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of open within the GC. However, this has been limited to particular practices and domains. 
 
-An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians.
+An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices. 
 
 The drivers that have been identified for the question of "Why Open?" include:
 - Build together and learn from one another 
