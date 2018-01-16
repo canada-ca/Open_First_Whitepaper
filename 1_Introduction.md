@@ -4,22 +4,23 @@
 
 In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source tools as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).
 
-The objective of this whitepaper is to outline the drivers, benefits, considerations, and governance taken into account when determining when and where to use open source tools. This whitepaper is being co-created by members of the Canadian open source community and is being lead by Canada's Treasury Board Secretariat. 
+The objective of this whitepaper is to outline the drivers, benefits, considerations, and governance taken into account when determining when and where to use open source tools. This whitepaper is being co-created by members of the Canadian open source community and is being lead by Canada's Treasury Board Secretariat.
 
-This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase, and provide information and services. 
+This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase, and provide information and services.
 
 This direction is supported by the Prime Minister; in October, 2017, the President of the Treasury Board (TB) signed a [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html). This MOU outlines the need to work together to provide public services in an open manner based on the [Digital 5](https://en.wikipedia.org/wiki/Digital_5) Principles: User Needs, Open Standards, Open Source Software, Open Markets, Open Government and Assisted Digital.
 
-### Objectives 
+### Objectives
+
 This whitepaper has two objectives:
 1) To help inform a future GC policy that encompasses the use of open source tools.
-2) Determine a governance process for esnuring the effective and sustainable implemetnation of open source tools across the GC. 
+2) Determine a governance process for esnuring the effective and sustainable implemetnation of open source tools across the GC.
 
 ### Contributing
 
-As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns. 
+As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns.
 
-Contributions can be made through a pull request or by creating an issue. 
+Contributions can be made through a pull request or by creating an issue.
 
 We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
 
@@ -45,4 +46,4 @@ Gone are the days of designing a program, service, or tool without talking to a 
 
 Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
 
-If you have any questions about this initiative, please contact Ashley Casovan, Lead of Open Source Architecture, ashley.casovan@tbs-sct.gc.ca. 
+If you have any questions about this initiative, please contact Ashley Casovan, Lead of Open Source Architecture, ashley.casovan@tbs-sct.gc.ca.
