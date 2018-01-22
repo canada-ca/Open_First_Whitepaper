@@ -2,43 +2,70 @@
 
 ## Next Steps
 
-### Strategic Actions
+### Done
 
-#### Open Standards
+#### November 2017 - GC Strategic Plan for IM and IT 2017-2021 new planned actions
 
-- endorse preferred open standards for use by all departments and agencies;
-- use commonly accepted open standards for open data and information;
+> Introduce a strategy for use of open source software and open standards
+
+> The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open source products are publicly available, and the availability of their source code promotes open and collaborative development around their specifications, making them more robust and interoperable. The use of open standards ensures interoperability between products and systems, and maintains flexibility within the IM-IT environment. TBS will lead the development of a strategy to set direction for the government on the use and release of open source software and open standards that will be ratified by GC EARB.
+
+#### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsments:
+> Canada will use open source tools as key components of it's technology eco-system
+
+> Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
+
+### To do
+
+#### EARB endorsments
+
+- Current GC preferred open standards;
+  - HTML5, UTF-8, RDFa Lite, Schema.org, Atom (GC Standard on Web interoperability)
+  - WCAG 2.0 (GC Standard on Web accessibility)
+  - Open Contracting Data Standard (PSPC pilot)
+  - PDF/A, EPUB3, XML, CSV (GC open data principles)
+
+- LAC guidelines on file formats for transferring information resources of enduring value and PCH Elements of a technical interoperability framework recommended file formats.
+  - EPUB3, PDF/A, ODF, ..
+
+- Allignment with UK open standards for government
+  - Adopt open standards selected by UK
+  - Collaborate with UK to select new open standards for governments
+  - Adapt UK guidance on ODF and procurement
+
+- Selection of open source Web browser, office suite and other productivity tools for use by all departments and agencies
+
+- Plan to eliminate current lock-in to proprietary operating system by favouring use of multi-platform or Web applications
+
+##### Open Standards adoption strategy
+
 - configure existing solutions to use open standards where possible;
 - require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards;
 - factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs;
+- update cloud adoption strategy to reflect direction on open standards.
 
-#### Open Source Software
+##### OSS adoption strategy
 
 - require that all new purchases, upgrades or migrations actively and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
 - select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost difference with proprietary solutions;
-- publish OSS adoption guidelines, update IM-IT strategic plan (done) and cloud adoption strategy to reflect direction on OSS;
-- develop generic procurement policies for OSS (Review & assess the [following policies](https://github.com/mgifford/open-source-contracting))
-- maintain a list of preferred OSS to guide departments and agencies looking for OSS;
-- plan to eliminate current lock-in to proprietary operating system by favouring use of multi-platform or Web applications;
-- select open source Web browser, office suite and other productivity tools for use by all departments and agencies;
-- be an active contributor to OSS projects that it or its clients utilize;
+- update cloud adoption strategy to reflect direction on OSS;
+- use OSS components in our development projects;
+
+##### OSS contribution strategy
+
+- support and be an active contributor (code, issues, testing, roadmap, ..) to OSS projects that it or its clients utilize;
+- comply to the licenses of OSS projects they contribute to;
 - support initiatives such as the The Linux Foundation's [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) to help ensure that critical libraries for modern internet communications are monitored and supported.
-- ensure that government employees attend OSS events and conferences;
 
-#### Open Source Code
+##### Guidance for release of code developed internally as OSS
 
-- publish guidance for departments and agencies to release code developed internally as OSS;
-- use OSS components in our projects and contribute back to the community;
 - publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts;
 - encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
-- comply to the licenses of OSS projects they contribute to.
-- maintain a list of preferred OSS licences and code repositories to guide departments and agencies publishing OSS;
 
-### Communications
+#### Open Resource Exchange
 
-- Highlight government projects which depend on OSS
-- Highlight OSS projects used by the government
-- Raise awareness about OSS champions in Canada (both inside & outside government)
-- Ensure it is a talking point for senior bureaucrats & Members of Cabinet
-- Integrate into plans for Innovation, Science and Economic Development Canada (ISED) & The Minister of Small Business and Tourism
+- List of open standards with EARB endorsment, as well as others being used in GC
+- List of OSS being used in GC
+- List of open source code released by GC
+
