@@ -21,9 +21,9 @@ Free software and open source software is software where the source code is dist
 
 Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF). Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html). The freedom to run the program, study how it works, modify it and redistribute it. Access to the source code is a precondition for these freedoms and not the end goal itself.
 
-Open Source Software is the name used by the Open Source Initiative. They're the authority on certifying whether a software licence is an open source licence. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by 10 criteria.
+Open Source Software is the name used by the Open Source Initiative. They're the authority on certifying whether a software licence is an open source licence. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
 
-Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer & even free kittens as metaphors for free software.
+Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer and even free kittens as metaphors for free software.
 
 Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
 
@@ -43,14 +43,14 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 
 #### Licences
 
-Today, the GPL license is in its third version (GNU GPLv3) and is only one of several dozen types of open source licenses. The Open Source Initiative has approved more than 80 open source licenses. These generally fall into one of two categories: permissive licenses and reciprocal licenses.
+Today, the GPL licence is in its third version (GNU GPLv3) and is only one of several dozen types of open source licences. The Open Source Initiative has approved more than 80 open source licences. These generally fall into one of two categories: permissive licences and reciprocal licences.
 
 Even amongst the licences that the FSF and OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
 
 - General disclaimers of warranty and/or liability;
-- Notice obligations, which generally require you to notify downstream users of the particular OSS licence that applies to the work;
-- Source code obligations, which generally require you to provide the source code of the software when you distribute it; and
-- Reciprocal licensing obligations, which generally require you to only release any modifications or improvements as OSS, under the same licence.
+- Notice obligations, which generally require notifying downstream users of the particular OSS licence that applies to the work;
+- Source code obligations, which generally require providing the source code of the software upon distribution; and
+- Reciprocal licensing obligations, which generally require releasing any modifications or improvements as OSS, under the same licence.
 
 The first two types of clauses - disclaimers and notice obligations – are present in nearly every OSS licence. In fact, the short and popular [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause) contains little more than these two bare obligations. Other more expansive licences, such as the GPL, contain clauses setting out all four of these obligations.
 
@@ -61,14 +61,14 @@ Most OSS licences include a disclaimer of warranty that aims to be as exhaustive
 
 As shown, in addition to setting out that the licence is “without warranty of any kind”, these clauses are most often careful to exclude any warranty of “merchantability” or “fitness for a particular purpose”. This serves to clarify and make certain that these two warranties do not apply, as some legislation might otherwise impose them as implicit terms of a contract or licence. For example, where software is sold in Ontario, the [Sale of Goods Act](https://www.ontario.ca/laws/statute/90s01) imposes implied warranties relating to merchantability (Section 13) and, in some cases, warranties of fitness for a particular purpose (Section 15). However, with the explicit exclusions in typical OSS licences, these warranties do not apply.
 
-Many licences also explicitly disclaim warranties of non-infringement (for example, the MPLv2, as set out above). This disclaimer aims to exclude the U.S. doctrine of an implied warranty of non infringement in the [Uniform Commercial Code § 2-312](https://www.law.cornell.edu/ucc/2/2-312), which otherwise warrants that the software does not infringe any third party's copyright. For example, if a software developer uploaded a piece of code to a OSS project and it originally came from copyright-protected closed-source software, anyone downloading or using the OSS application would technically infringe the copyright. If sued for such an infringement, the warranty of non infringement would result in such a user having no recourse against the distributors or developers – it is “users beware”. In Canada, even though a specific doctrine of a warranty of non-infringement does not exist, this licence clause still likely disclaims similar warranties of title (especially when considered in conjunction with a broad disclaimer against warranties of “any kind” in the [Sale of Goods Act](https://www.ontario.ca/laws/statute/90s01), Section 13). As well as disclaiming warranties, nearly all OSS licences disclaim liability. For example, the MPLv2 states:
+Many licences also explicitly disclaim warranties of non-infringement (for example, the MPLv2, as set out above). This disclaimer aims to exclude the U.S. doctrine of an implied warranty of non infringement in the [Uniform Commercial Code § 2-312](https://www.law.cornell.edu/ucc/2/2-312), which otherwise warrants that the software does not infringe any third party's copyright. For example, if a software developer uploaded a piece of code to an OSS project and it originally came from copyright-protected closed-source software, anyone downloading or using the OSS application would technically infringe the copyright. If sued for such an infringement, the warranty of non infringement would result in such a user having no recourse against the distributors or developers – it is “users beware”. In Canada, even though a specific doctrine of a warranty of non-infringement does not exist, this licence clause still likely disclaims similar warranties of title (especially when considered in conjunction with a broad disclaimer against warranties of “any kind” in the [Sale of Goods Act](https://www.ontario.ca/laws/statute/90s01), Section 13). As well as disclaiming warranties, nearly all OSS licences disclaim liability. For example, the MPLv2 states:
 >  Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party’s negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
 
 Again, this disclaimer broadly aims to cover all bases of liability and all types of damages that could occur. The result is that when you use OSS, you do so at your own risk.
 
 Given that the contributor (in this case the Government of Canada) carries no liability and offers no form of warranty for any contributions made or products produced they must also forgo any form of meaningful or perceived ownership over the code or product generated.
 
-Although these disclaimers are standard in nearly all OSS licences, licensors can modify them. In some cases, a OSS licence allows the licensor to set out additional disclaimers. For example, the MPLv2 allows a licensor to “include additional disclaimers of warranty and limitations of liability specific to any jurisdiction”. In other cases, a licensor may do the opposite and choose to offer a warranty or accept liability, removing the effect of the disclaimer of warranty. For instance, the MPLv2 provides that “You may choose to offer and to charge a fee for warranty, support, indemnity or liability obligations to one or more recipients of Covered Software”.
+Although these disclaimers are standard in nearly all OSS licences, licensors can modify them. In some cases, an OSS licence allows the licensor to set out additional disclaimers. For example, the MPLv2 allows a licensor to “include additional disclaimers of warranty and limitations of liability specific to any jurisdiction”. In other cases, a licensor may do the opposite and choose to offer a warranty or accept liability, removing the effect of the disclaimer of warranty. For instance, the MPLv2 provides that “You may choose to offer and to charge a fee for warranty, support, indemnity or liability obligations to one or more recipients of Covered Software”.
 
 ##### Notice Obligations
 
@@ -91,7 +91,7 @@ However, blurring the distinction between these types of licences, different rec
 With respect to the type of distribution, reciprocal obligations only arise upon certain “distribution”-like activities. Where there is no such distribution, the licences almost always allow a person to use and modify reciprocal-licensed software without ever releasing their code. For example, a company can change and customize software under a reciprocal licence for in-house use, and it does not need to share this software or the software source code. However, a “distribution” does trigger a reciprocal obligation to distribute under the original licence. There are two common types of triggers found in OSS licences:
 
 - **Distribution of Source or Object Code**: Distribution of the software, either through the internet or on a physical medium such as a CD, whether as source code or object code, is the most common trigger for a reciprocal obligation. For example, this is the trigger set out in the popular GPL licence.
-- **Access over a computer network**: Found in the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) (AGPL), access over a computer network is a much broader trigger that imposes a reciprocal obligation whenever others access the licenced software over a computer network. This trigger aims to capture web service businesses that run their platforms on OSS – these businesses must make their source code available to others.
+- **Access over a computer network**: Found in the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) (AGPL), access over a computer network is a much broader trigger that imposes a reciprocal obligation whenever others access the licensed software over a computer network. This trigger aims to capture web service businesses that run their platforms on OSS – these businesses must make their source code available to others.
 
 Even if the software is distributed, the reciprocal obligations still only extend to certain modifications (depending on the licence):
 
@@ -114,7 +114,7 @@ In some cases, it is not feasible for a person to directly provide the source co
 
 #### Copyright
 
-License and copyright are two separate things. In some cases the license may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
+Licence and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
 
 ### Using open source software
 
@@ -207,11 +207,11 @@ Obfuscation relies on attacker ignorance and hides poor security practices. With
 
 Assuming that the goal is to make secure software, it is obvious that the easiest way to find flaws in a project is to make all of the project's code completely transparent. This approach may seem counter-intuitive, if the ultimate goal is anything other than the integrity of the technology.
 
-By openly releasing a project's code and making it readily available via the Internet the community of peer reviewers is expanded exponentially across the globe. The community will quickly find flaws and the project team can take action to fix them. This simultaneously garners exceptionally wide and deep testing feedback from developers who need the code to be as secure as possible for their own use as well as the community's. Both the project owners and community benefit from sharing flaws and fixes.
+By openly releasing a project's code and making it readily available via the Internet the community of peer reviewers is expanded worldwide. The community will quickly find flaws and the project team can take action to fix them. This simultaneously garners exceptionally wide and deep testing feedback from developers who need the code to be as secure as possible for their own use as well as the community's. Both the project owners and community benefit from sharing flaws and fixes.
 
 Because the OSS security model is established on industry-accepted best practices and the actual code is widely available, projects are widely reviewed, thoroughly scrutinized, practically improved and quickly hardened.
 
-Sound security practices are only possible with open peer review. This is the basis of a evidence based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
+Sound security practices are only possible with open peer review. This is the basis of an evidence-based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
 
 If you'd like to read more on OSS security, you can consult [UK CESG | OSS – Exploring the Risk (PDF) ](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) and [US DoD | OSS FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
 
@@ -349,7 +349,7 @@ Overall, the particular OSS licence is unlikely to strongly impact a decision on
 
 A warranty is an assurance by a vendor that a product will operate as promised and without any defect. A warranty can also include assurances that a product is free of legal encumbrances, such as unlicensed intellectual property that may be owned by third parties (i.e., a warranty of non-infringement). Depending on the terms of the warranty, when a product does not fulfill the assurances, the customer can request that the vendor fix the product, refund the customer and/or provide monetary compensation.
 
-Given the typical lack of a warranty in a OSS licence, it becomes more imperative for a business or government organization to secure external support contracts. A OSS support services business familiar with the software can help resolve any issues and, importantly, directly patch any bugs that crop up.
+Given the typical lack of a warranty in an OSS licence, it becomes more imperative for a business or government organization to secure external support contracts. An OSS support services business familiar with the software can help resolve any issues and, importantly, directly patch any bugs that crop up.
 
 Some support services businesses also help mitigate the risks that can arise due to the lack of a warranty of non-infringement. For example, Red Hat offers customers the [Red Hat Open Source Assurance Program](https://www.redhat.com/en/about/open-source-assurance) and Canonical provides the [Ubuntu Advantage Assurance](https://www.ubuntu.com/legal/ubuntu-advantage/assurance). Both of these programs provide services to replace any portion of their respective Linux distributions (Red Hat and Ubuntu) that turn out to infringe intellectual property rights of other parties. Additionally, these programs also offer to indemnify customers against any lawsuits they face as a result of any such intellectual property infringements.
 
@@ -419,7 +419,7 @@ To achieve maximum benefits both economically and in terms of quality, OSS shoul
 
 #### Canada
 
-Examples of the GC’s continuous utilization of open source software (OSS) can be found in Environment Canada’s weather infrastructure, TBS’s Government of Canada 2.0 tools (i.e. GCpedia and GCconnex), the [Open Government Portal](open.canada.ca), as well as in multiple departments openly contributing to the Web Experience Toolkit OSS project on GitHub ([Source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-eng.html)). Although prevalent, there has been little done to update GC policies, governance, funding and processes to ensure that open source tools are being used at the right place and at the right time. Moreover, a need exists to ensure that OSS is supported in a sustainable way and that there is appropriate policy and guidance for employees using these tools when needed.
+Examples of the GC’s continuous utilization of open source software (OSS) can be found in Environment Canada’s weather infrastructure, TBS’s Government of Canada 2.0 tools (i.e. GCpedia and GCconnex), the [Open Government Portal](open.canada.ca), as well as in multiple departments openly contributing to the Web Experience Toolkit OSS project on GitHub ([Source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-eng.html)). Although prevalent, there has been little done to update GC policies, governance, funding and processes to ensure that open source tools are being used at the right place and at the right time. Moreover, a need exists to ensure that OSS is supported in a sustainable way and that there is appropriate policy and guidance for employees.
 
 This whitepaper aims to assess the GC’s current use of OSS tools, programs and activities. It also aims to identify current gaps to outline a path forward in creating a more complete open environment.
 
