@@ -5,7 +5,6 @@
 - [Benefits](#benefits)
 - [Drawbacks and Risks](#drawbacks-and-risks)
 - [Best Practices](#best-practices)
-- [Code Repositories](#code-repositories)
 - [Preferred OSS Licences](#preferred-oss-licences)
 - [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
@@ -93,6 +92,36 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 #### Deciding to Distribute Software as OSS
 
 A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
+
+#### Security Classification
+
+The Treasury Board [Directive on Departmental Security Management (DDSM)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the Access to Information Act or the Privacy Act because its disclosure would reasonably be expected to compromise the non-national interest."
+
+In order for source code to potentially be deemed protected, it would have to contain any of the following information:
+
+- Information obtained in confidence
+- Information about federal-provincial affairs
+- Information about international affairs and defence
+- Information about law enforcement and investigations
+- Information about the safety of individuals
+- Information about the economic interests of Canada
+- Personal information
+- Third party information
+- Advice about certain aspects of operations of government
+- Information about testing procedures, tests, and audits
+- Information that is subject to solicitor-client privilege
+- Information that is subject to statutory prohibitions
+- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
+- Confidences of the Queen’s Privy Council for Canada
+
+It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
+
+Some security considerations to keep in mind when developing software:
+
+- Keep sensitive data such as credentials secure and separate from source code.
+- Avoid storing keys and other sensitive material in systems not approved for that purpose.
+- Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
+- Implement controls sufficient to prevent unauthorized or inadvertent changes. 
 
 #### Choosing a Licence
 
