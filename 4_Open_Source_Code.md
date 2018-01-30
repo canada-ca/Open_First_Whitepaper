@@ -121,7 +121,7 @@ Some security considerations to keep in mind when developing software:
 - Keep sensitive data such as credentials secure and separate from source code.
 - Avoid storing keys and other sensitive material in systems not approved for that purpose.
 - Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
-- Implement controls sufficient to prevent unauthorized or inadvertent changes. 
+- Implement controls sufficient to prevent unauthorized or inadvertent changes.
 
 #### Choosing a Licence
 
@@ -134,7 +134,14 @@ Choosing an appropriate licence tends to revolve around the decision of whether 
 - Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
 - Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
 
-(table..)
+The following chart details other key differences in this decision:
+
+|                                          | Permissive | Reciprocal |
+| ---------------------------------------- | ---------- | ---------- |
+| **Beneficiaries of the OSS release**         | Everyone: commercial software vendors, support services, etc. | Everyone, but only where they are willing to release their software as OSS, under the same licensing terms as were granted to them (note that some closed-source software vendors absolutely prohibit reciprocal licences such as the GPL). |
+| **Beneficiaries of downstream code changes** | The whole community, but only where the business (or other developer) chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual distributes the modifications, as the licence then mandates releasing the changes under the same OSS licence. |
+| **Licence complexity**                       | Often very simple and understandable (e.g., popular "2-clause BSD"). | Relatively complex, requiring careful legal analysis (and some risk of misinterpretation). |
+| **Interoperability**                         | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
 
