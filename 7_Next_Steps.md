@@ -29,6 +29,7 @@
 #### Open Source Code
 
 - publish guidance for departments and agencies to release code developed internally as OSS;
+- create a Github site in the spirit of https://github.com/alphagov and https://github.com/18F, possibly by expanding https://github.com/cds-snc , and make it open to new GC projects.
 - use OSS components in our projects and contribute back to the community;
 - publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts;
 - encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
