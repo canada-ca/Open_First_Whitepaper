@@ -7,12 +7,11 @@
 #### November 2017 - GC Strategic Plan for IM and IT 2017-2021 new planned actions
 
 > Introduce a strategy for use of open source software and open standards
-
 > The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open source products are publicly available, and the availability of their source code promotes open and collaborative development around their specifications, making them more robust and interoperable. The use of open standards ensures interoperability between products and systems, and maintains flexibility within the IM-IT environment. TBS will lead the development of a strategy to set direction for the government on the use and release of open source software and open standards that will be ratified by GC EARB.
 
-#### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsments:
-> Canada will use open source tools as key components of it's technology eco-system
+#### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsments
 
+> Canada will use open source tools as key components of it's technology eco-system
 > Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
 
 ### To do
@@ -68,4 +67,3 @@
 - List of open standards with EARB endorsment, as well as others being used in GC
 - List of OSS being used in GC
 - List of open source code released by GC
-
