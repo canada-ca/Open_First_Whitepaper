@@ -99,7 +99,7 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
 
-**Text**
+### Text
 
 - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
 - [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
@@ -109,7 +109,7 @@ The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferri
 - [UTF-8](https://tools.ietf.org/html/rfc3629)
 - [UTF-16](https://tools.ietf.org/html/rfc2781)
 
-**Presentation**
+### Presentation
 
 - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
 - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)

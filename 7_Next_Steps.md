@@ -4,19 +4,29 @@
 
 ### Done
 
+#### October 2017 - Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom
+
+> Promote economic growth through open markets and by stimulating start-ups and small to medium business enterprises.
+
+> Commit to open standards for government information, data and software, promoting interoperability and the development of Open Source solutions that can be shared.
+
 #### November 2017 - GC Strategic Plan for IM and IT 2017-2021 new planned actions
 
 > Introduce a strategy for use of open source software and open standards
+
 > The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open source products are publicly available, and the availability of their source code promotes open and collaborative development around their specifications, making them more robust and interoperable. The use of open standards ensures interoperability between products and systems, and maintains flexibility within the IM-IT environment. TBS will lead the development of a strategy to set direction for the government on the use and release of open source software and open standards that will be ratified by GC EARB.
 
 #### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsments
 
 > Canada will use open source tools as key components of it's technology eco-system
+
 > Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
+
+#### February 2018 - First meeting of the Open Source Advisory Board (OSAB) at TBS
 
 ### To do
 
-#### EARB endorsments
+#### OSAB and EARB endorsments
 
 - Current GC preferred open standards;
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom (GC Standard on Web interoperability)
@@ -34,7 +44,7 @@
 
 - Selection of open source Web browser, office suite and other productivity tools for use by all departments and agencies
 
-- Plan to eliminate current lock-in to proprietary operating system by favouring use of multi-platform or Web applications
+- Plan to eliminate current lock-in to closed-source operating system by favouring use of open source multi-platform or Web applications
 
 ##### Open Standards adoption strategy
 
@@ -47,7 +57,7 @@
 
 - require that all new purchases, upgrades or migrations actively and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
-- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost difference with proprietary solutions;
+- select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost difference with closed-source solutions;
 - update cloud adoption strategy to reflect direction on OSS;
 - use OSS components in our development projects;
 
