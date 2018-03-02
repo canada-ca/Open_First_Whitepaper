@@ -2,12 +2,15 @@
 
 ## Open Source Code
 
+- [Releasing Open Source Software](#releasing-open-source-software)
 - [Benefits](#benefits)
-- [Drawbacks and Risks](#drawbacks-and-risks)
-- [Best Practices](#best-practices)
+- [Risks and Drawbacks](#risks-and-drawbacks)
+- [Best Practices for releasing OSS](#best-practices)
 - [Preferred OSS Licences](#preferred-oss-licences)
 - [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
+
+### Releasing Open Source Software
 
 The Government of Canada creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
@@ -67,7 +70,7 @@ Consequently, full participation in the scientific community will increasingly r
 
 Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
 
-### Drawbacks and Risks
+### Risks and Drawbacks
 
 #### Lack of Direct Licensing Revenue
 
@@ -87,7 +90,7 @@ Releasing software as OSS usually requires a careful legal consideration of the 
 
 Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
 
-### Best Practices
+### Best Practices for releasing OSS
 
 #### Deciding to Distribute Software as OSS
 

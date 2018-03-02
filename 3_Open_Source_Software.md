@@ -8,8 +8,8 @@
 - [Using open source software](#using-open-source-software)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for OSS Use](#best-practices-for-oss-use)
-- [Publishing code](#publishing-code)
+- [Best Practices for using OSS](#best-practices-for-using-oss)
+- [Releasing Open Source Software](#releasing-open-source-software)
 - [Preferred Open Source Software](#preferred-open-source-software)
 - [Examples](#examples)
 
@@ -281,7 +281,7 @@ Large system integrators may be reluctant to propose open source solutions which
 
 Some open source projects evolve rapidly with short release cycles, which can require more work to deploy the updates to the users. On the other side, some projects can have a very slow rate of change attributed by a lack of participation by the community (users, vendors...). This is why it is important to carefully assess the level of activity of a given community if we envision relying on it in some ways.
 
-### Best Practices for OSS Use
+### Best Practices for using OSS
 
 #### Software Evaluation and Procurement
 
@@ -389,7 +389,7 @@ Although licence interoperability is not a concern for OSS use, format and data 
 
 However, cultural tendencies and the dynamics of the OSS business model tend to drive OSS projects towards the use of interoperable and [Open Standards](2_Open_Standards.md) for reading, writing and storing data. Indeed, even where OSS does not implement an open standard for data interchange, at the very least the availability of the source code always provides an “open implementation”. The source code serves as an example that anyone else can follow to implement the same functionality for reading and writing the underlying data format.
 
-### Publishing code
+### Releasing Open Source Software
 
 See [Open Source Code](4_Open_Source_Code.md).
 
