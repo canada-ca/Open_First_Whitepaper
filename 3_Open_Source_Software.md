@@ -102,7 +102,10 @@ Even if the software is distributed, the reciprocal obligations still only exten
 
 The differences amongst the various licences in the popular GNU suite illustrate how the type of distribution and extent of integration interact to determine when a reciprocal obligation engages, as shown in the following table.
 
-(table?)
+|            | **Derivative work of the original** | **Derivative work, but only links to original** | **Collection, including the unchanged original** |
+| ---------- | ---------- | ---------- | ---------- |
+| **Distribution of source code or object code** | GPLv3: **Yes**<br/>LGPLv3: **Yes**<br/>AGPLv3: **Yes** | GPLv3: **Yes**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** |
+| **Provision of access over a computer network** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **Yes** | GPLv3: **No**<br/>LGPLv3: **No**<br/>AGPLv3: **No** |
 
 ##### Source Code Obligations
 
