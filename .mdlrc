@@ -4,4 +4,5 @@ rules "~MD001",
 "~MD024", # Security is used multiple times in 02
 "~MD028", # Blank line inside blockquote
 "~MD029", # Explicit ol order is used by TOC in README
+"~MD033", # Inline HTML used for new lines in table
 "~MD034" # Bare URLs are used in LICENSE
