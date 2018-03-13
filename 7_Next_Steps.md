@@ -22,6 +22,10 @@
 
 > Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
 
+#### February 2018 - Canada signs the D7 charter
+
+> The D7 charter calls for commitments to open standards, open source, open government and teaching children to code
+
 #### February 2018 - First meeting of the Open Source Advisory Board (OSAB) at TBS
 
 ### To do
