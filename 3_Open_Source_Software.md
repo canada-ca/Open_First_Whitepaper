@@ -54,7 +54,7 @@ Even amongst the licences that the FSF and OSI approve as sharing the basic char
 
 The first two types of clauses - disclaimers and notice obligations – are present in nearly every OSS licence. In fact, the short and popular [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause) contains little more than these two bare obligations. Other more expansive licences, such as the GPL, contain clauses setting out all four of these obligations.
 
-#### Choose a License 
+#### Choose a License
 
 GitHub has made it easy to help individuals and organizations pick which license to use based on the situation.  Take a look [here](https://choosealicense.com/).
 
