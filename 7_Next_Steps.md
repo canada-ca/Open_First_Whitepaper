@@ -50,14 +50,14 @@
 
 - Plan to eliminate current lock-in to closed-source operating system by favouring use of open source multi-platform or Web applications
 
-##### Open Standards adoption strategy
+#### Open Standards adoption strategy
 
 - configure existing solutions to use open standards where possible;
 - require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards;
 - factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs;
 - update cloud adoption strategy to reflect direction on open standards.
 
-##### OSS adoption strategy
+#### OSS adoption strategy
 
 - require that all new purchases, upgrades or migrations actively and fairly consider OSS, starting immediately;
 - factor in the use of OSS when calculating total cost of ownership (TCO) of a solutions including exit or transition costs;
@@ -65,18 +65,18 @@
 - update cloud adoption strategy to reflect direction on OSS;
 - use OSS components in our development projects;
 
-##### OSS contribution strategy
+#### OSS contribution strategy
 
 - support and be an active contributor (code, issues, testing, roadmap, ..) to OSS projects that it or its clients utilize;
 - comply to the licenses of OSS projects they contribute to;
 - support initiatives such as the The Linux Foundation's [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) to help ensure that critical libraries for modern internet communications are monitored and supported.
 
-##### Guidance for release of code developed internally as OSS
+#### Guidance for release of code developed internally as OSS
 
 - publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts;
 - encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
 
-#### Open Resource Exchange
+### Open Resource Exchange
 
 - List of open standards with EARB endorsment, as well as others being used in GC
 - List of OSS being used in GC
