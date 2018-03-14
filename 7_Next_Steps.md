@@ -10,7 +10,7 @@
 
 > Commit to open standards for government information, data and software, promoting interoperability and the development of Open Source solutions that can be shared.
 
-#### November 2017 - GC Strategic Plan for IM and IT 2017-2021 new planned actions
+#### November 2017 - [GC Strategic Plan for IM and IT 2017-2021](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html) new planned actions
 
 > Introduce a strategy for use of open source software and open standards
 
@@ -22,11 +22,11 @@
 
 > Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
 
-#### February 2018 - [Canada signs the D7 charter](https://en.wikipedia.org/wiki/Digital_5#D5_Charter)
+#### February 2018 - [Canada signs the D7 charter](https://ipolitics.ca/2018/02/22/canada-joins-club-worlds-digital-government-leaders/)
 
 > The D7 charter calls for commitments to open standards, open source, open government and teaching children to code
 
-#### February 2018 - First meeting of the Open Source Advisory Board (OSAB) at TBS
+#### February 2018 - First meeting of the [Open Source Advisory Board](https://github.com/canada-ca/OS-Advisory_Conseil-SO) (OSAB) at TBS
 
 ### To do
 
