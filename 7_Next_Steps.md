@@ -4,7 +4,7 @@
 
 ### Done
 
-#### October 2017 - Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom
+#### October 2017 - [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html)
 
 > Promote economic growth through open markets and by stimulating start-ups and small to medium business enterprises.
 
@@ -22,7 +22,7 @@
 
 > Members will support the creation and adoption open source throughout their practice, resulting in a robust open community within the GC
 
-#### February 2018 - Canada signs the D7 charter
+#### February 2018 - [Canada signs the D7 charter](https://en.wikipedia.org/wiki/Digital_5#D5_Charter)
 
 > The D7 charter calls for commitments to open standards, open source, open government and teaching children to code
 
