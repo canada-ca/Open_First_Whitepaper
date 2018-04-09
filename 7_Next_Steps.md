@@ -16,7 +16,7 @@
 
 > The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open source products are publicly available, and the availability of their source code promotes open and collaborative development around their specifications, making them more robust and interoperable. The use of open standards ensures interoperability between products and systems, and maintains flexibility within the IM-IT environment. TBS will lead the development of a strategy to set direction for the government on the use and release of open source software and open standards that will be ratified by GC EARB.
 
-#### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsments
+#### December 2017 - GC Enterprise Architecture Review Board (EARB) endorsements
 
 > Canada will use open source tools as key components of it's technology eco-system
 
@@ -30,7 +30,7 @@
 
 ### To do
 
-#### OSAB and EARB endorsments
+#### OSAB and EARB endorsements
 
 - Current GC preferred open standards;
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom (GC Standard on Web interoperability)
