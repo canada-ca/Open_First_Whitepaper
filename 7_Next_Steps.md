@@ -26,7 +26,6 @@ GC EARB members endorsed the following:
 
 > Members of the GC EARB support the formalization of a common GC-wide approach to the adoption of open source within government, resulting in a more robust open community within the GC."
 
-
 #### February 2018 - [Canada signs the D7 charter](https://ipolitics.ca/2018/02/22/canada-joins-club-worlds-digital-government-leaders/)
 
 > Ministers from member countries signed the D7 charter, which calls for commitments to open standards, open source, open government and teaching children to code.
@@ -48,7 +47,6 @@ GC EARB members endorsed the following:
 
 Published version coming soon!
 
-
 #### [Digital Playbook](https://github.com/canada-ca/digital-playbook-guide-numerique)
 
 - Detailed version of the digital principles
@@ -60,50 +58,49 @@ Published version coming soon!
 
 ##### Open Standards
 
-**Endorsement of current open Standards identified in the GC standard on Web interoperability and GC standard on Web accessibility**
-- HTML5, UTF-8, RDFa Lite, Schema.org, Atom
-- WCAG 2.0
+- **Endorsement of current open Standards identified in the GC standard on Web interoperability and GC standard on Web accessibility**
+  - HTML5, UTF-8, RDFa Lite, Schema.org, Atom
+  - WCAG 2.0
 
-**Endorsement of current preferred (pilots, principles, guidelines) open standards in the GC**
-- Open Contracting Data Standard (PSPC Open Contracting Data Standard pilot)
-- PDF/A, EPUB3, XML, CSV (GC open data/information principles)
-- EPUB3, PDF/A, ODF, EML, MBOX, .. (LAC guidelines on file formats for transferring information resources of enduring value)
+- **Endorsement of current preferred (pilots, principles, guidelines) open standards in the GC**
+  - Open Contracting Data Standard (PSPC Open Contracting Data Standard pilot)
+  - PDF/A, EPUB3, XML, CSV (GC open data/information principles)
+  - EPUB3, PDF/A, ODF, EML, MBOX, .. (LAC guidelines on file formats for transferring information resources of enduring value)
 
-**Align with UK open standards for government**
-- Adopt open standards selected by UK
-  - HTML5, PDF/A, ODF, Open Contracting Data Standard, vCard, iCalendar, ..
+- **Align with UK open standards for government**
+  - Adopt open standards selected by UK
+    - HTML5, PDF/A, ODF, Open Contracting Data Standard, vCard, iCalendar, ..
   - Collaborate with UK to select new open standards for governments
   - Adapt and adopt UK guidance on ODF and procurement to GC
 
-**Require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards**
-- Factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs
-- EARB process to support active application when adopting solutions
+- **Require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards**
+  - Factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs
+  - EARB process to support active application when adopting solutions
 
 ##### Open Source Software use
 
-**Endorse open source Web browser, office suite and other productivity tools for use by all departments and agencies' workplace technology devices**
-- Plan to eliminate current lock-in to closed-source operating system by favoring use of open source multi-platform or Web applications
+- **Endorse open source Web browser, office suite and other productivity tools for use by all departments and agencies' workplace technology devices**
+  - Plan to eliminate current lock-in to closed-source operating system by favoring use of open source multi-platform or Web applications
 
-**Require that all new purchases, upgrades or migrations (including cloud solutions) actively and fairly consider OSS during procurement**
-- Select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions
-- EARB process to support active application when adopting solutions
+- **Require that all new purchases, upgrades or migrations (including cloud solutions) actively and fairly consider OSS during procurement**
+  - Select OSS on the basis of its additional inherent flexibility, when there is no significant overall (full-lifecycle) cost (TCO) difference with closed-source solutions
+  - EARB process to support active application when adopting solutions
 
-**Use OSS components in development projects and build solutions based on existing OSS**
+- **Use OSS components in development projects and build solutions based on existing OSS**
 
 ##### Open Source Software contribution
 
-**Support and be an active contributor (code, issues, testing, roadmap, ..) to OSS used by the GC and/or where there is benefit to Canadians**
-
-**Support initiatives such as the The Linux Foundation's [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) to help ensure that critical libraries for modern Internet communications are monitored and supported**
+- **Support and be an active contributor (code, issues, testing, roadmap, ..) to OSS used by the GC and/or where there is benefit to Canadians**
+- **Support initiatives such as the The Linux Foundation's [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) to help ensure that critical libraries for modern Internet communications are monitored and supported**
 
 ##### Release code developed internally as under OSS licenses
 
-**Publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts**
-- Encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction;
+- **Publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts**
+- **Encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction**
 
 ##### Open Source Community Building
 
-**Provide awards and recognition for departments, units and individuals using open standards and open source software in the GC**
+- **Provide awards and recognition for departments, units and individuals using open standards and open source software in the GC**
 
 ### Open Resource Exchange
 
