@@ -5,7 +5,7 @@
 - [Releasing Open Source Software](#releasing-open-source-software)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for releasing OSS](#best-practices)
+- [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
 - [Preferred OSS Licences](#preferred-oss-licences)
 - [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
@@ -202,12 +202,13 @@ Some licences also include broader retaliation clauses - that is, a broader term
 
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
-### Preferred OSS licences
+### OSS licences
 
-- **Permissive**: MIT
-- **reciprocal**: GPL
+You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, CDS uses the MIT licence.
 
-### Preferred Code Repositories
+All code produced by civil servants is automatically covered by Crown Copyright.
+
+### Code Repositories
 
 - Gitlab
 - Github
