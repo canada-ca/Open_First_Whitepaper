@@ -43,6 +43,12 @@ GC EARB members endorsed the following:
   - Publish open source code
   - Become an open organization
 
+### [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+
+- List of open Standards with EARB endorsment, as well as others being used in Canadian public administrations
+- List of OSS being used in Canadian public administrations
+- List of open source code released by Canadian public administrations
+
 #### [Digital Principles](https://open.canada.ca/en/blog/digital-principles) (Alpha version)
 
 Published version coming soon!
@@ -62,20 +68,20 @@ Published version coming soon!
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom
   - WCAG 2.0
 
-- **Endorsement of current preferred (pilots, principles, guidelines) open standards in the GC**
+- **Require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open Standards**
+  - Factor in the use of open Standards when calculating total cost of ownership of a solutions including exit or transition costs
+  - EARB process to support active application when adopting solutions
+
+- **Endorsement of current preferred (pilots, principles, guidelines) open Standards in the GC**
   - Open Contracting Data Standard (PSPC Open Contracting Data Standard pilot)
   - PDF/A, EPUB3, XML, CSV (GC open data/information principles)
   - EPUB3, PDF/A, ODF, EML, MBOX, .. (LAC guidelines on file formats for transferring information resources of enduring value)
 
 - **Align with UK open standards for government**
-  - Adopt open standards selected by UK
+  - Adopt open Standards selected by UK Open Standards Board
     - HTML5, PDF/A, ODF, Open Contracting Data Standard, vCard, iCalendar, ..
   - Collaborate with UK to select new open standards for governments
   - Adapt and adopt UK guidance on ODF and procurement to GC
-
-- **Require that all new purchases, upgrades or migrations (including cloud solutions) store and manage data with open standards**
-  - Factor in the use of open standards when calculating total cost of ownership of a solutions including exit or transition costs
-  - EARB process to support active application when adopting solutions
 
 ##### Open Source Software use
 
@@ -101,12 +107,6 @@ Published version coming soon!
 ##### Open Source Community Building
 
 - **Provide awards and recognition for departments, units and individuals using open standards and open source software in the GC**
-
-### Open Resource Exchange
-
-- List of open standards with EARB endorsment, as well as others being used in GC
-- List of OSS being used in GC
-- List of open source code released by GC
 
 ### Other
 
