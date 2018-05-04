@@ -104,7 +104,7 @@ Published version coming soon!
 - **Publish as OSS all source code created or modified, whether developed in-house by government staff or through negotiated contracts**
 - **Encourages contributions to its OSS projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction**
 
-##### Open Source Community Building
+##### Open Source Software Community Building
 
 - **Provide awards and recognition for departments, units and individuals using open standards and open source software in the GC**
 

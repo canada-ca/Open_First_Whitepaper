@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source tools as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).
+In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source software as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).
 
 The objective of this whitepaper is to outline the drivers, benefits, considerations, and governance taken into account when determining when and where to use open source tools. This whitepaper is being co-created by members of the Canadian open source community and is being lead by Canada's Treasury Board Secretariat.
 
@@ -46,4 +46,3 @@ Gone are the days of designing a program, service, or tool without talking to a 
 
 Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
 
-If you have any questions about this initiative, please contact Ashley Casovan, Lead of Open Source Architecture, ashley.casovan@tbs-sct.gc.ca.
