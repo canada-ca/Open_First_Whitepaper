@@ -14,7 +14,7 @@ This direction is supported by the Prime Minister; in October, 2017, the Preside
 
 This whitepaper has two objectives:
 1) To help inform a future GC policy that encompasses the use of open source tools.
-2) Determine a governance process for esnuring the effective and sustainable implemetnation of open source tools across the GC.
+2) Determine a governance process for ensuring the effective and sustainable implemetnation of open source tools across the GC.
 
 ### Contributing
 
@@ -26,7 +26,7 @@ We want to learn from Canadians, our partners, academics and technical experts t
 
 ### GC Digital Principles (DRAFT)
 
-While the GC has been using open source tools for quite some time, within different pockets of the organization, this whitepaper, will help identify those existing efforts, and be more intentional in how they are governed. This is an important component of the GC's effort to create a more digital government. Inspired by the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, technology, and provision of services.
+While the GC has been using open source tools for quite some time within different pockets of the organization, this whitepaper will help identify existing efforts and be more intentional in how they are governed. This is an important component of the GC's effort to create a more digital government. Inspired by the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, technology, and provision of services.
 
 Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.
 
