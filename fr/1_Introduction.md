@@ -1,4 +1,4 @@
-[Table des matières] (README.md#table-of-content) | [Page suivante : Normes ouvertes »] (2_Open_Standards.md)
+[Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Normes ouvertes »](2_Normes_ouvertes.md)
 
 ## Introduction
 

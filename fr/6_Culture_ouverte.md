@@ -1,4 +1,4 @@
-[« Previous Page : Open Markets](5_Open_Markets.md) | [Table of Content](README.md#table-of-content) | [Next Page: Next Steps »](7_Next_Steps.md)
+[« Page précédente : Marchés ouverts](5_Marchés_ouverts.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Prochaines étapes »](7_Prochaines_étapes.md)
 
 ## Open Culture
 

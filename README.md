@@ -10,16 +10,16 @@ This whitepaper is being co-developed by many members of the GC open source comm
 
 We want to learn as much as possible from Canadians, our partners, academics and technical experts to help us update GC policies, governance, funding and processes with an open lens.
 
-## Table of Content
+## Table of Contents
 
-1. [Introduction](1_Introduction.md)
-2. [Open Standards](2_Open_Standards.md)
-3. [Open Source Software](3_Open_Source_Software.md)
-4. [Open Source Code](4_Open_Source_Code.md)
-5. [Open Markets](5_Open_Markets.md)
-6. [Open Culture](6_Open_Culture.md)
-7. [Next Steps](7_Next_Steps.md)
-8. [Definitions](8_Definitions.md)
+1. [Introduction](en/1_Introduction.md)
+2. [Open Standards](en/2_Open_Standards.md)
+3. [Open Source Software](en/3_Open_Source_Software.md)
+4. [Open Source Code](en/4_Open_Source_Code.md)
+5. [Open Markets](en/5_Open_Markets.md)
+6. [Open Culture](en/6_Open_Culture.md)
+7. [Next Steps](en/7_Next_Steps.md)
+8. [Definitions](en/8_Definitions.md)
 
 ## How to Contribute
 
@@ -41,14 +41,14 @@ Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos
 
 ## Table des matières
 
-1. [Introduction](1_Introduction.md)
-2. [Normes ouvertes](2_Open_Standards.md)
-3. [Logiciels libres (open source)](3_Open_Source_Software.md)
-4. [Code source ouvert](4_Open_Source_Code.md)
-5. [Marchés ouverts](5_Open_Markets.md)
-6. [Culture ouverte](6_Open_Culture.md)
-7. [Prochaines étapes](7_Next_Steps.md)
-8. [Définitions](8_Definitions.md)
+1. [Introduction](fr/1_Introduction.md)
+2. [Normes ouvertes](fr/2_Normes_ouvertes.md)
+3. [Logiciels libres (open source)](fr/3_Logiciel_libre.md)
+4. [Code source ouvert](fr/4_Code_source_libre.md)
+5. [Marchés ouverts](fr/5_Marchés_ouverts.md)
+6. [Culture ouverte](fr/6_Culture_ouverte.md)
+7. [Prochaines étapes](fr/7_Prochaines_étapes.md)
+8. [Définitions](fr/8_Définitions.md)
 
 ## Comment contribuer
 
