@@ -10,7 +10,7 @@ This whitepaper is being co-developed by many members of the GC open source comm
 
 We want to learn as much as possible from Canadians, our partners, academics and technical experts to help us update GC policies, governance, funding and processes with an open lens.
 
-## Table of Content
+## Table of Contents
 
 1. [Introduction](en/1_Introduction.md)
 2. [Open Standards](en/2_Open_Standards.md)
