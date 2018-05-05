@@ -1,4 +1,4 @@
-[« Previous Page : Introduction](1_Introduction.md) | [Table of Content](README.md#table-of-content) | [Next Page: Open Source Software »](3_Open_Source_Software.md)
+[« Page précédente : Introduction](1_Introduction.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciels libres (open source) »](3_Logiciel_libre.md)
 
 ## Open Standards
 
