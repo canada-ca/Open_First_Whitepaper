@@ -1,4 +1,4 @@
-[« Page précédente : Logiciels libres (open source)](3_Logiciel_libre.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Marchés ouverts »](5_Marchés_ouverts.md.md)
+[« Page précédente : Logiciels libres (open source)](3_Logiciel_libre.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Marchés ouverts »](5_Marchés_ouverts.md)
 
 ## Open Source Code
 
