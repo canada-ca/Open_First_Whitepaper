@@ -1,4 +1,4 @@
-[« Previous Page : Open Culture](6_Open_Culture.md) | [Table of Content](README.md#table-of-content) | [Next Page: Definitions »](8_Definitions.md)
+[« Previous Page : Open Culture](6_Open_Culture.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Definitions »](8_Definitions.md)
 
 ## Next Steps
 
