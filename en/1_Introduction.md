@@ -1,4 +1,4 @@
-[Table of Contents](../README.md#table-of-content) | [Next Page: Open Standards »](2_Open_Standards.md)
+[Table of Contents](../README.md#table-of-contents) | [Next Page: Open Standards »](2_Open_Standards.md)
 
 ## Introduction
 
