@@ -1,122 +1,123 @@
 [« Page précédente : Marchés ouverts](5_Marchés_ouverts.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Prochaines étapes »](7_Prochaines_étapes.md)
 
-## Open Culture
+## Culture d'ouverture
 
-To become open by default, government will require changes to the policies, practices, and the culture of the institution.
+Pour devenir ouvert par défaut, le gouvernement devra modifier ses politiques, ses pratiques et sa culture.
 
-Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of open within the GC. However, this has been limited to particular practices and domains.
+Partout dans le monde, les gouvernements ont adopté des pratiques en matière de libre accès, y compris la publication de données ouvertes, l'utilisation de logiciels libres et le partage des connaissances avec d'autres institutions publiques et privées. Tous ces efforts ont contribué à favoriser une culture d'ouverture au sein du gouvernement du Canada. Toutefois, cette ouverture se limite pour le moment à des pratiques et à des domaines particuliers.
 
-An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices.
+Une approche axée sur l'ouverture d'abord ne touchera pas seulement les technologues, mais l'ensemble du gouvernement, des agents d'approvisionnement aux politiciens. Par conséquent, il faut viser une meilleure compréhension des contextes dans lesquels le gouvernement du Canada tire parti des outils libres et adopte des pratiques de libre accès.
 
-The drivers that have been identified for the question of "Why Open?" include:
+La réponse à la question « Pourquoi l'ouverture? » repose notamment sur les motifs suivants :
 
-- Build together and learn from one another
-- Co-develop solutions faster, in a more transparent manner
-- Create common and sustainable solutions to resolve common business problems
-- Accelerate the development of an interoperable eco-system
-- Share code and solutions with other countries, provinces, territories, and municipalities
-- Increase the ease of interconnected services with provinces territories, municipalities, and other governments
-- Implement an ecosystem taht enables open procurement practices which will spur gorwth and innovation.
+- Bâtir ensemble et apprendre les uns des autres.
+- Formuler conjointement des solutions plus rapidement et de façon plus transparente.
+- Concevoir des solutions communes et durables pour résoudre des problèmes opérationnels communs.
+- Accélérer le développement d'un écosystème interopérable.
+- Partager les codes et les solutions avec d'autres pays, provinces, territoires et municipalités.
+- Accroître la facilité d'emploi des services interconnectés avec les provinces, les territoires, les municipalités et d'autres gouvernements.
+- Mettre en œuvre un écosystème permettant l'adoption de pratiques d'approvisionnement ouvertes qui stimuleront la croissance économique et l'innovation.
 
-The Government of Canada is the country's largest employer. Adopting an Open First approach will have huge benefits. Canada can lead in more innovative, inclusive, and agile government.
+Le gouvernement du Canada est le plus important employeur au pays. L'adoption d'une approche axée sur l'ouverture d'abord aura d'énormes avantages. Le Canada peut être un chef de file en matière de gouvernement plus innovateur, plus inclusif et plus souple.
 
-### Open Organization
+### Organisation ouverte
 
-The [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition) was written by the [Open Organization Ambassadors](https://opensource.com/open-organization/resources/ambassadors-program), a group of [Opensource.com](https://opensource.com/) community members dedicated to teaching others about the ways open source principles can enhance (and ultimately reshape) organizational cultures.
+La [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition) a été rédigée par les [Open Organization Ambassadors](https://opensource.com/open-organization/resources/ambassadors-program), un groupe formé de membres de la collectivité [opensource.com](https://opensource.com/) qui se consacrent à enseigner comment les principes du libre accès peuvent améliorer (et, ultimement, redéfinir) les cultures organisationnelles.
 
-#### Definition
+### Définition
 
-Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
+L'ouverture joue un rôle de plus en plus central dans la façon dont les groupes et les équipes de toutes tailles travaillent ensemble pour atteindre des objectifs communs. Aujourd'hui, les organisations les plus avant-gardistes — quelles que soient leurs missions — adoptent l'ouverture en tant qu'orientation essentielle au succès. Ces organisations ont constaté ce que peut leur apporter l'ouverture, notamment :
 
-- **Greater agility**, as members are more capable of working toward goals in unison and with shared vision;
-- **Faster innovation**, as ideas from both inside and outside the organization receive more equitable consideration and rapid experimentation, and;
-- **Increased engagement**, as members clearly see connections between their particular activities and an organization's overarching values, mission, and spirit.
+- **Plus grande souplesse**, car leurs membres sont plus aptes à travailler ensemble et en fonction d'une même vision pour atteindre des objectifs.
+- **Innovation accélérée**, car les idées provenant de l'intérieur et de l'extérieur de l'organisation sont prises en considération de façon plus équitable et sont plus rapidement mises à l'essai.
+- **Plus grande mobilisation**, car les membres voient clairement les liens entre les activités qu'ils exercent et les valeurs, la mission et l'esprit de l'organisation.
 
-But openness is fluid. Openness is multifaceted. Openness is contested.
+Mais l'ouverture est fluide. L'ouverture est multidimensionnelle. L'ouverture est contestée.
 
-While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:
+Bien que chaque organisation soit différente — et que chaque exemple d'une organisation ouverte soit par conséquent unique —, nous croyons que les cinq caractéristiques suivantes sont les conditions fondamentales de l'ouverture dans la plupart des contextes :
 
-- Transparency
-- Inclusivity
-- Adaptability
+- Transparence
+- Inclusivité
+- Facilité d'adaptation
 - Collaboration
-- Community
+- Collectivité
 
-#### Characteristics of an Open Organization
+#### Caractéristiques d'une organisation ouverte
 
-Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.
+Les organisations ouvertes peuvent prendre différentes formes. Leur taille, leur composition et leur mission varient. Mais les cinq caractéristiques suivantes sont les traits distinctifs de toute organisation ouverte.
 
-In practice, every open organization likely exemplifies each one of these characteristics differently, and to a greater or lesser extent. Moreover, some organizations that don't consider themselves open organizations might nevertheless embrace a few of them. But truly open organizations embody them all—and they connect them in powerful and productive ways.
+Dans la pratique, il est probable que chaque organisation ouverte incarne chacune de ces caractéristiques différemment et à divers degrés. De plus, certaines organisations qui ne se considèrent pas comme étant ouvertes peuvent néanmoins présenter certaines de ces caractéristiques. Mais les organisations véritablement ouvertes incarnent toutes ces caractéristiques et les relient entre elles de manières puissantes et productives.
 
-That fact makes explaining any one of the characteristics difficult without reference to the others.
+C'est pour cette raison qu'il est difficile d'expliquer l'une seule de ces caractéristiques sans faire mention des autres.
 
-##### Transparency
+### Transparence
 
-In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also _inclusivity_). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also _collaboration_). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also _adaptability_).
+Dans les organisations ouvertes, la transparence règne. Dans la mesure du possible (et de ce qui est à conseiller) compte tenu des lois applicables, les organisations ouvertes s'efforcent de rendre leurs données et autres documents facilement accessibles aux participants internes et externes; n'importe quel membre peut les examiner au besoin (voir aussi _inclusivité_). Les décisions sont transparentes dans la mesure où toutes les personnes touchées comprennent les processus et les arguments qui ont mené à ces décisions; dans ce contexte d'ouverture, les décisions se prêtent à l'évaluation (voir aussi _collaboration_). Le travail est transparent dans la mesure où chacun peut surveiller et évaluer l'état d'avancement d'un projet tout au long de son élaboration; dans ce contexte d'ouverture, le travail se prête à l'observation et à d'éventuelles révisions, s'il y a lieu (voir aussi _facilité d'adaptation_).
 
-In open organizations, transaprency looks like:
+Dans les organisations ouvertes, la transparence se manifeste comme suit :
 
-- Everyone working on a project or initiative has access to all pertinent materials by default.
-- People willingly disclose their work, invite participation on projects before those projects are complete and/or "final," and respond positively to request for additional details.
-- People affected by decisions can access and review the processes and arguments that lead to those decisions, and they can comment on and respond to them.
-- Leaders encourage others to tell stories about both their failures and their successes without fear of repercussion; associates are forthcoming about both.
-- People value both success and failures for the lessons they provide.
-- Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.
+- Toute personne qui travaille sur un projet ou une initiative a accès par défaut à tous les documents pertinents.
+- Les gens divulguent volontairement leur travail, invitent d'autres personnes à participer à des projets avant qu'ils ne soient terminés ou « finals » et répondent de manière positive aux demandes d'informations supplémentaires.
+- Les personnes touchées par les décisions peuvent consulter et examiner les processus et les arguments qui ont mené à ces décisions, et elles peuvent les commenter et y répondre.
+- Les dirigeants encouragent les gens à raconter leurs échecs et leurs réussites sans crainte d'incidences; les associés parlent ouvertement des deux.
+- Les gens apprécient à la fois les réussites et les échecs pour les leçons qu'ils peuvent en tirer.
+- Les objectifs sont publics et explicites, et les personnes qui travaillent sur les projets définissent clairement les rôles et les responsabilités pour favoriser la responsabilisation.
 
-##### Inclusivity
+### Inclusivité :
 
-Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also _collaboration_). Rules and protocols for participation are clear (see also _transparency_) and operate according to vetted and common standards.
+Les organisations ouvertes sont inclusives. En plus d'accueillir divers points de vue, elles mettent en place des mécanismes expressément conçus pour favoriser l'apport d'une multiplicité de points de vue au dialogue, chaque fois et partout où c'est possible. Les parties intéressées et les nouveaux arrivants peuvent commencer à aider l'organisation sans demander la permission expresse de chacun de ses intervenants (voir aussi _collaboration_). Les règles et les protocoles de participation sont clairs (voir aussi _transparence_) et fonctionnent selon des normes approuvées et communes.
 
-In open organizations, inclusivity looks like:
+Dans les organisations ouvertes, l'inclusivité se manifeste comme suit :
 
-- Technical channels and social norms for encouraging diverse points of view are well-established and obvious.
-- Protocols and procedures for participation are clear, widely available, and acknowledged, allowing for constructive inclusion of diverse perspectives.
-- The organization features multiple channels and/or methods for receiving feedback in order to accommodate people's preferences.
-- Leaders regularly assess and respond to feedback they receive, and cultivate a culture that encourages frequent dialog regarding this feedback.
-- Leaders are conscious of voices not present in dialog and actively seek to include or incorporate them.
-- People feel a duty to voice opinions on issues relevant to their work or about which they are passionate.
-- People work transparently and share materials via common standards and/or agreed-upon platforms that do not prevent others from accessing or modifying them.
+- Les moyens techniques et les normes sociales favorisant la diversité des points de vue sont bien établis et évidents.
+- Les protocoles et les procédures de participation sont clairs, largement disponibles et reconnus, ce qui permet l'inclusion constructive de divers points de vue.
+- L'organisation propose divers moyens ou méthodes pour recueillir les commentaires des gens afin de tenir compte de leurs préférences.
+- Les dirigeants évaluent régulièrement les commentaires qu'ils reçoivent et y répondent, et ils favorisent une culture qui encourage de fréquents dialogues sur ces commentaires.
+- Les dirigeants sont conscients des voix qui manquent au dialogue et cherchent activement à les inclure ou à les intégrer.
+- Les gens sentent qu'il est de leur devoir d'exprimer leurs opinions sur des questions qui sont liées à leur travail ou qui leur tiennent à cœur.
+- Les gens travaillent de façon transparente et partagent les documents selon des normes communes ou au moyen de plateformes convenues qui n'empêchent pas d'autres personnes d'accéder aux documents ou de les modifier.
 
-##### Adaptability
+###  Facilité d'adaptation
 
-Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also _transparency_) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.
+Les organisations ouvertes sont des organisations souples et résilientes. Les politiques organisationnelles et les appareils techniques permettent de veiller à ce que les boucles de rétroaction, tant positive que négative, ont un effet réel et substantiel sur le fonctionnement de l'organisation; les participants peuvent contrôler et possiblement modifier les conditions dans lesquelles ils travaillent. Les organisations ouvertes rendent compte fréquemment et rigoureusement des résultats de leurs efforts (voir aussi _transparence_) et suggèrent des ajustements à apporter à l'action collective en fonction des évaluations de ces résultats. Ainsi, les organisations ouvertes sont fondamentalement axées sur un engagement et un apprentissage en continu.
 
-In open organizations, adaptability looks like:
+Dans les organisations ouvertes, la facilité d'adaptation se manifeste comme suit :
 
-- Feedback mechanisms are accessible both to members of the organization and to outside members, who can offer suggestions.
-- Feedback mechanisms allow and encourage peers to assist one another without managerial oversight, if necessary.
-- Leaders work to ensure that feedback loops genuinely and materially impact the ways people in the organization operate.
-- Processes for collective problem solving, collaborative decision making, and continuous learning are in place, and the organization rewards both personal and team learning to reinforce a growth mindset.
-- People tend to understand the context for the changes they're making or experiencing.
-- People are not afraid to make mistakes, yet projects and teams are comfortable adapting their pre-existing work to project-specific contexts in order to avoid repeated failures.
+- Les mécanismes de rétroaction sont accessibles tant aux membres de l'organisation qu'aux membres de l'extérieur, qui peuvent faire des suggestions.
+- Les mécanismes de rétroaction permettent aux pairs de s'entraider et les encouragent à le faire sans supervision de la direction, si nécessaire.
+- Les dirigeants veillent à ce que les boucles de rétroaction aient une incidence réelle et substantielle sur la façon dont les gens travaillent au sein de l'organisation.
+- Des processus de résolution collective des problèmes, de prise de décisions concertée et d'apprentissage continu sont en place, et l'organisation récompense l'apprentissage personnel et en équipe pour renforcer une mentalité de croissance.
+- Les gens ont tendance à comprendre le contexte des changements qu'ils apportent ou qu'ils vivent.
+- Les gens n'ont pas peur de commettre des erreurs, mais les équipes sont à l'aise d'adapter leur travail préexistant en fonction du contexte propre à un projet afin d'éviter des échecs répétés.
 
 ##### Collaboration
 
-Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also _inclusivity_). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, _adaptability_).
+Dans une organisation ouverte, le travail implique par défaut plusieurs parties. Les participants croient que le travail conjoint produit de meilleurs résultats (plus efficaces, plus durables) et cherchent expressément à faire participer les autres à leurs efforts (voir aussi _inclusivité_). Les produits issus du travail effectué dans les organisations ouvertes peuvent être encore améliorés et révisés, même par des personnes qui ne sont pas affiliées à l'organisation (voir aussi _facilité d'adaptation_).
 
-In open organizations, collaboration looks like:
+Dans les organisations ouvertes, la collaboration se manifeste comme suit :
 
-- People tend to believe that working together produces better results.
-- People tend to begin work collaboratively, rather than "add collaboration" after they've each completed individual components of work.
-- People tend to engage partners outside their immediate teams when undertaking new projects.
-- Work produced collaboratively is easily available internally for others to build upon.
-- Work produced collaboratively is available externally for creators outside the organization to use in potentially unforeseen ways.
-- People can discover, provide feedback on, and join work in progress easily—and are welcomed to do so.
+- Les gens ont tendance à croire que travailler ensemble donne de meilleurs résultats.
+- Les gens ont tendance à commencer d'emblée à travailler en collaboration, plutôt que d'attendre d'avoir chacun terminé leur partie du travail avant de collaborer. 
+- Les gens ont tendance à mobiliser des partenaires à l'extérieur de leur équipe immédiate lorsqu'ils entreprennent de nouveaux projets.
+- Les travaux effectués en collaboration sont facilement accessibles au sein de l'organisation pour que d'autres puissent s'en servir.
+- Les travaux effectués en collaboration sont disponibles à l'extérieur de l'organisation pour que des créateurs à l'externe puissent éventuellement les utiliser de manières imprévues.
+- Les gens peuvent facilement découvrir et commenter les travaux en cours, et sont les bienvenus s'ils souhaitent y participer.
 
-##### Community
+##### Collectivité
 
-Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization's boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization's success or failure (see also _adaptability_).
+Les organisations ouvertes sont communales. Dans les organisations ouvertes, la participation repose sur des valeurs et des objectifs communs, et ce sont ces valeurs — plus que les emplacements géographiques ou les positions hiérarchiques arbitraires — qui aident à déterminer les limites et les conditions de cette participation. Les valeurs fondamentales sont claires, mais elles font aussi l'objet de révisions et de critiques continues, et elles sont déterminantes dans la définition des conditions qui sous-tendent la réussite ou l'échec d'une organisation (voir aussi _facilité d'adaptation_).
 
-In open organizations, community looks like:
+Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 
-- Shared values and principles that inform decision-making and assessment processes are clear and obvious to members.
-- People feel equipped and empowered to make meaningful contributions to collaborative work.
-- Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
-- People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
+- Les valeurs et les principes communs qui éclairent la prise de décisions et les processus d'évaluation sont clairs et évidents pour les membres.
+- Les gens se sentent outillés et habilités à contribuer de manière significative au travail collaboratif.
+- Les dirigeants agissent comme mentors et font preuve d'une grande responsabilité envers le groupe en se comportant conformément aux valeurs et aux principes communs.
+- Les gens ont un langage commun et travaillent ensemble afin de veiller à que les idées ne se perdent pas au fil des communications. Ils sont à l'aise de partager leurs connaissances et leurs histoires pour faire avancer le travail du groupe.
 
-### Related Information
+##### Renseignements connexes
 
-- [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
-- [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
-- [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
-- [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+- [The Open Organization Workbook] (https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
+- [Open Organization Field Guide] (https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
+- [Open Organization Leaders Manual] (https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
+- [Open Organization Guide to IT Culture Change] (https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+
