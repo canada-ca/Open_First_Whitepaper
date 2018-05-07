@@ -2,10 +2,10 @@
 
 ## Normes ouvertes
 
-- [Définition] (#definition)
-- [Interopérabilité] (#interopérabilité)
-- [Normes ouvertes privilégiées] (#normes-ouvertes-privilégiées)
-- [Exemples] (#examples)
+- [Définition](#definition)
+- [Interopérabilité](#interopérabilité)
+- [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
+- [Exemples](#examples)
 
 ### Définition
 
@@ -81,7 +81,7 @@ Comme il est mentionné dans les divers cadres d'interopérabilité déjà publi
 
 ### Normes ouvertes privilégiées
 
-La [Norme sur l'interopérabilité du Web du GC] (https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875) rend les normes ouvertes suivantes obligatoires pour les sites Web du GC.
+La [Norme sur l'interopérabilité du Web du GC](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875) rend les normes ouvertes suivantes obligatoires pour les sites Web du GC.
 
 - **Langue de balisage** : [HTML5](https://www.w3.org/TR/html5/)
 - **Codage du caractère** : [UTF-8](https://tools.ietf.org/html/rfc3629)
@@ -123,9 +123,9 @@ Services publics et Approvisionnement Canada (SPAC) a mis à l'essai le [Standar
 
 Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera utilisé dans la technologie gouvernementale. L'objectif est de les appliquer uniformément à l'ensemble des organismes gouvernementaux, afin d'améliorer les services aux utilisateurs. Les normes ouvertes sont sélectionnées après une période d'examen par les pairs et de commentaires du public par l'entremise du [Centre des normes](https://github.com/alphagov/open-standards). Voir les normes approuvées suivantes : [Normes ouvertes pour le gouvernement](https://www.gov.uk/government/publications/open-standards-for-government).
 
-- **Consulter les documents gouvernementaux** : [HTML5] (https://www3.org/TR/html5/) [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html) [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
+- **Consulter les documents gouvernementaux** : [HTML5](https://www3.org/TR/html5/) [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html) [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Partage ou collaboration en lien avec des documents gouvernementaux** : [Format de document ouvert (FDO)](https://www.iso.org/standard/66363.html)
-- **Profil d'encodage de caractères multiplateforme** : [Unicode 6.2] (http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)
+- **Profil d'encodage de caractères multiplateforme** : [Unicode 6.2](http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)
 - **Données contractuelles ouvertes** : [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/)
 - **Codes de pays** : [ISO 3166-1:2013](https://www.iso.org/fr/standard/63545.html)
 - **Codes de langues ** : [ISO 639-1:2002](https://www.iso.org/fr/standard/22109.html)

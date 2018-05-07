@@ -4,7 +4,7 @@
 
 ### Réalisations du GC
 
-#### Octobre 2017 - [Protocole d'entente (PE) concernant le gouvernement numérique avec le Royaume-Uni] (https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/protocole-dentente-concernant-gouvernement-numerique.html)
+#### Octobre 2017 - [Protocole d'entente (PE) concernant le gouvernement numérique avec le Royaume-Uni](https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/protocole-dentente-concernant-gouvernement-numerique.html)
 
 Appuyer mutuellement les objectifs de l'un et de l'autre pour :
 
@@ -12,13 +12,13 @@ Appuyer mutuellement les objectifs de l'un et de l'autre pour :
 
 > s'engager à respecter des normes ouvertes relativement à l'information, aux données et aux logiciels du gouvernement, en faisant la promotion de l'interopérabilité et de l'élaboration de solutions libres pouvant être partagées.
 
-#### Novembre 2017 - [Plan stratégique du gouvernement du Canada pour la gestion de l'information et la technologie de l'information de 2017 à 2021] (https://www.canada.ca/fr/secretariat-conseil-tresor/services/technologie-information/plan-strategique-2017-2021.html) nouvelles mesures prévues
+#### Novembre 2017 - [Plan stratégique du gouvernement du Canada pour la gestion de l'information et la technologie de l'information de 2017 à 2021](https://www.canada.ca/fr/secretariat-conseil-tresor/services/technologie-information/plan-strategique-2017-2021.html) nouvelles mesures prévues
 
 > Instaurer une stratégie sur l'utilisation des logiciels libres et des normes ouvertes.
 
 > L'utilisation de logiciels libres appuie l'interopérabilité et l'échange d'information, et elle devait être envisagée au moment d'évaluer les solutions de la GI/TI. Les produits à source ouverte sont accessibles au public, et la disponibilité de leur code source favorise l'élaboration ouverte et collaborative de leurs spécifications, ce qui améliore leur robustesse et leur interopérabilité. L'utilisation de normes ouvertes assure l'interopérabilité entre les produits et les systèmes et maintient la souplesse dans l'environnement de GI/TI. Le SCT dirigera l'élaboration d'une stratégie visant à orienter le gouvernement sur l'utilisation et la diffusion des logiciels libres et des normes ouvertes qui seront ratifiées par le CEAI du GC.
 
-#### Décembre 2017 - [Approbations du Conseil d'examen de l'architecture intégrée du GC (CEAI)] (http://www.gcpedia.gc.ca/gcwiki/images/9/98/GC_EARB_2017-12-14_Record_of_Discussion.pdf) (GCpédia)
+#### Décembre 2017 - [Approbations du Conseil d'examen de l'architecture intégrée du GC (CEAI)](http://www.gcpedia.gc.ca/gcwiki/images/9/98/GC_EARB_2017-12-14_Record_of_Discussion.pdf) (GCpédia)
 
 Les membres du CEAI du GC approuvent ce qui suit :
 
@@ -26,15 +26,15 @@ Les membres du CEAI du GC approuvent ce qui suit :
 
 > Les membres du CEAI du GC appuient l'officialisation d'une approche pangouvernementale commune à l'adoption de sources ouvertes au sein du gouvernement, ce qui se traduira par une collectivité ouverte plus solide au sein du GC. ».
 
-#### Février 2018 - [Le Canada signe la charte D7] (https://ipolitics.ca/2018/02/22/canada-joins-club-worlds-digital-government-leaders/)
+#### Février 2018 - [Le Canada signe la charte D7](https://ipolitics.ca/2018/02/22/canada-joins-club-worlds-digital-government-leaders/)
 
 > Les ministres des pays membres ont signé la charte D7, qui demande des engagements à l'égard des normes ouvertes, des logiciels libres, d'un gouvernement ouvert et de l'enseignement du codage aux enfants.
 
-#### Février 2018 - Première réunion du [Conseil consultatif sur les sources ouvertes] (https://github.com/canada-ca/OS-Advisory_Conseil-SO) (CCSO) au SCT
+#### Février 2018 - Première réunion du [Conseil consultatif sur les sources ouvertes](https://github.com/canada-ca/OS-Advisory_Conseil-SO) (CCSO) au SCT
 
 ### Réalisations que le GC est en voie de parachever
 
-#### [Livre blanc « Ouvert en premier »] (https://github.com/canada-ca/Open_First_Whitepaper)
+#### [Livre blanc « Ouvert en premier »](https://github.com/canada-ca/Open_First_Whitepaper)
 
 - Justification pour des normes ouvertes et des logiciels libres
 - Pratiques exemplaires et lignes directrices
@@ -43,17 +43,17 @@ Les membres du CEAI du GC approuvent ce qui suit :
   - Publier le code source libre
   - Devenir une organisation ouverte
 
-### [Échange de ressources ouvertes] (https://canada-ca.github.io/ore-ero/)
+### [Échange de ressources ouvertes](https://canada-ca.github.io/ore-ero/)
 
 - Liste des normes ouvertes avec l'approbation du CEAI, ainsi que d'autres normes utilisées dans les administrations publiques canadiennes
 - Liste des logiciels libres utilisés dans les administrations publiques canadiennes
 - Liste des codes en source libre publiés par les administrations publiques canadiennes
 
-#### [Principes numériques] (https://ouvert.canada.ca/fr/blogue/principes-numeriques) (version alpha)
+#### [Principes numériques](https://ouvert.canada.ca/fr/blogue/principes-numeriques) (version alpha)
 
 La version publiée sera accessible bientôt!
 
-#### [Guide numérique] (https://github.com/canada-ca/digital-playbook-guide-numerique)
+#### [Guide numérique](https://github.com/canada-ca/digital-playbook-guide-numerique)
 
 - Version détaillée des principes numériques
 - Procédure pour appliquer les principes
@@ -97,7 +97,7 @@ La version publiée sera accessible bientôt!
 ##### Contribution de logiciels libres
 
 - **Appuie et apporte une contribution active (code, questions, mise à l'essai, feuille de route..) aux logiciels libres utilisés par le gouvernement du Canada ou lorsqu'il y a des avantages pour les Canadiens**.
-- **Appuyer des initiatives telles que la Fondation Linux [Core Infrastructure Initiative] (https://www.coreinfrastructure.org/) afin de veiller à ce que les bibliothèques essentielles pour les communications Internet modernes soient surveillées et prises en charge**.
+- **Appuyer des initiatives telles que la Fondation Linux [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) afin de veiller à ce que les bibliothèques essentielles pour les communications Internet modernes soient surveillées et prises en charge**.
 
 ##### Diffuser le code élaboré à l'interne dans le cadre des licences des logiciels libres
 
