@@ -85,7 +85,7 @@ La [Norme sur l'interopérabilité du Web du GC](https://www.tbs-sct.gc.ca/pol/d
 
 - **Langue de balisage** : [HTML5](https://www.w3.org/TR/html5/)
 - **Codage du caractère** : [UTF-8](https://tools.ietf.org/html/rfc3629)
-- **Données HTML et vocabulaire de données ** : [RDFa Lite](https://www.w3.org/TR/rdfa-lite/), [Schema.org](http://schema.org/)
+- **Données HTML et vocabulaire de données** : [RDFa Lite](https://www.w3.org/TR/rdfa-lite/), [Schema.org](http://schema.org/)
 - **Fil Web** : [Format de syndication Atom](https://tools.ietf.org/html/rfc4287)
 
 La [Norme sur l'accessibilité des sites Web du GC](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601) rend la norme ouverte suivante obligatoire pour les sites Web du GC.
@@ -128,11 +128,10 @@ Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera
 - **Profil d'encodage de caractères multiplateforme** : [Unicode 6.2](http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)
 - **Données contractuelles ouvertes** : [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/)
 - **Codes de pays** : [ISO 3166-1:2013](https://www.iso.org/fr/standard/63545.html)
-- **Codes de langues ** : [ISO 639-1:2002](https://www.iso.org/fr/standard/22109.html)
+- **Codes de langues** : [ISO 639-1:2002](https://www.iso.org/fr/standard/22109.html)
 - **Données sur le développement international** : [IATI](http://iatistandard.org/202/)
 - **Publication des postes vacants** : [JobPosting - Schema.org](http://schema.org/JobPosting)
 - **Échange de points de localisation** : [Système européen de référence terrestre (ETRS) 89](http://etrs89.ensg.ign.fr/), [Système géodésique mondial (WGS) 84)](https://www.nga.mil/ProductsServices/GeodesyandGeophysics/Pages/WorldGeodeticSystem.aspx)
 - **Identificateurs persistants et résolubles** : [Protocole de transfert hypertexte (HTTP) 1.1](https://tools.ietf.org/html/rfc2616), [Identificateur uniforme des ressources (URI)](https://tools.ietf.org/html/rfc3986)
 - **Échange de coordonnées** : [vCard](https://tools.ietf.org/html/rfc6350)
 - **Échange d'événements du calendrier** : [iCalendar](https://tools.ietf.org/html/rfc5545)
-

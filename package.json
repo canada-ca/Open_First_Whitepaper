@@ -4,7 +4,7 @@
   "description": "The Treasury Board of Canada Secretariat is writing this whitepaper to pull together our thinking on how to shift government to an 'Open' approach.",
   "main": "index.js",
   "scripts": {
-    "test": "markdownlint \"*.md\""
+    "test": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\""
   },
   "repository": {
     "type": "git",

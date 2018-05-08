@@ -45,4 +45,3 @@ L'époque où l'on concevait un programme, un service ou un outil sans parler à
 #### Interopérabilité
 
 Les particuliers, les entreprises, le public, les institutions et les objets communiquent tous par des échanges informatiques. Ces échanges informatiques sont devenus une voie de communication essentielle, et leur hétérogénéité globale est une raison encore plus importante d'interopérabilité, c'est-à-dire la capacité de faire en sorte que divers systèmes d'information communiquent entre eux. Un manque d'interopérabilité peut, au mieux, mener à une rupture des communications ou des opérations et, au pire, à une perte totale d'accès à de l'information précieuse.
-

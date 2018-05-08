@@ -24,7 +24,7 @@ Le gouvernement du Canada est le plus important employeur au pays. L'adoption d'
 
 La [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition) a été rédigée par les [Open Organization Ambassadors](https://opensource.com/open-organization/resources/ambassadors-program), un groupe formé de membres de la collectivité [opensource.com](https://opensource.com/) qui se consacrent à enseigner comment les principes du libre accès peuvent améliorer (et, ultimement, redéfinir) les cultures organisationnelles.
 
-### Définition
+#### Définition
 
 L'ouverture joue un rôle de plus en plus central dans la façon dont les groupes et les équipes de toutes tailles travaillent ensemble pour atteindre des objectifs communs. Aujourd'hui, les organisations les plus avant-gardistes — quelles que soient leurs missions — adoptent l'ouverture en tant qu'orientation essentielle au succès. Ces organisations ont constaté ce que peut leur apporter l'ouverture, notamment :
 
@@ -50,7 +50,7 @@ Dans la pratique, il est probable que chaque organisation ouverte incarne chacun
 
 C'est pour cette raison qu'il est difficile d'expliquer l'une seule de ces caractéristiques sans faire mention des autres.
 
-### Transparence
+##### Transparence
 
 Dans les organisations ouvertes, la transparence règne. Dans la mesure du possible (et de ce qui est à conseiller) compte tenu des lois applicables, les organisations ouvertes s'efforcent de rendre leurs données et autres documents facilement accessibles aux participants internes et externes; n'importe quel membre peut les examiner au besoin (voir aussi _inclusivité_). Les décisions sont transparentes dans la mesure où toutes les personnes touchées comprennent les processus et les arguments qui ont mené à ces décisions; dans ce contexte d'ouverture, les décisions se prêtent à l'évaluation (voir aussi _collaboration_). Le travail est transparent dans la mesure où chacun peut surveiller et évaluer l'état d'avancement d'un projet tout au long de son élaboration; dans ce contexte d'ouverture, le travail se prête à l'observation et à d'éventuelles révisions, s'il y a lieu (voir aussi _facilité d'adaptation_).
 
@@ -63,7 +63,7 @@ Dans les organisations ouvertes, la transparence se manifeste comme suit :
 - Les gens apprécient à la fois les réussites et les échecs pour les leçons qu'ils peuvent en tirer.
 - Les objectifs sont publics et explicites, et les personnes qui travaillent sur les projets définissent clairement les rôles et les responsabilités pour favoriser la responsabilisation.
 
-### Inclusivité :
+##### Inclusivité
 
 Les organisations ouvertes sont inclusives. En plus d'accueillir divers points de vue, elles mettent en place des mécanismes expressément conçus pour favoriser l'apport d'une multiplicité de points de vue au dialogue, chaque fois et partout où c'est possible. Les parties intéressées et les nouveaux arrivants peuvent commencer à aider l'organisation sans demander la permission expresse de chacun de ses intervenants (voir aussi _collaboration_). Les règles et les protocoles de participation sont clairs (voir aussi _transparence_) et fonctionnent selon des normes approuvées et communes.
 
@@ -77,7 +77,7 @@ Dans les organisations ouvertes, l'inclusivité se manifeste comme suit :
 - Les gens sentent qu'il est de leur devoir d'exprimer leurs opinions sur des questions qui sont liées à leur travail ou qui leur tiennent à cœur.
 - Les gens travaillent de façon transparente et partagent les documents selon des normes communes ou au moyen de plateformes convenues qui n'empêchent pas d'autres personnes d'accéder aux documents ou de les modifier.
 
-###  Facilité d'adaptation
+##### Facilité d'adaptation
 
 Les organisations ouvertes sont des organisations souples et résilientes. Les politiques organisationnelles et les appareils techniques permettent de veiller à ce que les boucles de rétroaction, tant positive que négative, ont un effet réel et substantiel sur le fonctionnement de l'organisation; les participants peuvent contrôler et possiblement modifier les conditions dans lesquelles ils travaillent. Les organisations ouvertes rendent compte fréquemment et rigoureusement des résultats de leurs efforts (voir aussi _transparence_) et suggèrent des ajustements à apporter à l'action collective en fonction des évaluations de ces résultats. Ainsi, les organisations ouvertes sont fondamentalement axées sur un engagement et un apprentissage en continu.
 
@@ -97,7 +97,7 @@ Dans une organisation ouverte, le travail implique par défaut plusieurs parties
 Dans les organisations ouvertes, la collaboration se manifeste comme suit :
 
 - Les gens ont tendance à croire que travailler ensemble donne de meilleurs résultats.
-- Les gens ont tendance à commencer d'emblée à travailler en collaboration, plutôt que d'attendre d'avoir chacun terminé leur partie du travail avant de collaborer. 
+- Les gens ont tendance à commencer d'emblée à travailler en collaboration, plutôt que d'attendre d'avoir chacun terminé leur partie du travail avant de collaborer.
 - Les gens ont tendance à mobiliser des partenaires à l'extérieur de leur équipe immédiate lorsqu'ils entreprennent de nouveaux projets.
 - Les travaux effectués en collaboration sont facilement accessibles au sein de l'organisation pour que d'autres puissent s'en servir.
 - Les travaux effectués en collaboration sont disponibles à l'extérieur de l'organisation pour que des créateurs à l'externe puissent éventuellement les utiliser de manières imprévues.
@@ -114,10 +114,9 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 - Les dirigeants agissent comme mentors et font preuve d'une grande responsabilité envers le groupe en se comportant conformément aux valeurs et aux principes communs.
 - Les gens ont un langage commun et travaillent ensemble afin de veiller à que les idées ne se perdent pas au fil des communications. Ils sont à l'aise de partager leurs connaissances et leurs histoires pour faire avancer le travail du groupe.
 
-##### Renseignements connexes
+### Renseignements connexes
 
-- [The Open Organization Workbook] (https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
-- [Open Organization Field Guide] (https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
-- [Open Organization Leaders Manual] (https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
-- [Open Organization Guide to IT Culture Change] (https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
-
+- [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
+- [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
+- [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
+- [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department

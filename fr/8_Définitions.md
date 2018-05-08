@@ -45,4 +45,3 @@ Le copyleft est un régime de licences de droit d’auteur dans lequel un auteur
 ### Système de contrôle des versions
 
 Un produit ou service logiciel conçu pour stocker et récupérer plusieurs versions du code source et des biens connexes de façon uniforme, et qui peut être centralisé, décentralisé ou distribué.
-

@@ -64,7 +64,7 @@ La version publiée sera accessible bientôt!
 
 ##### Normes ouvertes
 
-- **Approbation des normes ouvertes actuelles définies dans la Norme sur l'interopérabilité des sites Web du GC et la 	Norme sur l'accessibilité des sites Web**
+- **Approbation des normes ouvertes actuelles définies dans la Norme sur l'interopérabilité des sites Web du GC et la Norme sur l'accessibilité des sites Web**
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom
   - WCAG 2.0
 
@@ -123,4 +123,3 @@ La version publiée sera accessible bientôt!
 #### Stratégie de contribution des logiciels libres
 
 - se conformer aux licences des projets de logiciels libres auxquels ils contribuent.
-
