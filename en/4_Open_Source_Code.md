@@ -148,56 +148,6 @@ The following chart details other key differences in this decision:
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
 
-#### Due Diligence / Licence Management
-
-##### Managing Licence Obligations
-
-Where reciprocal licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code, to the extent specified in the reciprocal licence, must come under the exact same licence, or, if the licence permits, a later version of the same licence, when you distribute the software. In such a case where you encounter a reciprocal licensing obligation, there are three ways to comply:
-
-1. Do not distribute your software;
-2. License your software under the exact same licence (or, where the licence permits, a compatible licence); or
-3. Re-implement parts of your software such that it does not include any code or libraries that come under a reciprocal licence (or, at least, ensure that your code does not integrate tightly with reciprocal code such that the obligation engages).
-
-Closed-source software vendors typically opt for solution three when they notice inadvertent reciprocal code, given that they need to distribute their software to paying customers but do not usually want to open up the rest of their source code to others. It is therefore important for these vendors to conduct a “due diligence” audit on their software projects, checking that their software does not include any OSS code or libraries that engage a reciprocal licensing obligation.
-
-Likewise, organizations and businesses releasing their code as OSS should also conduct due diligence audits. Although they are already applying an OSS licence, a reciprocal licensing obligation generally imposes a requirement to license the code under the exact same licence. Thus, releasing code under a different OSS licence may not always comply. It may be necessary to dual-license your own code under the other reciprocal licence, or, in a similar manner to the closed-source context, ensure that the software does not include any code or libraries that engage the reciprocal obligation. Although reciprocal obligations pose the strictest set of parameters, organizations and businesses must also ensure they comply with other licensing terms. For example, they must comply with notice requirements and obligations to distribute the original source code. A due diligence audit ensures that this compliance is in place.
-
-There are two general methods to conduct a due diligence audit: provenance checking and code scanning.
-
-##### Provenance Checking
-
-Provenance checking involves maintaining a careful audit trail: the developers maintain internal records of what code is in the project, how that code is used, and what licence applies to each element. Some build automation tools such as Maven (which developers use to automate code compilation and deployment) help with functionality to indicate, track, and report licences in a project, thereby assisting and standardizing the task of keeping records.
-
-Looking at the internal audit records, a licensing expert can check a project for compliance either when a developer adds a new external element or upon release of the software (or both). A fresh legal analysis of the licence text is not required for each and every new library imported into a project. Once a licence manager approves use of a particular licence within a project, developers can generally safely use other libraries under the same licence, as long as they use them in a similar manner. For example, a business or organization might establish a policy for a project that: grants automatic approval for specific permissive licences including BSD, MIT and Apache; grants approval for weak reciprocal licences such as the LGPL on a case-by-case basis; and grants approval for strong reciprocal licences, such as the GPL, only after a careful and thorough legal analysis.
-
-##### Automated Code Scanning
-
-In many cases, provenance checking should prove sufficient for smaller projects. However, it may prove impractical for larger companies or larger projects. A large company often owns code purchased from other parties, or code received from acquisitions and mergers, that may have no accurate licence audit for the code. In this case, it is best to use automated code scanning tools that search through the entire code base to determine the licences that apply. Automated code scanning utilities search text files and embedded code comments that may indicate the licence applicable to a particular element of the software. Some tools even compare the code itself against known third-party OSS code.
-
-Of course, while these tools can prove highly useful, it must be kept in mind that the results do not provide certainty that the source code is under only the reported licences, nor that it is free of copyright or patent infringements. An inherent limitation of the audit is that it can only compare the client’s source code to a wide, but not exhaustive, collection of other source code repositories. It may not detect copyrighted source code from closed-source vendors, or source code from smaller OSS projects. Where possible, businesses and organizations may also wish to reduce their risks and ease the auditing task by using software libraries from trustworthy organizations that have already audited the library code.
-
-#### Patent Management and Other Legal Issues
-
-All of the OSS legal considerations which apply when using OSS equally apply when you distribute OSS. For code that you distribute, the lack of a disclaimer and warranty can work in your favour. The lack of a choice of forum or choice of law clause generates equal legal uncertainty for all parties. In addition to these legal issues, OSS distribution raises concerns related to patents. By licensing your code under a OSS licence, you may either implicitly or explicitly license the patents you own if any of the code implicates them. It is important to understand the nature and scope of the patent licences you grant.
-
-##### Patent Licence Scope
-
-The treatment of patents varies greatly throughout different OSS licences. The traditional approach – still seen in popular permissive licences such as BSD and MIT – is an implicit patent licence: the licence makes no specific mention of patents, but rather the stated right to use the software implicitly grants the licensee permission to “use” any relevant patents held by the licensor. An implicit patent licence almost certainly grants others the right to use the original code as distributed, including where such use implicates patent held by the licensor. However, the scope of an implicit patent licence becomes less clear when downstream parties modify the original code. If the modifications change the typical “use” of the software, does the original patent licence still cover a use that is different from what the licensor originally intended? If a new use infringes a different patent held by the original licensor, does the broad grant of rights to make modifications also end up licensing this other patent? Most likely, the answer to these two questions in “no”: the implicit patent grant often covers only uses implicated by the licensor's original contributions, but not other uses that additional features and modifications might involve. Most modern OSS licences attempt to increase clarity and legal certainty by making this scope limitation explicit. For example, the Apache Version 2.0 licence provides:
->  Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. Under this clause, the patent licence only extends to uses of the software applicable to existing contributions. Where further downstream contributions alter the software's use, the original patent licence may no longer apply.
-
-Although a OSS licence could feasibly grant a broader patent licence that would cover downstream modifications, no popular licences presently take this approach. Not even the highly freedom-assertive GPLv3 licence makes such a grant. Given the nearly limitless number of ways that additional features could alter the typical use of a software application, such a broad patent licence is likely untenable for most businesses managing a patent portfolio.
-
-Therefore, as a best practice, whenever you modify OSS you should consider whether the modifications change the use of the software in a way that might implicate other patent licences, or in such a way that existing patent licences may not cover the new use.
-
-##### Patent Termination and Retaliation Clauses
-
-Many OSS licences attempt to protect the software against patent infringement lawsuits by including automatic-termination clauses. These clauses trigger whenever a licensee alleges that any part of the software infringes his or her patent. For example, the [Apache Version 2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0.html) succinctly states:
->  If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
-
-These triggers differ amongst licences. For example, unlike the Apache Version 2.0 licence, the [Mozilla Public License Version 2](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) explicitly allows parties to defend themselves with patent infringement counterclaims and crossclaims, all without triggering the termination clause.
-
-Some licences also include broader retaliation clauses - that is, a broader termination of rights. The Apache Version 2.0 patent termination clause, set out above, only terminates patent licences. The MPLv2, on the other hand, terminates all rights under both copyright and patent law. When involved in patent infringement litigation, whether initiating an originating action or a counterclaim, it is important to carefully assess the impact this could have on any OSS that you use or towards which you contribute.
-
 #### Managing Project Participation
 
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
