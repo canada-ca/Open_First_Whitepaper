@@ -1,232 +1,226 @@
-[« Page précédente : Logiciels libres (open source)](3_Logiciel_libre.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Marchés ouverts »](5_Marchés_ouverts.md)
+## Code source libre
 
-## Open Source Code
+- [Diffusion de logiciels libres](#diffusion-de-logiciels-libres)
+- [Avantages](#avantages)
+- [Risques et inconvénients](#risques et inconvénients)
+- [Pratiques exemplaires pour la diffusion de LL](# pratiques exemplaires pour la diffusion des LL)
+- [Licences de LL privilégiées](# licences de LL privilégiées)
+- [Dépôts de codes privilégiés](# dépôts de codes privilégiés)
+- [Exemples](#exemples)
 
-- [Releasing Open Source Software](#releasing-open-source-software)
-- [Benefits](#benefits)
-- [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
-- [Preferred OSS Licences](#preferred-oss-licences)
-- [Preferred Code Repositories](#preferred-code-repositories)
-- [Examples](#examples)
+### Diffusion de logiciels libres
 
-### Releasing Open Source Software
+Grâce aux données ouvertes, à l'information ouverte et au dialogue ouvert, le gouvernement du Canada est en mesure d'accroître la transparence et la reddition de comptes, d'accentuer la mobilisation des citoyens et de stimuler l'innovation et les possibilités économiques.
 
-The Government of Canada creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
+Au moment de mettre au point un logiciel entièrement nouveau, une entreprise ou un organisme gouvernemental doit choisir entre le maintien du code source restreint ou la diffusion de celui-ci en tant que logiciel libres (LL). Il arrive que les gouvernements et les organismes sans but lucratif diffusent le logiciel à titre de LL pour offrir une gamme d'avantages supplémentaires aux collectivités, aux entreprises et au grand public. Les entreprises, notamment les fournisseurs de logiciels, diffusent souvent des logiciels en tant que LL lorsqu'ils sont accessoires à leurs activités de base. Ils tirent ainsi avantage du fait que d'autres personnes collaborent au logiciel, répartissant ainsi les coûts de développement sans pour autant réduire leur part de marché en ce qui concerne leur activité de base.
 
-When developing entirely new software a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary to their core business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
+Les développeurs qui contribuent aux LL et les distribuent proviennent d'environnements variés et diversifiés du secteur public, du secteur privé et du milieu universitaire. Selon des études, il existe de nombreux et divers motifs de participation au LL, du gain économique en passant par le sens du devoir civique envers le progrès social et technologique. Les risques et les inconvénients de la participation au LL diffèrent également considérablement selon le contexte. ([source](http://www.irma-international.org/viewtitle/10083/))
 
-Developers who contribute to OSS and distribute it come from wide and varied environments across the public sector, private sector and academia. Studies show numerous and diverse motivations for FOSS participation, ranging from economic gain to a sense of civic duty towards social and technological advancement. Risks and drawbacks of OSS participation also widely differ, depending on the context. ([source](http://www.irma-international.org/viewtitle/10083/))
+### Avantages
 
-### Benefits
+#### Collaboration pour réduire les frais de développement
 
-#### Collaboration to Lower Development Costs
+Lorsque nous diffusons un programme logiciel interne en vertu d'une licence de LL, cela a pour effet de stimuler les contributions externes des gouvernements, des entreprises, des étudiants et des citoyens sous forme de codes sources, de bogues et de documentation. Il peut s'agir d'un projet constituant un effort réuni de plusieurs entreprises, de travailleurs du secteur public et de bénévoles. Les entreprises investissent régulièrement une part de leurs ressources pour participer aux projets LL : 40 % des promoteurs des collectivités de LL sont rémunérés pour leur participation. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
 
-When we publicly release an in-house software program under an OSS licence, it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+Lorsqu'une entreprise ou un organisme collabore à l'élaboration de nouvelles caractéristiques ou à la création d'un nouveau projet fondé sur les systèmes d'exploitation existants, elle ou il tire également parti de tous les efforts que les collaborateurs ont déjà investis. Si l'on distribue des modifications en tant que LL, les travaux antérieurs peuvent même inclure le code et les bibliothèques en vertu de licences réciproques (qu'une entreprise ou un organisme ne peut distribuer que si son projet constitue également un LL).
 
-When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
+En raison de la concurrence mondiale croissante, de l'augmentation des coûts de R&D et de la réduction du cycle de vie des produits, les entreprises réduisent leur dépendance aux modèles traditionnels d'innovation fermée. Elles dépendent de plus en plus de l'accès à des sources externes de connaissances et de la collaboration avec des personnes, des entreprises et d'autres organisations qui possèdent des connaissances pertinentes pouvant être utilisées au profit du processus d'innovation de l'organisation. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
+#### Vision à long terme
 
-With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
+La diffusion d'un logiciel en tant que LL pour inciter d'autres personnes à y collaborer peut aussi contribuer à assurer la viabilité d'un projet futur. Par exemple, une organisation ou une entreprise peut mettre au point un outil logiciel à l'aide d'un budget fixe et limité pour la recherche et le développement. Pour que le projet se poursuive et se développe, la participation d'autres collaborateurs est nécessaire.
 
-#### Long-term Feasibility
+#### Établissement de la réputation
 
-Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
+Pour les personnes qui participent au développement d'un LL, l'établissement d'une bonne réputation représente un facteur de motivation conjoint et un avantage concret. Dans certains cas, l'objectif consiste à démontrer les compétences et les talents aux employeurs; dans d'autres cas, il s'agit d'obtenir un statut auprès d'une collectivité.
 
-#### Reputation Building
+La plupart des projets de LL sont ouverts à la contribution de tous les développeurs. Ainsi, les participants sont en mesure de mettre en valeur et de démontrer leur talent aux employeurs potentiels. Non seulement les participants peuvent-ils inclure leur participation dans leur CV, mais les employeurs peuvent également sélectionner et embaucher des talents directement à partir d'un bassin de développeurs qui contribuent à un projet de LL. Ces développeurs peuvent avoir des compétences éprouvées dans des domaines d'expertise souhaitables. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97)).
 
-For individuals participating in OSS development, a common motivating factor and concrete benefit is building a good reputation. In some cases, the goal is to exhibit skills and talents to employers; in other cases, it is to earn status with a community.
+La présence d'une culture de « méritocratie » populaire dans de nombreux projets de LL profite également aux contributeurs ayant un statut et un privilège. Règle générale, les contributeurs les plus importants ont tendance à avoir un contrôle accru du projet - par exemple, lorsqu'il s'agit de décider des priorités pour de nouvelles fonctions. ([source](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)).
 
-Most OSS projects are open for any developer to contribute. Thus, participants are able to develop and demonstrate their talent to potential employers. Not only can participants add their involvement to a C.V., but employers can also screen and hire talent directly from a pool of the developers contributing to a OSS project. These developers may have proven competencies in desirable areas of expertise. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+Certes, la réputation et la bonne volonté sont aussi extrêmement importantes pour les contributeurs du secteur public. La participation à un LL peut contribuer à l'établissement d'une réputation positive parmi d'autres développeurs et utilisateurs de LL.
 
-A culture of “meritocracy” popular within many FOSS projects also serves to benefit contributors with status and privilege. In general, the strongest contributors tend to have the most control over the project - for example, in deciding upon priorities for new features. ([source](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel))
+#### Avantages pour le public
 
-Of course, reputation and good will are also extremely important to public sector contributors. Participation in OSS can help build a positive reputation amongst other developers and amongst OSS users.
+Les LL peuvent s'harmoniser parfaitement avec le rôle des organismes du secteur public pour offrir de vastes avantages au grand public, notamment le maintien de l'infrastructure technologique de la société et une contribution à son évolution.
 
-#### Public Benefits
+L'émergence des entreprises sociales et l'intérêt entrepreneurial pour l'amélioration du fonctionnement des gouvernements, en particulier au niveau local, représente un phénomène nouveau. Les technologues mobilisés sur le plan civil élaborent des applications de LL pour résoudre des problèmes sociaux comme les retards attribuables à la bureaucratie. Bien que tous les projets de logiciels ayant des objectifs sociaux plus larges ne soient pas du type LL, les avantages des LL pour l'amélioration de la disponibilité globale des technologies réutilisables dans la société correspondent souvent aux objectifs de ces entrepreneurs sociaux.
 
-OSS can align well with the role of public sector agencies in providing wide benefits to the public-at-large, such as in maintaining society’s technological infrastructure and helping it evolve.
+Même hors des entreprises sociales, la diffusion de LL par les organisations du secteur public peut aider à stimuler l'innovation dans le secteur privé. Elle permet aux entreprises de créer des offres spécialisées basées sur les LL, même lorsque ces logiciels pourraient autrement être trop coûteux pour que l'entreprise puisse les développer à l'interne.
 
-A newer phenomenon is the emergence of social enterprises and entrepreneurial interest in making governments work better, particularly at the local level. Civically-engaged technologists develop OSS applications to solve social issues such as bureaucratic delays. Although not all software projects with broader social aims are OSS, the benefits of OSS in improving the overall availability of re-usable technology in society often aligns well with the aims of these social entrepreneurs.
+Les LL peuvent aussi contribuer à maximiser l'efficacité économique globale au sein de la société. Lorsque les logiciels sont disponibles gratuitement et que n'importe qui peut ajouter les nouvelles fonctions nécessaires, les entreprises peuvent utiliser ces ressources existantes plutôt que de déployer des efforts pour reproduire un projet existant.
 
-Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
+#### Avantages pour l'employeur
 
-OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend effort duplicating an existing project.
+Pendant les processus d'embauche, la direction de la TI peut utiliser les contributions comme mesure d'évaluation de la qualité des embauches potentielles. De plus, les candidats peuvent être incités à se familiariser avec certaines parties du code source en vue du processus d'entrevue. Par conséquent, les employés peuvent entrer dans le milieu de travail en connaissant bien certaines parties de la base des codes, réduisant ainsi le temps nécessaire pour la formation de l'employé en tant que membre de l'équipe le plus productif possible.
 
-#### Employer Benefits
+#### Sécurité
 
-During hiring processes IT management may use contributions as a metric to assess the quality of potential hires. Further, applicants can be encouraged to familiarize themselves with parts of the source code in preparation for the interview process. As a result, employees can enter the workplace familiar with parts of the code base reducing the amount of time required to train the employee to become a maximally productive member of the team.
+Comme nous l'avons vu en ce qui a trait au [logiciel libre](3_Logiciel_libre.md), la distribution de LL présente également des avantages et des inconvénients en matière de sécurité. Le LL surveille davantage le code pour régler les problèmes de sécurité, mais, en même temps, il le met à la disposition de ceux qui ont des objectifs malveillants.
 
-#### Security
+#### Science ouverte
 
-As discussed with respect to [Open Source Software](3_Open_Source_Software.md), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
+La portée des jeux de données utilisés dans la recherche scientifique s'est considérablement élargie dernièrement. Les études génétiques utilisent maintenant couramment des téraoctets de données séquentielles. Les technologies qui génèrent ces données se développent rapidement, et une analyse rigoureuse exige de plus en plus que les scientifiques modifient les logiciels existants ou créent des programmes entièrement nouveaux. Cela n'est possible que parce que la collectivité scientifique a adopté la création et le partage de codes informatiques à l'aide de licences de logiciels libres.
 
-#### Open Science
+Par conséquent, la pleine participation de la collectivité scientifique exigera de plus en plus que les scientifiques du gouvernement produisent et partagent des codes informatiques. En effet, à mesure que les logiciels deviennent plus importants pour la science, les revues commencent à exiger la diffusion du code en tant que condition de publication. [PLLSOne](http://journals.plos.org/plosone/s/materials-and-software-sharing "PLLSOne"), l'un des principaux éditeurs scientifiques en libre accès, s'attend à ce que « tous les chercheurs qui soumettent à PLLS des articles dans lesquels le logiciel constitue la partie centrale du manuscrit rendent disponibles tous les logiciels pertinents sans restrictions lors de la publication de leurs travaux ». À mesure qu'augmente la proportion de la recherche à laquelle les logiciels sont essentiels au travail, il est clair que les scientifiques du gouvernement auront besoin de politiques de soutien pour continuer à participer.
 
-The scope of data sets used in scientific research has expanded dramatically recently. Genetic studies now routinely use terabytes of sequence data. The technologies that generate these data are developing rapidly, and rigorous analysis increasingly requires scientists to modify existing software, or create entirely new programs. This is only possible because standard practice in the scientific community has embraced the creation and sharing of computer code using Open Software licensing.
+#### Transparence
 
-Consequently, full participation in the scientific community will increasingly require government scientists to produce and share computer code. Indeed, as software becomes more important to science, journals are starting to require the release of code as a condition of publication. [PLOSOne](http://journals.plos.org/plosone/s/materials-and-software-sharing "PLOSOne"), one of the premier open-access science publishers, expects "that all researchers submitting to PLOS submissions in which software is the central part of the manuscript will make all relevant software available without restrictions upon publication of the work". As the proportion of research in which "software is central" to the work increases, it is clear that government scientists will need supportive policies in order to continue to participate.
+Le Canada a établi un mandat très clair de gouvernement ouvert afin d'améliorer la transparence et la responsabilisation, d'accroître la participation des citoyens, et de stimuler l'innovation et les débouchés économiques par l'intermédiaire de données ouvertes, d'information ouverte et de dialogue ouvert. Le partage de logiciels internes en vertu d'une licence libre s'harmonise naturellement avec ces objectifs et constitue une excellente façon de remettre quelque chose aux contribuables. De plus, le libre accès à un projet de LL (p. ex., code source, problèmes/bogues, procès-verbaux de gouvernance/réunions, documentation/forum de soutien) permet une évaluation réelle de sa maturité ainsi que du niveau d'activité de sa collectivité et de ses fournisseurs de soutien. Par conséquent, il est plus facile de comparer la vitesse de développement et la santé de multiples projets/solutions.
 
-#### Transparency
+### Risques et inconvénients
 
-Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
+#### Manque de revenus pour les licences directes
 
-### Risks and Drawbacks
+Le fait que n'importe qui puisse redistribuer gratuitement les LL constitue un obstacle évident pour de nombreux fournisseurs de logiciels qui n'utilisent pas le modèle d'exploitation de LL. Outre les frais nominaux pour la distribution sur support matériel, il n'est généralement pas possible de tirer profit du LL en utilisant le modèle commercial traditionnel de vente directe de licences de logiciels. Le manque de recettes directes provenant de l'octroi de licences peut également constituer un obstacle dans les organisations du secteur public où des politiques de « recouvrement des coûts » sont en place. Même si les LL peuvent contribuer à l'atteinte de nombreux objectifs de la fonction publique, ceux-ci ne favorisent pas nécessairement la compensation des coûts et risques associés au développement de logiciels.
 
-#### Lack of Direct Licensing Revenue
+Il convient toutefois de noter que, dans le cas de nombreux projets de logiciels auxquels les fonctionnaires, et en particulier les scientifiques, peuvent participer, la valeur économique d'un programme individuel sera minime. Dans les organisations où il n'existe pas de mécanisme établi de vente de logiciels, les efforts nécessaires pour établir et gérer la vente de programmes et pour fournir le niveau de soutien auquel on s'attendrait dans un marché commercial sont susceptibles de dépasser les revenus potentiels qui pourraient être réalisés.
 
-The fact that anyone can redistribute OSS for free is an obvious barrier for many software vendors who are not engaging the OSS business model. Other than nominal charges for distribution on physical media, it is generally not feasible to profit from OSS using the traditional business model of directly selling software licences. The lack of direct licensing revenue can also pose a barrier in public sector organizations where “cost recovery” policies are in place. Even though OSS may aid numerous public service goals, these do not necessarily help to offset the costs and risks of developing the software.
+#### La collectivité peut ne pas se regrouper
 
-It should be noted, however, that for many software projects in which government employees, and particularly scientists, may be engaged, the economic value of an individual program will be minimal. In organizations where there is no established mechanism for selling software, the effort necessary to establish and manage the sale of programs, and to provide the level of support that would be expected in a commercial marketplace, is likely to exceed any potential revenues that may be realized.
+Il existe de nombreux exemples de projets de LL florissants comme le système Linux, le serveur Apache et le navigateur Web Firefox. Ces projets impliquent des collectivités actives avec des centaines, et dans certains cas des milliers, de développeurs de logiciels. Cependant, il y a aussi un nombre relativement élevé de projets de LL où le développement actif a cessé. Bien entendu, bon nombre de ces projets sont probablement ceux de développeurs individuels qui ont enregistré un projet, mais qui n'ont pas fait d'efforts subséquents ou de progrès dans le développement d'une collectivité. Quoi qu'il en soit, les chiffres présentent une mise en garde, à savoir que pour exécuter correctement un projet de LL, vous devriez être prêt à investir les ressources nécessaires pour que le projet passe par une première version et fasse face à tout retard dans la participation de la collectivité. Pour affronter ce risque, le gouvernement du Canada doit créer des systèmes qui favorisent ou introduisent un système de récompenses pour les contributions de sources ouvertes, visant à promouvoir les efforts des employés en vue d'atteindre des résultats de collaboration et d'ouverture (source?).
 
-#### Community May Not Coalesce
+#### Complexité juridique
 
-There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement. To address this risk the GoC should create systems which promote, or introduce a reward system for, open-source contributions which is geared to promoting the efforts of employees toward the achievement of open, collaborative outcomes[2].
+La diffusion d'un logiciel en tant que LL exige habituellement un examen juridique attentif des licences, surtout lorsque le logiciel comprend des bibliothèques et des codes provenant de sources multiples. Bien que les licences de source fermée exigent également un examen juridique minutieux, de nombreuses licences de LL sont étoffées et contiennent des complexités juridiques que le personnel du contentieux ne connaît peut-être pas. Certains accords internationaux d'interopérabilité peuvent comporter des clauses qui empêchent l'utilisation des composantes de LL. (exemple?)
 
-#### Legal Complexities
+#### Risque de responsabilité en matière de brevets
 
-Releasing software as OSS usually requires a careful legal consideration of the licences, especially when the software includes libraries and code from multiple sources. Although closed-source licences also require careful legal scrutiny, many OSS licences are long and contain legal complexities with which in-house legal staff may not be familiar. Some international interoperability agreements may include clauses that prevent use of OSS components. (example?)
+Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou diminue le risque de responsabilité en matière de brevets. D'une part, la distribution de votre code en tant que LL l'expose à un examen plus approfondi. D'autres peuvent consulter le code et tenter de trouver des cas de contrefaçon de brevet. D'autre part, les collaborateurs des projets de LL peuvent contribuer à la restructuration des brevets dès la découverte d'une contrefaçon. Les conséquences négatives possibles sur les relations publiques et les crédits de bienveillance de poursuites en matière de brevets contre une collectivité de LL peuvent également avoir un effet dissuasif important. Des organismes sans but lucratif comme le [Software Freedom Law Center](http://www.softwarefreedom.org/) offrent également des ressources pour aider les auteurs de projets de LL à se défendre contre les poursuites pour contrefaçon de brevet et les revendications de brevet invalides. Autre inconvénient : les bénévoles ont rarement des portefeuilles de brevets de défense. Toutefois, du même coup, le fait de s'en prendre à des particuliers est également coûteux pour les avocats plaidants en matière de brevets. La plupart des particuliers n'ont pas une valeur nette suffisante pour qu'une poursuite en matière de brevets contre eux en vaille la chandelle.
 
-#### Patent Liability Risk
+### Pratiques exemplaires pour la diffusion des LL
 
-Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
+#### Décision de distribuer le logiciel en tant que LL
 
-### Best Practices for releasing OSS
+La décision d'octroyer ou non une licence de logiciel en tant que LL passe toujours par une évaluation des exigences opérationnelles et des objectifs du projet. Les exigences opérationnelles auront une grande incidence sur la pondération que vous devriez accorder aux divers avantages et inconvénients. Les entreprises et les organisations lancent des logiciels sous forme de LL à de nombreuses étapes du cycle de développement. Dans certains cas, le logiciel a connu de nombreuses versions et itérations avant de devenir LL. Dans d'autres cas, le logiciel peut commencer sa vie en tant que projet collaboratif de LL entre plusieurs parties. La philosophie de développement des LL est parfois décrite comme suit : « diffusez tôt, diffusez souvent et soyez à l'écoute de vos clients ». Toutefois, il est généralement de bon aloi d'avoir un plan pour l'architecture initiale du projet avant de commencer la distribution en tant que LL. Ce plan peut simplement consister à demander à plusieurs collaborateurs de commencer à travailler sur l'architecture au début du projet. Toutefois, lorsqu'il n'existe aucun plan, les développeurs œuvrant sur différents éléments du projet pourraient éprouver des difficultés à intégrer leurs éléments respectifs ou à travailler en fonction d'une application cohésive.
 
-#### Deciding to Distribute Software as OSS
+#### Classification de sécurité
 
-A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
+Le Conseil du Trésor [Directive sur la gestion de la sécurité ministérielle (DGSM)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) entend par information désignée une information « pouvant faire l'objet d'une exemption ou d'une exclusion en vertu de la Loi sur l'accès à l'information et de la Loi sur la protection des renseignements personnels parce qu'il serait raisonnable de s'attendre à ce que sa divulgation compromette les intérêts non nationaux ».
 
-#### Security Classification
+Pour que le code source puisse être considéré comme protégé, il doit contenir l'un ou l'autre des renseignements suivants :
 
-The Treasury Board [Directive on Departmental Security Management (DDSM)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the Access to Information Act or the Privacy Act because its disclosure would reasonably be expected to compromise the non-national interest."
+- Information obtenue à titre confidentiel
+- Information sur les affaires fédérales-provinciales
+- Information sur les affaires internationales et la défense
+- Information sur l'application de la loi et les enquêtes
+- Information sur la sécurité des personnes
+- Information sur les intérêts économiques du Canada
+- Renseignements personnels
+- Renseignements de tiers
+- Conseils sur certains aspects des activités du gouvernement
+- Information sur les procédures d'essai, les essais et les audits
+- Renseignements protégés par le secret professionnel de l'avocat
+- Renseignements visés par des interdictions légales
+- Certains types de renseignements détenus par la Société Radio-Canada et Énergie atomique du Canada limitée
+- Renseignements confidentiels du Conseil privé de la Reine
 
-In order for source code to potentially be deemed protected, it would have to contain any of the following information:
+Il est très peu probable que les développeurs incluent intentionnellement de tels renseignements dans leur code source. Par conséquent, la catégorisation proposée pour la confidentialité du code source est réputée non classifiée à moins que le développeur n'ait inclus, par inadvertance ou non, des renseignements qui relèvent des [exemptions](http://laws-lois.justice.gc.ca/fra/lois/a-1/page-3.html#h-10) et [exclusions](http://laws-lois.justice.gc.ca/fra/lois/a-1/page-10.html) de la [Loi sur l'accès à l'information](http://laws-lois.justice.gc.ca/fra/acts/A-1/) énumérées ci-dessus. Dans la mesure du possible, cette information devrait être retirée du code source afin d'accroître la capacité de partage du code.
 
-- Information obtained in confidence
-- Information about federal-provincial affairs
-- Information about international affairs and defence
-- Information about law enforcement and investigations
-- Information about the safety of individuals
-- Information about the economic interests of Canada
-- Personal information
-- Third party information
-- Advice about certain aspects of operations of government
-- Information about testing procedures, tests, and audits
-- Information that is subject to solicitor-client privilege
-- Information that is subject to statutory prohibitions
-- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
-- Confidences of the Queen’s Privy Council for Canada
+Voici quelques aspects de sécurité à garder à l'esprit lors du développement de logiciels :
 
-It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
+- Conserver les données sensibles comme les justificatifs d'identité en lieu sûr et séparément du code source.
+- Éviter d'entreposer des clés et d'autres documents de nature délicate dans des systèmes non approuvés à cette fin.
+- L'examen des codes augmente la probabilité de détecter les bogues, les vulnérabilités en matière de sécurité et réduit le risque d'engager des données sensibles.
+- Mettre en œuvre des mesures de contrôle suffisantes pour la prévention des changements non autorisés ou accidentels.
 
-Some security considerations to keep in mind when developing software:
+#### Choisir une licence
 
-- Keep sensitive data such as credentials secure and separate from source code.
-- Avoid storing keys and other sensitive material in systems not approved for that purpose.
-- Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
-- Implement controls sufficient to prevent unauthorized or inadvertent changes.
+Vous n'aurez pas toujours le choix de la licence que vous demanderez. Lorsqu'une obligation afférente à une licence réciproque est en vigueur, vous devez accorder une licence à votre code en vertu de la même licence - voir la section traitant de la diligence raisonnable/gestion des licences ci-dessous. De plus, même si vous n'êtes pas strictement tenu par la loi d'appliquer une licence particulière, vous pourriez quand même vouloir adopter la même licence qu'un projet ou une collectivité de logiciels existants afin d'y participer.
 
-#### Choosing a Licence
+Lorsque vous distribuez un projet constitué entièrement de votre propre code ou de votre propre code ainsi qu'un code autorisé et un code qui n'engage pas d'obligations réciproques, vous pouvez choisir vous-même la licence de LL. La licence que vous choisissez doit correspondre à vos exigences opérationnelles. Toutes les licences de LL communes peuvent être adoptées pour les travaux effectuées par le gouvernement, l'industrie ou le secteur de l'éducation - vous devez examiner les objectifs des projets particuliers.
 
-You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on Due Diligence / Licence Management, below. As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
+Le choix d'une licence appropriée tend à dépendre de la décision d'appliquer une licence réciproque ou permissive :
 
-Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
+- Les licences permissives maximisent la portée des utilisateurs en aval (et comportent un grand attrait pour l'ensemble du secteur privé);
+- Tandis que les licences réciproques sont appropriées dans les cas où il est important de recevoir les modifications en aval ou lorsqu'il est important de veiller à ce que les travaux fondés sur un investissement initial demeurent ouverts et libres. Les licences réciproques peuvent également mettre l'accent sur la prestation de services et de soutien à d'autres entreprises du secteur privé.
 
-Choosing an appropriate licence tends to revolve around the decision of whether to apply a reciprocal or permissive licence:
+Le tableau suivant présente d'autres différences clés relativement à cette décision :
 
-- Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
-- Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
-
-The following chart details other key differences in this decision:
-
-|                                          | Permissive | Reciprocal |
+|                                          | Permissive | Réciproque |
 | ---------------------------------------- | ---------- | ---------- |
-| **Beneficiaries of the OSS release**         | Everyone: commercial software vendors, support services, etc. | Everyone, but only where they are willing to release their software as OSS, under the same licensing terms as were granted to them (note that some closed-source software vendors absolutely prohibit reciprocal licences such as the GPL). |
-| **Beneficiaries of downstream code changes** | The whole community, but only where the business (or other developer) chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual distributes the modifications, as the licence then mandates releasing the changes under the same OSS licence. |
-| **Licence complexity**                       | Often very simple and understandable (e.g., popular "2-clause BSD"). | Relatively complex, requiring careful legal analysis (and some risk of misinterpretation). |
-| **Interoperability**                         | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
+| **Bénéficiaires de la diffusion du LL**         | Toute personne, notamment les fournisseurs de logiciels de commerce, les services de soutien, etc. | Mais uniquement dans la mesure où ces personnes diffusent leur logiciel en tant que LL, selon les mêmes modalités d'octroi de licence dont elles bénéficient (remarque : certains fournisseurs de logiciels propriétaires interdisent formellement les licences réciproques telles les licences de langage général). |
+| ** Bénéficiaires des modifications apportées aux codes en aval ** | Toute la collectivité, mais seulement lorsque l'entreprise (ou un autre développeur) choisit d'apporter des modifications en vertu de la licence permissive. | Toute la collectivité chaque fois où une entreprise, une organisation ou une personne distribue les modifications, étant donné que la licence rend obligatoire la publication des changements en vertu de la même licence de LL|
+| ** Complexité de la licence **                       | Souvent très simple et compréhensible (p. ex., « BSD à 2 clauses » populaire). | Relativement complexe, nécessitant une analyse juridique minutieuse (et comportant un certain risque d'interprétation erronée). |
+| ** Interopérabilité **                         | Le code d'une licence permissive peut être inclus dans les projets visés par des licences réciproques, d'autres licences permissives ou des licences propriétaires. Un code de licence réciproque ne peut généralement pas être inclus dans un projet en vertu d'une autre licence. |
 
-[Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
+[Choosealicence.com](https://chooseaLicens.com/) simplifie le processus de sélection d'une licence de LL en présentant les définitions des licences les plus utilisées.
 
-#### Due Diligence / Licence Management
+#### Diligence raisonnable/Gestion des licences
 
-##### Managing Licence Obligations
+##### Gérer les obligations relatives aux licences
+Lorsque des obligations réciproques de licence s'appliquent, vous n'avez pas l'avantage de pouvoir choisir une licence. Lorsque vous distribuez le logiciel, votre code doit, dans la mesure précisée dans la licence réciproque, être assujetti à la même licence ou, lorsque la licence le permet, à une version ultérieure de la même licence. Dans un tel cas, lorsque vous faites face à une obligation de licence réciproque, il existe trois façons de vous y conformer :
 
-Where reciprocal licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code, to the extent specified in the reciprocal licence, must come under the exact same licence, or, if the licence permits, a later version of the same licence, when you distribute the software. In such a case where you encounter a reciprocal licensing obligation, there are three ways to comply:
+1. Ne distribuez pas votre logiciel.
+2. Accordez une licence à votre logiciel en vertu de la même licence (ou, lorsque la licence le permet, une licence compatible).
+3. Refondez des parties de votre logiciel de façon à ce qu'il ne contienne pas de code ou de bibliothèque visés par une licence réciproque (ou, à tout le moins, veillez à ce que votre code ne s'intègre pas étroitement au code réciproque au point où il soit assujetti à l'obligation y afférente).
 
-1. Do not distribute your software;
-2. License your software under the exact same licence (or, where the licence permits, a compatible licence); or
-3. Re-implement parts of your software such that it does not include any code or libraries that come under a reciprocal licence (or, at least, ensure that your code does not integrate tightly with reciprocal code such that the obligation engages).
+Les fournisseurs de logiciels propriétaires optent habituellement pour la troisième façon lorsqu'ils remarquent la présence d'un code réciproque, étant donné qu'ils doivent distribuer leur logiciel aux clients payants, mais qu'ils ne veulent habituellement pas ouvrir le reste de leur code source à d'autres personnes. Il est donc important que ces fournisseurs procèdent à une vérification de « diligence raisonnable » de leurs projets logiciels en s'assurant que leur logiciel ne comporte pas de code de LL ou de bibliothèques assujettis à une obligation réciproque de licence.
 
-Closed-source software vendors typically opt for solution three when they notice inadvertent reciprocal code, given that they need to distribute their software to paying customers but do not usually want to open up the rest of their source code to others. It is therefore important for these vendors to conduct a “due diligence” audit on their software projects, checking that their software does not include any OSS code or libraries that engage a reciprocal licensing obligation.
+De même, les organisations et les entreprises qui diffusent leur code en tant que LL devraient également effectuer des vérifications de diligence raisonnable. Bien qu'elles appliquent déjà une licence de LL, l'obligation réciproque de licence exige généralement que soit octroyée une licence au titre de la même licence. Par conséquent, la diffusion du code en vertu d'une autre licence de LL peut ne pas toujours être conforme. Il peut être nécessaire d'accorder deux licences à votre propre code en vertu de l'autre licence réciproque ou, comme dans le contexte des logiciels propriétaires, de veiller à ce que le logiciel ne comporte pas de code ou de bibliothèque qui fait que l'obligation réciproque entre en jeu. Bien que les obligations réciproques présentent l'ensemble de paramètres le plus strict, les organisations et les entreprises doivent également s'assurer qu'elles respectent les autres conditions de licence. Par exemple, ils doivent se conformer aux exigences relatives aux avis et aux obligations de distribution du code source original. Une vérification de diligence raisonnable permet de s'assurer de la présence de cette conformité.
 
-Likewise, organizations and businesses releasing their code as OSS should also conduct due diligence audits. Although they are already applying an OSS licence, a reciprocal licensing obligation generally imposes a requirement to license the code under the exact same licence. Thus, releasing code under a different OSS licence may not always comply. It may be necessary to dual-license your own code under the other reciprocal licence, or, in a similar manner to the closed-source context, ensure that the software does not include any code or libraries that engage the reciprocal obligation. Although reciprocal obligations pose the strictest set of parameters, organizations and businesses must also ensure they comply with other licensing terms. For example, they must comply with notice requirements and obligations to distribute the original source code. A due diligence audit ensures that this compliance is in place.
+Il existe deux méthodes générales pour effectuer une vérification de diligence raisonnable : la vérification de la provenance et la numérisation des codes.
 
-There are two general methods to conduct a due diligence audit: provenance checking and code scanning.
+##### Vérification de la provenance
 
-##### Provenance Checking
+La vérification de la provenance consiste à maintenir une piste de vérification minutieuse, c'est-à-dire que les développeurs tiennent des dossiers internes sur le code qui se trouve dans le projet, la façon dont ce code est utilisé et la licence qui s'applique à chaque élément. Certains développent des outils d'automatisation comme Maven (que les développeurs utilisent pour automatiser la compilation et le déploiement des codes) à des fins d'assistance de la fonctionnalité dans le but d'indiquer, de suivre et de signaler les licences dans un projet, pour ainsi faciliter et normalise la tenue de dossiers.
 
-Provenance checking involves maintaining a careful audit trail: the developers maintain internal records of what code is in the project, how that code is used, and what licence applies to each element. Some build automation tools such as Maven (which developers use to automate code compilation and deployment) help with functionality to indicate, track, and report licences in a project, thereby assisting and standardizing the task of keeping records.
+En examinant les dossiers de vérification interne, un expert en licences peut vérifier la conformité d'un projet, que ce soit lorsqu'un développeur ajoute un nouvel élément externe ou lors de la diffusion du logiciel (ou les deux). Une nouvelle analyse juridique du texte de la licence n'est pas requise pour chaque nouvelle bibliothèque importée dans un projet. Une fois qu'un gestionnaire de licence approuve l'utilisation d'une licence particulière dans le cadre d'un projet, les développeurs peuvent généralement utiliser en toute sécurité d'autres bibliothèques sous la même licence, pourvu qu'ils les utilisent de la même façon. Par exemple, une entreprise ou une organisation peut élaborer une politique à l'égard d'un projet qui accorde l'approbation automatique de licences permissives particulières, notamment BSD, MIT et Apache, approuve des licences réciproques faibles, notamment la LGPL au cas par cas, et approuve des licences réciproques fortes, notamment la GPL, mais uniquement après une analyse juridique attentive et exhaustive.
 
-Looking at the internal audit records, a licensing expert can check a project for compliance either when a developer adds a new external element or upon release of the software (or both). A fresh legal analysis of the licence text is not required for each and every new library imported into a project. Once a licence manager approves use of a particular licence within a project, developers can generally safely use other libraries under the same licence, as long as they use them in a similar manner. For example, a business or organization might establish a policy for a project that: grants automatic approval for specific permissive licences including BSD, MIT and Apache; grants approval for weak reciprocal licences such as the LGPL on a case-by-case basis; and grants approval for strong reciprocal licences, such as the GPL, only after a careful and thorough legal analysis.
+##### Numérisation automatisée des codes
+Dans bien des cas, la vérification de la provenance devrait être suffisante pour les petits projets. Toutefois, cela peut se révéler peu pratique pour les grandes entreprises ou les grands projets. Une grande entreprise possède souvent des codes acquis d'autres parties ou des codes obtenus à la suite d'acquisitions et de fusions, qui peuvent ne pas faire l'objet d'une vérification de licence précise. Dans ce cas, il est préférable d'utiliser des outils de numérisation automatisée des codes qui font une recherche dans toute la base de codes pour déterminer les licences qui s'appliquent. Les utilitaires de numérisation automatisée des codes recherchent des fichiers texte et des commentaires de code intégrés qui peuvent identifier la licence applicable à un élément particulier du logiciel. Certains outils comparent même le code lui-même au code de LL d'un tiers connu.
 
-##### Automated Code Scanning
+Bien que ces outils puissent se révéler très utiles, il faut garder à l'esprit que les résultats ne donnent pas la certitude que le code source relève uniquement des licences déclarées, ni qu'il est libre de droits d'auteur ou de contrefaçon de brevet. L'une des limites inhérentes de la vérification a trait au fait qu'elle ne peut comparer le code source du client qu'à une vaste collection, mais non exhaustive, d'autres dépôts de codes sources. Il se peut qu'elle ne détecte pas le code source protégé par le droit d'auteur des fournisseurs de logiciels propriétaires ou le code source des petits projets de LL. Dans la mesure du possible, les entreprises et les organisations peuvent également réduire leurs risques et faciliter la tâche de vérification en utilisant les bibliothèques de logiciels d'organisations fiables qui ont déjà vérifié le code de la bibliothèque.
 
-In many cases, provenance checking should prove sufficient for smaller projects. However, it may prove impractical for larger companies or larger projects. A large company often owns code purchased from other parties, or code received from acquisitions and mergers, that may have no accurate licence audit for the code. In this case, it is best to use automated code scanning tools that search through the entire code base to determine the licences that apply. Automated code scanning utilities search text files and embedded code comments that may indicate the licence applicable to a particular element of the software. Some tools even compare the code itself against known third-party OSS code.
+#### Gestion des brevets et autres questions juridiques
 
-Of course, while these tools can prove highly useful, it must be kept in mind that the results do not provide certainty that the source code is under only the reported licences, nor that it is free of copyright or patent infringements. An inherent limitation of the audit is that it can only compare the client’s source code to a wide, but not exhaustive, collection of other source code repositories. It may not detect copyrighted source code from closed-source vendors, or source code from smaller OSS projects. Where possible, businesses and organizations may also wish to reduce their risks and ease the auditing task by using software libraries from trustworthy organizations that have already audited the library code.
+Toutes les considérations juridiques relatives aux LL qui s'appliquent lorsque vous utilisez des LL s'appliquent également lorsque vous diffusez ceux-ci. L'absence d'avertissement et de garantie peut jouer en votre faveur dans le cas des logiciels que vous diffusez. L'absence d'un choix de tribune ou d'une clause de droit crée une incertitude juridique égale pour toutes les parties. En plus de ces questions juridiques, la diffusion de LL soulève des préoccupations liées aux brevets. En accordant une licence pour votre code en vertu d'une licence de LL, vous pouvez, implicitement ou explicitement, délivrer une licence pour les brevets que vous possédez si l'un des codes les concerne. Il est important de comprendre la nature et la portée des licences de brevet que vous accordez.
 
-#### Patent Management and Other Legal Issues
+##### Portée de la licence de brevet
 
-All of the OSS legal considerations which apply when using OSS equally apply when you distribute OSS. For code that you distribute, the lack of a disclaimer and warranty can work in your favour. The lack of a choice of forum or choice of law clause generates equal legal uncertainty for all parties. In addition to these legal issues, OSS distribution raises concerns related to patents. By licensing your code under a OSS licence, you may either implicitly or explicitly license the patents you own if any of the code implicates them. It is important to understand the nature and scope of the patent licences you grant.
+Le traitement des brevets varie considérablement d'une licence de LL à l'autre. Traditionnellement – comme on le constate encore dans le cas des licences permissives populaires telles que BSD et MIT – la licence de brevet est implicite : aucune mention relative à un brevet n'y apparaît. On y énonce plutôt que le droit d'utilisation du logiciel accorde implicitement l'autorisation au licencié d'« utiliser » tout brevet pertinent détenu par le concédant. Une licence implicite accorde certainement à d'autres le droit d'utiliser le code original tel qu'il a été distribué, y compris lorsqu'une telle utilisation implique un brevet détenu par le concédant. Toutefois, la portée d'une licence implicite devient moins claire lorsque les parties en aval modifient le code original. Lorsque les modifications touchent l'« utilisation » prévue du logiciel, la licence de brevet originale couvre-t-elle toujours une utilisation qui est différente de ce que la licence avait prévu à l'origine? Si une nouvelle utilisation contrevient à un brevet différent détenu par le concédant original, est-ce que l'octroi de droits étendus d'apporter des modifications va jusqu'à accorder une licence à cet autre brevet? Il est fort probable que la réponse à ces deux questions est « non », c'est-à-dire que la concession implicite de brevet ne couvre souvent que les utilisations impliquées par les contributions originales du concédant, mais pas les autres utilisations que pourraient comporter d'autres caractéristiques et modifications. La plupart des licences modernes de LL tentent d'accroître la clarté et la certitude juridique en rendant explicite cette limitation de la portée. Par exemple, la licence d'Apache version 2.0 prévoit ce qui suit :
+>  « Sous réserve des dispositions de la présente licence, chaque contributeur vous accorde par la présente une licence de brevet perpétuelle, de portée mondiale, non exclusive, exempte de frais et de redevances et irrévocable (sauf stipulation contraire à la présente section) pour l'exécution par ou pour vous, l'utilisation, l'offre d'aliénation, l'aliénation, l'importation ou la cession des Travaux, étant précisé que ladite licence ne s'applique qu'aux revendications assujetties au régime de l'autorisation par lesdits contributeurs en raison de contrefaçons consécutives à leur seule Contribution ou à la fois à leur Contribution et aux travaux ayant fait l'objet de ladite Contribution » [TRADUCTION]. En vertu de cette clause, la licence de brevet ne s'applique qu'aux utilisations des logiciels applicables aux contributions existantes. Lorsque d'autres contributions en aval modifient l'utilisation du logiciel, la licence de brevet originale peut ne plus s'appliquer.
+Bien qu'une licence de LL puisse accorder une licence de brevet plus étendue qui couvrirait les modifications en aval, aucune licence populaire n'adopte actuellement cette approche. Même la licence GPLv3, qui revendique une grande liberté, ne permet pas une telle concession. Étant donné le nombre presque illimité de façons dont des caractéristiques supplémentaires pourraient modifier l'utilisation typique d'une application logicielle, une licence aussi étendue est probablement insoutenable pour la plupart des entreprises qui gèrent un portefeuille de brevets.
 
-##### Patent Licence Scope
+Par conséquent, à titre de pratique exemplaire, vous devez, chaque fois que vous modifiez un LL, déterminer si les modifications visent l'utilisation du logiciel d'une manière qui pourrait impliquer d'autres licences de brevet ou faisant en sorte que les licences de brevet existantes ne couvrent pas la nouvelle utilisation.
 
-The treatment of patents varies greatly throughout different OSS licences. The traditional approach – still seen in popular permissive licences such as BSD and MIT – is an implicit patent licence: the licence makes no specific mention of patents, but rather the stated right to use the software implicitly grants the licensee permission to “use” any relevant patents held by the licensor. An implicit patent licence almost certainly grants others the right to use the original code as distributed, including where such use implicates patent held by the licensor. However, the scope of an implicit patent licence becomes less clear when downstream parties modify the original code. If the modifications change the typical “use” of the software, does the original patent licence still cover a use that is different from what the licensor originally intended? If a new use infringes a different patent held by the original licensor, does the broad grant of rights to make modifications also end up licensing this other patent? Most likely, the answer to these two questions in “no”: the implicit patent grant often covers only uses implicated by the licensor's original contributions, but not other uses that additional features and modifications might involve. Most modern OSS licences attempt to increase clarity and legal certainty by making this scope limitation explicit. For example, the Apache Version 2.0 licence provides:
->  Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. Under this clause, the patent licence only extends to uses of the software applicable to existing contributions. Where further downstream contributions alter the software's use, the original patent licence may no longer apply.
+##### Clauses de résiliation de brevet et de représailles
 
-Although a OSS licence could feasibly grant a broader patent licence that would cover downstream modifications, no popular licences presently take this approach. Not even the highly freedom-assertive GPLv3 licence makes such a grant. Given the nearly limitless number of ways that additional features could alter the typical use of a software application, such a broad patent licence is likely untenable for most businesses managing a patent portfolio.
+De nombreuses licences de LL tentent de protéger le logiciel contre les poursuites pour contrefaçon de brevet en incluant des clauses de résiliation automatique. Ces clauses s'appliquent chaque fois qu'un titulaire de licence allègue qu'une partie du logiciel viole son brevet. Par exemple, la [licence Apache version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) énonce succinctement ce qui suit :
+>  « Lorsque vous entreprenez une procédure relative à un brevet contre une entité (notamment une demande entre défendeurs ou une demande reconventionnelle) faisant valoir que les Travaux ou qu'une Contribution intégrée dans les Travaux constitue une contrefaçon de brevet directe ou une complicité de contrefaçon, alors toutes les licences de brevet qui vous ont été octroyées au titre de la présente Licence à l'égard des Travaux sera résiliée dès le moment où ladite procédure est entreprise ». [TRADUCTION]
 
-Therefore, as a best practice, whenever you modify OSS you should consider whether the modifications change the use of the software in a way that might implicate other patent licences, or in such a way that existing patent licences may not cover the new use.
+Les éléments déclencheurs de la résiliation varient d'une licence à l'autre. Par exemple, contrairement à la licence Apache version 2.0, la [version 2 de la licence publique Mozilla](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) permet explicitement aux parties de se défendre par des demandes reconventionnelles et des demandes entre défendeurs de contrefaçon de brevet, sans pour autant que ne soit mise en application la clause de résiliation.
 
-##### Patent Termination and Retaliation Clauses
+Certaines licences comportent également des clauses de représailles étendues, c'est-à-dire une résiliation plus étendue des droits. La clause de résiliation du brevet de la version 2.0 d'Apache, énoncée ci-dessus, ne met fin qu'aux licences de brevet. Par contre, la MPLv2 met fin à tous les droits en vertu du droit d'auteur et du droit des brevets. Lorsque l'on est impliqué dans une procédure relative à la contrefaçon d'un brevet, qu'il s'agisse d'une action initiale ou d'une demande reconventionnelle, il est important d'évaluer soigneusement l'incidence0 que cela pourrait avoir sur tout LL que vous utilisez ou auquel vous contribuez.
 
-Many OSS licences attempt to protect the software against patent infringement lawsuits by including automatic-termination clauses. These clauses trigger whenever a licensee alleges that any part of the software infringes his or her patent. For example, the [Apache Version 2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0.html) succinctly states:
->  If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+#### Gérer la participation aux projets
 
-These triggers differ amongst licences. For example, unlike the Apache Version 2.0 licence, the [Mozilla Public License Version 2](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) explicitly allows parties to defend themselves with patent infringement counterclaims and crossclaims, all without triggering the termination clause.
+Les logiciels ouverts rassemblent souvent une collectivité disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les collectivités de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
 
-Some licences also include broader retaliation clauses - that is, a broader termination of rights. The Apache Version 2.0 patent termination clause, set out above, only terminates patent licences. The MPLv2, on the other hand, terminates all rights under both copyright and patent law. When involved in patent infringement litigation, whether initiating an originating action or a counterclaim, it is important to carefully assess the impact this could have on any OSS that you use or towards which you contribute.
+### Licences de LL
+Vous devriez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licences). Par exemple, le CEMD utilise la licence du MIT.
 
-#### Managing Project Participation
+Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
 
-Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
-
-### OSS licences
-
-You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, CDS uses the MIT licence.
-
-All code produced by civil servants is automatically covered by Crown Copyright.
-
-### Code Repositories
+### Répertoires de codes
 
 - Gitlab
 - Github
 - Framagit
-- GCcode (internal)
+- GCcode (interne)
 
-### Examples
+### Exemples
 
-#### US
+#### É.‑U.
 
-- [Digital Services Playbook](https://playbook.cio.gov/) - If the codebase has not been released under an open source license, explain why.
-- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Develop our work in the open - publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
-- [Federal Source Code Policy](https://sourcecode.cio.gov/) - Pilot program that requires agencies, when commissioning new custom software, to release at least 20% of new custom-developed code as OSS.
+- [Digital Services Playbook](https://playbook.cio.gov/) - Si la base de codes n'a pas été diffusée en vertu d'une licence libre, expliquez pourquoi.
+- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Élaborer notre travail en public - publier tous les codes sources créés ou modifiés par 18F, qu'ils aient été élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés par 18F.
+- [Federal Source Code Policy](https://sourcecode.cio.gov/) – Programme-pilote qui exige que les organismes, lorsqu'ils mettent en service un nouveau logiciel personnalisé, diffusent au moins 20 % du nouveau code personnalisé en tant que LL.
 
-#### UK
+#### R.-U.
 
-- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
+- [Code de pratiques technologiques](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) – Facilitez l'ouverture en faisant en sorte que tout nouveau code source soit ouvert par défaut.
 
 #### Canada
 
-- [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
+- Ressources naturelles Canada – Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_f.pdf)
+
