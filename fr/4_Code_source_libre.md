@@ -25,6 +25,7 @@ Lorsque nous diffusons un programme logiciel interne en vertu d'une licence de L
 Lorsqu'une entreprise ou un organisme collabore à l'élaboration de nouvelles caractéristiques ou à la création d'un nouveau projet fondé sur les systèmes d'exploitation existants, elle ou il tire également parti de tous les efforts que les collaborateurs ont déjà investis. Si l'on distribue des modifications en tant que LL, les travaux antérieurs peuvent même inclure le code et les bibliothèques en vertu de licences réciproques (qu'une entreprise ou un organisme ne peut distribuer que si son projet constitue également un LL).
 
 En raison de la concurrence mondiale croissante, de l'augmentation des coûts de R&D et de la réduction du cycle de vie des produits, les entreprises réduisent leur dépendance aux modèles traditionnels d'innovation fermée. Elles dépendent de plus en plus de l'accès à des sources externes de connaissances et de la collaboration avec des personnes, des entreprises et d'autres organisations qui possèdent des connaissances pertinentes pouvant être utilisées au profit du processus d'innovation de l'organisation. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
+
 #### Vision à long terme
 
 La diffusion d'un logiciel en tant que LL pour inciter d'autres personnes à y collaborer peut aussi contribuer à assurer la viabilité d'un projet futur. Par exemple, une organisation ou une entreprise peut mettre au point un outil logiciel à l'aide d'un budget fixe et limité pour la recherche et le développement. Pour que le projet se poursuive et se développe, la participation d'autres collaborateurs est nécessaire.
@@ -145,58 +146,12 @@ Le tableau suivant présente d'autres différences clés relativement à cette d
 
 [Choosealicence.com](https://chooseaLicens.com/) simplifie le processus de sélection d'une licence de LL en présentant les définitions des licences les plus utilisées.
 
-#### Diligence raisonnable/Gestion des licences
-
-##### Gérer les obligations relatives aux licences
-Lorsque des obligations réciproques de licence s'appliquent, vous n'avez pas l'avantage de pouvoir choisir une licence. Lorsque vous distribuez le logiciel, votre code doit, dans la mesure précisée dans la licence réciproque, être assujetti à la même licence ou, lorsque la licence le permet, à une version ultérieure de la même licence. Dans un tel cas, lorsque vous faites face à une obligation de licence réciproque, il existe trois façons de vous y conformer :
-
-1. Ne distribuez pas votre logiciel.
-2. Accordez une licence à votre logiciel en vertu de la même licence (ou, lorsque la licence le permet, une licence compatible).
-3. Refondez des parties de votre logiciel de façon à ce qu'il ne contienne pas de code ou de bibliothèque visés par une licence réciproque (ou, à tout le moins, veillez à ce que votre code ne s'intègre pas étroitement au code réciproque au point où il soit assujetti à l'obligation y afférente).
-
-Les fournisseurs de logiciels propriétaires optent habituellement pour la troisième façon lorsqu'ils remarquent la présence d'un code réciproque, étant donné qu'ils doivent distribuer leur logiciel aux clients payants, mais qu'ils ne veulent habituellement pas ouvrir le reste de leur code source à d'autres personnes. Il est donc important que ces fournisseurs procèdent à une vérification de « diligence raisonnable » de leurs projets logiciels en s'assurant que leur logiciel ne comporte pas de code de LL ou de bibliothèques assujettis à une obligation réciproque de licence.
-
-De même, les organisations et les entreprises qui diffusent leur code en tant que LL devraient également effectuer des vérifications de diligence raisonnable. Bien qu'elles appliquent déjà une licence de LL, l'obligation réciproque de licence exige généralement que soit octroyée une licence au titre de la même licence. Par conséquent, la diffusion du code en vertu d'une autre licence de LL peut ne pas toujours être conforme. Il peut être nécessaire d'accorder deux licences à votre propre code en vertu de l'autre licence réciproque ou, comme dans le contexte des logiciels propriétaires, de veiller à ce que le logiciel ne comporte pas de code ou de bibliothèque qui fait que l'obligation réciproque entre en jeu. Bien que les obligations réciproques présentent l'ensemble de paramètres le plus strict, les organisations et les entreprises doivent également s'assurer qu'elles respectent les autres conditions de licence. Par exemple, ils doivent se conformer aux exigences relatives aux avis et aux obligations de distribution du code source original. Une vérification de diligence raisonnable permet de s'assurer de la présence de cette conformité.
-
-Il existe deux méthodes générales pour effectuer une vérification de diligence raisonnable : la vérification de la provenance et la numérisation des codes.
-
-##### Vérification de la provenance
-
-La vérification de la provenance consiste à maintenir une piste de vérification minutieuse, c'est-à-dire que les développeurs tiennent des dossiers internes sur le code qui se trouve dans le projet, la façon dont ce code est utilisé et la licence qui s'applique à chaque élément. Certains développent des outils d'automatisation comme Maven (que les développeurs utilisent pour automatiser la compilation et le déploiement des codes) à des fins d'assistance de la fonctionnalité dans le but d'indiquer, de suivre et de signaler les licences dans un projet, pour ainsi faciliter et normalise la tenue de dossiers.
-
-En examinant les dossiers de vérification interne, un expert en licences peut vérifier la conformité d'un projet, que ce soit lorsqu'un développeur ajoute un nouvel élément externe ou lors de la diffusion du logiciel (ou les deux). Une nouvelle analyse juridique du texte de la licence n'est pas requise pour chaque nouvelle bibliothèque importée dans un projet. Une fois qu'un gestionnaire de licence approuve l'utilisation d'une licence particulière dans le cadre d'un projet, les développeurs peuvent généralement utiliser en toute sécurité d'autres bibliothèques sous la même licence, pourvu qu'ils les utilisent de la même façon. Par exemple, une entreprise ou une organisation peut élaborer une politique à l'égard d'un projet qui accorde l'approbation automatique de licences permissives particulières, notamment BSD, MIT et Apache, approuve des licences réciproques faibles, notamment la LGPL au cas par cas, et approuve des licences réciproques fortes, notamment la GPL, mais uniquement après une analyse juridique attentive et exhaustive.
-
-##### Numérisation automatisée des codes
-Dans bien des cas, la vérification de la provenance devrait être suffisante pour les petits projets. Toutefois, cela peut se révéler peu pratique pour les grandes entreprises ou les grands projets. Une grande entreprise possède souvent des codes acquis d'autres parties ou des codes obtenus à la suite d'acquisitions et de fusions, qui peuvent ne pas faire l'objet d'une vérification de licence précise. Dans ce cas, il est préférable d'utiliser des outils de numérisation automatisée des codes qui font une recherche dans toute la base de codes pour déterminer les licences qui s'appliquent. Les utilitaires de numérisation automatisée des codes recherchent des fichiers texte et des commentaires de code intégrés qui peuvent identifier la licence applicable à un élément particulier du logiciel. Certains outils comparent même le code lui-même au code de LL d'un tiers connu.
-
-Bien que ces outils puissent se révéler très utiles, il faut garder à l'esprit que les résultats ne donnent pas la certitude que le code source relève uniquement des licences déclarées, ni qu'il est libre de droits d'auteur ou de contrefaçon de brevet. L'une des limites inhérentes de la vérification a trait au fait qu'elle ne peut comparer le code source du client qu'à une vaste collection, mais non exhaustive, d'autres dépôts de codes sources. Il se peut qu'elle ne détecte pas le code source protégé par le droit d'auteur des fournisseurs de logiciels propriétaires ou le code source des petits projets de LL. Dans la mesure du possible, les entreprises et les organisations peuvent également réduire leurs risques et faciliter la tâche de vérification en utilisant les bibliothèques de logiciels d'organisations fiables qui ont déjà vérifié le code de la bibliothèque.
-
-#### Gestion des brevets et autres questions juridiques
-
-Toutes les considérations juridiques relatives aux LL qui s'appliquent lorsque vous utilisez des LL s'appliquent également lorsque vous diffusez ceux-ci. L'absence d'avertissement et de garantie peut jouer en votre faveur dans le cas des logiciels que vous diffusez. L'absence d'un choix de tribune ou d'une clause de droit crée une incertitude juridique égale pour toutes les parties. En plus de ces questions juridiques, la diffusion de LL soulève des préoccupations liées aux brevets. En accordant une licence pour votre code en vertu d'une licence de LL, vous pouvez, implicitement ou explicitement, délivrer une licence pour les brevets que vous possédez si l'un des codes les concerne. Il est important de comprendre la nature et la portée des licences de brevet que vous accordez.
-
-##### Portée de la licence de brevet
-
-Le traitement des brevets varie considérablement d'une licence de LL à l'autre. Traditionnellement – comme on le constate encore dans le cas des licences permissives populaires telles que BSD et MIT – la licence de brevet est implicite : aucune mention relative à un brevet n'y apparaît. On y énonce plutôt que le droit d'utilisation du logiciel accorde implicitement l'autorisation au licencié d'« utiliser » tout brevet pertinent détenu par le concédant. Une licence implicite accorde certainement à d'autres le droit d'utiliser le code original tel qu'il a été distribué, y compris lorsqu'une telle utilisation implique un brevet détenu par le concédant. Toutefois, la portée d'une licence implicite devient moins claire lorsque les parties en aval modifient le code original. Lorsque les modifications touchent l'« utilisation » prévue du logiciel, la licence de brevet originale couvre-t-elle toujours une utilisation qui est différente de ce que la licence avait prévu à l'origine? Si une nouvelle utilisation contrevient à un brevet différent détenu par le concédant original, est-ce que l'octroi de droits étendus d'apporter des modifications va jusqu'à accorder une licence à cet autre brevet? Il est fort probable que la réponse à ces deux questions est « non », c'est-à-dire que la concession implicite de brevet ne couvre souvent que les utilisations impliquées par les contributions originales du concédant, mais pas les autres utilisations que pourraient comporter d'autres caractéristiques et modifications. La plupart des licences modernes de LL tentent d'accroître la clarté et la certitude juridique en rendant explicite cette limitation de la portée. Par exemple, la licence d'Apache version 2.0 prévoit ce qui suit :
->  « Sous réserve des dispositions de la présente licence, chaque contributeur vous accorde par la présente une licence de brevet perpétuelle, de portée mondiale, non exclusive, exempte de frais et de redevances et irrévocable (sauf stipulation contraire à la présente section) pour l'exécution par ou pour vous, l'utilisation, l'offre d'aliénation, l'aliénation, l'importation ou la cession des Travaux, étant précisé que ladite licence ne s'applique qu'aux revendications assujetties au régime de l'autorisation par lesdits contributeurs en raison de contrefaçons consécutives à leur seule Contribution ou à la fois à leur Contribution et aux travaux ayant fait l'objet de ladite Contribution » [TRADUCTION]. En vertu de cette clause, la licence de brevet ne s'applique qu'aux utilisations des logiciels applicables aux contributions existantes. Lorsque d'autres contributions en aval modifient l'utilisation du logiciel, la licence de brevet originale peut ne plus s'appliquer.
-Bien qu'une licence de LL puisse accorder une licence de brevet plus étendue qui couvrirait les modifications en aval, aucune licence populaire n'adopte actuellement cette approche. Même la licence GPLv3, qui revendique une grande liberté, ne permet pas une telle concession. Étant donné le nombre presque illimité de façons dont des caractéristiques supplémentaires pourraient modifier l'utilisation typique d'une application logicielle, une licence aussi étendue est probablement insoutenable pour la plupart des entreprises qui gèrent un portefeuille de brevets.
-
-Par conséquent, à titre de pratique exemplaire, vous devez, chaque fois que vous modifiez un LL, déterminer si les modifications visent l'utilisation du logiciel d'une manière qui pourrait impliquer d'autres licences de brevet ou faisant en sorte que les licences de brevet existantes ne couvrent pas la nouvelle utilisation.
-
-##### Clauses de résiliation de brevet et de représailles
-
-De nombreuses licences de LL tentent de protéger le logiciel contre les poursuites pour contrefaçon de brevet en incluant des clauses de résiliation automatique. Ces clauses s'appliquent chaque fois qu'un titulaire de licence allègue qu'une partie du logiciel viole son brevet. Par exemple, la [licence Apache version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) énonce succinctement ce qui suit :
->  « Lorsque vous entreprenez une procédure relative à un brevet contre une entité (notamment une demande entre défendeurs ou une demande reconventionnelle) faisant valoir que les Travaux ou qu'une Contribution intégrée dans les Travaux constitue une contrefaçon de brevet directe ou une complicité de contrefaçon, alors toutes les licences de brevet qui vous ont été octroyées au titre de la présente Licence à l'égard des Travaux sera résiliée dès le moment où ladite procédure est entreprise ». [TRADUCTION]
-
-Les éléments déclencheurs de la résiliation varient d'une licence à l'autre. Par exemple, contrairement à la licence Apache version 2.0, la [version 2 de la licence publique Mozilla](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) permet explicitement aux parties de se défendre par des demandes reconventionnelles et des demandes entre défendeurs de contrefaçon de brevet, sans pour autant que ne soit mise en application la clause de résiliation.
-
-Certaines licences comportent également des clauses de représailles étendues, c'est-à-dire une résiliation plus étendue des droits. La clause de résiliation du brevet de la version 2.0 d'Apache, énoncée ci-dessus, ne met fin qu'aux licences de brevet. Par contre, la MPLv2 met fin à tous les droits en vertu du droit d'auteur et du droit des brevets. Lorsque l'on est impliqué dans une procédure relative à la contrefaçon d'un brevet, qu'il s'agisse d'une action initiale ou d'une demande reconventionnelle, il est important d'évaluer soigneusement l'incidence0 que cela pourrait avoir sur tout LL que vous utilisez ou auquel vous contribuez.
-
 #### Gérer la participation aux projets
 
 Les logiciels ouverts rassemblent souvent une collectivité disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les collectivités de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
 
 ### Licences de LL
+
 Vous devriez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licences). Par exemple, le CEMD utilise la licence du MIT.
 
 Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
@@ -210,17 +165,16 @@ Tous les codes produits par des fonctionnaires sont automatiquement couverts par
 
 ### Exemples
 
-#### É.‑U.
+#### États-Unis
 
 - [Digital Services Playbook](https://playbook.cio.gov/) - Si la base de codes n'a pas été diffusée en vertu d'une licence libre, expliquez pourquoi.
 - [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Élaborer notre travail en public - publier tous les codes sources créés ou modifiés par 18F, qu'ils aient été élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés par 18F.
 - [Federal Source Code Policy](https://sourcecode.cio.gov/) – Programme-pilote qui exige que les organismes, lorsqu'ils mettent en service un nouveau logiciel personnalisé, diffusent au moins 20 % du nouveau code personnalisé en tant que LL.
 
-#### R.-U.
+#### Royaume-Uni
 
 - [Code de pratiques technologiques](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) – Facilitez l'ouverture en faisant en sorte que tout nouveau code source soit ouvert par défaut.
 
 #### Canada
 
 - Ressources naturelles Canada – Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_f.pdf)
-
