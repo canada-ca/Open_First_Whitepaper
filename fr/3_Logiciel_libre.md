@@ -2,15 +2,15 @@
 
 ## Logiciels libres
 
-- [Historique](#history)
-- [Propriété intellectuelle](#intellectual property)
-- [Utilisation des logiciels libres](#using-open-source-software)
-- [Avantages](#benefits)
-- [Risques et inconvénients](#risks-and-drawbacks)
-- [Pratiques exemplaires pour l'utilisation des logiciels libres](#best-practices-for-using-oss)
-- [Publication des logiciels libres](#releasing-open-source-software)
-- [Logiciels libres préférés](#preferred-open-source-software)
-- [Exemples](#examples)
+- [Historique](#historique)
+- [Propriété intellectuelle](#propriété-intellectuelle)
+- [Utilisation des logiciels libres](#utilisation-des-logiciels-libres)
+- [Avantages](#avantages)
+- [Risques et inconvénients](#risques-et-inconvénients)
+- [Pratiques exemplaires pour l'utilisation des logiciels libres](#pratiques-exemplaires-pour-l-utilisation-des-logiciels-libres)
+- [Publication de logiciels libres](#publication-de-logiciels-libres)
+- [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
+- [Exemples](#exemples)
 
 Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué sans restriction.
 
@@ -49,7 +49,7 @@ For more details on licence clauses and other legal issues, see: [Annex A - Lega
 
 La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du gouvernement du Canada pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au gouvernement du Canada.
 
-### Utilisation d'un logiciel libre
+### Utilisation des logiciels libres
 
 Dans le contexte de l'utilisation d'un logiciel libre pour lequel personne ne distribue le logiciel, les organisations s'en servent habituellement à cinq fins : services Web et de fichiers, suite bureautique, application logicielle spécialisée, logiciel personnalisé à des fins internes et logiciel personnalisé qui sera utilisé par d'autres services de la même organisation.
 
@@ -211,7 +211,7 @@ Les grands intégrateurs de systèmes peuvent être réticents à proposer des s
 
 Certains projets de logiciel libre évoluent rapidement avec de courts cycles de publication, ce qui peut exiger plus de travail pour déployer les mises à jour aux utilisateurs. D'un autre côté, certains projets peuvent avoir un taux de changement très lent en raison d'un manque de participation de la communauté (utilisateurs, fournisseurs, etc.). C'est pourquoi il est important d'évaluer soigneusement le niveau d'activité d'une communauté donnée si nous envisageons de nous y fier d'une certaine façon.
 
-### Pratiques exemplaires pour l'utilisation d'un logiciel libre
+### Pratiques exemplaires pour l'utilisation de logiciels libres
 
 #### Évaluation et acquisition de logiciels
 
@@ -319,11 +319,11 @@ Bien que l'interopérabilité des licences ne soit pas une préoccupation pour l
 
 Toutefois, les tendances culturelles et la dynamique du modèle opérationnel des LL tendent à pousser les projets de LL vers l'utilisation de l'interopérabilité et des [normes libres](2_Open_Standards.md) pour la lecture, la rédaction et le stockage des données. En effet, même lorsque les LL ne mettent pas en oeuvre une norme libre pour l'échange de données, la disponibilité du code source offre toujours une « mise en oeuvre libre » à tout le moins. Le code source est un exemple que n'importe qui d'autre peut mettre en oeuvre la même fonctionnalité pour lire et écrire le format de données sous-jacent.
 
-## Publication de code source libre
+### Publication de logiciels libres
 
 Voir le [code source libre](4_Code_source_libre.md).
 
-## Logiciels libres préférés
+### Logiciels libres privilégiées
 
 Les critères d'évaluation des LL sont définis ci-dessus dans la section [Évaluation et acquisition des logiciels](#software-evaluation-and-procurement). Les LL préférés doivent également appuyer l'utilisation des [normes ouvertes](2_Normes_ouvertes.md).
 

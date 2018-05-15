@@ -4,10 +4,10 @@
 
 - [Diffusion de logiciels libres](#diffusion-de-logiciels-libres)
 - [Avantages](#avantages)
-- [Risques et inconvénients](#risques et inconvénients)
-- [Pratiques exemplaires pour la diffusion de LL](# pratiques exemplaires pour la diffusion des LL)
-- [Licences de LL privilégiées](# licences de LL privilégiées)
-- [Dépôts de codes privilégiés](# dépôts de codes privilégiés)
+- [Risques et inconvénients](#risques-et-inconvénients)
+- [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
+- [Licences de LL privilégiées](#licences-de-LL-privilégiées)
+- [Dépôts de codes privilégiés](#dépôts-de-codes-privilégiés)
 - [Exemples](#exemples)
 
 ### Diffusion de logiciels libres
@@ -90,7 +90,7 @@ La diffusion d'un logiciel en tant que LL exige habituellement un examen juridiq
 
 Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou diminue le risque de responsabilité en matière de brevets. D'une part, la distribution de votre code en tant que LL l'expose à un examen plus approfondi. D'autres peuvent consulter le code et tenter de trouver des cas de contrefaçon de brevet. D'autre part, les collaborateurs des projets de LL peuvent contribuer à la restructuration des brevets dès la découverte d'une contrefaçon. Les conséquences négatives possibles sur les relations publiques et les crédits de bienveillance de poursuites en matière de brevets contre une collectivité de LL peuvent également avoir un effet dissuasif important. Des organismes sans but lucratif comme le [Software Freedom Law Center](http://www.softwarefreedom.org/) offrent également des ressources pour aider les auteurs de projets de LL à se défendre contre les poursuites pour contrefaçon de brevet et les revendications de brevet invalides. Autre inconvénient : les bénévoles ont rarement des portefeuilles de brevets de défense. Toutefois, du même coup, le fait de s'en prendre à des particuliers est également coûteux pour les avocats plaidants en matière de brevets. La plupart des particuliers n'ont pas une valeur nette suffisante pour qu'une poursuite en matière de brevets contre eux en vaille la chandelle.
 
-### Pratiques exemplaires pour la diffusion des LL
+### Pratiques exemplaires pour la diffusion de LL
 
 #### Décision de distribuer le logiciel en tant que LL
 
