@@ -7,19 +7,6 @@
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
 - [Exemples](#examples)
 
-### Définition
-
-Les normes ouvertes désignent les formats de fichier, les protocoles et les interfaces d'application qui peuvent être mis en œuvre par toute personne (dans le cadre de logiciels libres et de logiciels exclusifs) puisque les spécifications sont disponibles gratuitement et que leur élaboration et leur normalisation sont ouvertes et transparentes. Ce travail de normalisation est effectué par des organismes spécialisés qui sont habituellement soit des organismes gouvernementaux ou des organismes créés par des professionnels d'un secteur industriel donné. Le Groupe de travail IETF, l'Organisation internationale de normalisation (ISO) et l'Organisation pour l'avancement des normes sur l'information structurée (OASIS) en sont des exemples.
-
-La définition exacte des normes ouvertes peut varier d'une administration à l'autre, mais il y a un haut niveau de convergence dans le [Référentiel Général d'interopérabilité] de la France  (http://references.modernisation.gouv.fr/interoperabilite) (RGI), le [Cadre commun d'interopérabilité du gouvernement du Québec](https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ), le [Cadre d'interopérabilité européen](https://ec.europa.eu/isa2/eif_en) (CIE) et les [Principes de normes ouvertes](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition) du Bureau du Cabinet britannique.
-
-Inspirés par les quatre documents stratégiques, les critères suivants définissent les normes ouvertes :
-
-- le processus d'élaboration de la norme est ouvert et transparent pour toutes les parties intéressées et ne peut pas être contrôlé par une seule personne ou entité ayant des intérêts particuliers;
-- une plateforme indépendante, neutre et utilisable pour de multiples mises en œuvre;
-- les spécifications et le matériel de soutien sont disponibles gratuitement, sous réserve de restrictions limitées;
-- les normes sont appuyées par la collectivité et elles font preuve d'indépendance ou d'une procédure régulière approuvée par un consensus approximatif entre les participants.
-
 Le [Logiciel libre](3_Logiciel_libre.md) utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les produits de logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la « collectivité des valeurs » - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
 
 ### Interopérabilité

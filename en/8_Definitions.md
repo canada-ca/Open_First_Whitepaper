@@ -8,11 +8,16 @@ The ability of organizations to interact towards mutually beneficial goals, and 
 
 ### Open Standards
 
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike). The process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests. Some key features of open standards include:
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
-* they are supported by an active community and demonstrate independence or are approved through due process by rough consensus among participants;
-* they are platform independent, vendor neutral and usable for multiple implementations; and,
-* their specifications and supporting material are freely available restrictions.
+The exact definition of open standards can vary by jurisdiction, but there is a high level of convergence in France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (RGI) or "General Guidelines for Interoperability", the [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ) of the "Quebec government's common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
+
+Inspired by the four policy documents, the following criteria define open standards:
+
+- process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
+- platform independent, vendor neutral and usable for multiple implementations;
+- specifications and supporting material are freely available with limited restrictions;
+- supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
 ### Free Software
 

@@ -2,23 +2,9 @@
 
 ## Open Standards
 
-- [Definition](#definition)
 - [Interoperability](#interoperability)
 - [Preferred Open Standards](#preferred-open-standards)
 - [Examples](#examples)
-
-### Definition
-
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
-
-The exact definition of open standards can vary by jurisdiction, but there is a high level of convergence in France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (RGI) or "General Guidelines for Interoperability", the [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ) of the "Quebec government's common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) (EIF) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition).
-
-Inspired by the four policy documents, the following criteria define open standards:
-
-- process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
-- platform independent, vendor neutral and usable for multiple implementations;
-- specifications and supporting material are freely available with limited restrictions;
-- supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
 [Open source software](3_Open_Source_Software.md) (OSS) tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, open-source software economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 

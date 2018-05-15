@@ -8,11 +8,16 @@ La capacité des organisations à interagir en vue d’atteindre des objectifs m
 
 ### Normes ouvertes
 
-Les normes ouvertes désignent les formats de fichiers, les protocoles et les interfaces d’application qui peuvent être mis en œuvre par tout le monde (dans les logiciels libres et exclusifs). Le processus d’élaboration de la norme est ouvert et transparent pour toutes les parties intéressées et ne peut être contrôlé par une seule personne ou entité ayant des intérêts particuliers. Voici quelques-unes des principales caractéristiques des normes ouvertes :
+Les normes ouvertes désignent les formats de fichier, les protocoles et les interfaces d'application qui peuvent être mis en œuvre par toute personne (dans le cadre de logiciels libres et de logiciels exclusifs) puisque les spécifications sont disponibles gratuitement et que leur élaboration et leur normalisation sont ouvertes et transparentes. Ce travail de normalisation est effectué par des organismes spécialisés qui sont habituellement soit des organismes gouvernementaux ou des organismes créés par des professionnels d'un secteur industriel donné. Le Groupe de travail IETF, l'Organisation internationale de normalisation (ISO) et l'Organisation pour l'avancement des normes sur l'information structurée (OASIS) en sont des exemples.
 
-* elles sont appuyées par une collectivité active et sont indépendantes ou sont approuvées dans le cadre de l’application régulière de la loi par un consensus approximatif entre les participants;
-* elles sont indépendantes de toute plateforme, neutres du point de vue du fournisseur et utilisables pour de multiples mises en œuvre;
-* leurs spécifications et leur matériel de soutien sont disponibles gratuitement.
+La définition exacte des normes ouvertes peut varier d'une administration à l'autre, mais il y a un haut niveau de convergence dans le [Référentiel Général d'interopérabilité] de la France  (http://references.modernisation.gouv.fr/interoperabilite) (RGI), le [Cadre commun d'interopérabilité du gouvernement du Québec](https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ), le [Cadre d'interopérabilité européen](https://ec.europa.eu/isa2/eif_en) (CIE) et les [Principes de normes ouvertes](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition) du Bureau du Cabinet britannique.
+
+Inspirés par les quatre documents stratégiques, les critères suivants définissent les normes ouvertes :
+
+- le processus d'élaboration de la norme est ouvert et transparent pour toutes les parties intéressées et ne peut pas être contrôlé par une seule personne ou entité ayant des intérêts particuliers;
+- une plateforme indépendante, neutre et utilisable pour de multiples mises en œuvre;
+- les spécifications et le matériel de soutien sont disponibles gratuitement, sous réserve de restrictions limitées;
+- les normes sont appuyées par la collectivité et elles font preuve d'indépendance ou d'une procédure régulière approuvée par un consensus approximatif entre les participants.
 
 ### Logiciels libres
 
