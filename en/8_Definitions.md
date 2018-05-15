@@ -4,7 +4,17 @@
 
 ### Interoperability
 
-The ability of organizations to interact towards mutually beneficial goals, and involves the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems. It enables a product or system, whose interfaces are completely understood (open standards), to work with other products or systems, present or future, without any restricted access or implementation.
+The ability of organizations to interact towards mutually beneficial goals, and involves the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems. It's a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, present or future, in either implementation or access, without any restrictions.
+
+This definition is also a reminder of the vital link between interoperability and open standards. The specified interfaces undergo standardization processes to ensure the emergence and maintenance of common, documented references.
+
+The crux of the matter is not only technical, but also based on a set of concerns at various levels. The [EFI](https://ec.europa.eu/isa2/eif_en) defines these as:
+
+- **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organizational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
+- **Legal interoperability** is about ensuring that organizations operating under different legal frameworks, policies and strategies are able to work together;
+- **Organisational interoperability** refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals;
+- **Semantic interoperability** ensures that the precise format and meaning of exchanged data and information is preserved and understood throughout exchanges between parties, in other words ‘what is sent is what is understood’. In the [EFI](https://ec.europa.eu/isa2/eif_en), semantic interoperability covers both semantic and syntactic aspects;
+- **Technical interoperability** covers the applications and infrastructures linking systems and services. Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols.
 
 ### Open Standards
 

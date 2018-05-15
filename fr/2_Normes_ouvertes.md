@@ -13,26 +13,9 @@ Le [Logiciel libre](3_Logiciel_libre.md) utilise habituellement ou contribue à 
 
 Pour toute organisation, en particulier pour les administrations publiques, les besoins d'interopérabilité se situent à deux niveaux distincts mais qui se chevauchent, soit l'interopérabilité interne avec son propre environnement de la GI/TI et l'interopérabilité avec les environnements de la GI/TI des intervenants externes (autres administrations, le public, les entreprises, les associations), directement ou indirectement, par la disponibilité de données ouvertes.
 
-#### Interopérabilité externe
-
-Le fond de la question n'est pas seulement technique; il repose aussi sur un ensemble de préoccupations à différents niveaux. Le [CIE](https://ec.europa.eu/isa2/eif_en) les définit comme suit :
-
-- **La gouvernance de l'interopérabilité** s'entend des décisions relatives aux cadres d'interopérabilité, aux dispositions institutionnelles, aux structures organisationnelles, aux rôles et responsabilités, aux politiques, aux accords et à d'autres aspects du maintien et du suivi de l'interopérabilité aux niveaux national et européen.
-- **L'interopérabilité juridique** veille à ce que les organisations opérant sous différents cadres juridiques, politiques et stratégies puissent travailler ensemble.
-- **L'interopérabilité organisationnelle** désigne la façon dont les administrations publiques harmonisent leurs processus opérationnels, leurs responsabilités et leurs attentes pour atteindre des objectifs communs et mutuellement bénéfiques.
-- **L'interopérabilité sémantique** veille à ce que le format et le sens précis des données et de l'information échangées soient préservés et compris tout au long des échanges entre les parties, autrement dit « ce qui est envoyé est ce qui est compris ». Dans le [CIE](https://ec.europa.eu/isa2/eif_en), l'interopérabilité sémantique couvre les aspects sémantiques et syntaxiques.
-- **L'interopérabilité technique** couvre les applications et les infrastructures reliant les systèmes et les services. Les aspects de l'interopérabilité technique comprennent les spécifications des interfaces, les services d'interconnexion, les services d'intégration de données, la présentation et l'échange de données et les protocoles de communication sécurisés.
-
-Définition du CIE de l'interopérabilité générale :
-L'interopérabilité est la capacité des organisations d'interagir en vue d'atteindre des objectifs mutuellement avantageux, ce qui implique le partage de l'information et des connaissances entre ces organisations, par l'entremise des processus opérationnels qu'elles appuient, au moyen de l'échange de données entre leurs systèmes des TIC.
-
 #### Interopérabilité interne
 
 L'interopérabilité interne est beaucoup plus axée sur la dimension technique. Il faut porter une attention particulière à sa définition pour veiller à ce qu'elle reflète fidèlement les attentes associées au terme, particulièrement en termes d'indépendance - le terme souveraineté est parfois utilisé - et de neutralité.
-
-Une définition couramment utilisée est celle proposée par le [Groupe de travail interopérabilité de l'Association francophone des utilisateurs de logiciels libres](http://interoperability-definition.info/fr/) : « L'interopérabilité est la capacité que possède un produit ou un système, dont les interfaces sont intégralement connues, à fonctionner avec d'autres produits ou systèmes existants ou futurs et ce sans restriction d'accès ou de mise en œuvre ».
-
-Cette définition est aussi un rappel du lien vital entre l'interopérabilité et les normes ouvertes. Les interfaces précisées font l'objet de processus de normalisation afin que l'émergence et le maintien de références courantes et documentées soit assurés.
 
 Les anciens systèmes constituent un obstacle majeur à l'interopérabilité. Historiquement, les applications et les systèmes d'information des administrations publiques ont été développés de façon ascendante, en essayant de résoudre des problèmes locaux et spécifiques au domaine. Il en est résulté une GI/TI fragmentée qui est difficile à interopérer. En raison de la taille de l'administration publique et de la fragmentation des solutions de GI/TI, la pléthore de systèmes existants crée un obstacle supplémentaire à l'interopérabilité dans la couche technique.
 
@@ -44,7 +27,7 @@ D'un point de vue interne, l'interopérabilité est étroitement liée à la que
 
 Dans le contexte de l'architecture intégrée entièrement sous votre contrôle, une des options assurant l'intégration des composantes constitue la normalisation, soit des produits directement ou dans une famille de produits généralement offerts par un seul fournisseur. Cette approche peut avoir des avantages fonctionnels (généralement en termes d'intégration harmonieuse entre les produits), mais elle a l'inconvénient de lier la technologie de l'information interne à un système externe ou à un fournisseur particulier. Cette connexion peut devenir à la fois un handicap technique (en écartant l'adoption potentielle de nouvelles solutions plus pertinentes) et un handicap économique (en réduisant les possibilités de négociation et en augmentant les coûts de changement). Dans un scénario idéal d'interopérabilité, cependant, les composantes de base peuvent être substituées; chacune peut être modifiée plus facilement et indépendamment. Cette approche renforce la liberté de choix et rend l'architecture intégrée plus souple, parce que chaque élément de base peut être remplacé par un autre qui a la même fonctionnalité sans avoir d'impact sur le reste des systèmes.
 
-##### Adhésion à l'application – Verrouillage du fournisseur
+##### Adhésion à l'application - Verrouillage du fournisseur
 
 À l'interne, l'interopérabilité peut être vue en fonction de deux dimensions : La dimension horizontale (entre deux applications distinctes) qui, de par nature, est la dimension en jeu lorsque deux systèmes différents interagissent; et la dimension verticale, qui concerne les composantes d'une seule application. C'est généralement le cas entre l'application elle-même et les composantes de l'infrastructure sous-jacente (p. ex., une application peut nécessiter une base de données particulière qui, elle-même, ne fonctionne que sur un système d'exploitation particulier, sans qu'aucune fonctionnalité n'entre en jeu). C'est là que l'adhésion à l'application entre en ligne de compte, ce qui dépasse la portée de l'interopérabilité même si un certain nombre de principes fondamentaux sont les mêmes.
 
@@ -56,13 +39,13 @@ Sur le plan de l'interopérabilité, il n'y a pas de différence fondamentale en
 
 En ce qui concerne le déploiement d'un nuage privé, l'interopérabilité favorise la concurrence entre les fournisseurs en ce qui concerne le matériel et les logiciels, ainsi que la capacité de développer davantage l'infrastructure au fil du temps. En effet, l'utilisation de normes, par l'entremise des interfaces de programmation (API) par exemple, accroît l'indépendance par rapport aux différents moteurs propres aux composants matériels, et elle rend ces services d'infrastructure indépendants du logiciel déployé.
 
-La mise en œuvre d'un nuage est donc une occasion unique de normaliser ces processus et de s'entendre sur un cadre commun. L'utilisation d'un cadre d'interopérabilité et de normes facilite et rend moins coûteuse l'impartition d'une partie de l'infrastructure à un organisme tiers, ou la migration vers Services partagés Canada, dans une solution hybride.
+La mise en oeuvre d'un nuage est donc une occasion unique de normaliser ces processus et de s'entendre sur un cadre commun. L'utilisation d'un cadre d'interopérabilité et de normes facilite et rend moins coûteuse l'impartition d'une partie de l'infrastructure à un organisme tiers, ou la migration vers Services partagés Canada, dans une solution hybride.
 
 #### Cadre d'interopérabilité
 
 Un cadre d'interopérabilité est défini comme un ensemble de politiques, de lignes directrices, de normes, de règles et de recommandations formulées par un réseau d'acteurs en vue d'atteindre le plus haut niveau d'interopérabilité possible. Il décrit également les règles de fonctionnement qui régissent l'analyse, la sélection, l'adoption et la mise à jour de chacun de ces éléments.
 
-Pour assurer le déploiement et la longévité des systèmes interopérables, il est nécessaire de choisir conjointement les normes à adopter ainsi que les conditions de leur mise en œuvre. C'est la raison pour laquelle plusieurs pays européens (dont la France et le Royaume-Uni) et des provinces canadiennes comme le Québec ont choisi d'établir des cadres d'interopérabilité. Les résultats sont probants, car les normes ouvertes sont utilisées régulièrement et largement, et elles sont toujours la première approche à envisager lorsque de nouvelles exigences apparaissent.
+Pour assurer le déploiement et la longévité des systèmes interopérables, il est nécessaire de choisir conjointement les normes à adopter ainsi que les conditions de leur mise en oeuvre. C'est la raison pour laquelle plusieurs pays européens (dont la France et le Royaume-Uni) et des provinces canadiennes comme le Québec ont choisi d'établir des cadres d'interopérabilité. Les résultats sont probants, car les normes ouvertes sont utilisées régulièrement et largement, et elles sont toujours la première approche à envisager lorsque de nouvelles exigences apparaissent.
 
 Comme il est mentionné dans les divers cadres d'interopérabilité déjà publiés, ils sont conçus uniquement pour identifier les normes clés et non pour offrir des solutions prédéfinies et uniques (p. ex., en ce qui concerne le choix du logiciel). L'objectif d'un cadre d'interopérabilité est donc de faciliter et d'orienter les choix d'interopérabilité d'une organisation tout en limitant le nombre de normes potentielles afin de garantir un maximum de clarté.
 

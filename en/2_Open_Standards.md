@@ -12,27 +12,9 @@
 
 For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, through the availability of open data.
 
-#### External interoperability
-
-The crux of the matter is not only technical, but also based on a set of concerns at various levels. The [EFI](https://ec.europa.eu/isa2/eif_en) defines these as:
-
-- **Interoperability governance** refers to decisions on interoperability frameworks, institutional arrangements, organizational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels.
-- **Legal interoperability** is about ensuring that organizations operating under different legal frameworks, policies and strategies are able to work together;
-- **Organisational interoperability** refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals;
-- **Semantic interoperability** ensures that the precise format and meaning of exchanged data and information is preserved and understood throughout exchanges between parties, in other words ‘what is sent is what is understood’. In the [EFI](https://ec.europa.eu/isa2/eif_en), semantic interoperability covers both semantic and syntactic aspects;
-- **Technical interoperability** covers the applications and infrastructures linking systems and services. Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols.
-
-This the EIF definition of general interoperability:
->  Interoperability is the ability of organizations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organizations, through the business processes they support, by means of the exchange of data between their ICT systems.
-
 #### Internal interoperability
 
 Internal interoperability is much more focused on the technical dimension. Particular attention should be paid to its definition, to ensure that it faithfully reflects expectations associated with the term, particularly in terms of independence - the term sovereignty is sometimes used - and neutrality.
-
-A commonly used definition is the one proposed by the [Interoperability Working Group of the French speaking Libre Software Users' Association](http://interoperability-definition.info/en/):
->  Interoperability is a property of a product or system, whose interfaces are completely understood, to work with other products or systems, present or future, without any restricted access or implementation.
-
-This definition is also a reminder of the vital link between interoperability and open standards. The specified interfaces undergo standardization processes to ensure the emergence and maintenance of common, documented references.
 
 A major obstacle to interoperability arises from legacy systems. Historically, applications and information systems in public administrations were developed in a bottom-up fashion, trying to solve domain-specific and local problems. This resulted in fragmented IM-IT which are difficult to interoperate. Due to the size of public administration and the fragmentation of IM-IT solutions, the plethora of legacy systems creates an additional interoperability barrier in the technical layer.
 
