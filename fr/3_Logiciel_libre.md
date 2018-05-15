@@ -2,7 +2,6 @@
 
 ## Logiciels libres
 
-- [Terminologie](#terminology)
 - [Historique](#history)
 - [Propriété intellectuelle](#intellectual property)
 - [Utilisation des logiciels libres](#using-open-source-software)
@@ -13,17 +12,7 @@
 - [Logiciels libres préférés](#preferred-open-source-software)
 - [Exemples](#examples)
 
-### Terminologie
-
-Le code source est la version d'un logiciel interprétable par un humain. Le code est rédigé par des développeurs, et il peut être lu et modifié par d'autres. On peut compiler le code pour en faire un fichier exécutable ou binaire, qui n'est pas lisible.
-
 Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué sans restriction.
-
-Le terme « logiciel libre » a d'abord été proposé par Richard Stallman et défendu par la Free Software Foundation (FSF). Le logiciel libre est défini par [quatre libertés essentielles](https://www.gnu.org/philosophy/free-sw.fr.html) : La liberté d'exécuter le programme, la liberté d'étudier son fonctionnement, la liberté de le modifier et la liberté de le redistribuer. L'accès au code source est une condition préalable de ces libertés; il ne constitue pas le but ultime en soi.
-
-Le terme « logiciel à source ouverte » est utilisé par l'Open Source Initiative (OSI). Ils sont l'autorité pour certifier si une licence de logiciel est une licence source ouverte. La [définition du logiciel à source ouverte](https://opensource.org/docs/osd) s'appuie sur dix critères.
-
-En anglais, le terme « free » peut signifier que quelque chose est disponible sans frais (gratuit) ou qu'il donne certaines libertés (libre). Beaucoup de renseignements disponibles en ligne présentent la liberté d'expression, la bière gratuite et même les chatons gratuits comme des métaphores des logiciels libres et gratuits.
 
 Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes « logiciel libre et ouvert » (LLO) ou « logiciel libre et en source ouverte » (FLOSS, pour « free/libre open source software »). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme « logiciel libre » (LL) pour englober les termes « logiciel libre » et « logiciels à source ouverte ».
 

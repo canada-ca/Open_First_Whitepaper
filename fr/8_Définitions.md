@@ -29,13 +29,21 @@ Inspirés par les quatre documents stratégiques, les critères suivants défini
 - les spécifications et le matériel de soutien sont disponibles gratuitement, sous réserve de restrictions limitées;
 - les normes sont appuyées par la collectivité et elles font preuve d'indépendance ou d'une procédure régulière approuvée par un consensus approximatif entre les participants.
 
+### Code source
+
+La version d'un logiciel interprétable par un humain. Le code est rédigé par des développeurs, et il peut être lu et modifié par d'autres. On peut compiler le code pour en faire un fichier exécutable ou binaire, qui n'est pas lisible.
+
 ### Logiciels libres
 
-Les logiciels en libre accès sont des logiciels qui respectent la liberté et la collectivité des utilisateurs. Le terme « libre » est davantage une question de liberté que de prix, car il fait référence à la liberté des utilisateurs de gérer, de copier, de distribuer, d’étudier, de modifier et d’améliorer le logiciel. Dans la plupart des cas, cela signifie la même chose que le logiciel ouvert, bien que cette question soit largement débattue.
+Les logiciels libre sont des logiciels qui respectent la liberté et la collectivité des utilisateurs. Le terme « libre » ("free" en anglais) est davantage une question de liberté que de prix, car il fait référence à la liberté des utilisateurs.
+
+Le terme « logiciel libre » a d'abord été proposé par Richard Stallman et défendu par la Free Software Foundation (FSF). Le logiciel libre est défini par [quatre libertés essentielles](https://www.gnu.org/philosophy/free-sw.fr.html) : La liberté d'exécuter le programme, la liberté d'étudier son fonctionnement, la liberté de le modifier et la liberté de le redistribuer. L'accès au code source est une condition préalable de ces libertés; il ne constitue pas le but ultime en soi.
 
 ### Logiciel à source ouverte
 
 Logiciel dont le code source est rendu disponible avec une licence dans laquelle le titulaire du droit d’auteur donne les droits d’étudier, de modifier et de distribuer le logiciel à n’importe qui et à n’importe quelle fin.
+
+Le terme utilisé par l'Open Source Initiative (OSI). La [définition du logiciel à source ouverte](https://opensource.org/docs/osd) s'appuie sur dix critères.
 
 ### Matériel libre
 

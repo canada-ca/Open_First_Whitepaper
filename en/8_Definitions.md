@@ -29,13 +29,21 @@ Inspired by the four policy documents, the following criteria define open standa
 - specifications and supporting material are freely available with limited restrictions;
 - supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
+### Source Code
+
+The human readable version of software. The code is written by developers and can be read and modified by others. The code can be compiled into an executable or binary, that is not readable.
+
 ### Free Software
 
-Free software is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom to run, copy, distribute, study, change and improve the software. For most practical purposes it means the same as Open Source Software, although this is widely debated.
+Free software is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom.
+
+Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF). Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html). The freedom to run the program, study how it works, modify it and redistribute it. Access to the source code is a precondition for these freedoms and not the end goal itself.
 
 ### Open Source Software
 
 Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+
+The name used by the Open Source Initiative. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
 
 ### Open Source Hardware
 

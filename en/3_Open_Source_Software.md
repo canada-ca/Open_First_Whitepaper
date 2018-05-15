@@ -2,7 +2,6 @@
 
 ## Open Source Software
 
-- [Terminology](#terminology)
 - [History](#history)
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)
@@ -15,15 +14,7 @@
 
 ### Terminology
 
-Source code is the human readable version of software. The code is written by developers and can be read and modified by others. The code can be compiled into an executable or binary, that is not readable.
-
 Free software and open source software is software where the source code is distributed and can be used, copied, studied and redistributed without restrictions.
-
-Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF). Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html). The freedom to run the program, study how it works, modify it and redistribute it. Access to the source code is a precondition for these freedoms and not the end goal itself.
-
-Open Source Software is the name used by the Open Source Initiative. They're the authority on certifying whether a software licence is an open source licence. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
-
-Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer and even free kittens as metaphors for free software.
 
 Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
 
