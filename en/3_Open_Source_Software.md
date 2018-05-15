@@ -14,7 +14,7 @@
 
 ### Terminology
 
-Free software and open source software is software where the source code is distributed and can be used, copied, studied and redistributed without restrictions.
+Free software and open source software is software where the source code is distributed and can be used, copied, studied and redistributed.
 
 Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
 

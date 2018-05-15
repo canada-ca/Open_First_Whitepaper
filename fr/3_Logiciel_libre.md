@@ -12,7 +12,7 @@
 - [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
 - [Exemples](#exemples)
 
-Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué sans restriction.
+Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué.
 
 Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes « logiciel libre et ouvert » (LLO) ou « logiciel libre et en source ouverte » (FLOSS, pour « free/libre open source software »). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme « logiciel libre » (LL) pour englober les termes « logiciel libre » et « logiciels à source ouverte ».
 
