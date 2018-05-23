@@ -12,6 +12,8 @@ Cette directive est appuyée par le premier ministre; en octobre 2017, le prés
 
 ### Contexte opérationnel courant
 
+À développer
+
 ### Objectifs opérationnels
 
 Ce livre blanc a deux objectifs :
