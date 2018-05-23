@@ -10,7 +10,11 @@ Ce livre blanc saisit l'approche du gouvernement du Canada pour passer à un env
 
 Cette directive est appuyée par le premier ministre; en octobre 2017, le président du Conseil du Trésor (CT) a signé un [protocole d'entente (PE) sur le gouvernement numérique avec le Royaume-Uni](https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/protocole-dentente-concernant-gouvernement-numerique.html). Le présent protocole d'entente souligne la nécessité de travailler ensemble pour fournir des services publics d'une manière ouverte fondée sur les principes [Digital 5](https://en.wikipedia.org/wiki/Digital_5) : besoins des utilisateurs, normes ouvertes, logiciels libres, marchés ouverts, gouvernement ouvert et numérique assisté.
 
-### Objectifs
+### Contexte opérationnel courant
+
+À développer
+
+### Objectifs opérationnels
 
 Ce livre blanc a deux objectifs :
 1) Éclairer une future politique du gouvernement du Canada qui englobe l'utilisation d'outils libres.
