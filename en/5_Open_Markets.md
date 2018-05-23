@@ -1,18 +1,19 @@
-[« Previous Page : Open Source Code](4_Open_Source_Code.md) | [Table of Content](TOC.md) | [Next Page: Open Culture »](6_Open_Culture.md)
+[« Previous Page : Open Source Code](4_Open_Source_Code.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Culture »](6_Open_Culture.md)
 
 ## Open Markets
 
-Procuring goods and services is a significant components
-There are two components to open procurement
+Procuring goods and services in the open is an important part of an open environment. This section will look at the approch to the procurment and use of open source software, as this has yet to be defined.
 
-1. changing process
-2. how to procure open tools
+The two componenets of open markets that will be looked at in this section include:
+
+1. Procurement of open soure tools
+2. Process changes to existing procurment practices
 
 Fair and Transparent - We are working on making procurement more fair and transparent to meet the following D5 Principle of Open Markets:
 
 - Creating true competition for companies regardless of size
-- encouraging and supporting a start-up culture
-- promoting economic growth through open markets
+- Encouraging and supporting a start-up culture
+- Promoting economic growth through open markets
 
 Agile and Challenge based - We are achieving this in an agile manner using a new open procurement process, short challenges and iterative projects, such as with the open-by-default pilot portal
 

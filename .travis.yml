@@ -1,3 +1,4 @@
-lang: ruby
+language: node_js
 
-script: bundle exec mdl -g .
+node_js:
+- "node"

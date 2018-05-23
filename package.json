@@ -1,0 +1,23 @@
+{
+  "name": "open_first_whitepaper",
+  "version": "0.0.1",
+  "description": "The Treasury Board of Canada Secretariat is writing this whitepaper to pull together our thinking on how to shift government to an 'Open' approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/Open_First_Whitepaper.git"
+  },
+  "author": "The Treasury Board of Canada",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/canada-ca/Open_First_Whitepaper/issues"
+  },
+  "homepage": "https://github.com/canada-ca/Open_First_Whitepaper#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.8.1"
+  },
+  "dependencies": {}
+}

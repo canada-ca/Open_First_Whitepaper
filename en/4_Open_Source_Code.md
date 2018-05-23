@@ -1,16 +1,18 @@
-[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Content](TOC.md) | [Next Page: Open Markets »](5_Open_Markets.md)
+[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
 
 ## Open Source Code
 
+- [Releasing Open Source Software](#releasing-open-source-software)
 - [Benefits](#benefits)
-- [Drawbacks and Risks](#drawbacks-and-risks)
-- [Best Practices](#best-practices)
-- [Code Repositories](#code-repositories)
+- [Risks and Drawbacks](#risks-and-drawbacks)
+- [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
 - [Preferred OSS Licences](#preferred-oss-licences)
 - [Preferred Code Repositories](#preferred-code-repositories)
 - [Examples](#examples)
 
-The Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
+### Releasing Open Source Software
+
+The Government of Canada creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
 When developing entirely new software a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary to their core business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
 
@@ -20,7 +22,7 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 #### Collaboration to Lower Development Costs
 
-When we publicly release in-house software program under an OSS licence, it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
+When we publicly release an in-house software program under an OSS licence, it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Companies regularly invest a share of resources to participate in OSS projects: 40% of developers in OSS communities are paid to participate. ([source](http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2007.2.3.97))
 
 When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
 
@@ -48,7 +50,7 @@ A newer phenomenon is the emergence of social enterprises and entrepreneurial in
 
 Even outside of social enterprises, the release of OSS by public sector organizations can help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
 
-OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend efforts duplicating an existing project.
+OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend effort duplicating an existing project.
 
 #### Employer Benefits
 
@@ -68,17 +70,17 @@ Consequently, full participation in the scientific community will increasingly r
 
 Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers. Also, open access to an OSS project (e.g. source code, issues/bugs, governance/meeting minutes, support documentation/forum) allows real assessment of its maturity along with the level of activity of its community and support provider(s). Therefore, it's easier to compare the development velocity and health of multiple projects/solutions.
 
-### Drawbacks and Risks
+### Risks and Drawbacks
 
 #### Lack of Direct Licensing Revenue
 
 The fact that anyone can redistribute OSS for free is an obvious barrier for many software vendors who are not engaging the OSS business model. Other than nominal charges for distribution on physical media, it is generally not feasible to profit from OSS using the traditional business model of directly selling software licences. The lack of direct licensing revenue can also pose a barrier in public sector organizations where “cost recovery” policies are in place. Even though OSS may aid numerous public service goals, these do not necessarily help to offset the costs and risks of developing the software.
 
-It should be noted, however, that for many software projects that government employees may be engaged in, and particularly for government scientists, the economic value of an individual program will be minimal. In organizations where there is no established mechanism for selling software, the effort necessary to establish and manage the sale of programs, and to provide the level of support that would be expected in a commercial marketplace, is likely to exceed any potential revenues that may be realized.
+It should be noted, however, that for many software projects in which government employees, and particularly scientists, may be engaged, the economic value of an individual program will be minimal. In organizations where there is no established mechanism for selling software, the effort necessary to establish and manage the sale of programs, and to provide the level of support that would be expected in a commercial marketplace, is likely to exceed any potential revenues that may be realized.
 
 #### Community May Not Coalesce
 
-There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement. To address this risk the GoC should create systems which promote, or introduce a reward system for, open-source contributions which is geared to promoting the efforts of employees toward the achievement of open, collaborative outcomes[2].
+There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement. To address this risk the GoC should create systems which promote, or introduce a reward system for, open-source contributions which is geared to promoting the efforts of employees toward the achievement of open, collaborative outcomes (source?).
 
 #### Legal Complexities
 
@@ -88,11 +90,41 @@ Releasing software as OSS usually requires a careful legal consideration of the 
 
 Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
 
-### Best Practices
+### Best Practices for releasing OSS
 
 #### Deciding to Distribute Software as OSS
 
 A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
+
+#### Security Classification
+
+The Treasury Board [Directive on Departmental Security Management (DDSM)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579) defines protected information as one that "may qualify for an exemption or exclusion under the Access to Information Act or the Privacy Act because its disclosure would reasonably be expected to compromise the non-national interest."
+
+In order for source code to potentially be deemed protected, it would have to contain any of the following information:
+
+- Information obtained in confidence
+- Information about federal-provincial affairs
+- Information about international affairs and defence
+- Information about law enforcement and investigations
+- Information about the safety of individuals
+- Information about the economic interests of Canada
+- Personal information
+- Third party information
+- Advice about certain aspects of operations of government
+- Information about testing procedures, tests, and audits
+- Information that is subject to solicitor-client privilege
+- Information that is subject to statutory prohibitions
+- Certain types of information held by the Canadian Broadcasting Corporation and Atomic Energy of Canada Limited
+- Confidences of the Queen’s Privy Council for Canada
+
+It is highly unlikely that developers would intentionally include such information in their source code. As a result, the proposed categorization for the confidentiality of source code is considered unclassified unless the developer has included, inadvertently or otherwise, information that falls under the [exemptions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-10) and [exclusions](http://laws-lois.justice.gc.ca/eng/acts/a-1/page-10.html#h-29) of the [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/A-1/) as listed above. Where feasible, this information should be removed from the source code to increase the ability for code to be shared.
+
+Some security considerations to keep in mind when developing software:
+
+- Keep sensitive data such as credentials secure and separate from source code.
+- Avoid storing keys and other sensitive material in systems not approved for that purpose.
+- Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
+- Implement controls sufficient to prevent unauthorized or inadvertent changes.
 
 #### Choosing a Licence
 
@@ -100,75 +132,33 @@ You will not always have a choice as to which licence you apply. Where a recipro
 
 Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 
-Overall, licensing decisions tend to involve one primary and consequential decision: whether to apply a reciprocal or permissive licence:
+Choosing an appropriate licence tends to revolve around the decision of whether to apply a reciprocal or permissive licence:
 
 - Permissive licences maximize the scope of downstream users (with broad appeal to the entire private sector); while
 - Reciprocal licences are appropriate in cases where it is important to receive back downstream changes, or where it is important to ensure that work built on an initial investment remains open and free. Reciprocal licences can also put a focus on benefiting other private-sector businesses that provide services and support.
 
-(table..)
+The following chart details other key differences in this decision:
+
+|                                          | Permissive | Reciprocal |
+| ---------------------------------------- | ---------- | ---------- |
+| **Beneficiaries of the OSS release**         | Everyone: commercial software vendors, support services, etc. | Everyone, but only where they are willing to release their software as OSS, under the same licensing terms as were granted to them (note that some closed-source software vendors absolutely prohibit reciprocal licences such as the GPL). |
+| **Beneficiaries of downstream code changes** | The whole community, but only where the business (or other developer) chooses to contribute modifications back under the permissive licence. | The whole community in every case where a business, organization, or individual distributes the modifications, as the licence then mandates releasing the changes under the same OSS licence. |
+| **Licence complexity**                       | Often very simple and understandable (e.g., popular "2-clause BSD"). | Relatively complex, requiring careful legal analysis (and some risk of misinterpretation). |
+| **Interoperability**                         | Permissively-licenced code can be included in projects under reciprocal licences, other permissive licences, or closed-source licences. | Reciprocal-licenced code cannot generally be included in a project under any other single licence. |
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
-
-#### Due Diligence / Licence Management
-
-##### Managing Licence Obligations
-
-Where reciprocal licensing obligations apply, you do not have the benefit of being able to choose a licence. Your code - to the extent specified in the reciprocal licence - must come under the exact same licence when you distribute it (or, if the licence permits, a later version of the same licence). In such a case where you encounter a reciprocal licensing obligation, there are three ways to comply:
-
-1. Do not distribute your software;
-2. License your software under the exact same licence (or, where the licence permits, a compatible licence); or
-3. Re-implement parts of your software such that it does not include any code or libraries that come under a reciprocal licence (or, at least, ensure that your code does not integrate tightly with reciprocal code such that the obligation engages).
-
-Closed-source software vendors typically opt for solution three when they notice inadvertent reciprocal code, given that they need to distribute their software to paying customers but do not usually want to open up the rest of their source code to others. It is therefore important for these vendors to conduct a “due diligence” audit on their software projects, checking that their software does not include any OSS code or libraries that engage a reciprocal licensing obligation.
-
-Likewise, organizations and businesses releasing their code as OSS should also conduct due diligence audits. Although they are already applying a OSS licence, a reciprocal licensing obligation generally imposes a requirement to licence the code under the exact same licence. Thus, releasing code under a different OSS licence may not always comply. It may be necessary to dual-license your own code under the other reciprocal licence, or, in a similar manner to the closed-source context, ensure that the software does not include any code or libraries that engage the reciprocal obligation. Although reciprocal obligations pose the strictest set of parameters, organizations and businesses must also ensure they comply with other licensing terms. For example, they must comply with notice requirements and obligations to distribute the original source code. A due diligence audit ensures that this compliance is in place.
-
-There are two general methods to conduct a due diligence audit: provenance checking and code scanning.
-
-##### Provenance Checking
-
-Provenance checking involves maintaining a careful audit trail: the developers maintain internal records of what code is in the project, how that code is used, and what licence applies to each element. Some build automation tools such as Maven (which developers use to automate code compilation and deployment) help with functionality to indicate, track, and report licences in a project, thereby assisting and standardizing the task of keeping records.
-
-Looking at the internal audit records, a licensing expert can check a project for compliance either when a developer adds a new external element or upon release of the software (or both). A fresh legal analysis of the licence text is not required for each and every new library imported into a project. Once a licence manager approves use of a particular licence within a project, developers can generally safely use other libraries under the same licence, as long as they use them in a similar manner. For example, a business or organization might establish a policy for a project that: grants automatic approval for specific permissive licences including BSD, MIT and Apache; grants approval for weak reciprocal licences such as the LGPL on a case-by-case basis; and grants approval for strong reciprocal licences, such as the GPL, only after a careful and thorough legal analysis.
-
-##### Automated Code Scanning
-
-In many cases, provenance checking should prove sufficient for smaller projects. However, it may prove impractical for larger companies or larger projects. A large company often owns code purchased from other parties, or code received from acquisitions and mergers, that may have no accurate licence audit for the code. In this case, it is best to use automated code scanning tools that search through the entire code base to determine the licences that apply. Automated code scanning utilities search text files and embedded code comments that may indicate the licence applicable to a particular element of the software. Some tools even compare the code itself against known third-party OSS code.
-
-Of course, while these tools can prove highly useful, it must be kept in mind that the results do not provide certainty that the source code is under only the reported licences, nor that it is free of copyright or patent infringements. An inherent limitation of the audit is that it can only compare the client’s source code to a wide, but not exhaustive, collection of other source code repositories. It may not detect copyrighted source code from closed-source vendors, or source code from smaller OSS projects. Where possible, businesses and organizations may also wish to reduce their risks and ease the auditing task by using software libraries from trustworthy organizations that have already audited the library code.
-
-#### Patent Management and Other Legal Issues
-
-All of the OSS legal considerations which apply when using OSS equally apply when you distribute OSS. For code that you distribute, the lack of a disclaimer and warranty can work in your favour. The lack of a choice of forum or choice of law clause generates equal legal uncertainty for all parties. In addition to these legal issues, OSS distribution raises concerns related to patents. By licensing your code under a OSS licence, you may either implicitly or explicitly license the patents you own if any of the code implicates them. It is important to understand the nature and scope of the patent licences you grant.
-
-##### Patent Licence Scope
-
-The treatment of patents varies greatly throughout different OSS licences. The traditional approach – still seen in popular permissive licences such as BSD and MIT – is an implicit patent licence: the licence makes no specific mention of patents, but rather the stated right to use the software implicitly grants the licensee permission to “use” any relevant patents held by the licensor. An implicit patent licence almost certainly grants others the right to use the original code as distributed, including where such use implicates patent held by the licensor. However, the scope of an implicit patent licence becomes less clear when downstream parties modify the original code. If the modifications change the typical “use” of the software, does the original patent licence still cover a use that is different from what the licensor originally intended? If a new use infringes a different patent held by the original licensor, does the broad grant of rights to make modifications also end up licensing this other patent? Most likely, the answer to these two questions in “no”: the implicit patent grant often covers only uses implicated by the licensor's original contributions, but not other uses that additional features and modifications might involve. Most modern OSS licences attempt to increase clarity and legal certainty by making this scope limitation explicit. For example, the Apache Version 2.0 licence provides:
->  Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. Under this clause, the patent licence only extends to uses of the software applicable to existing contributions. Where further downstream contributions alter the software's use, the original patent licence may no longer apply.
-
-Although a OSS licence could feasibly grant a broader patent licence that would cover downstream modifications, no popular licences presently take this approach. Not even the highly freedom-assertive GPLv3 licence makes such a grant. Given the nearly limitless number of ways that additional features could alter the typical use of a software application, such a broad patent licence is likely untenable for most businesses managing a patent portfolio.
-
-Therefore, as a best practice, whenever you modify OSS you should consider whether the modifications change the use of the software in a way that might implicate other patent licences, or in such a way that existing patent licences may not cover the new use.
-
-##### Patent Termination and Retaliation Clauses
-
-Many OSS licences attempt to protect the software against patent infringement lawsuits by including automatic-termination clauses. These clauses trigger whenever a licensee alleges that any part of the software infringes his or her patent. For example, the [Apache Version 2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0.html) succinctly states:
->  If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
-
-These triggers differ amongst licences. For example, unlike the Apache Version 2.0 licence, the [Mozilla Public License Version 2](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) explicitly allows parties to defend themselves with patent infringement counterclaims and crossclaims, all without triggering the termination clause.
-
-Some licences also include broader retaliation clauses - that is, a broader termination of rights. The Apache Version 2.0 patent termination clause, set out above, only terminates patent licences. The MPLv2, on the other hand, terminates all rights under both copyright and patent law. When involved in patent infringement litigation - whether initiating an originating action or a counterclaim - it is important to carefully assess the impact this could have on any OSS that you use or contribute towards.
 
 #### Managing Project Participation
 
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
-### Preferred OSS licences
+### OSS licences
 
-- **Permissive**: MIT
-- **reciprocal**: GPL
+You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, CDS uses the MIT licence.
 
-### Preferred Code Repositories
+All code produced by civil servants is automatically covered by Crown Copyright.
+
+### Code Repositories
 
 - Gitlab
 - Github
