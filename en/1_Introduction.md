@@ -10,7 +10,11 @@ This whitepaper captures the Government of Canada's (GC) approach to move toward
 
 This direction is supported by the Prime Minister; in October, 2017, the President of the Treasury Board (TB) signed a [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html). This MOU outlines the need to work together to provide public services in an open manner based on the [Digital 5](https://en.wikipedia.org/wiki/Digital_5) Principles: User Needs, Open Standards, Open Source Software, Open Markets, Open Government and Assisted Digital.
 
-### Objectives
+### Current Business Environment
+
+To be expanded
+
+### Business Objectives
 
 This whitepaper has two objectives:
 1) To help inform a future GC policy that encompasses the use of open source tools.
