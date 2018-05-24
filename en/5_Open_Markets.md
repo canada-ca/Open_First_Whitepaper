@@ -6,7 +6,7 @@ Procuring goods and services in the open is an important part of an open environ
 
 The two componenets of open markets that will be looked at in this section include:
 
-1. Procurement of open soure tools
+1. Procurement of open source tools
 2. Process changes to existing procurment practices
 
 Fair and Transparent - We are working on making procurement more fair and transparent to meet the following D5 Principle of Open Markets:
