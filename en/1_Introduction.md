@@ -5,6 +5,7 @@
 # Introduction
 
 ## Strategic Environment
+
 * Mention the Open Government, vision, goal
 * Mention UK MOU, Digital 7 Principles
 * GC EARB committments, Open sources
@@ -19,6 +20,7 @@
 ### Business Outcomes
 
 ## Strategic Fit
+
 * Mention Digital "Standards", Build it right, Digital Playbook
   * Interoperability, flexibility, modularity, etc.
 * Alignment with international community
@@ -40,12 +42,14 @@
 ### Boundaries
 
 ### Stakeholder Analysis
+
 * Federal departments, provincial, municipal
   * Geospatial community
 * international partners
 
 > Former introduction contents
 -----------------------------------------
+
 ## Introduction
 
 In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source software as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).

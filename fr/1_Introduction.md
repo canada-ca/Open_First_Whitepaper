@@ -37,6 +37,7 @@
 
 > Contenu de l'ancienne introduction
 --------------------------------------------------
+
 ## Introduction
 
 Dans un effort soutenu visant à améliorer la prestation des services, le gouvernement du Canada s'est engagé, en décembre 2017, par l'entremise du Conseil d'examen de l'architecture intégrée (CEAI) du gouvernement du Canada, à utiliser des logiciels libres comme composante clé de son écosystème technologique. En outre, les membres du Conseil se sont engagés à appuyer la création et l'adoption de pratiques en matière de libre accès dans l'ensemble du gouvernement. Cette décision appuie l'engagement actuel du Canada à améliorer la transparence, la reddition de comptes et l'accès au gouvernement par l'entremise de son programme de gouvernement ouvert. Pour obtenir de plus amples renseignements sur l'approche du Canada en matière de gouvernement ouvert, veuillez consulter le site [ouvert.Canada.ca](https://ouvert.canada.ca/fr/apropos-gouvernement-ouvert).
