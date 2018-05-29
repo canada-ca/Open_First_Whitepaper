@@ -34,7 +34,6 @@
 
 ### Analyse des intervenants
 
-
 > Contenu de l'ancienne introduction
 --------------------------------------------------
 

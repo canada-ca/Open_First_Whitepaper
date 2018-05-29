@@ -89,8 +89,8 @@ This whitepaper aims to assess the GC’s current use of OSS tools, programs and
 Gone are the days of designing a program, service, or tool without talking to a person who is going to be using it. Consultations, user experience testing, and public opinion research are all important aspects of how we do business. Once we incorporate the needs of our users, we can build services that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
 
 #### Interoperability
-Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
 
+Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
 
 ### Contributing
 
