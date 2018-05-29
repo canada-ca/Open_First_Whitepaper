@@ -1,5 +1,42 @@
 [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Normes ouvertes »](2_Normes_ouvertes.md)
 
+> L'information présentement contenue dans cette section sera conservée pour utilisation comme référence. Une nouvelle structure pour l'introduction sera proposée afin de mieux refléter le [guide d'analyse de rentabilisation du Secrétariat du Conseil du Trésor](https://www.canada.ca/fr/secretariat-conseil-tresor/services/gestion-information-technologie-projets/gestion-projects/guide-analyse-rentabilisation.html).
+
+# Introduction
+
+## Environnement stratégique
+
+### Survol de l’organisation
+
+### Besoin opérationnel
+
+### Facteurs de changement
+
+### Résultats opérationnels
+
+## Concordance stratégique
+
+## Description détaillée du besoin opérationnel
+
+### Énoncé du problème/de la possibilité
+
+### Exigences prioritaires (de haut niveau)
+
+### Hypothèses
+
+### Contraintes
+
+### Dépendances
+
+## Portée
+
+### Limites
+
+### Analyse des intervenants
+
+
+> Contenu de l'ancienne introduction
+--------------------------------------------------
 ## Introduction
 
 Dans un effort soutenu visant à améliorer la prestation des services, le gouvernement du Canada s'est engagé, en décembre 2017, par l'entremise du Conseil d'examen de l'architecture intégrée (CEAI) du gouvernement du Canada, à utiliser des logiciels libres comme composante clé de son écosystème technologique. En outre, les membres du Conseil se sont engagés à appuyer la création et l'adoption de pratiques en matière de libre accès dans l'ensemble du gouvernement. Cette décision appuie l'engagement actuel du Canada à améliorer la transparence, la reddition de comptes et l'accès au gouvernement par l'entremise de son programme de gouvernement ouvert. Pour obtenir de plus amples renseignements sur l'approche du Canada en matière de gouvernement ouvert, veuillez consulter le site [ouvert.Canada.ca](https://ouvert.canada.ca/fr/apropos-gouvernement-ouvert).
@@ -19,14 +56,6 @@ Cette directive est appuyée par le premier ministre; en octobre 2017, le prés
 Ce livre blanc a deux objectifs :
 1) Éclairer une future politique du gouvernement du Canada qui englobe l'utilisation d'outils libres.
 2) Établir un processus de gouvernance pour améliorer la mise en œuvre efficace et durable des outils libres dans l'ensemble du gouvernement du Canada.
-
-### Contribution
-
-Comme il a été mentionné ci-dessus, ce livre blanc est élaboré conjointement par des membres de la collectivité des sources ouvertes du Canada dans le but d'obtenir le portrait le plus complet possible des utilisations actuelles et futures du livre blanc ouvert au sein du gouvernement du Canada. Même si nous avons fait un premier effort pour recueillir des données de recherche, y compris des pratiques exemplaires et des études de cas des administrations, nous pouvons toujours faire mieux. Veuillez nous faire part de vos réflexions, de vos études de cas, de vos questions et de vos préoccupations.
-
-Les contributions peuvent être faites au moyen d'une demande de retrait ou en créant un billet.
-
-Nous voulons apprendre des Canadiens, de nos partenaires, des universitaires et des experts techniques pour nous aider à intégrer une perspective ouverte dans la mise à jour des politiques, de la gouvernance, du financement et des processus du gouvernement du Canada.
 
 ### Principes numériques du gouvernement du Canada (ÉBAUCHE)
 
@@ -49,3 +78,11 @@ L'époque où l'on concevait un programme, un service ou un outil sans parler à
 #### Interopérabilité
 
 Les particuliers, les entreprises, le public, les institutions et les objets communiquent tous par des échanges informatiques. Ces échanges informatiques sont devenus une voie de communication essentielle, et leur hétérogénéité globale est une raison encore plus importante d'interopérabilité, c'est-à-dire la capacité de faire en sorte que divers systèmes d'information communiquent entre eux. Un manque d'interopérabilité peut, au mieux, mener à une rupture des communications ou des opérations et, au pire, à une perte totale d'accès à de l'information précieuse.
+
+### Contribution
+
+Comme il a été mentionné ci-dessus, ce livre blanc est élaboré conjointement par des membres de la collectivité des sources ouvertes du Canada dans le but d'obtenir le portrait le plus complet possible des utilisations actuelles et futures du livre blanc ouvert au sein du gouvernement du Canada. Même si nous avons fait un premier effort pour recueillir des données de recherche, y compris des pratiques exemplaires et des études de cas des administrations, nous pouvons toujours faire mieux. Veuillez nous faire part de vos réflexions, de vos études de cas, de vos questions et de vos préoccupations.
+
+Les contributions peuvent être faites au moyen d'une demande de retrait ou en créant un billet.
+
+Nous voulons apprendre des Canadiens, de nos partenaires, des universitaires et des experts techniques pour nous aider à intégrer une perspective ouverte dans la mise à jour des politiques, de la gouvernance, du financement et des processus du gouvernement du Canada.

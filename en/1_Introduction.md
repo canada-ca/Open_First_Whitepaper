@@ -1,5 +1,51 @@
 [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Standards »](2_Open_Standards.md)
 
+> The information currently contained in this section will be kept for reference for now. A new Introduction structure is being proposed to best fit the Treasury Board Secretariat [business case guide](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/business-case-guide.html). May still need a quick intro paragraph.
+
+# Introduction
+
+## Strategic Environment
+* Mention the Open Government, vision, goal
+* Mention UK MOU, Digital 7 Principles
+* GC EARB committments, Open sources
+* Open Source Advisory Board
+
+### Organizational Overview
+
+### Business Need
+
+### Drivers for Change
+
+### Business Outcomes
+
+## Strategic Fit
+* Mention Digital "Standards", Build it right, Digital Playbook
+  * Interoperability, flexibility, modularity, etc.
+* Alignment with international community
+
+## Detailed Description of the Business Need
+
+### Problem/Opportunity Statement
+
+### Prioritized Requirements (High Level)
+
+### Assumptions
+
+### Constraints
+
+### Dependencies
+
+## Scope
+
+### Boundaries
+
+### Stakeholder Analysis
+* Federal departments, provincial, municipal
+  * Geospatial community
+* international partners
+
+> Former introduction contents
+-----------------------------------------
 ## Introduction
 
 In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source software as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).
@@ -20,14 +66,6 @@ This whitepaper has two objectives:
 1) To help inform a future GC policy that encompasses the use of open source tools.
 2) Determine a governance process for ensuring the effective and sustainable implemetnation of open source tools across the GC.
 
-### Contributing
-
-As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns.
-
-Contributions can be made through a pull request or by creating an issue.
-
-We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
-
 ### GC Digital Principles (DRAFT)
 
 While the GC has been using open source tools for quite some time within different pockets of the organization, this whitepaper will help identify existing efforts and be more intentional in how they are governed. This is an important component of the GC's effort to create a more digital government. Inspired by the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, technology, and provision of services.
@@ -47,5 +85,13 @@ This whitepaper aims to assess the GC’s current use of OSS tools, programs and
 Gone are the days of designing a program, service, or tool without talking to a person who is going to be using it. Consultations, user experience testing, and public opinion research are all important aspects of how we do business. Once we incorporate the needs of our users, we can build services that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
 
 #### Interoperability
-
 Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
+
+
+### Contributing
+
+As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns.
+
+Contributions can be made through a pull request or by creating an issue.
+
+We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
