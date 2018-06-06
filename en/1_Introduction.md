@@ -1,8 +1,10 @@
 [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Standards »](2_Open_Standards.md)
 
-> The information currently contained in this section will be kept for reference for now. A new Introduction structure is being proposed to best fit the Treasury Board Secretariat [business case guide](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/business-case-guide.html). May still need a quick intro paragraph.
+> A new Introduction structure is being proposed to best fit the Treasury Board Secretariat [business case guide](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/business-case-guide.html).
 
 # Introduction
+
+The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt open standards and use as well as release open source software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase, and provide information and services.
 
 ## Strategic Environment
 
