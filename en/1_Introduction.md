@@ -6,16 +6,47 @@
 
 ## Strategic Environment
 
-* Mention the Open Government, vision, goal
-* Mention UK MOU, Digital 7 Principles
-* GC EARB committments, Open sources
-* Open Source Advisory Board
-
 ### Organizational Overview
+
+Openness and transparency are fundamental to ensuring Canadians’ trust in their government and in democracy overall. Citizens expect their government to be open, transparent, and accountable. They also expect their government to deliver real, meaningful results, in a fair, efficient, and responsible manner. The Government of Canada’s commitment to openness is intended to foster greater transparency and accountability, and to help create a more cost-effective, efficient, and responsive government for all Canadians. ([Third Biennial Plan to the Open Government Partnership](https://open.canada.ca/en/content/third-biennial-plan-open-government-partnership))
+
+The Government of Canada is committed to raising the bar on openness and transparency. The ministerial mandate letters sent to each of the Cabinet Ministers reinforces expectations that all federal departments and agencies will do their part to ensure an open, honest government that is accountable to Canadians, lives up to the highest ethical standards, and advances Canadians' priorities with a renewed sense of collaboration.
+
+We are dilivering on that with the [https://open.canada.ca/en](Open Government Portal) that enables searching Government of Canada open datasets and open information digital records. Canada has also been an active Open Governemtn Partnership (OGP) member since 2012; In September, 2017, Canada came first in the election of the new OGP Steering Committee members, and assumed its seat on the Steering Committee.
+
+In October 2017, Treasury Board of Canada Secretariat (TBS) reached a [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html) that inludes open data and open government, but also add other principles of digital development such as open standards, open source software (OSS) and open markets.
+
+Soon after, the [GC Strategic Plan for IM and IT 2017-2021](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html) included a new planned action to introduce a strategy for use of open source software and open standards. TBS is to will lead the development of a strategy to set direction for the government on the use and release of OSS and open standards that will be ratified by GC EARB.
+
+In December 2017 the [GC EARB members endorsed](http://www.gcpedia.gc.ca/gcwiki/images/9/98/GC_EARB_2017-12-14_Record_of_Discussion.pdf) that GC EARB supports the formalization of a common GC-wide approach to the adoption of open source within government, resulting in a more robust open community within the GC.
+
+In February 2018, [Canada signs the Digital 7 (D7) charter](https://www.canada.ca/en/treasury-board-secretariat/news/2018/02/canada_joins_leadingdigitalnationsind7.html) and joins Estonia, Israel, South Korea, New Zealand, the UK and Uruguay commiting to working towards core principles of digital development, with a focus on user needs, open government, and a commitment to share and learn from D7 member nations. The D7 charter, which also calls for commitments to open standards, OSS, open government and teaching children to code.
 
 ### Business Need
 
+The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. Along with OSS, they help mitigate the risks of vendor Lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
+
+If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
+
 ### Drivers for Change
+
+The GC recently made international commitments (MOU, D7) to use open standards and open source software (OSS) as well as release open source code. Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations. We're behind! Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
+
+Adopting and using open standards means you can move between different technologies when you need to, avoiding vendor lock-in; quickly and easily change your service when you need to; increase compatibility with all stakeholders; open up the range of companies you can purchase from as more of them are likely to use the same standard as you; access a wider range of both open source and proprietary software vendors.
+
+Using open source software means you can benefit from solving common problems with readily available open source technology; you have more time and resource for customised solutions to solve the rare or unique problems; you mitigate against vendor lock-in and you lower costs. For the public sector, like all organizations, cost is important, but other public benefits can motivate public sector use of OSS.
+
+OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. OSS use may better support local businesses in Canada.
+
+The flexibility of using OSS compel GC to meet user needs by modifying existing or creating new OSS. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
+
+The flexibility of OSS enables rapid response to changing missions and markets as well as rapid provisioning of both known and unanticipated users. Being scalable in both directions leads to a risk reduction of longer term financial implications (and potential redundant licences). Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
+
+Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers.
+
+Releasing an in-house software code under an OSS licence, can help with lowering development costs since it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. The release of OSS by public sector organizations can also help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house. 
+
+OSS can align well with the role of public sector agencies in providing wide benefits to the public-at-large, such as in maintaining society’s technological infrastructure and helping it evolve. OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend effort duplicating an existing project.
 
 ### Business Outcomes
 
@@ -46,56 +77,3 @@
 * Federal departments, provincial, municipal
   * Geospatial community
 * international partners
-
-> Former introduction contents
------------------------------------------
-
-## Introduction
-
-In an ongoing effort to improve service delivery, in December 2017, the Government of Canada committed, through the Enterprise Architecture Review Board (GC EARB) to use open source software as a key component of its technology eco-system. Additionaly, members of the board committed to supporting the creation and adoption of open source practices throughout the government. This decision supports Canada's existing committments to improving government transparency, accountability, and access to government through its Open Government program. More information on Canada's approach to Open Government can be found on [Open.Canada.ca](http://open.canada.ca/en/about-open-government).
-
-The objective of this whitepaper is to outline the drivers, benefits, considerations, and governance taken into account when determining when and where to use open source tools. This whitepaper is being co-created by members of the Canadian open source community and is being lead by Canada's Treasury Board Secretariat.
-
-This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase, and provide information and services.
-
-This direction is supported by the Prime Minister; in October, 2017, the President of the Treasury Board (TB) signed a [Memorandum of Understanding (MOU) concerning Digital Government with the United Kingdom](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html). This MOU outlines the need to work together to provide public services in an open manner based on the [Digital 5](https://en.wikipedia.org/wiki/Digital_5) Principles: User Needs, Open Standards, Open Source Software, Open Markets, Open Government and Assisted Digital.
-
-### Current Business Environment
-
-To be expanded
-
-### Business Objectives
-
-This whitepaper has two objectives:
-1) To help inform a future GC policy that encompasses the use of open source tools.
-2) Determine a governance process for ensuring the effective and sustainable implemetnation of open source tools across the GC.
-
-### GC Digital Principles (DRAFT)
-
-While the GC has been using open source tools for quite some time within different pockets of the organization, this whitepaper will help identify existing efforts and be more intentional in how they are governed. This is an important component of the GC's effort to create a more digital government. Inspired by the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently published [Draft Digital Principles](http://open.canada.ca/en/blog/digital-principles) to guide digital development in the Government of Canada. These will shape how we approach managing our information, technology, and provision of services.
-
-Three key principles that have guided this whitepaper are open culture, user needs, and interoperability. As you will learn, these concepts permeate all sections of this paper, therefore, we have expanded on this below.
-
-#### Acting Open
-
-Being aware of how we do our own business is key. Conversations about how to break down walls between departments with our partners, academia and the public continue to evolve. The use of open tools, practices, and involvement in open communities will help us to break down these walls and more directly connect people, ideas, tools, information, and services.
-
-Examples of the GC’s continuous utilization of open source software (OSS) can be found in Environment Canada’s weather infrastructure, TBS’s Government of Canada 2.0 tools (i.e. GCpedia and GCconnex), the Open Data Platform, as well as in multiple departments openly contributing to the Web Experience Toolkit OSS project on GitHub ([Source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-eng.html)). Although prevalent, there has been little done to update GC policies, governance, funding and processes to ensure that open source tools are being used at the right place and at the right time. Moreover, a need exists to ensure that OSS is supported in a sustainable way and that there is appropriate policy and guidance for employees using these tools when needed.
-
-This whitepaper aims to assess the GC’s current use of OSS tools, programs and activities. It also aims to identify current gaps to outline a path forward in creating a more complete open environment.
-
-#### User Needs
-
-Gone are the days of designing a program, service, or tool without talking to a person who is going to be using it. Consultations, user experience testing, and public opinion research are all important aspects of how we do business. Once we incorporate the needs of our users, we can build services that help them with task they want to do more effectively and efficiently, and most importantly without having to understand government. This shift will require leaving behind many assumptions.
-
-#### Interoperability
-
-Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
-
-### Contributing
-
-As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns.
-
-Contributions can be made through a pull request or by creating an issue.
-
-We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
