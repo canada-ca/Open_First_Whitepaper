@@ -61,13 +61,11 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
-### Examples
-
-#### Canada
+### Other open standards in GC
 
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
 
-### Text
+#### Text
 
 - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
 - [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
@@ -77,7 +75,7 @@ The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferri
 - [UTF-8](https://tools.ietf.org/html/rfc3629)
 - [UTF-16](https://tools.ietf.org/html/rfc2781)
 
-### Presentation
+#### Presentation
 
 - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
 - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
@@ -88,7 +86,7 @@ The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) lis
 
 Public Services and Procurement Canada (PSPC) has been piloting the [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/) to demonstrate use of the standard by linking the phases of the procurement process using data from procurements conducted by PSPC on behalf of government departments and agencies. ([source](https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot))
 
-#### UK
+### UK open standards for government
 
 The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selected after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
 
