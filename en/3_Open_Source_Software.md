@@ -2,7 +2,7 @@
 
 ## Open Source Software
 
-- [Terminology](#terminology)
+- [Disambiguation](#disambiguation)
 - [History](#history)
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)
@@ -13,7 +13,7 @@
 - [Preferred Open Source Software](#preferred-open-source-software)
 - [Examples](#examples)
 
-### Terminology
+### Disambiguation
 
 Free software and open source software is software where the source code is distributed and can be used, copied, studied and redistributed.
 

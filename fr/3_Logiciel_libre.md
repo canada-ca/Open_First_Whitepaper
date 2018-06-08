@@ -2,7 +2,7 @@
 
 ## Logiciels libres
 
-- [Terminologie](#terminologie)
+- [Désambiguïsation](#désambiguïsation)
 - [Historique](#historique)
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Utilisation des logiciels libres](#utilisation-des-logiciels-libres)
@@ -13,7 +13,7 @@
 - [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
 - [Exemples](#exemples)
 
-### Terminologie
+### Désambiguïsation
 
 Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué.
 
