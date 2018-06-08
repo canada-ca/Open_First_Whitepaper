@@ -46,7 +46,7 @@ Même parmi les licences que la Free Software Foundation (FSF) et l'OSI approuve
 
 On retrouve les deux premiers types de clauses, soit les avis et les obligations de notification, dans presque toutes les licences de LL. En fait, la [licence BSD à deux clauses](https://opensource.org/licenses/BSD-2-Clause), courte et populaire, contient à peine plus que ces deux obligations. D'autres licences plus vastes, comme la licence GPL, contiennent des clauses qui énoncent ces quatre obligations.
 
-For more details on licence clauses and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
+Pour plus de détails sur les clauses de licences et d'autres questions juridiques, voir: [Annexe A - Légale] (9_Annexe_Légale.md)
 
 #### Droit d'auteur
 
@@ -281,7 +281,7 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 
 Dans l'ensemble, il est peu probable qu'une licence de LL influe fortement sur la décision d'utiliser ou non des LL. Comme on l'a mentionné précédemment, une simple utilisation de LL déclenche peu d'obligations relatives aux licences. Plus important encore, les obligations réciproques en matière de licence ne s'appliquent pas. Dans ce contexte, seulement trois caractéristiques des licences de LL ont tendance à être très différentes des licences exclusives, et il faut s'y attarder : (1) l'absence de garantie; 2) l'avis de non-responsabilité et d'absence d'indemnisation; et (3) l'absence de clause de compétence législative ou de clause attributive de compétence.
 
-For more details on legal risk management and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
+Pour plus de détails sur la gestion des risques et d'autres questions juridiques, voir: [Annexe A - Légale] (9_Annexe_Légale.md)
 
 #### Participation communautaire
 
