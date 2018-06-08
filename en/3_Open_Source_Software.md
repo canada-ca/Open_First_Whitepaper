@@ -2,6 +2,7 @@
 
 ## Open Source Software
 
+- [Terminology](#terminology)
 - [History](#history)
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)

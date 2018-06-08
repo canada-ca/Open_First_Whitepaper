@@ -4,7 +4,7 @@
 
 - [Interoperability](#interoperability)
 - [Preferred Open Standards](#preferred-open-standards)
-- [Examples](#examples)
+- [Other open standards in GC](#other-open-standards-in-GC)
 
 [Open source software](3_Open_Source_Software.md) (OSS) tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, open-source software economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 

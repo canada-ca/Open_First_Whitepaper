@@ -2,6 +2,9 @@
 
 ## Open Markets
 
+- [Increase use of Canadian Resources](#increase-use-of-canadian-resources)
+- [Examples](#examples)
+
 Procuring goods and services in the open is an important part of an open environment. This section will look at the approch to the procurment and use of open source software, as this has yet to be defined.
 
 The two componenets of open markets that will be looked at in this section include:

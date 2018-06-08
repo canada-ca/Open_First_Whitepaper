@@ -6,8 +6,8 @@
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
-- [Preferred OSS Licences](#preferred-oss-licences)
-- [Preferred Code Repositories](#preferred-code-repositories)
+- [OSS licences](#oss-licences)
+- [Code Repositories](#code-repositories)
 - [Examples](#examples)
 
 ### Releasing Open Source Software

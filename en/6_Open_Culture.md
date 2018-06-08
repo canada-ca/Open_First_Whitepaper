@@ -2,6 +2,9 @@
 
 ## Open Culture
 
+- [Open Organization](#open-organization)
+- [Related Information](#related-information)
+
 To become open by default, government will require changes to the policies, practices, and the culture of the institution.
 
 Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of open within the GC. However, this has been limited to particular practices and domains.
