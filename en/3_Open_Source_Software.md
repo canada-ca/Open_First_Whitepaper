@@ -281,25 +281,7 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 
 Overall, the particular OSS licence is unlikely to strongly impact a decision on whether or not to use OSS. As previously noted, few licence obligations engage upon the mere use of OSS. Most importantly, reciprocal licensing obligations do not apply. Only three features of OSS licences tend to strongly differ from closed-source licences in this context and merit special consideration: (1) the lack of a warranty; (2) the disclaimer of liability and lack of indemnification; and (3) the lack of choice of law and choice of forum clauses.
 
-##### Lack of a Warranty
-
-A warranty is an assurance by a vendor that a product will operate as promised and without any defect. A warranty can also include assurances that a product is free of legal encumbrances, such as unlicensed intellectual property that may be owned by third parties (i.e., a warranty of non-infringement). Depending on the terms of the warranty, when a product does not fulfill the assurances, the customer can request that the vendor fix the product, refund the customer and/or provide monetary compensation.
-
-Given the typical lack of a warranty in an OSS licence, it becomes more imperative for a business or government organization to secure external support contracts. An OSS support services business familiar with the software can help resolve any issues and, importantly, directly patch any bugs that crop up.
-
-Some support services businesses also help mitigate the risks that can arise due to the lack of a warranty of non-infringement. For example, Red Hat offers customers the [Red Hat Open Source Assurance Program](https://www.redhat.com/en/about/open-source-assurance) and Canonical provides the [Ubuntu Advantage Assurance](https://www.ubuntu.com/legal/ubuntu-advantage/assurance). Both of these programs provide services to replace any portion of their respective Linux distributions (Red Hat and Ubuntu) that turn out to infringe intellectual property rights of other parties. Additionally, these programs also offer to indemnify customers against any lawsuits they face as a result of any such intellectual property infringements.
-
-##### Disclaimer of Liability and Lack of Indemnification
-
-Where a licence or contract contains no disclaimer, a licensee can ordinarily hold the licensor civilly liable for losses suffered due to any negligence in the software design, implementation or testing. Further, where a licensor agrees to indemnify the licensee, if another party (most often, a customer of the licensee) sues the licensee for damages and the cause of the damages can be traced back to the original licensor’s software, then it is the licensor who must ultimately pay a damage award.
-
-However, given the disclaimer of liability and lack of indemnification clause in a OSS licence, organizations and businesses cannot shift or “flow through” their civil liability risks to the vendor. The disclaimer means that you cannot generally recover compensation from the vendor for damages that arise due to problems with the software. The lack of indemnification means that, if other parties suffer losses due to problems involving your use of the software, you risk liability and cannot shift this risk onto the original software vendor.
-
-Overall, the indemnity clauses in closed-source software licences function similarly to insurance: they cover your losses when third parties sue you. Therefore, when it comes to OSS, companies and organizations may wish to consider insurance as a substitute for an indemnity clause. Instead of the software vendor insuring against legal liability, an insurance provider does the same.
-
-##### No Choice of Law or Choice of Forum Clause
-
-One other difference that OSS users should keep in mind is that OSS licences rarely include choice of law or choice of forum clauses. Closed-source licences may specify that courts shall interpret the licence and resolve disputes pursuant to the laws of a particular country or jurisdiction (choice of law) and that lawsuits shall be heard by courts in a particular jurisdiction (choice of forum). Where these remain unspecified in OSS licences, courts will apply standard conflict of law rules to determine the appropriate law and the appropriate forum in a particular context. This increases the uncertainty of whether you may have to litigate a lawsuit in a foreign jurisdiction, or under unfamiliar laws – which would involve higher litigation expenses.
+For more details on legal risk management and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
 
 #### Community Participation
 

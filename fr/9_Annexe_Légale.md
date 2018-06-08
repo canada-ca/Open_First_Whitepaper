@@ -5,6 +5,7 @@
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Gérer les obligations relatives aux licences](#gérer-les-obligations-relatives-aux-licences)
 - [Gestion des brevets](#gestion-des-brevets)
+- [Gestion des risques juridiques](#gestion-des-risques-juridiques)
 
 ### Propriété intellectuelle
 
@@ -116,4 +117,26 @@ De nombreuses licences de LL tentent de protéger le logiciel contre les poursui
 
 Les éléments déclencheurs de la résiliation varient d'une licence à l'autre. Par exemple, contrairement à la licence Apache version 2.0, la [version 2 de la licence publique Mozilla](https://www.mozilla.org/en-US/MPL/2.0/) (MPLv2) permet explicitement aux parties de se défendre par des demandes reconventionnelles et des demandes entre défendeurs de contrefaçon de brevet, sans pour autant que ne soit mise en application la clause de résiliation.
 
-Certaines licences comportent également des clauses de représailles étendues, c'est-à-dire une résiliation plus étendue des droits. La clause de résiliation du brevet de la version 2.0 d'Apache, énoncée ci-dessus, ne met fin qu'aux licences de brevet. Par contre, la MPLv2 met fin à tous les droits en vertu du droit d'auteur et du droit des brevets. Lorsque l'on est impliqué dans une procédure relative à la contrefaçon d'un brevet, qu'il s'agisse d'une action initiale ou d'une demande reconventionnelle, il est important d'évaluer soigneusement l'incidence0 que cela pourrait avoir sur tout LL que vous utilisez ou auquel vous contribuez.
+Certaines licences comportent également des clauses de représailles étendues, c'est-à-dire une résiliation plus étendue des droits. La clause de résiliation du brevet de la version 2.0 d'Apache, énoncée ci-dessus, ne met fin qu'aux licences de brevet. Par contre, la MPLv2 met fin à tous les droits en vertu du droit d'auteur et du droit des brevets. Lorsque l'on est impliqué dans une procédure relative à la contrefaçon d'un brevet, qu'il s'agisse d'une action initiale ou d'une demande reconventionnelle, il est important d'évaluer soigneusement l'incidence que cela pourrait avoir sur tout LL que vous utilisez ou auquel vous contribuez.
+
+### Gestion des risques juridiques
+
+#### Absence de garantie
+
+Une garantie est une assurance donnée par un fournisseur qu'un produit fonctionnera comme promis et sans défaut. Une garantie peut aussi comporter l'assurance qu'un produit est exempt de contraintes juridiques, comme une propriété intellectuelle non autorisée qui peut appartenir à des tiers (c.-à-d. une garantie d'absence de contrefaçon). Selon les modalités de la garantie, lorsqu'un produit ne respecte pas les garanties, le client peut demander que le fournisseur répare le produit, le rembourse ou lui verse une compensation monétaire.
+
+Compte tenu de l'absence typique de garantie dans une licence de LL, il devient plus impératif pour une entreprise ou une organisation gouvernementale d'obtenir des contrats de soutien externe. Une entreprise de services de soutien de LL qui connaît bien les logiciels peut aider à résoudre les problèmes et, surtout, à corriger directement les bogues qui surviennent.
+
+Certaines entreprises de services de soutien contribuent également à atténuer les risques qui peuvent survenir en raison de l'absence d'une garantie d'absence de contrefaçon. Par exemple, Red Hat offre à ses clients le [Red Hat Open Source Assurance Program](https://www.redhat.com/fr/about/open-source-assurance) et Canonical propose l'[Ubuntu Advantage Assurance](https://www.ubuntu.com/legal/ubuntu-advantage/assurance). Ces deux programmes offrent des services de remplacement de toute partie de leurs distributions Linux respectives (Red Hat et Ubuntu) qui porterait atteinte aux droits de propriété intellectuelle d'autres parties. De plus, ces programmes offrent également d'indemniser les clients contre toute poursuite intentée à la suite de telles violations de la propriété intellectuelle.
+
+#### Avis de non-responsabilité et d'absence d'indemnisation
+
+Lorsqu'une licence ou un contrat ne contient pas d'avis, le titulaire de permis peut habituellement tenir le concédant civilement responsable des pertes subies en raison de toute négligence dans la conception, la mise en oeuvre ou la mise à l'essai du logiciel. En outre, quand un concédant accepte de verser une indemnisation au titulaire de la licence, si une autre partie (souvent un client du titulaire de la licence) intente une poursuite en dommages-intérêts et que la cause des dommages peut être associée au logiciel du titulaire de licence original, c'est le titulaire de la licence qui soit en définitive payer les dommages.
+
+Toutefois, compte tenu de l'avis de non-responsabilité et d'absence d'indemnisation dans une licence de LL, les organisations et les entreprises ne peuvent pas transférer au fournisseur leurs risques en matière de responsabilité civile. L'avis de non-responsabilité signifie qu'il est généralement impossible d'obtenir une indemnisation auprès du fournisseur pour les dommages causés par des problèmes liés au logiciel. L'absence d'indemnisation signifie que si d'autres parties subissent des pertes en raison de problèmes liés à l'utilisation du logiciel, vous risquez d'être tenu responsable et vous ne pouvez pas transférer ce risque au fournisseur du logiciel original.
+
+Dans l'ensemble, les clauses d'indemnisation des licences de logiciel exclusif fonctionnent de la même façon que l'assurance, c'est-à-dire qu'elles couvrent les pertes en cas de poursuite intentée par des tiers. Par conséquent, en ce qui concerne les LL, les entreprises et les organisations peuvent envisager l'assurance comme solution de rechange à une clause d'indemnisation. Au lieu que ce soit le fournisseur de logiciels qui contracte une assurance en responsabilité juridique, un assureur fait la même chose.
+
+#### Aucun choix de droit ou d'instance
+
+Il existe une autre différence que les utilisateurs de LL ne devraient pas oublier : les licences de LL comprennent rarement de clause de compétence législative ou de clause attributive de compétence. Les licences exclusives peuvent préciser que les tribunaux doivent interpréter la licence et résoudre les différends en vertu des lois d'un pays ou d'une juridiction en particulier (clause de compétence législative) et que les poursuites doivent être entendues par les tribunaux d'une juridiction en particulier (clause attributive de compétence). Lorsque ces règles ne sont pas précisées dans les licences de LL, les tribunaux appliquent des règles standard sur les conflits de lois pour déterminer la loi appropriée et la compétence pertinente dans un contexte particulier. Cette situation accentue l'incertitude quant à d'éventuelles poursuites nécessaires dans un pays étranger ou en vertu de lois inconnues, ce qui entraînerait des frais juridiques plus élevés.
