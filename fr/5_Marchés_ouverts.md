@@ -2,6 +2,9 @@
 
 ## Marchés ouverts
 
+- [Accroître l'utilisation des ressources canadiennes](#accroître-l-utilisation-des-ressources-canadiennes)
+- [Exemples](#exemples)
+
 L'acquisition de biens et de services en milieu ouvert est un volet important d'un environnement ouvert. Dans cette section, nous examinerons l'approche adoptée pour l'acquisition et l'utilisation de logiciels libres, car elle n'a pas encore été arrêtée.
 
 Les deux composantes des marchés ouverts que nous examinerons dans cette section sont les suivantes :

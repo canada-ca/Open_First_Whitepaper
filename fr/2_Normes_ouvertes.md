@@ -2,10 +2,10 @@
 
 ## Normes ouvertes
 
-- [Définition](#definition)
 - [Interopérabilité](#interopérabilité)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
-- [Exemples](#examples)
+- [Autres normes ouvertes au GC](#autres-normes-ouvertes-au-gc)
+- [Normes ouvertes pour le gouvernement du Royaume Uni](#normes-ouvertes-pour-le-gouvernement-du-royaume-uni)
 
 Le [Logiciel libre](3_Logiciel_libre.md) utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les produits de logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la « collectivité des valeurs » - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
 

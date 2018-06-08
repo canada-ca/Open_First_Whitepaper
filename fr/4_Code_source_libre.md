@@ -6,8 +6,8 @@
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
-- [Licences de LL privilégiées](#licences-de-LL-privilégiées)
-- [Dépôts de codes privilégiés](#dépôts-de-codes-privilégiés)
+- [Licences de LL](#licences-de-LL-privilégiées)
+- [Répertoires de codes](#répertoires-de-codes)
 - [Exemples](#exemples)
 
 ### Diffusion de logiciels libres

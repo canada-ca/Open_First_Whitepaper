@@ -1,6 +1,9 @@
 [« Page précédente : Marchés ouverts](5_Marchés_ouverts.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Prochaines étapes »](7_Prochaines_étapes.md)
 
-## Culture d'ouverture
+## Culture ouverte
+
+- [Organisation ouverte](#organisation-ouverte)
+- [Renseignements connexes](#renseignements-connexes)
 
 Pour devenir ouvert par défaut, le gouvernement devra modifier ses politiques, ses pratiques et sa culture.
 

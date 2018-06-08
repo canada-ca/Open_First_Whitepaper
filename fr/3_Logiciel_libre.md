@@ -2,6 +2,7 @@
 
 ## Logiciels libres
 
+- [Terminologie](#terminologie)
 - [Historique](#historique)
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Utilisation des logiciels libres](#utilisation-des-logiciels-libres)
