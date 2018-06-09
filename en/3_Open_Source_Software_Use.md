@@ -1,6 +1,6 @@
-[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Code »](4_Open_Source_Code.md)
+[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution.md)
 
-## Open Source Software
+## Open Source Software Use
 
 - [Disambiguation](#disambiguation)
 - [History](#history)

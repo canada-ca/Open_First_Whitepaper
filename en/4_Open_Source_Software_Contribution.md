@@ -1,6 +1,6 @@
-[« Previous Page : Open Source Software](3_Open_Source_Software.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
+[« Previous Page : Open Source Software Use](33_Open_Source_Software_Use.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
 
-## Open Source Code
+## Open Source Software Contribution
 
 - [Releasing Open Source Software](#releasing-open-source-software)
 - [Benefits](#benefits)
