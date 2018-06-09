@@ -1,6 +1,6 @@
-[« Page précédente : Logiciels libres](3_Logiciel_libre.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Marchés ouverts »](5_Marchés_ouverts.md)
+[« Page précédente : Logiciels libres - Utilisation](3_Logiciel_libre_Utilisation.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Marchés ouverts »](5_Marchés_ouverts.md)
 
-## Code source libre
+## Logiiel libre - Contribution
 
 - [Diffusion de logiciels libres](#diffusion-de-logiciels-libres)
 - [Avantages](#avantages)

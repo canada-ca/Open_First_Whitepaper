@@ -1,4 +1,4 @@
-[« Page précédente : Code source ouvert](4_Code_source_libre.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Culture ouverte »](6_Culture_ouverte.md)
+[« Page précédente : Logiciel libre - Contribution](4_Logiciel_libre_Contribution.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Culture ouverte »](6_Culture_ouverte.md)
 
 ## Marchés ouverts
 

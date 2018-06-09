@@ -1,6 +1,6 @@
-[« Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Code source libre »](4_Code_source_libre.md)
+[« Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciel libre - Contribution »](4_Logiciel_libre_Contribution.md)
 
-## Logiciels libres
+## Logiciels libres - Utilisation
 
 - [Désambiguïsation](#désambiguïsation)
 - [Historique](#historique)
