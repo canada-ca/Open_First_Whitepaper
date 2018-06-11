@@ -24,7 +24,18 @@ In December 2017 the [GC EARB members endorsed](http://www.gcpedia.gc.ca/gcwiki/
 
 In February 2018, [Canada signs the Digital 7 (D7) charter](https://www.canada.ca/en/treasury-board-secretariat/news/2018/02/canada_joins_leadingdigitalnationsind7.html) and joins Estonia, Israel, South Korea, New Zealand, the UK and Uruguay commiting to working towards core principles of digital development, with a focus on user needs, open government, and a commitment to share and learn from D7 member nations. The D7 charter, which also calls for commitments to open standards, OSS, open government and teaching children to code.
 
+> Mention the Estonia MOU
+
 ### Business Need
+
+The Government of Canada departments and agencies need to find effective ways to offer the best services possible to its citizens. This implies cutting down on redundant technology investments, providing a much better user experience and breaking the cycles of vendors lock-in. However, as can be seen from recent projects failures, centralizing systems is not the only approach in reusing proven technologies and cutting costs.
+Instead, there is a need for greater interoperability between the various departments and agencies systemes where the information has a single source of truth.
+
+Reduce costs
+
+Reuse developped technologies, security assessments
+
+Interoperable solutions
 
 The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. Along with OSS, they help mitigate the risks of vendor Lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
