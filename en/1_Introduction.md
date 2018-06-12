@@ -4,7 +4,7 @@
 
 # Introduction
 
-The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt open standards and use as well as release open source software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase, and provide information and services.
+The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt open standards and use as well as release of open source software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
 
 ## Strategic Environment
 
@@ -28,20 +28,23 @@ In February 2018, [Canada signs the Digital 7 (D7) charter](https://www.canada.c
 
 ### Business Need
 
-The Government of Canada departments and agencies need to find effective ways to offer the best services possible to its citizens. This implies cutting down on redundant technology investments, providing a much better user experience and breaking the cycles of vendors lock-in. However, as can be seen from recent projects failures, centralizing systems is not the only approach in reusing proven technologies and cutting costs.
-Instead, there is a need for greater interoperability between the various departments and agencies systemes where the information has a single source of truth.
+The Government of Canada's departments and agencies need to find effective ways to offer the best services possible to their citizens. This implies cutting down on redundant technology investments, providing a much better user experience and breaking the cycles of vendors lock-in.
+As such, there is a need for:
 
-Reduce costs
-
-Reuse developped technologies, security assessments
-
-Interoperable solutions
+- Greater interoperability between the various departments and agencies data and systems where the information has a single source of truth;
+- User design principles in the conception of the solutions to citizens where continuous development and improvement is rapid and flexible;
+- Accessible solutions so that all Canadians can receive equitable services;
+- A culture of sound privacy governance, security and open collaboration are by default so that all Canadians can confidently rely on the accuracy of the information they access and the safeguarding of their data.
 
 The use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. Along with OSS, they help mitigate the risks of vendor Lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
 
 ### Drivers for Change
+
+- Societal: Transparency, accountability, trust in its institutions
+- Policy: MOUs
+- Politics:
 
 The GC recently made international commitments (MOU, D7) to use open standards and open source software (OSS) as well as release open source code. Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations. We're behind! Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
@@ -65,9 +68,9 @@ OSS can align well with the role of public sector agencies in providing wide ben
 
 ## Strategic Fit
 
-* Mention Digital "Standards", Build it right, Digital Playbook
-  * Interoperability, flexibility, modularity, etc.
-* Alignment with international community
+- Mention Digital "Standards", Build it right, Digital Playbook
+  - Interoperability, flexibility, modularity, etc.
+- Alignment with international community
 
 ## Detailed Description of the Business Need
 
@@ -87,6 +90,6 @@ OSS can align well with the role of public sector agencies in providing wide ben
 
 ### Stakeholder Analysis
 
-* Federal departments, provincial, municipal
-  * Geospatial community
-* international partners
+- Federal departments, provincial, municipal
+  - Geospatial community
+- international partners

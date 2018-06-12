@@ -9,7 +9,7 @@
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for using OSS](#best-practices-for-using-oss)
-- [Releasing Open Source Software](#releasing-open-source-software)
+- [Contributing to Open Source Software](#contributing-to-open-source-software)
 - [Preferred Open Source Software](#preferred-open-source-software)
 - [Examples](#examples)
 
@@ -291,7 +291,7 @@ Although licence interoperability is not a concern for OSS use, format and data 
 
 However, cultural tendencies and the dynamics of the OSS business model tend to drive OSS projects towards the use of interoperable and [Open Standards](2_Open_Standards.md) for reading, writing and storing data. Indeed, even where OSS does not implement an open standard for data interchange, at the very least the availability of the source code always provides an “open implementation”. The source code serves as an example that anyone else can follow to implement the same functionality for reading and writing the underlying data format.
 
-### Releasing Open Source Software
+### Contributing to Open Source Software
 
 See [Open Source Code](4_Open_Source_Code.md).
 
