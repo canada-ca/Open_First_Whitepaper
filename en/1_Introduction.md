@@ -42,9 +42,13 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 
 ### Drivers for Change
 
-- Societal: Transparency, accountability, trust in its institutions
-- Policy: MOUs
-- Politics:
+- Efficiency: (see flexibility in changes below)
+- Policy: MOUs, Open Government
+- Demographics: Citizens expect continous improvements to services as well as digital government. Accessible and equitable.
+- Economics: encourage small and medium businesses by removing barriers to entry.
+- Society: Open government (see intro for more details), business rules are transparent. Transparency, accountability, trust in its institutions
+- Technology: increase speed of development and technological environment, lifetime expectency of solution, modularity, reuse of similar solutions, industry investing in open source, new disrupting technologies (blockchain, artificial intelligence)
+- Law: Accessibility, official languages.
 
 The GC recently made international commitments (MOU, D7) to use open standards and open source software (OSS) as well as release open source code. Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations. We're behind! Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
