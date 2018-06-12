@@ -40,7 +40,7 @@ As such, there is a need for:
 
 #### Policy
 
-- : MOUs, Open Government
+- In recent years, the Government of Canada has taken multiple steps towards an Open Government, including Memorandum of Understanding with international partners such as the United Kingdom and Estonia. These commitments also came with mandate letters to the various departments to work in the Open by default. These policy changes challenge the status quo and force the various organisations of the Government of Canada to adapt their technologies.
 
 The GC recently made international commitments (MOU, D7) to use open standards and open source software (OSS) as well as release open source code. Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations. We're behind! Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
@@ -56,14 +56,14 @@ OSS provides an advantage in that it creates an open marketplace for providers o
 
 #### Demographics
 
-- : Citizens expect continous improvements to services as well as digital government. Accessible and equitable.
+- Citizens expect continous improvements to their services as well as digital government. Accessible and equitable.
 - Law: Accessibility, official languages.
 
 The flexibility of using OSS compel GC to meet user needs by modifying existing or creating new OSS. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
 
 #### Society
 
-- : Open government (see intro for more details), business rules are transparent. Transparency, accountability, trust in its institutions
+- Open government (see intro for more details), business rules are transparent. Transparency, accountability, trust in its institutions
 
 Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers.
 
