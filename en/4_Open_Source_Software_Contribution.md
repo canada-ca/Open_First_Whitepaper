@@ -92,6 +92,19 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 
 ### Best Practices for releasing OSS
 
+#### Community Participation
+
+OSS is built upon, and depends upon, collaboration and community participation. It is generally a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
+
+Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
+
+- **Submit software suggestions**: provide bug reports and suggest any new features that could improve the software;
+- **Improve documentation**: help write new user guides, correct and improve existing documentation, or submit artwork such icons, backgrounds and logos;
+- **Assist others**: participate in help forums and product support mailing lists;
+- **Make financial contributions**: especially, if a user is profiting from the software , the user may to share some it of it back to the community through donations to the project;
+- **Contribute to the infrastructure**: contribute hardware, donate server time, or even help maintain content on the project web portal;
+- **Promote the software**: espouse the benefits of the software to others and write reviews.
+
 #### Deciding to Distribute Software as OSS
 
 A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.

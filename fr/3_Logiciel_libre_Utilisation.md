@@ -283,19 +283,6 @@ Dans l'ensemble, il est peu probable qu'une licence de LL influe fortement sur l
 
 Pour plus de détails sur la gestion des risques et d'autres questions juridiques, voir: [Annexe A - Légale] (9_Annexe_Légale.md)
 
-#### Participation communautaire
-
-Les LL s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est généralement sensé de tenter de « redonner » à la communauté de qui vous tirer des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities] » (https://pdfs.semanticscholar.org/c22c/99099f93e569f4a7e9450f73594d32a8ee4.pdf).
-
-Même sans fournir de code, il y a de nombreuses autres façons de contribuer à un projet de LL. Par exemple, un utilisateur peut envisager une ou plusieurs des activités suivantes :
-
-- **Soumettre des suggestions de logiciels** : Fournir des rapports de bogues et suggérer toute nouvelle fonctionnalité susceptible d'améliorer le logiciel.
-- **Améliorer la documentation** : Aider à rédiger de nouveaux guides d'utilisation, à corriger et à améliorer la documentation existante, ou à soumettre des oeuvres d'art telles que des icônes, des arrière-plans et des logos.
-- **Aider les autres** : Participer à des forums d'aide et à des listes d'envoi de produits de soutien.
-- **Faire des contributions financières** : Surtout si un utilisateur profite du logiciel, celui-ci peut en partager une partie avec la communauté sous forme de dons au projet.
-- **Contribuer à l'infrastructure** : Fournir du matériel, offrir du temps sur un serveur ou même aider à maintenir le contenu du portail Web du projet.
-- **Promouvoir le logiciel** : Faire profiter les autres des avantages d'un logiciel et rédiger des critiques.
-
 #### Interopérabilité et harmonisation des licences
 
 L'interopérabilité des licences pose rarement des problèmes pour une simple utilisation de LL, à condition qu'il n'y ait pas de distribution du logiciel. Comme on l'a déjà mentionné, en général, les seules obligations en matière de licence que l'on doit accepter et respecter en cas de simple utilisation sont des avis d'exonération de garantie et de non-responsabilité. Même lorsque des logiciels provenant de sources multiples sont modifiés et combinés en vertu de licences multiples, ces avis ne sont jamais susceptibles d'entrer en conflit. Les avis n'imposent qu'une obligation passive, c'est-à-dire qu'ils ne vous obligent pas à prendre une mesure particulière ou à renoncer à une mesure précise. Le titulaire d'une licence n'a qu'à accepter le risque juridique imposé.

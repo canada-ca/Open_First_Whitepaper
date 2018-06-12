@@ -92,6 +92,19 @@ Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou
 
 ### Pratiques exemplaires pour la diffusion de LL
 
+#### Participation communautaire
+
+Les LL s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est généralement sensé de tenter de « redonner » à la communauté de qui vous tirer des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities] » (https://pdfs.semanticscholar.org/c22c/99099f93e569f4a7e9450f73594d32a8ee4.pdf).
+
+Même sans fournir de code, il y a de nombreuses autres façons de contribuer à un projet de LL. Par exemple, un utilisateur peut envisager une ou plusieurs des activités suivantes :
+
+- **Soumettre des suggestions de logiciels** : Fournir des rapports de bogues et suggérer toute nouvelle fonctionnalité susceptible d'améliorer le logiciel.
+- **Améliorer la documentation** : Aider à rédiger de nouveaux guides d'utilisation, à corriger et à améliorer la documentation existante, ou à soumettre des oeuvres d'art telles que des icônes, des arrière-plans et des logos.
+- **Aider les autres** : Participer à des forums d'aide et à des listes d'envoi de produits de soutien.
+- **Faire des contributions financières** : Surtout si un utilisateur profite du logiciel, celui-ci peut en partager une partie avec la communauté sous forme de dons au projet.
+- **Contribuer à l'infrastructure** : Fournir du matériel, offrir du temps sur un serveur ou même aider à maintenir le contenu du portail Web du projet.
+- **Promouvoir le logiciel** : Faire profiter les autres des avantages d'un logiciel et rédiger des critiques.
+
 #### Décision de distribuer le logiciel en tant que LL
 
 La décision d'octroyer ou non une licence de logiciel en tant que LL passe toujours par une évaluation des exigences opérationnelles et des objectifs du projet. Les exigences opérationnelles auront une grande incidence sur la pondération que vous devriez accorder aux divers avantages et inconvénients. Les entreprises et les organisations lancent des logiciels sous forme de LL à de nombreuses étapes du cycle de développement. Dans certains cas, le logiciel a connu de nombreuses versions et itérations avant de devenir LL. Dans d'autres cas, le logiciel peut commencer sa vie en tant que projet collaboratif de LL entre plusieurs parties. La philosophie de développement des LL est parfois décrite comme suit : « diffusez tôt, diffusez souvent et soyez à l'écoute de vos clients ». Toutefois, il est généralement de bon aloi d'avoir un plan pour l'architecture initiale du projet avant de commencer la distribution en tant que LL. Ce plan peut simplement consister à demander à plusieurs collaborateurs de commencer à travailler sur l'architecture au début du projet. Toutefois, lorsqu'il n'existe aucun plan, les développeurs œuvrant sur différents éléments du projet pourraient éprouver des difficultés à intégrer leurs éléments respectifs ou à travailler en fonction d'une application cohésive.

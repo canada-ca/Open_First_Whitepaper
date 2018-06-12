@@ -283,19 +283,6 @@ Overall, the particular OSS licence is unlikely to strongly impact a decision on
 
 For more details on legal risk management and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
 
-#### Community Participation
-
-OSS is built upon, and depends upon, collaboration and community participation. It is generally a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
-
-Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
-
-- **Submit software suggestions**: provide bug reports and suggest any new features that could improve the software;
-- **Improve documentation**: help write new user guides, correct and improve existing documentation, or submit artwork such icons, backgrounds and logos;
-- **Assist others**: participate in help forums and product support mailing lists;
-- **Make financial contributions**: especially, if a user is profiting from the software , the user may to share some it of it back to the community through donations to the project;
-- **Contribute to the infrastructure**: contribute hardware, donate server time, or even help maintain content on the project web portal;
-- **Promote the software**: espouse the benefits of the software to others and write reviews.
-
 #### Interoperability and Licence Alignment
 
 Licence interoperability is rarely an issue for mere OSS use, as long as there is no distribution of the software. As previously discussed, generally the only licence obligations that one must accept and follow in the case of mere use are a disclaimer of warranty and disclaimer of liability. Even when software from multiple sources is modified and combined under multiple licences, these disclaimers are never likely to conflict. Disclaimers impose only a passive obligation – that is, they do not require you to take any particular action or forebear from any particular action. A licensee need only accept the legal risk imposed.
