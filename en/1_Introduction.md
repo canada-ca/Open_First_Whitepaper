@@ -46,7 +46,9 @@ The GC recently made international commitments (MOU, D7) to use open standards a
 
 #### Economics
 
-- : encourage small and medium businesses by removing barriers to entry.
+- The Government of Canada recognizes that small and medium businesses are a key driver of the economy and needs to remove barriers to entry in its own activties.
+
+> Need sources, point to Open Markets section.
 
 Adopting and using open standards means you can move between different technologies when you need to, avoiding vendor lock-in; quickly and easily change your service when you need to; increase compatibility with all stakeholders; open up the range of companies you can purchase from as more of them are likely to use the same standard as you; access a wider range of both open source and proprietary software vendors.
 
