@@ -81,8 +81,15 @@ Releasing an in-house software code under an OSS licence, can help with lowering
 
 ## Strategic Fit
 
-- Mention Digital "Standards", Build it right, Digital Playbook
-  - Interoperability, flexibility, modularity, etc.
+The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the use of OSS since, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html) by making source code open and reusable under an appropriate open source software licence, so that other developers can benefit from your work and build on it.
+
+The [OneGC Build It Right Architectural Checklist] asks that you "Build and develop open":
+
+- Actively use and contribute to open source tools and solutions
+- Develop in the open by sharing and reusing all types of code and platform configuration
+
+notes:
+- Interoperability, flexibility, modularity, etc.
 - Alignment with international community
 
 ## Detailed Description of the Business Need
