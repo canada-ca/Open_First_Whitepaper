@@ -141,7 +141,7 @@ Voici quelques aspects de sécurité à garder à l'esprit lors du développemen
 
 #### Choisir une licence
 
-Vous n'aurez pas toujours le choix de la licence que vous demanderez. Lorsqu'une obligation afférente à une licence réciproque est en vigueur, vous devez accorder une licence à votre code en vertu de la même licence - voir la section traitant de la diligence raisonnable/gestion des licences ci-dessous. De plus, même si vous n'êtes pas strictement tenu par la loi d'appliquer une licence particulière, vous pourriez quand même vouloir adopter la même licence qu'un projet ou une collectivité de logiciels existants afin d'y participer.
+Vous n'aurez pas toujours le choix de la licence que vous demanderez. Lorsqu'une obligation afférente à une licence réciproque est en vigueur, vous devez accorder une licence à votre code en vertu de la même licence - voir la section [Gérer les obligations relatives aux licences](9_Annexe_Légale.md#gérer-les-obligations-relatives-aux-licences). De plus, même si vous n'êtes pas strictement tenu par la loi d'appliquer une licence particulière, vous pourriez quand même vouloir adopter la même licence qu'un projet ou une collectivité de logiciels existants afin d'y participer.
 
 Lorsque vous distribuez un projet constitué entièrement de votre propre code ou de votre propre code ainsi qu'un code autorisé et un code qui n'engage pas d'obligations réciproques, vous pouvez choisir vous-même la licence de LL. La licence que vous choisissez doit correspondre à vos exigences opérationnelles. Toutes les licences de LL communes peuvent être adoptées pour les travaux effectuées par le gouvernement, l'industrie ou le secteur de l'éducation - vous devez examiner les objectifs des projets particuliers.
 
