@@ -89,6 +89,7 @@ The [OneGC Build It Right Architectural Checklist] asks that you "Build and deve
 - Develop in the open by sharing and reusing all types of code and platform configuration
 
 notes:
+
 - Interoperability, flexibility, modularity, etc.
 - Alignment with international community
 
