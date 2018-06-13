@@ -14,8 +14,8 @@ We want to learn as much as possible from Canadians, our partners, academics and
 
 1. [Introduction](en/1_Introduction.md)
 2. [Open Standards](en/2_Open_Standards.md)
-3. [Open Source Software](en/3_Open_Source_Software.md)
-4. [Open Source Code](en/4_Open_Source_Code.md)
+3. [Open Source Software Use](en/3_Open_Source_Software_Use.md)
+4. [Open Source Software Contribution](en/4_Open_Source_Software_Contribution.md)
 5. [Open Markets](en/5_Open_Markets.md)
 6. [Open Culture](en/6_Open_Culture.md)
 7. [Next Steps](en/7_Next_Steps.md)
@@ -43,8 +43,8 @@ Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos
 
 1. [Introduction](fr/1_Introduction.md)
 2. [Normes ouvertes](fr/2_Normes_ouvertes.md)
-3. [Logiciels libres (open source)](fr/3_Logiciel_libre.md)
-4. [Code source ouvert](fr/4_Code_source_libre.md)
+3. [Logiciels libres - Utilisation](fr/3_Logiciel_libre_Utilisation.md)
+4. [Logiciels libres - Contribution](fr/4_Logiciel_libre_Contribution.md)
 5. [Marchés ouverts](fr/5_Marchés_ouverts.md)
 6. [Culture ouverte](fr/6_Culture_ouverte.md)
 7. [Prochaines étapes](fr/7_Prochaines_étapes.md)

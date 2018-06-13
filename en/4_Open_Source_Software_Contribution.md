@@ -1,4 +1,4 @@
-[« Previous Page : Open Source Software Use](33_Open_Source_Software_Use.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
+[« Previous Page : Open Source Software Use](3_Open_Source_Software_Use.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
 
 ## Open Source Software Contribution
 
