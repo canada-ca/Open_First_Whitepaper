@@ -8,6 +8,8 @@ L'objectif de ce livre blanc est de décrire les facteurs déterminants, les ava
 
 ## Environnement stratégique
 
+> Mettre à jour avec les sections traduites (voir version anglaise)
+
 ### Survol de l’organisation
 
 ### Besoin opérationnel
