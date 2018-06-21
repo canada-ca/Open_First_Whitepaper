@@ -24,7 +24,7 @@ In December 2017 the [GC EARB members endorsed](http://www.gcpedia.gc.ca/gcwiki/
 
 In February 2018, [Canada signs the Digital 7 (D7) charter](https://www.canada.ca/en/treasury-board-secretariat/news/2018/02/canada_joins_leadingdigitalnationsind7.html) and joins Estonia, Israel, South Korea, New Zealand, the UK and Uruguay commiting to working towards core principles of digital development, with a focus on user needs, open government, and a commitment to share and learn from D7 member nations. The D7 charter, which also calls for commitments to open standards, OSS, open government and teaching children to code.
 
-> Mention the Estonia MOU
+In May 2018, TBS reached a [MOU on cooperation in the field of digital government and economy with Estonia](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/memorandum-understanding-concerning-digital-government.html), a fellow member of the D7 the OGP.
 
 ### Business Need
 
