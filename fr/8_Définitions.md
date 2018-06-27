@@ -16,6 +16,22 @@ Le fond de la question n'est pas seulement technique; il repose aussi sur un ens
 - **L'interopérabilité sémantique** veille à ce que le format et le sens précis des données et de l'information échangées soient préservés et compris tout au long des échanges entre les parties, autrement dit « ce qui est envoyé est ce qui est compris ». Dans le [CIE](https://ec.europa.eu/isa2/eif_en), l'interopérabilité sémantique couvre les aspects sémantiques et syntaxiques.
 - **L'interopérabilité technique** couvre les applications et les infrastructures reliant les systèmes et les services. Les aspects de l'interopérabilité technique comprennent les spécifications des interfaces, les services d'interconnexion, les services d'intégration de données, la présentation et l'échange de données et les protocoles de communication sécurisés.
 
+#### Interopérabilité interne
+
+L'interopérabilité interne est beaucoup plus axée sur la dimension technique. Il faut porter une attention particulière à sa définition pour veiller à ce qu'elle reflète fidèlement les attentes associées au terme, particulièrement en termes d'indépendance - le terme souveraineté est parfois utilisé - et de neutralité.
+
+Les anciens systèmes constituent un obstacle majeur à l'interopérabilité. Historiquement, les applications et les systèmes d'information des administrations publiques ont été développés de façon ascendante, en essayant de résoudre des problèmes locaux et spécifiques au domaine. Il en est résulté une GI/TI fragmentée qui est difficile à interopérer. En raison de la taille de l'administration publique et de la fragmentation des solutions de GI/TI, la pléthore de systèmes existants crée un obstacle supplémentaire à l'interopérabilité dans la couche technique.
+
+L'interopérabilité technique devrait être assurée, dans la mesure du possible, par l'utilisation de normes ouvertes.
+
+#### Cadre d'interopérabilité
+
+Un cadre d'interopérabilité est défini comme un ensemble de politiques, de lignes directrices, de normes, de règles et de recommandations formulées par un réseau d'acteurs en vue d'atteindre le plus haut niveau d'interopérabilité possible. Il décrit également les règles de fonctionnement qui régissent l'analyse, la sélection, l'adoption et la mise à jour de chacun de ces éléments.
+
+Pour assurer le déploiement et la longévité des systèmes interopérables, il est nécessaire de choisir conjointement les normes à adopter ainsi que les conditions de leur mise en oeuvre. C'est la raison pour laquelle plusieurs pays européens (dont la France et le Royaume-Uni) et des provinces canadiennes comme le Québec ont choisi d'établir des cadres d'interopérabilité. Les résultats sont probants, car les normes ouvertes sont utilisées régulièrement et largement, et elles sont toujours la première approche à envisager lorsque de nouvelles exigences apparaissent.
+
+Comme il est mentionné dans les divers cadres d'interopérabilité déjà publiés, ils sont conçus uniquement pour identifier les normes clés et non pour offrir des solutions prédéfinies et uniques (p. ex., en ce qui concerne le choix du logiciel). L'objectif d'un cadre d'interopérabilité est donc de faciliter et d'orienter les choix d'interopérabilité d'une organisation tout en limitant le nombre de normes potentielles afin de garantir un maximum de clarté.
+
 ### Normes ouvertes
 
 Les normes ouvertes désignent les formats de fichier, les protocoles et les interfaces d'application qui peuvent être mis en oeuvre par toute personne (dans le cadre de logiciels libres et de logiciels exclusifs) puisque les spécifications sont disponibles gratuitement et que leur élaboration et leur normalisation sont ouvertes et transparentes. Ce travail de normalisation est effectué par des organismes spécialisés qui sont habituellement soit des organismes gouvernementaux ou des organismes créés par des professionnels d'un secteur industriel donné. Le Groupe de travail IETF, l'Organisation internationale de normalisation (ISO) et l'Organisation pour l'avancement des normes sur l'information structurée (OASIS) en sont des exemples.

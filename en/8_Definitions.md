@@ -16,6 +16,22 @@ The crux of the matter is not only technical, but also based on a set of concern
 - **Semantic interoperability** ensures that the precise format and meaning of exchanged data and information is preserved and understood throughout exchanges between parties, in other words ‘what is sent is what is understood’. In the [EFI](https://ec.europa.eu/isa2/eif_en), semantic interoperability covers both semantic and syntactic aspects;
 - **Technical interoperability** covers the applications and infrastructures linking systems and services. Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols.
 
+#### Internal interoperability
+
+Internal interoperability is much more focused on the technical dimension. Particular attention should be paid to its definition, to ensure that it faithfully reflects expectations associated with the term, particularly in terms of independence - the term sovereignty is sometimes used - and neutrality.
+
+A major obstacle to interoperability arises from legacy systems. Historically, applications and information systems in public administrations were developed in a bottom-up fashion, trying to solve domain-specific and local problems. This resulted in fragmented IM-IT which are difficult to interoperate. Due to the size of public administration and the fragmentation of IM-IT solutions, the plethora of legacy systems creates an additional interoperability barrier in the technical layer.
+
+Technical interoperability should be ensured, whenever possible, via the use of open standards.
+
+#### Interoperability framework
+
+An interoperability framework is defined as a set of policies, guidelines, standards, rules and recommendations made by a network of actors with a view to achieving the highest level of interoperability possible. It also describes the operating rules that govern the analysis, selection, adoption and updating of each of these elements.
+
+To ensure the deployment and longevity of interoperable systems, it is necessary to jointly select the standards to be adopted as well as the conditions for their implementation. This is why several European countries (including France and the UK) and Canadian provinces such as Quebec have chosen to establish interoperability frameworks. The results are compelling, as open standards are regularly and widely used, and always the first approach to be considered when new requirements emerge.
+
+As mentioned in the various interoperability frameworks that have already been published, they are designed only to identify key standards and not to offer predefined, unique solutions (for example, in terms of which software to choose). The objective of an interoperability framework is, therefore, to facilitate and guide an organization's interoperability choices while also limiting the number of potential standards in order to guarantee maximum clarity.
+
 ### Open Standards
 
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
