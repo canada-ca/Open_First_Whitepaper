@@ -3,6 +3,8 @@
 ## Open Standards
 
 - [Benefits](#benefits)
+- [Risks and Drawbacks](#risks-and-drawbacks)
+- [Best Practices for Adopting Open Standards](#best-practices-for-adopting-open-standards)
 - [Preferred Open Standards](#preferred-open-standards)
 - [Other open standards in GC](#other-open-standards-in-GC)
 - [UK Open Standards for Government](#uk-open-standards-for-government)
@@ -37,9 +39,30 @@ The implementation of a cloud is therefore a unique opportunity to standardize t
 
 #### Open source software
 
-[Open source software](3_Open_Source_Software.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
+[Open source software](3_Open_Source_Software_Use.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
 
 OSS tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
+
+### Best Practices for Adopting Open Standards
+
+#### Define principles for selecting open standards
+
+- Principles used to evaluate specific open standards and require them to be used where relevant
+- Ensure that the selected standards will enable software to interoperate through open protocols and data exchange to occur between software and data stores
+
+#### Identify open standards for use in GC
+
+- Interoperability framework that lists mandatory and recomended open standards
+- Possible allignment and collaboration with [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) on selecting open standards for government
+
+#### Training and Support
+
+Training and support around the migration to adopting open standards are similar to [best practices on training and support for use of OSS](3_Open_Source_Software_Use.md#training-and-support).
+
+#### Format conversion
+
+- Make a significant effort to ensure that closed file and data formats can be converted to open standards;
+- Keep in mind that document conversion, such as between MS Office and LibreOffice, can become a labour-intensive task for any complex documents, especially where they include precise formatting or macros.
 
 ### Preferred Open Standards
 

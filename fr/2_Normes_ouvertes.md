@@ -41,6 +41,27 @@ Le [Logiciel libre](3_Logiciel_libre.md) (LL) est un moyen de développer et de 
 
 Le LL utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les produits de logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la « collectivité des valeurs » - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
 
+### Pratiques exemplaires pour l'adoption de normes ouvertes
+
+#### Définir les principes de sélection des normes ouvertes
+
+- Principes utilisés pour évaluer des normes ouvertes spécifiques et exiger leur utilisation, le cas échéant
+- Veiller à ce que les normes sélectionnées permettent l'interopérabilité des logiciels via des protocoles ouverts et l'échange de données entre les logiciels et les dépôts de données
+
+#### Identifier les normes ouvertes à utiliser au GC
+
+- Cadre d'interopérabilité qui répertorie les normes ouvertes obligatoires et recommandées
+- Allignement et collaboration possible avec [Open Standards Board du Royaume-Uni](https://www.gov.uk/government/groups/open-standards-board) sur la sélection de normes ouvertes pour le gouvernement
+
+#### Formation et soutien
+
+La formation et le soutien à la migration vers l'adoption de normes ouvertes sont similaires aux [Pratiques exemplaires en matière de formation et de soutien à l'utilisation des logiciels libres](3_Logiciel_libre_Utilisation.md#formation-et-soutien).
+
+#### Conversion des formats
+
+- Faire un effort significatif afin de veiller à ce que les formats de fichiers et de données fermés peuvent être convertis en normes ouvertes
+- Ne pas oublier que la conversion des documents, par exemple entre Microsoft Office et LibreOffice, est une tâche qui peut exiger beaucoup de ressources humaines pour tous les documents complexes, surtout lorsqu'ils comprennent un formatage précis ou des macros.
+
 ### Normes ouvertes privilégiées
 
 La [Norme sur l'interopérabilité du Web du GC](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875) rend les normes ouvertes suivantes obligatoires pour les sites Web du GC.

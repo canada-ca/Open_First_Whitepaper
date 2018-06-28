@@ -268,11 +268,6 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 
 - Donner accès à plusieurs types de soutien, comme les foires aux questions (FAQ) et les guides, l'accès au soutien par téléphone et par courriel, et l'accès à une personne-ressource.
 
-##### Conversion des formats
-
-- Faire un effort significatif afin de veiller à ce que les formats de fichiers et de données des logiciels exclusifs du titulaire puissent être facilement importés et exportés par la solution libre.
-- Ne pas oublier que la conversion des documents, par exemple entre Microsoft Office et LibreOffice, est une tâche qui peut exiger beaucoup de ressources humaines pour tous les documents complexes, surtout lorsqu'ils comprennent un formatage précis ou des macros de Microsoft Office.
-
 ##### Fonctionnalité
 
 - Les fonctionnalités générales sont souvent équivalentes dans les LL analogues, mais les ensembles de fonctions ne correspondent pas toujours parfaitement, ce qui peut engendrer des problèmes précis pour les utilisateurs.

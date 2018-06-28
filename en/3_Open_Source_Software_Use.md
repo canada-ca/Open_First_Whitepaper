@@ -268,11 +268,6 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 
 - Provide access to several kinds of support, such as FAQs and guides, access to telephone and email support, and access to a contact person.
 
-##### Format conversion
-
-- Make a significant effort to ensure that file and data formats from the incumbent closed-source software can be easily imported and exported by the OSS solution;
-- Keep in mind that document conversion, such as between MS Office and LibreOffice, can become a labour-intensive task for any complex documents, especially where they include precise formatting or MS Office macros.
-
 ##### Functionality
 
 - Although the general functionalities are often equivalent in the OSS analogues, there is not always a direct alignment of feature sets and specific issues may arise for users.
