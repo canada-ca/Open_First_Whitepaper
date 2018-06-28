@@ -2,30 +2,12 @@
 
 ## Open Standards
 
-- [Open standards and open source software](#open-standards-and-open-source-software)
-- [Open standards and cloud computing](#open-standards-and-cloud-computing)
 - [Benefits](#benefits)
 - [Preferred Open Standards](#preferred-open-standards)
 - [Other open standards in GC](#other-open-standards-in-GC)
 - [UK Open Standards for Government](#uk-open-standards-for-government)
 
-### Open standards and open source software
-
-[Open source software](3_Open_Source_Software.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
-
-Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow OSS and closed-source software to work together.
-
-OSS tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
-
-### Open standards and cloud computing
-
-Cloud computing consists of providing infrastructure services and application services on demand. This is made possible through a high level of virtualization of hardware components by way of service infrastructure software. Cloud computing is based on a complex software architecture that simultaneously manages the elasticity of resources (processors, random access memory, storage and networks) and the ability of applications to make optimal use of these resources.
-
-In terms of interoperability, there is no fundamental difference between a conventional infrastructure and a cloud, other than the complexity of the latter and the need to standardize vertical and horizontal components to a much greater degree. In particular, any outsourcing of infrastructure or applications to a public cloud must take into account the private or third-party organization's ability to apply standards that allow for the possibility of changing providers or reinstating a certain number of services, if necessary. In this context, the lack of an interoperability framework and open standards accepted by the provider poses a significant risk to the sustainability of the solution.
-
-With respect to deploying a private cloud, interoperability promotes competition between providers, with respect to both hardware and software, as well as the ability to further develop the infrastructure over time. Indeed, the use of standards, through APIs for example, increases independence from the different drivers specific to the hardware components, and makes these infrastructure services independent from the software it deploys.
-
-The implementation of a cloud is therefore a unique opportunity to standardize these processes and agree on a common framework. The use of an interoperability framework and the use of standards makes it easier and less costly to outsource part of the infrastructure of it to a third-party organization, or to migrate onto Shared Services Canada, in a hybrid solution.
+Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source software and closed-source software to work together.
 
 ### Benefits
 
@@ -42,6 +24,22 @@ In the context of enterprise architecture fully under your control, one option t
 ##### Application adherence - Vendor lock-in
 
 Internally, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factors in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
+
+##### Cloud computing
+
+Cloud computing consists of providing infrastructure services and application services on demand. This is made possible through a high level of virtualization of hardware components by way of service infrastructure software. Cloud computing is based on a complex software architecture that simultaneously manages the elasticity of resources (processors, random access memory, storage and networks) and the ability of applications to make optimal use of these resources.
+
+In terms of interoperability, there is no fundamental difference between a conventional infrastructure and a cloud, other than the complexity of the latter and the need to standardize vertical and horizontal components to a much greater degree. In particular, any outsourcing of infrastructure or applications to a public cloud must take into account the private or third-party organization's ability to apply standards that allow for the possibility of changing providers or reinstating a certain number of services, if necessary. In this context, the lack of an interoperability framework and open standards accepted by the provider poses a significant risk to the sustainability of the solution.
+
+With respect to deploying a private cloud, interoperability promotes competition between providers, with respect to both hardware and software, as well as the ability to further develop the infrastructure over time. Indeed, the use of standards, through APIs for example, increases independence from the different drivers specific to the hardware components, and makes these infrastructure services independent from the software it deploys.
+
+The implementation of a cloud is therefore a unique opportunity to standardize these processes and agree on a common framework. The use of an interoperability framework and the use of open standards makes it easier and less costly to outsource part of the infrastructure of it to a third-party organization, or to migrate onto Shared Services Canada, in a hybrid solution.
+
+#### Open source software
+
+[Open source software](3_Open_Source_Software.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
+
+OSS tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 
 ### Preferred Open Standards
 
