@@ -3,6 +3,7 @@
 ## Open Markets
 
 - [Benefits](#benefits)
+- [Risks and Drawbacks](#risks-and-drawbacks)
 - [Examples](#examples)
 
 This section will look at the approch to the procurment and use of open standards open source software.
@@ -26,6 +27,8 @@ It is the GC's interest to encourage easier adoption of tools that are accessibl
 
 ### Benefits
 
+#### Removing barriers to entry
+
 #### Economic impact
 
 Public administrations adopting policies on open standards and OSS have an positive impact on the economy by creating an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software. OSS use may better support businesses and expertise in Canada.
@@ -42,3 +45,9 @@ An [article from IGI Global on The Impact of Open Source Software on Employment 
 
 As a small number of large foreign companies become increasingly influential in the current global technological ecosystem the government of Canada's procurement process has come to reflect this. As a result, Canada has become overly reliant on foreign services and businesses rather than directing government funds to promoting the development of Canadian industry or investing in developing in-house talent. The GoC should take advantage of this opportunity by reducing its reliance on commercial software and increasing its promotion of Canadian industry and talent.
 According to Public Services and Procurement Canada (PSPC) between complex non-military goods and services and basic services the government spends approximately 6 billion (www.tpsgc-pwgsc.gc.ca/apropos-about/cdi-mbb/1/survol-overview-eng.html). The complexity of the government's procurement process reduces the viability of small and medium sized Canadian companies to bid on and win contracts. Efforts should be made to ensure small and medium sized companies are in a competitive position to benefit from the large purchasing power of the GoC. By reducing its use of expensive monolithic commercial software smaller Canadian companies are provided with an opportunity to grow by supporting, developing, or maintaining, software used by the GoC.
+
+### Risks and Drawbacks
+
+#### Injuring existing relations with software companies
+
+Current private companies may not see with a positive light a new direction from the Government of Canada that would stop entrenched practices that lead to vendor lock-in situations. But many of the very companies selling proprietary software to the Government over the last decades have taken drastic changes to their development practices and adoption open source technologies due to the rapid pace of the industry.
