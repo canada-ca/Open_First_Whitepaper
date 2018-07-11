@@ -172,7 +172,7 @@ Therefore, being OSS friendly is increasingly becoming a necessity to attract ta
 
 ##### Job Satisfaction
 
-OSS can as well increase the satisfaction of employees supporting OSS solutions:
+OSS can as well increase the satisfaction of employees supporting OSS solutions (stats and quote):
 
 - More learning opportunities as they have access to everything running under the hood;
 - The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
