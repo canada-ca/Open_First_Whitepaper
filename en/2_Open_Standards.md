@@ -84,7 +84,7 @@ The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferri
 #### Text
 
 - [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
-- [Electronic Publication (EPUB) 3.0](http://idpf.org/epub/30)
+- [Electronic Publication (EPUB) 3.0](http://www.idpf.org/epub/301/spec/epub-publications.html)
 - [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
 - [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
 - [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
