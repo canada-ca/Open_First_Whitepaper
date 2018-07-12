@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "http://intranet.canada.ca/"
+    },
+    {
+      "pattern": "http://www.gcpedia.gc.ca/"
+    }
+  ]
+}

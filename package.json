@@ -4,7 +4,9 @@
   "description": "The Treasury Board of Canada Secretariat is writing this whitepaper to pull together our thinking on how to shift government to an 'Open' approach.",
   "main": "index.js",
   "scripts": {
-    "test": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\""
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint && npm run link-check"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,8 @@
   },
   "homepage": "https://github.com/canada-ca/Open_First_Whitepaper#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.8.1"
+    "markdown-link-check": "^3.6.2",
+    "markdownlint-cli": "^0.10.0"
   },
   "dependencies": {}
 }
