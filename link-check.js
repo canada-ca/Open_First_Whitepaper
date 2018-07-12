@@ -11,6 +11,7 @@ var chalk = require("chalk");
 var files = glob.sync("**/*.md", {ignore: ["node_modules/**/*.md"]})
 
 var opts = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
+opts.timeout = '30s'
 
 files.forEach(function(file) {
   var markdown = fs.readFileSync(file).toString();
