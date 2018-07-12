@@ -56,7 +56,7 @@ La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, 
 
 Dans le contexte de l'utilisation d'un logiciel libre pour lequel personne ne distribue le logiciel, les organisations s'en servent habituellement à cinq fins : services Web et de fichiers, suite bureautique, application logicielle spécialisée, logiciel personnalisé à des fins internes et logiciel personnalisé qui sera utilisé par d'autres services de la même organisation.
 
-Le [Guide de l'open source](http://www.open-source-guide.com/fr) de Smile énumère actuellement plus de 350 solutions « professionnelles » de LL avec examens et évaluations.
+Le [Guide de l'open source](http://www.open-source-guide.com/) de Smile énumère actuellement plus de 350 solutions « professionnelles » de LL avec examens et évaluations.
 
 #### Logiciel côté serveur
 
@@ -149,7 +149,7 @@ En publiant ouvertement le code d'un projet et en le rendant facilement accessib
 
 Seul un examen ouvert par des pairs peut rendre possibles de bonnes pratiques de sécurité. Voilà la base d'une approche fondée sur des données probantes dans n'importe quel domaine d'études. La technologie n'est pas différente et elle ne devrait pas être traitée comme si les fournisseurs étaient les seuls à détenir la vérité.
 
-Si vous voulez en apprendre davantage sur la sécurité des LL, vous pouvez consulter le document [UK CESG OSS – Exploring the Risk (PDF)](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20web.pdf) et [la foire aux questions sur les LL du département de la Défense des États-Unis](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
+Si vous voulez en apprendre davantage sur la sécurité des LL, vous pouvez consulter le document [UK CESG OSS – Exploring the Risk (PDF)](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) et [la foire aux questions sur les LL du département de la Défense des États-Unis](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
 
 #### Gains de productivité
 
@@ -302,7 +302,7 @@ Pour tirer le maximum d'avantages économiques et en matière de qualité, il fa
 
 - [Digital Services Playbook](https://playbook.cio.gov/) - Un contrat qui s'assure que les solutions libres sont évaluées lorsque des choix technologiques sont faits et que l'on envisage des solutions de LL à chaque couche de la pile.
 - [Politique sur les logiciels libres 18F](https://github.com/18F/open-source-policy/blob/master/policy.md) - Utilisation de LL dans les projets et contribution en retour à la communauté des LL.
-- [Foire aux questions sur les LL du département de la Défense](http://dodcio.defense.gov/Open-Source-Softwaree-FAQ/) - Ressources éducatives pour les employés et les entrepreneurs du gouvernement afin de comprendre les politiques et les questions juridiques relatives à l'utilisation des LL au sein du département de la Défense.
+- [Foire aux questions sur les LL du département de la Défense](http://dodcio.defense.gov/Open-Source-Software-FAQ/) - Ressources éducatives pour les employés et les entrepreneurs du gouvernement afin de comprendre les politiques et les questions juridiques relatives à l'utilisation des LL au sein du département de la Défense.
 - [Mémoire du département de la Défense sur les directives concernant les LL](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) - Il y a eu de mauvaises compréhensions et interprétations des lois, des politiques et des règlements existants qui concernent les logiciels et qui s'appliquent aux LL, qui ont entravé l'utilisation et le développement efficaces des LL au sein du département de la Défense.
 
 #### Royaume-Uni
@@ -319,8 +319,8 @@ Pour tirer le maximum d'avantages économiques et en matière de qualité, il fa
 
 #### Canada
 
-Parmi les exemples d'utilisation continue de LL par le gouvernement du Canada (GC), il y a l'infrastructure liée à la météorologie à Environnement Canada, les outils 2.0 du GC mis en oeuvre par le Secrétariat du Conseil du Trésor (SCT) (c.-à-d. GCpédia and GCconnex), le [Portail du gouvernement ouvert](ouvert.canada.ca), et plusieurs autres ministères qui contribuent ouvertement au projet libre de Boîte à outils de l'expérience Web sur GitHub. ([source] [http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-fra.html]) Ces éléments sont courants, mais peu de mesure sont prises pour les mettre à jour les politiques, la gouvernance, le financement et les processus du GC afin de veiller à ce que les outils libres soient utilisés au bon endroit et au bon moment. De plus, il est nécessaire de veiller à ce que les LL soient appuyés de façon durable et à ce qu'il y ait une politique et une orientation appropriées pour les employés.
+Parmi les exemples d'utilisation continue de LL par le gouvernement du Canada (GC), il y a l'infrastructure liée à la météorologie à Environnement Canada, les outils 2.0 du GC mis en oeuvre par le Secrétariat du Conseil du Trésor (SCT) (c.-à-d. GCpédia and GCconnex), le [Portail du gouvernement ouvert](ouvert.canada.ca), et plusieurs autres ministères qui contribuent ouvertement au projet libre de Boîte à outils de l'expérience Web sur GitHub. ([source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-fra.html) Ces éléments sont courants, mais peu de mesure sont prises pour les mettre à jour les politiques, la gouvernance, le financement et les processus du GC afin de veiller à ce que les outils libres soient utilisés au bon endroit et au bon moment. De plus, il est nécessaire de veiller à ce que les LL soient appuyés de façon durable et à ce qu'il y ait une politique et une orientation appropriées pour les employés.
 
 Le présent livre blanc vise à évaluer l'utilisation actuelle des programmes, des activités et des outils de LL par le GC. Il vise également à cerner les lacunes actuelles afin de tracer la voie à suivre pour créer un environnement ouvert plus complet.
 
-- [Ressources naturelles Canada – Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
+- [Ressources naturelles Canada – Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)

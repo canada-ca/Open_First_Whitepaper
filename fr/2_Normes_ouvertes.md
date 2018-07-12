@@ -17,7 +17,7 @@ Pour toute organisation, en particulier pour les administrations publiques, les 
 
 ##### Indépendance et substituabilité
 
-D'un point de vue interne, l'interopérabilité est étroitement liée à la question de l'architecture d'entreprise, en ce sens qu'elle permet de découpler ses diverses composantes tout en restant intégrée. Ainsi, le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/) (CCIGQ) est lié au Cadre de référence de l'architecture intégrée du gouvernement; et la version 2 du document français [Référentiel général d'interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) renvoie au [Cadre commun d'urbanisation du système d'information de l'État](http://references.modernisation.gouv.fr/sites/default/files/Cadre%20d%27Urbanisation%20du%20SI%20de%20l%20l Etat%27v1.0_0.pdf).
+D'un point de vue interne, l'interopérabilité est étroitement liée à la question de l'architecture d'entreprise, en ce sens qu'elle permet de découpler ses diverses composantes tout en restant intégrée. Ainsi, le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/) (CCIGQ) est lié au Cadre de référence de l'architecture intégrée du gouvernement; et la version 2 du document français [Référentiel général d'interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) renvoie au [Cadre commun d'urbanisation du système d'information de l'État](http://references.modernisation.gouv.fr/sites/default/files/Cadre%20Commun%20d%27Urbanisation%20du%20SI%20de%20l%27Etat%20v1.0_0.pdf).
 
 Dans le contexte de l'architecture intégrée entièrement sous votre contrôle, une des options assurant l'intégration des composantes constitue la normalisation, soit des produits directement ou dans une famille de produits généralement offerts par un seul fournisseur. Cette approche peut avoir des avantages fonctionnels (généralement en termes d'intégration harmonieuse entre les produits), mais elle a l'inconvénient de lier la technologie de l'information interne à un système externe ou à un fournisseur particulier. Cette connexion peut devenir à la fois un handicap technique (en écartant l'adoption potentielle de nouvelles solutions plus pertinentes) et un handicap économique (en réduisant les possibilités de négociation et en augmentant les coûts de changement). Dans un scénario idéal d'interopérabilité, cependant, les composantes de base peuvent être substituées; chacune peut être modifiée plus facilement et indépendamment. Cette approche renforce la liberté de choix et rend l'architecture intégrée plus souple, parce que chaque élément de base peut être remplacé par un autre qui a la même fonctionnalité sans avoir d'impact sur le reste des systèmes.
 
@@ -82,7 +82,7 @@ Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fi
 #### Texte
 
 - [Code standard américain pour l'échange d'information (ASCII)](https://www.iso.org/standard/4777.html)
-- [Publication électronique (EPUB) 3.0](http://idpf.org/epub/30)
+- [Publication électronique (EPUB) 3.0](http://www.idpf.org/epub/301/spec/epub-publications.html)
 - [Formats de document ouvert (ODF)](https://www.iso.org/standard/66363.html)
 - [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html)
 - [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
@@ -104,7 +104,7 @@ Services publics et Approvisionnement Canada (SPAC) a mis à l'essai le [Standar
 
 Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera utilisé dans la technologie gouvernementale. L'objectif est de les appliquer uniformément à l'ensemble des organismes gouvernementaux, afin d'améliorer les services aux utilisateurs. Les normes ouvertes sont sélectionnées après une période d'examen par les pairs et de commentaires du public par l'entremise du [Centre des normes](https://github.com/alphagov/open-standards). Voir les normes approuvées suivantes : [Normes ouvertes pour le gouvernement](https://www.gov.uk/government/publications/open-standards-for-government).
 
-- **Consulter les documents gouvernementaux** : [HTML5](https://www3.org/TR/html5/) [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html) [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
+- **Consulter les documents gouvernementaux** : [HTML5](https://w3.org/TR/html5/) [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html) [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Partage ou collaboration en lien avec des documents gouvernementaux** : [Format de document ouvert (FDO)](https://www.iso.org/standard/66363.html)
 - **Profil d'encodage de caractères multiplateforme** : [Unicode 6.2](http://www.unicode.org/versions/Unicode6.2.0/), [UTF-8](https://tools.ietf.org/html/rfc3629)
 - **Données contractuelles ouvertes** : [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/)

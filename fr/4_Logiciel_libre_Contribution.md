@@ -94,7 +94,7 @@ Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou
 
 #### Participation communautaire
 
-Les LL s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est généralement sensé de tenter de « redonner » à la communauté de qui vous tirer des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities] » (https://pdfs.semanticscholar.org/c22c/99099f93e569f4a7e9450f73594d32a8ee4.pdf).
+Les LL s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est généralement sensé de tenter de « redonner » à la communauté de qui vous tirer des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf)  ».
 
 Même sans fournir de code, il y a de nombreuses autres façons de contribuer à un projet de LL. Par exemple, un utilisateur peut envisager une ou plusieurs des activités suivantes :
 
@@ -159,7 +159,7 @@ Le tableau suivant présente d'autres différences clés relativement à cette d
 | ** Complexité de la licence **                       | Souvent très simple et compréhensible (p. ex., « BSD à 2 clauses » populaire). | Relativement complexe, nécessitant une analyse juridique minutieuse (et comportant un certain risque d'interprétation erronée). |
 | ** Interopérabilité **                         | Le code d'une licence permissive peut être inclus dans les projets visés par des licences réciproques, d'autres licences permissives ou des licences propriétaires. Un code de licence réciproque ne peut généralement pas être inclus dans un projet en vertu d'une autre licence. |
 
-[Choosealicence.com](https://chooseaLicens.com/) simplifie le processus de sélection d'une licence de LL en présentant les définitions des licences les plus utilisées.
+[Choosealicence.com](https://choosealicense.com/) simplifie le processus de sélection d'une licence de LL en présentant les définitions des licences les plus utilisées.
 
 #### Gérer la participation aux projets
 
@@ -167,7 +167,7 @@ Les logiciels ouverts rassemblent souvent une collectivité disparate de dévelo
 
 ### Licences de LL
 
-Vous devriez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licences). Par exemple, le CEMD utilise la licence du MIT.
+Vous devriez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licenses). Par exemple, le CEMD utilise la licence du MIT.
 
 Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
 
@@ -192,4 +192,4 @@ Tous les codes produits par des fonctionnaires sont automatiquement couverts par
 
 #### Canada
 
-- Ressources naturelles Canada – Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_f.pdf)
+- Ressources naturelles Canada – Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)
