@@ -1,7 +1,7 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "http://intranet.canada.ca/"
+      "pattern": "http://www.austlii.edu.au/"
     },
     {
       "pattern": "http://www.gcpedia.gc.ca/"
