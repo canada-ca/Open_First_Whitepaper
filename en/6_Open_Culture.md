@@ -3,13 +3,13 @@
 ## Open Culture
 
 - [Open Organization](#open-organization)
-- [Related Information](#related-information)
+- [Risks and Drawbacks](#risks-and-drawbacks)
 
 To become open by default, government will require changes to the policies, practices, and the culture of the institution.
 
-Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of open within the GC. However, this has been limited to particular practices and domains.
+Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of openness within the GC. However, this has been limited to particular practices and domains.
 
-An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices.
+An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians as well as everyone else in-between. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices.
 
 The drivers that have been identified for the question of "Why Open?" include:
 
@@ -117,9 +117,11 @@ In open organizations, community looks like:
 - Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
 - People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
 
-### Related Information
+#### Related Information
 
 - [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
 - [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
 - [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
 - [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+
+### Risks and Drawbacks

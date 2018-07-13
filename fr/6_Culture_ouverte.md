@@ -3,7 +3,7 @@
 ## Culture ouverte
 
 - [Organisation ouverte](#organisation-ouverte)
-- [Renseignements connexes](#renseignements-connexes)
+- [Risques et inconvénients](#risques-et-inconvénients)
 
 Pour devenir ouvert par défaut, le gouvernement devra modifier ses politiques, ses pratiques et sa culture.
 
@@ -117,9 +117,11 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 - Les dirigeants agissent comme mentors et font preuve d'une grande responsabilité envers le groupe en se comportant conformément aux valeurs et aux principes communs.
 - Les gens ont un langage commun et travaillent ensemble afin de veiller à que les idées ne se perdent pas au fil des communications. Ils sont à l'aise de partager leurs connaissances et leurs histoires pour faire avancer le travail du groupe.
 
-### Renseignements connexes
+#### Renseignements connexes
 
 - [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
 - [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
 - [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
 - [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+
+### Risques et inconvénients

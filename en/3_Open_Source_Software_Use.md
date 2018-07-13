@@ -160,23 +160,18 @@ OSS project openness and availability of source code allows IT professionals to 
 - Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
 - Influence the roadmap of the project.
 
-#### IT Talent
+#### IT Talent and Job Satisfaction
 
-There's a growing number of IT professionals with OSS background/experience due to many reasons:
+The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionnals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
 - OSS is widely used by companies, from development to production, generating high demand for talent;
-- Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume; and
-- Some prefer to work with OSS because it improves their job satisfaction (see next benefit).
-
-Therefore, being OSS friendly is increasingly becoming a necessity to attract talented and innovative IT Talent.
-
-##### Job Satisfaction
-
-OSS can as well increase the satisfaction of employees supporting OSS solutions:
-
+- Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume;
+- Some prefer to work with OSS because it improves their job satisfaction;
 - More learning opportunities as they have access to everything running under the hood;
 - The positive feeling that they contribute to something bigger than themselves through OSS contributions (source code fixes, bug reports, documentation updates, etc.); and
 - Improvement of collaboration skills as they engage with other developers from the OSS project (and learn from more experienced ones).
+
+Therefore, being OSS friendly is increasingly becoming a necessity to attract talented and innovative IT Talent.
 
 #### Reduction in liability
 

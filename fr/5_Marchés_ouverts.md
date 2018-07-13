@@ -2,7 +2,8 @@
 
 ## Marchés ouverts
 
-- [Accroître l'utilisation des ressources canadiennes](#accroître-l-utilisation-des-ressources-canadiennes)
+- [Avantages](#avantages)
+- [Risques et inconvénients](#risques-et-inconvénients)
 - [Exemples](#exemples)
 
 Dans cette section, nous examinerons l'approche adoptée pour l'acquisition et l'utilisation de normes ouvertes et de logiciels libres.
@@ -41,4 +42,11 @@ Un [article d'IGI Global sur l'impact des logiciels libres sur l'emploi aux Éta
 #### Accroître l'utilisation des ressources canadiennes
 
 À mesure qu'un petit nombre de grandes entreprises étrangères gagnent de plus en plus en influence dans l'écosystème technologique mondial actuel, le processus d'approvisionnement du gouvernement du Canada en est arrivé au point où il reflète cet état de choses. Le Canada a réagi en devenant trop dépendant des entreprises et des services étrangers au lieu de canaliser les fonds gouvernementaux pour favoriser le développement de l'industrie canadienne ou d'investir dans le développement de talents internes. Le GC devrait profiter de cette occasion en réduisant sa dépendance des logiciels commerciaux et en faisant avec plus de force la promotion de l'industrie et des talents canadiens.
+
 Selon [Services publics et Approvisionnement Canada](https://www.tpsgc-pwgsc.gc.ca/apropos-about/rspnsblt-ccntblt-fra.html), le gouvernement dépense environ 6 milliards de dollars, qui se répartissent entre des biens et services non militaires complexes et des services de base. La complexité du processus d'approvisionnement du gouvernement réduit la viabilité des petites et moyennes entreprises canadiennes qui veulent participer à un appel d'offres et décrocher des contrats. Il convient de consentir des efforts pour faire en sorte que les petites et moyennes entreprises soient en position concurrentielle pour tirer parti du grand pouvoir d'achat du GC. En réduisant son utilisation de logiciels commerciaux monolithiques coûteux, il donne à de petites entreprises canadiennes la possibilité de croître en prenant en charge et en mettant au point les logiciels utilisés par le gouvernement du Canada en en assurant l'entretien.
+
+### Risques et inconvénients
+
+#### Blesser les relations existantes avec des sociétés de logiciels
+
+Les entreprises privées actuelles ne voient peut-être pas d'un bon oeil une nouvelle orientation du GC qui mettrait fin aux pratiques bien ancrées qui mènent à des situations d'asservissement à un fournisseur. Mais la plupart des entreprises qui vendent des logiciels propriétaires au gouvernement au cours des dernières décennies ont apporté des changements drastiques à leurs pratiques de développement et à l'adoption de logiciels libres en raison du rythme rapide de l'industrie.

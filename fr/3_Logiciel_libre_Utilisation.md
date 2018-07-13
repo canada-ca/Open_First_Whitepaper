@@ -160,23 +160,18 @@ L'ouverture des projets de LL et la disponibilité du code source permettent aux
 - trouver rapidement de l'information pertinente par de nombreux canaux ouverts (p. ex., documentation, wiki, forum, système de suivi des bogues) et l'améliorer au besoin;
 - influencer la feuille de route du projet.
 
-#### Compétences en matière de technologie de l'information (TI)
+#### Compétences en matière de technologie de l'information (TI) et satisfaction au travail
 
-Un nombre croissant de professionnels de la TI ont des antécédents ou de l'expérience dans le domaine des services opérationnels pour de nombreuses raisons :
+Le [Rapport sur les emplois en logiciels libres 2018](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) a constaté que l'embauche de talents en LL est une priorité pour 80% des gestionnaires d'embauche. Il a également montré que seulement 3% des professionnels de LL disent que l'argent est la meilleure partie de leur travail. Un nombre croissant de professionnels de la TI ont des antécédents ou de l'expérience dans le domaine des services opérationnels pour de nombreuses raisons :
 
-- Les LL sont largement utilisés par les entreprises, du développement à la production, ce qui générant une forte demande de compétences.
-- Les contributions aux projets de LL permettent de faire partie d'un « réseau de confiance » public et de produire un curriculum vitæ précieux.
-- Certains préfèrent travailler avec les LL parce que cela améliore leur satisfaction au travail (voir l'avantage suivant).
-
-Par conséquent, il devient de plus en plus nécessaire de s'ouvrir aux LL pour attirer des personnes talentueuses et des compétences novatrices en matière de TI.
-
-##### Satisfaction au travail
-
-Les LL peuvent aussi accroître la satisfaction des employés qui appuient de telles solutions :
-
+- Les LL sont largement utilisés par les entreprises, du développement à la production, ce qui générant une forte demande de compétences;
+- Les contributions aux projets de LL permettent de faire partie d'un « réseau de confiance » public et de produire un curriculum vitæ précieux;
+- Certains préfèrent travailler avec les LL parce que cela améliore leur satisfaction au travail (voir l'avantage suivant);
 - plus de possibilités d'apprentissage, car ils ont accès à toute la mécanique;
 - le sentiment positif qu'ils prennent part à quelque chose de plus important qu'eux-mêmes grâce aux contributions aux LL (corrections de code source, rapports de bogues, mises à jour de la documentation, etc.);
 - l'amélioration des compétences en matière de collaboration au fur et à mesure qu'ils s'engagent auprès d'autres développeurs du projet de LL (et qu'ils apprennent des personnes plus expérimentées).
+
+Par conséquent, il devient de plus en plus nécessaire de s'ouvrir aux LL pour attirer des personnes talentueuses et des compétences novatrices en matière de TI.
 
 #### Réduction de la responsabilité
 
