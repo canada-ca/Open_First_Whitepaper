@@ -4,7 +4,6 @@
 
 - [Open Organization](#open-organization)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Related Information](#related-information)
 
 To become open by default, government will require changes to the policies, practices, and the culture of the institution.
 
@@ -118,9 +117,11 @@ In open organizations, community looks like:
 - Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
 - People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
 
-### Related Information
+#### Related Information
 
 - [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
 - [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
 - [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
 - [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+
+### Risks and Drawbacks
