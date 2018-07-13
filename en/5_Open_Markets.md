@@ -51,4 +51,4 @@ According to [Public Services and Procurement Canada](https://www.tpsgc-pwgsc.gc
 
 #### Injuring existing relations with software companies
 
-Current private companies may not see with a positive light a new direction from the Government of Canada that would stop entrenched practices that lead to vendor lock-in situations. But many of the very companies selling proprietary software to the Government over the last decades have taken drastic changes to their development practices and adoption open source technologies due to the rapid pace of the industry.
+Current private companies may not see with a positive light a new direction from the GC that would stop entrenched practices that lead to vendor lock-in situations. But many of the very companies selling proprietary software to the Government over the last decades have taken drastic changes to their development practices and adoption OSS due to the rapid pace of the industry.
