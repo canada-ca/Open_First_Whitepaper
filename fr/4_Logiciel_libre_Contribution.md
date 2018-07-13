@@ -143,6 +143,8 @@ Voici quelques aspects de sécurité à garder à l'esprit lors du développemen
 
 #### Choisir une licence
 
+Vous devez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licenses). Par exemple, le Service numérique canadien (SNC) utilise la licence du MIT. Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
+
 Vous n'aurez pas toujours le choix de la licence que vous demanderez. Lorsqu'une obligation afférente à une licence réciproque est en vigueur, vous devez accorder une licence à votre code en vertu de la même licence - voir la section [Gérer les obligations relatives aux licences](9_Annexe_Légale.md#gérer-les-obligations-relatives-aux-licences). De plus, même si vous n'êtes pas strictement tenu par la loi d'appliquer une licence particulière, vous pourriez quand même vouloir adopter la même licence qu'un projet ou une collectivité de logiciels existants afin d'y participer.
 
 Lorsque vous distribuez un projet constitué entièrement de votre propre code ou de votre propre code ainsi qu'un code autorisé et un code qui n'engage pas d'obligations réciproques, vous pouvez choisir vous-même la licence de LL. La licence que vous choisissez doit correspondre à vos exigences opérationnelles. Toutes les licences de LL communes peuvent être adoptées pour les travaux effectuées par le gouvernement, l'industrie ou le secteur de l'éducation - vous devez examiner les objectifs des projets particuliers.
@@ -163,22 +165,21 @@ Le tableau suivant présente d'autres différences clés relativement à cette d
 
 [Choosealicence.com](https://choosealicense.com/) simplifie le processus de sélection d'une licence de LL en présentant les définitions des licences les plus utilisées.
 
-#### Gérer la participation aux projets
+#### Choisir un référentiel de code source
 
-Les logiciels ouverts rassemblent souvent une collectivité disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les collectivités de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
+Vous devez rendre votre code source publiquement disponible ouvertement sur Internet dans un référentiel de code source. Par exemple, le code du SNC est sur [GitHub](https://github.com/cds-snc). Cela inclut le code développé pour vous par un tiers, tel qu'une agence de développement.
 
-### Licences de LL
-
-Vous devriez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licenses). Par exemple, le CEMD utilise la licence du MIT.
-
-Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
-
-### Répertoires de codes
+Des exemples de référentiels de code source Internet ouverts incluent, mais ne sont pas limités à:
 
 - Gitlab
 - Github
 - Framagit
-- GCcode (interne)
+- Bitbucket
+- SourceForge
+
+#### Gérer la participation aux projets
+
+Les logiciels ouverts rassemblent souvent une collectivité disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les collectivités de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
 
 ### Exemples
 
@@ -186,12 +187,12 @@ Tous les codes produits par des fonctionnaires sont automatiquement couverts par
 
 - [Digital Services Playbook](https://playbook.cio.gov/) - Si la base de codes n'a pas été diffusée en vertu d'une licence libre, expliquez pourquoi.
 - [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Élaborer notre travail en public - publier tous les codes sources créés ou modifiés par 18F, qu'ils aient été élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés par 18F.
-- [Federal Source Code Policy](https://sourcecode.cio.gov/) – Programme-pilote qui exige que les organismes, lorsqu'ils mettent en service un nouveau logiciel personnalisé, diffusent au moins 20 % du nouveau code personnalisé en tant que LL.
+- [Federal Source Code Policy](https://sourcecode.cio.gov/) - Programme-pilote qui exige que les organismes, lorsqu'ils mettent en service un nouveau logiciel personnalisé, diffusent au moins 20 % du nouveau code personnalisé en tant que LL.
 
 #### Royaume-Uni
 
-- [Code de pratiques technologiques](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) – Facilitez l'ouverture en faisant en sorte que tout nouveau code source soit ouvert par défaut.
+- [Code de pratiques technologiques](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Facilitez l'ouverture en faisant en sorte que tout nouveau code source soit ouvert par défaut.
 
 #### Canada
 
-- Ressources naturelles Canada – Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)
+- Ressources naturelles Canada - [Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)

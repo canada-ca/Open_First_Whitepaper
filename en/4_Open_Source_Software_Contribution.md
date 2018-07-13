@@ -143,6 +143,8 @@ Some security considerations to keep in mind when developing software:
 
 #### Choosing a Licence
 
+You must publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, Canadian Digital Service (CDS) uses the MIT licence. All code produced by civil servants is automatically covered by Crown Copyright.
+
 You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on [Managing Licence Obligations](9_Annex_Legal.md#managing-licence-obligations). As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
 
 Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
@@ -163,22 +165,21 @@ The following chart details other key differences in this decision:
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
 
-#### Managing Project Participation
+#### Choosing a source code repository
 
-Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
+You must make your source code publicly available in an open internet source code repository. For example, CDS’ code is on [GitHub](https://github.com/cds-snc). This includes code developed for you by a third party, such as a development agency.
 
-### OSS licences
-
-You should publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, CDS uses the MIT licence.
-
-All code produced by civil servants is automatically covered by Crown Copyright.
-
-### Code Repositories
+Examples of open Internet source code repositories, include, but are not limited to:
 
 - Gitlab
 - Github
 - Framagit
-- GCcode (internal)
+- Bitbucket
+- SourceForge
+
+#### Managing Project Participation
+
+Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
 ### Examples
 
