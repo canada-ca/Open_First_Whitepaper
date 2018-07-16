@@ -33,7 +33,7 @@ Sur le plan de l'interopérabilité, il n'y a pas de différence fondamentale en
 
 En ce qui concerne le déploiement d'un nuage privé, l'interopérabilité favorise la concurrence entre les fournisseurs en ce qui concerne le matériel et les logiciels, ainsi que la capacité de développer davantage l'infrastructure au fil du temps. En effet, l'utilisation de normes, par l'entremise des interfaces de programmation (API) par exemple, accroît l'indépendance par rapport aux différents moteurs propres aux composants matériels, et elle rend ces services d'infrastructure indépendants du logiciel déployé.
 
-La mise en oeuvre d'un nuage est donc une occasion unique de normaliser ces processus et de s'entendre sur un cadre commun. L'utilisation d'un cadre d'interopérabilité et de normes ouvertes facilite et rend moins coûteuse l'impartition d'une partie de l'infrastructure à un organisme tiers, ou la migration vers Services partagés Canada, dans une solution hybride.
+La mise en œuvre d'une approche infonuagique en premier est une occasion unique de normaliser ces processus et de s'entendre sur un cadre commun. L'utilisation d'un cadre d'interopérabilité et de normes ouvertes facilite et rend moins coûteuse l'impartition d'une partie de l'infrastructure à un organisme tiers, ou la migration vers Services partagés Canada, dans une solution hybride.
 
 #### Logiciel libre
 
@@ -51,7 +51,7 @@ Le LL utilise habituellement ou contribue à définir les normes ouvertes et les
 #### Identifier les normes ouvertes à utiliser au GC
 
 - Cadre d'interopérabilité qui répertorie les normes ouvertes obligatoires et recommandées
-- Allignement et collaboration possible avec [Open Standards Board du Royaume-Uni](https://www.gov.uk/government/groups/open-standards-board) sur la sélection de normes ouvertes pour le gouvernement
+- Alignement et collaboration possible avec [Open Standards Board du Royaume-Uni](https://www.gov.uk/government/groups/open-standards-board) sur la sélection de normes ouvertes pour le gouvernement
 
 #### Formation et soutien
 

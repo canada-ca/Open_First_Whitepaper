@@ -125,3 +125,7 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 - [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
 
 ### Risques et inconvénients
+
+#### Zone de confort
+
+#### Pratiques établies et bureaucracie
