@@ -2,7 +2,9 @@
 
 ## Open Source Software Contribution
 
-- [Releasing Open Source Software](#releasing-open-source-software)
+- [Contribution](#contribution)
+- [Releasing Open Source Software](#releasing-open-source-software-code)
+- [Intellectual property](#intellectual-property)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
@@ -10,13 +12,25 @@
 - [Code Repositories](#code-repositories)
 - [Examples](#examples)
 
-### Releasing Open Source Software
+### Contribution
+
+For the purpose of clarification, this whitepaper considers both releasing Government of Canada source code as well as any other forms of contributions to third-party projects a contribution to the OSS community.
+
+### Releasing Open Source Software Code
 
 The Government of Canada creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
 When developing entirely new software, a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary to their core business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
 
 Developers who contribute to OSS and distribute it come from wide and varied environments across the public sector, private sector and academia. Studies show numerous and diverse motivations for FOSS participation, ranging from economic gain to a sense of civic duty towards social and technological advancement. Risks and drawbacks of OSS participation also widely differ, depending on the context. ([source](http://www.irma-international.org/viewtitle/10083/))
+
+### Intellectual property
+
+#### Copyright
+
+[Licence](9_Annex_Legal) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
+
+As well, certain OSS third-party projects require contributors to assign their contribution's ownership to the project, through the use of Copyright Assignment Agreements. In order for an employee of the Government of Canada to contribute code to such projects, further analysis will be required.
 
 ### Benefits
 
@@ -31,6 +45,10 @@ With increasing global competition, rising R&D costs and shortening product life
 #### Long-term Feasibility
 
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
+
+By releasing the source code, the project may continue beyond the initial investment and remain available for others to pursue and maintain. Even if a community no longer actively support a project, an organization may still decide to continue the maintenance and the development of the project if it is useful to its business.
+
+An equivalent closed source software might not offer the same flexibility if the manufacturer was to unexpectedly shut its operations.
 
 #### Reputation Building
 
@@ -58,7 +76,7 @@ During hiring processes IT management may use contributions as a metric to asses
 
 #### Security
 
-As discussed with respect to [Open Source Software](3_Open_Source_Software.md), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
+As discussed with respect to [Open Source Software](3_Open_Source_Software#security), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
 
 #### Open Science
 
@@ -74,15 +92,15 @@ Canada has set a very clear Open Government mandate to "create greater transpare
 
 #### Lack of Direct Licensing Revenue
 
-The fact that anyone can redistribute OSS for free is an obvious barrier for many software vendors who are not engaging the OSS business model. Other than nominal charges for distribution on physical media, it is generally not feasible to profit from OSS using the traditional business model of directly selling software licences. The lack of direct licensing revenue can also pose a barrier in public sector organizations where “cost recovery” policies are in place. Even though OSS may aid numerous public service goals, these do not necessarily help to offset the costs and risks of developing the software.
+The fact that anyone can redistribute OSS for free is an obvious barrier for many software vendors who are not engaging the OSS business models. Other than nominal charges for distribution on physical media, it is generally not feasible to profit from OSS using the traditional business model of directly selling software licences. The lack of direct licensing revenue can also pose a barrier in public sector organizations where “cost recovery” policies are in place. Even though OSS may aid numerous public service goals, these do not necessarily help to offset the costs and risks of developing the software.
 
-It should be noted, however, that for many software projects in which government employees, and particularly scientists, may be engaged, the economic value of an individual program will be minimal. In organizations where there is no established mechanism for selling software, the effort necessary to establish and manage the sale of programs, and to provide the level of support that would be expected in a commercial marketplace, is likely to exceed any potential revenues that may be realized.
+It should be noted, however, that for many software projects in which government employees, and particularly scientists, may be engaged, the economic value of an individual computer program will be minimal. In organizations where there is no established mechanism for selling software, the effort necessary to establish and manage the sale of programs, and to provide the level of support that would be expected in a commercial marketplace, is likely to exceed any potential revenues that may be realized.
 
 #### Community May Not Coalesce
 
-There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Of course, many of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement.
+There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Some of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement.
 
-It also depends on what the goals are when publishing code as OSS. Maybe it's just to host source code (to make it accessible to others or to work in the open) and the project doesn't need external contributions to keep it going.  In that case a community is an appreciated collateral benefit if it happens. In other cases you may want to create a community and for the project to continue to exist without the GC being the main contributor.
+It also depends on what the goals are when publishing code as OSS. For the Government of Canada, it may simply be to host the source code publicly (to make it accessible to others or to work in the open) and the project doesn't need external contributions to keep it going. In that case a community is an appreciated collateral benefit if it happens. In other cases, you may also want to create a community and for the project to continue to exist without the GC being the main contributor.
 
 #### Legal Complexities
 
@@ -96,7 +114,7 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 
 #### Community Participation
 
-OSS is built upon, and depends upon, collaboration and community participation. It is generally a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
+In general, a successful OSS is built upon, and depends upon, collaboration and community participation. It is considered a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
 
 Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
 
@@ -139,7 +157,7 @@ Some security considerations to keep in mind when developing software:
 - Keep sensitive data such as credentials secure and separate from source code.
 - Avoid storing keys and other sensitive material in systems not approved for that purpose.
 - Code reviews increase the likelihood of catching bugs, security vulnerabilities, and reduces the risk of committing sensitive data.
-- Implement controls sufficient to prevent unauthorized or inadvertent changes.
+- Implement controls sufficient to prevent unauthorized or inadvertent changes such as code signing and repository user rights.
 
 #### Choosing a Licence
 

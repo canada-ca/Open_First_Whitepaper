@@ -4,7 +4,7 @@
 
 # Introduction
 
-The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards) and use as well as use and release of [Open Source Software](3_Open_Source_Software_Use.md). This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
+The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards) and [use](3_Open_Source_Software_Use) as well as [contribute](4_Open_Source_Software_Contribute) to Open Source Software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
 
 ## Strategic Environment
 
