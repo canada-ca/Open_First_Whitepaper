@@ -126,10 +126,14 @@ In open organizations, community looks like:
 
 ### Risks and Drawbacks
 
-#### Entrenched Behavior and Fear of the Unknown
+#### Zone of comfort
 
-It is possible that working in the open may be against some employees zone of comfort and could possibly lead to some fear of the unknown and of potential critics.
-
-For employees that have been working exclusively in closed groups, knowing that the code you develop may be accessible for everyone to consult and study could be very daunting.
+It is possible that working in the open may be pushing some employees out of their zone of comfort and lead to some fear of the unknown and of potential critics of this approach. For employees that have been working exclusively in closed groups, knowing that the code you develop may be accessible for everyone to consult and study could be very daunting and stressful.
 
 In order to help these employees overcome their fear, open communications are required and support has to be provided to help them navigate through the hurdles they may perceive. Like any new management approach, time and training may be required to help everyone succeed.
+
+#### Entrenched Practices and Bureaucracy
+
+For an organization that is traditionally risk averse and used to operate within the boundaries of pre-established processes knowing its activities may be scrutinized by the public, working openly may seem counter-intuitive and against the best interest of its departments.
+
+However, the Government of Canada has set a clear direction towards becoming an Open Government. Supporting this new direction, Treasury Board Secretariat Canada has put in place Digital Standards, Digital Architecture Standards as well as a Digital Playbook that clearly identify why and how the departments and agencies need to operate openly.
