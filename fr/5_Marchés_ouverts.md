@@ -47,6 +47,10 @@ Selon [Services publics et Approvisionnement Canada](https://www.tpsgc-pwgsc.gc.
 
 ### Risques et inconvénients
 
-#### Blesser les relations existantes avec des sociétés de logiciels
+#### Relations existantes avec des sociétés de logiciels
 
-Les entreprises privées actuelles ne voient peut-être pas d'un bon oeil une nouvelle orientation du GC qui mettrait fin aux pratiques bien ancrées qui mènent à des situations d'asservissement à un fournisseur. Mais la plupart des entreprises qui vendent des logiciels propriétaires au gouvernement au cours des dernières décennies ont apporté des changements drastiques à leurs pratiques de développement et à l'adoption de logiciels libres en raison du rythme rapide de l'industrie.
+Certaines entreprises avec des contrats existants avec le GC pourraient ne pas être d'accord avec une nouvelle direction qui mettrait fin aux pratiques bien ancrées qui mènent à des situations d'asservissement à un fournisseur.
+
+Mais la plupart des entreprises qui vendent des logiciels propriétaires au gouvernement au cours des dernières décennies ont apporté des changements drastiques à leurs pratiques de développement et à l'adoption de logiciels libres en raison du rythme rapide de l'industrie et ont elles-mêmes adopté des modèles d'affaires mettant à profit les logiciels libres.
+
+De plus, lors de la création du [Conseil consultatif du logiciel libre](https://github.com/canada-ca/OS-Advisory_Conseil-SO), de nombreuses entreprises, petites et larges, ont exprimé leur soutien clair pour l'adoption des logiciels libres au GC.

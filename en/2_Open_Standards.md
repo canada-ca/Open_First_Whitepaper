@@ -35,13 +35,13 @@ In terms of interoperability, there is no fundamental difference between a conve
 
 With respect to deploying a private cloud, interoperability promotes competition between providers, with respect to both hardware and software, as well as the ability to further develop the infrastructure over time. Indeed, the use of standards, through APIs for example, increases independence from the different drivers specific to the hardware components, and makes these infrastructure services independent from the software it deploys.
 
-The implementation of a cloud is therefore a unique opportunity to standardize these processes and agree on a common framework. The use of an interoperability framework and the use of open standards makes it easier and less costly to outsource part of the infrastructure of it to a third-party organization, or to migrate onto Shared Services Canada, in a hybrid solution.
+The adoption of a cloud-first approach for an organization is therefore a unique opportunity to standardize these processes and agree on a common framework. The use of an interoperability framework and the use of open standards makes it easier and less costly to outsource part of the infrastructure of it to a third-party organization, or to migrate onto Shared Services Canada, in a hybrid solution.
 
 #### Open source software
 
 [Open source software](3_Open_Source_Software_Use.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
 
-OSS tends to use and help define open standards and publicly available specifications. OSS products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
+OSS tends to use and help define open standards and publicly available specifications. These products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 
 ### Best Practices for Adopting Open Standards
 
@@ -52,16 +52,16 @@ OSS tends to use and help define open standards and publicly available specifica
 
 #### Identify open standards for use in GC
 
-- Interoperability framework that lists mandatory and recomended open standards
-- Possible allignment and collaboration with [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) on selecting open standards for government
+- Interoperability framework that lists mandatory and recommended open standards
+- Possible alignment and collaboration with [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) on selecting open standards for government
 
 #### Training and Support
 
-Training and support around the migration to adopting open standards are similar to [best practices on training and support for use of OSS](3_Open_Source_Software_Use.md#training-and-support).
+Training and support around the migration to and adoption of open standards are similar to [best practices on training and support for use of OSS](3_Open_Source_Software_Use.md#training-and-support).
 
 #### Format conversion
 
-- Make a significant effort to ensure that closed file and data formats can be converted to open standards;
+- Make a significant effort to ensure that closed files and data formats can be converted to open standards;
 - Keep in mind that document conversion, such as between MS Office and LibreOffice, can become a labour-intensive task for any complex documents, especially where they include precise formatting or macros.
 
 ### Preferred Open Standards

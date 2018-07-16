@@ -49,6 +49,10 @@ According to [Public Services and Procurement Canada](https://www.tpsgc-pwgsc.gc
 
 ### Risks and Drawbacks
 
-#### Injuring existing relations with software companies
+#### Existing relations with software companies
 
-Current private companies may not see with a positive light a new direction from the GC that would stop entrenched practices that lead to vendor lock-in situations. But many of the very companies selling proprietary software to the Government over the last decades have taken drastic changes to their development practices and adoption OSS due to the rapid pace of the industry.
+Some companies with existing contracts with the GC may not agree with a new direction from that would stop entrenched practices that lead to vendor lock-in situations.
+
+But many of the very companies that have been selling closed-source software to the GC over the last decades have taken drastic changes to their development practices and adoption OSS due to the rapid pace of the industry and now have different business models that support OSS.
+
+And, upon the creation of the [Open Source Advisory Board](https://github.com/canada-ca/OS-Advisory_Conseil-SO), companies, small and large, lined up to voice their readiness to support a clear adoption of OSS in the GC.

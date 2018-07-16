@@ -48,10 +48,6 @@ On retrouve les deux premiers types de clauses, soit les avis et les obligations
 
 Pour plus de détails sur les clauses de licences et d'autres questions juridiques, voir: [Annexe A - Légale](9_Annexe_Légale.md)
 
-#### Droit d'auteur
-
-La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du gouvernement du Canada pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au gouvernement du Canada.
-
 ### Utilisation des logiciels libres
 
 Dans le contexte de l'utilisation d'un logiciel libre pour lequel personne ne distribue le logiciel, les organisations s'en servent habituellement à cinq fins : services Web et de fichiers, suite bureautique, application logicielle spécialisée, logiciel personnalisé à des fins internes et logiciel personnalisé qui sera utilisé par d'autres services de la même organisation.
@@ -76,7 +72,7 @@ De nombreux services publics et applications libres desservent un secteur d'acti
 
 #### Modification interne
 
-Toutes les licences de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
+Toutes les [licences](4_Logiciel_libre_Contribution) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
 
 Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les « Lignes directrices sur les LL du CNRC » (disponibles à partir de GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
 
@@ -145,7 +141,7 @@ Si l'on suppose que l'objectif est de créer des logiciels sûrs, il est éviden
 
 En publiant ouvertement le code d'un projet et en le rendant facilement accessible par l'entremise d'Internet, la communauté des pairs examinateurs s'étend à l'échelle mondiale. La communauté trouvera rapidement des lacunes, et l'équipe de projet pourra prendre des mesures pour les corriger. Cette méthode permet aussi de recueillir les commentaires exceptionnellement étendus et approfondis des promoteurs qui ont besoin que le code soit aussi sûr que possible pour leur propre usage et celui de la communauté. Les propriétaires du projet et la communauté profitent du partage des lacunes et des solutions.
 
-Étant donné que le modèle de sécurité des LL est fondé sur les pratiques exemplaires reconnues par l'industrie et que le code actuel est largement disponible, les projets sont grandement examinés, scrutés minutieusement, améliorés concrètement et durcis rapidement.
+Étant donné que le modèle de sécurité des LL est fondé sur les pratiques exemplaires reconnues par l'industrie et que le code actuel est largement disponible, les projets populaires sont grandement examinés, scrutés minutieusement, améliorés concrètement et durcis rapidement.
 
 Seul un examen ouvert par des pairs peut rendre possibles de bonnes pratiques de sécurité. Voilà la base d'une approche fondée sur des données probantes dans n'importe quel domaine d'études. La technologie n'est pas différente et elle ne devrait pas être traitée comme si les fournisseurs étaient les seuls à détenir la vérité.
 

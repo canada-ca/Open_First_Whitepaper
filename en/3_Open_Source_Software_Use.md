@@ -1,4 +1,4 @@
-[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution.md)
+[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution)
 
 ## Open Source Software Use
 
@@ -48,10 +48,6 @@ The first two types of clauses - disclaimers and notice obligations – are pres
 
 For more details on licence clauses and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
 
-#### Copyright
-
-Licence and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
-
 ### Using open source software
 
 Within the context of OSS use where one does not distribute the software, there are five scenarios in which organizations typically make use of OSS: web and file services, desktop office suites, specialty software applications, customized software for in-house use, and customized software for use within other departments in the same organization.
@@ -66,7 +62,7 @@ Public sector organizations deploy OSS for servers as readily as private sector 
 
 #### Desktop Productivity Software
 
-Compared to server-side OSS use, institutional and business use of open source desktop software is a relatively new occurrence. However, a 2008 research paper [The Migration of Public Administrations Towards Open Source Desktop Software](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088) shows that this area of open source software has seen increased interest in recent years, especially in the public sector. For example, public administrators in the City of Paris decided to migrate 17,000 desktop computers with Microsoft Office and Microsoft Internet Explorer over to using OpenOffice.org and Mozilla Firefox. According to an [article published on the European Union's Interoperability Solutions for Public Administrations website](https://joinup.ec.europa.eu/news/french-gendarmerie-open-sou), the French Gendarmerie Nationale (national police) began by using OpenOffice on all it 90,000 PCs. In 2006 it installed web browser Mozilla Firefox and email client Mozilla Thunderbird on all PCs, followed by other OSS desktop tools, including image manipulation software Gimp and multimedia application VLC. In 2008 it implemented Ubuntu Linux on the first 5000 desktops and now have 72,000 Ubuntu Linux workstations. Although LibreOffice and Firefox are amongst the most common OSS desktop productivity applications, a broad range of applications are available.
+Compared to server-side OSS use, institutional and business use of open source desktop software is a relatively new occurrence. However, a 2008 research paper [The Migration of Public Administrations Towards Open Source Desktop Software](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088) shows that this area of open source software has seen increased interest in recent years, especially in the public sector. For example, public administrators in the City of Paris decided to migrate 17,000 desktop computers with Microsoft Office and Microsoft Internet Explorer over to using OpenOffice.org and Mozilla Firefox. According to an [article published on the European Union's Interoperability Solutions for Public Administrations website](https://joinup.ec.europa.eu/news/french-gendarmerie-open-sou), the French Gendarmerie Nationale (national police) began by using OpenOffice on all its 90,000 PCs. In 2006 it installed web browser Mozilla Firefox and email client Mozilla Thunderbird on all PCs, followed by other OSS desktop tools, including image manipulation software Gimp and multimedia application VLC. In 2008 it implemented Ubuntu Linux on the first 5000 desktops and now have 72,000 Ubuntu Linux workstations. Although LibreOffice and Firefox are amongst the most common OSS desktop productivity applications, a broad range of applications are available.
 
 #### Specialty Software
 
@@ -76,7 +72,7 @@ As one example within the specialty area of geomatics, [MapServer](http://mapser
 
 #### Internal Modification
 
-All OSS licences grant users broad rights to modify the software. Recalling that reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
+All [OSS licences](4_Open_Source_Software_Contribution#licenses) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
 
 However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the `NRC Open Source Software Guidelines` (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
 
@@ -137,7 +133,7 @@ OSS relies on good security practices instead of obscurity. A common misconcepti
 
 OSS is not always more secure, however in both theory and practice the OSS security model has proven that it can more quickly respond to and correct security issues.
 
-Obfuscation relies on attacker ignorance and hides poor security practices. Within five months of the source code release of InterBase version 6, a hard-coded backdoor that had existed for seven years was found by the OSS community and fixed.
+Obfuscation relies on attackers ignorance and hides poor security practices. Within five months of the source code release of InterBase version 6, a hard-coded backdoor that had existed for seven years was found by the OSS community and fixed.
 
 ##### Wide Peer Review
 
@@ -145,7 +141,7 @@ Assuming that the goal is to make secure software, it is obvious that the easies
 
 By openly releasing a project's code and making it readily available via the Internet the community of peer reviewers is expanded worldwide. The community will quickly find flaws and the project team can take action to fix them. This simultaneously garners exceptionally wide and deep testing feedback from developers who need the code to be as secure as possible for their own use as well as the community's. Both the project owners and community benefit from sharing flaws and fixes.
 
-Because the OSS security model is established on industry-accepted best practices and the actual code is widely available, projects are widely reviewed, thoroughly scrutinized, practically improved and quickly hardened.
+Because the OSS security model is established on industry-accepted best practices and the actual code is widely available, popular projects are widely reviewed, thoroughly scrutinized, practically improved and quickly hardened.
 
 Sound security practices are only possible with open peer review. This is the basis of an evidence-based approach to any field of study. Technology is no different and shouldn't be treated as if vendors have special access to the truth.
 

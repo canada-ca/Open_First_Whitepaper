@@ -3,12 +3,17 @@
 ## Logiciel libre - Contribution
 
 - [Diffusion de logiciels libres](#diffusion-de-logiciels-libres)
+- [Propriété intellectuelle](#propriété-intellectuelle)
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
 - [Licences de LL](#licences-de-LL-privilégiées)
 - [Répertoires de codes](#répertoires-de-codes)
 - [Exemples](#exemples)
+
+### Contribution
+
+Dans un but de clarification, ce livre blanc considère autant la publication du code source développée par le Gouvernement du Canada que toutes autres formes de contributions à des projets de tierces parties comme étant une forme de contribution à la communauté des logiciels libres.  
 
 ### Diffusion de logiciels libres
 
@@ -17,6 +22,12 @@ Grâce aux données ouvertes, à l'information ouverte et au dialogue ouvert, le
 Au moment de mettre au point un logiciel entièrement nouveau, une entreprise ou un organisme gouvernemental doit choisir entre le maintien du code source restreint ou la diffusion de celui-ci en tant que logiciel libres (LL). Il arrive que les gouvernements et les organismes sans but lucratif diffusent le logiciel à titre de LL pour offrir une gamme d'avantages supplémentaires aux lcommunautés, aux entreprises et au grand public. Les entreprises, notamment les fournisseurs de logiciels, diffusent souvent des logiciels en tant que LL lorsqu'ils sont accessoires à leurs activités de base. Ils tirent ainsi avantage du fait que d'autres personnes collaborent au logiciel, répartissant ainsi les coûts de développement sans pour autant réduire leur part de marché en ce qui concerne leur activité de base.
 
 Les développeurs qui contribuent aux LL et les distribuent proviennent d'environnements variés et diversifiés du secteur public, du secteur privé et du milieu universitaire. Selon des études, il existe de nombreux et divers motifs de participation au LL, du gain économique en passant par le sens du devoir civique envers le progrès social et technologique. Les risques et les inconvénients de la participation au LL diffèrent également considérablement selon le contexte. ([source](http://www.irma-international.org/viewtitle/10083/))
+
+### Propriété intellectuelle
+
+#### Droit d'auteur
+
+La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du gouvernement du Canada pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au gouvernement du Canada.
 
 ### Avantages
 
@@ -31,6 +42,10 @@ En raison de la concurrence mondiale croissante, de l'augmentation des coûts de
 #### Vision à long terme
 
 La diffusion d'un logiciel en tant que LL pour inciter d'autres personnes à y collaborer peut aussi contribuer à assurer la viabilité d'un projet futur. Par exemple, une organisation ou une entreprise peut mettre au point un outil logiciel à l'aide d'un budget fixe et limité pour la recherche et le développement. Pour que le projet se poursuive et se développe, la participation d'autres collaborateurs est nécessaire.
+
+En publiant le code source, le projet peut continuer au-delà de l'investissement initial et demeure disponible pour d'autres parties intéressées à poursuivre son développement et sa maintenance. De plus, même si sa communauté ne supporte plus activement la maintenance du projet initial, une organisation pourrait décider de continuer de maintenir et de poursuivre le développement du projet si celui-ci est bénéfique pour ses affaires.
+
+En revanche, une application à code fermée ne saurait offrir le même degré de flexibilité si le manufacturier venait à cesser ses activités.
 
 #### Établissement de la réputation
 
@@ -58,7 +73,7 @@ Pendant les processus d'embauche, la direction de la TI peut utiliser les contri
 
 #### Sécurité
 
-Comme nous l'avons vu en ce qui a trait au [logiciel libre](3_Logiciel_libre.md), la distribution de LL présente également des avantages et des inconvénients en matière de sécurité. Le LL surveille davantage le code pour régler les problèmes de sécurité, mais, en même temps, il le met à la disposition de ceux qui ont des objectifs malveillants.
+Comme nous l'avons vu en ce qui a trait au [logiciel libre](3_Logiciel_libre_Utilisation), la distribution de LL présente également des avantages et des inconvénients en matière de sécurité. Le LL surveille davantage le code pour régler les problèmes de sécurité, mais, en même temps, il le met à la disposition de ceux qui ont des objectifs malveillants.
 
 #### Science ouverte
 
@@ -76,13 +91,13 @@ Le Canada a établi un mandat très clair de gouvernement ouvert afin d'amélior
 
 Le fait que n'importe qui puisse redistribuer gratuitement les LL constitue un obstacle évident pour de nombreux fournisseurs de logiciels qui n'utilisent pas le modèle d'exploitation de LL. Outre les frais nominaux pour la distribution sur support matériel, il n'est généralement pas possible de tirer profit du LL en utilisant le modèle commercial traditionnel de vente directe de licences de logiciels. Le manque de recettes directes provenant de l'octroi de licences peut également constituer un obstacle dans les organisations du secteur public où des politiques de « recouvrement des coûts » sont en place. Même si les LL peuvent contribuer à l'atteinte de nombreux objectifs de la fonction publique, ceux-ci ne favorisent pas nécessairement la compensation des coûts et risques associés au développement de logiciels.
 
-Il convient toutefois de noter que, dans le cas de nombreux projets de logiciels auxquels les fonctionnaires, et en particulier les scientifiques, peuvent participer, la valeur économique d'un programme individuel sera minime. Dans les organisations où il n'existe pas de mécanisme établi de vente de logiciels, les efforts nécessaires pour établir et gérer la vente de programmes et pour fournir le niveau de soutien auquel on s'attendrait dans un marché commercial sont susceptibles de dépasser les revenus potentiels qui pourraient être réalisés.
+Il convient toutefois de noter que, dans le cas de nombreux projets de logiciels auxquels les fonctionnaires, et en particulier les scientifiques, peuvent participer, la valeur économique d'un programme d'ordinateur individuel sera minime. Dans les organisations où il n'existe pas de mécanisme établi de vente de logiciels, les efforts nécessaires pour établir et gérer la vente de programmes et pour fournir le niveau de soutien auquel on s'attendrait dans un marché commercial sont susceptibles de dépasser les revenus potentiels qui pourraient être réalisés.
 
 #### La communauté peut ne pas se regrouper
 
 Il existe de nombreux exemples de projets de LL florissants comme le noyau Linux, le serveur Apache et le navigateur Web Firefox. Ces projets impliquent des communautées actives avec des centaines, et dans certains cas des milliers, de développeurs de logiciels. Cependant, il y a aussi un nombre relativement élevé de projets de LL où le développement actif a cessé. Bien entendu, bon nombre de ces projets sont probablement ceux de développeurs individuels qui ont enregistré un projet, mais qui n'ont pas fait d'efforts subséquents ou de progrès dans le développement d'une communauté. Quoi qu'il en soit, les chiffres présentent une mise en garde, à savoir que pour exécuter correctement un projet de LL, vous devriez être prêt à investir les ressources nécessaires pour que le projet passe par une première version et fasse face à tout retard dans la participation de la communauté.
 
-Cela dépend également des objectifs lors de la publication du code en tant que LL. Peut-être que c'est juste pour héberger le code source (pour le rendre accessible aux autres ou pour travailler à l'extérieur) et le projet n'a pas besoin de contributions externes pour le maintenir. Dans ce cas, une communauté est un avantage collatéral apprécié si cela se produit. Dans d'autres cas, vous voudrez peut-être créer une communauté et que le projet continue d'exister sans que le GC soit le principal contributeur.
+Cela dépend également des objectifs lors de la publication du code en tant que LL. Pour le Gouvernement du Canda, il pourrait simplement s'agir d'héberger le code source publiquement (pour le rendre accessible aux autres ou pour travailler ouvertement) et le projet n'a pas besoin de contributions externes pour le maintenir. Dans ce cas, une communauté est un avantage collatéral apprécié si cela se produit. Dans d'autres cas, vous voudrez peut-être créer une communauté et que le projet continue d'exister sans que le GC soit le principal contributeur.
 
 #### Complexité juridique
 
@@ -96,7 +111,7 @@ Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou
 
 #### Participation communautaire
 
-Les LL s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est généralement sensé de tenter de « redonner » à la communauté de qui vous tirer des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf)  ».
+En général, les LL qui ont du succès s'appuient sur la collaboration et la participation de la communauté, et ils en dépendent. Il est considéré comme une bonne pratique de tenter de « redonner » à la communauté de qui vous tirez des avantages. Cette réciprocité contribue non seulement à maintenir en vie un projet de LL, mais elle vous aide aussi à établir des liens et de bonnes relations avec les autres membres de la communauté. Cela peut vous aider à obtenir l'aide de la communauté ou à présenter des demandes de caractéristiques. Cette question fait l'objet d'un examen dans un document de recherche de 2005 intitulé « [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf)  ».
 
 Même sans fournir de code, il y a de nombreuses autres façons de contribuer à un projet de LL. Par exemple, un utilisateur peut envisager une ou plusieurs des activités suivantes :
 
@@ -139,7 +154,7 @@ Voici quelques aspects de sécurité à garder à l'esprit lors du développemen
 - Conserver les données sensibles comme les justificatifs d'identité en lieu sûr et séparément du code source.
 - Éviter d'entreposer des clés et d'autres documents de nature délicate dans des systèmes non approuvés à cette fin.
 - L'examen des codes augmente la probabilité de détecter les bogues, les vulnérabilités en matière de sécurité et réduit le risque d'engager des données sensibles.
-- Mettre en œuvre des mesures de contrôle suffisantes pour la prévention des changements non autorisés ou accidentels.
+- Mettre en œuvre des mesures de contrôle suffisantes pour la prévention des changements non autorisés ou accidentels comme signer le code et établir des droits d'accès pour les utilisateurs des dépôts de code.
 
 #### Choisir une licence
 
