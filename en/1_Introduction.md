@@ -28,13 +28,7 @@ In May 2018, TBS reached a [MOU on cooperation in the field of digital governmen
 
 ### Business Need
 
-The Government of Canada's departments and agencies need to find effective ways to offer the best services possible to their citizens. This implies cutting down on redundant technology investments, providing a much better user experience and breaking the cycles of vendors lock-in.
-As such, there is a need for:
-
-- Greater interoperability between the various departments and agencies data and systems where the information has a single source of truth;
-- User design principles in the conception of the solutions to citizens where continuous development and improvement is rapid and flexible;
-- Accessible solutions so that all Canadians can receive equitable services;
-- A culture of sound privacy governance, security and open collaboration are by default so that all Canadians can confidently rely on the accuracy of the information they access and the safeguarding of their data.
+The Government of Canada's departments and agencies need to find effective ways to offer the best digital services possible to citizens and users. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems and avoiding vendor lock-in to enable greater flexibility in the management of IT solutions. The GC also needs to attract digital talent and increase job satisfaction by embracing leading practices and the latest technologies. Finally, the GC must provide public benefits to the public-at-large as well as support the Canadian economy and communities.
 
 ### Drivers for Change
 
