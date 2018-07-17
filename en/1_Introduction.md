@@ -4,13 +4,13 @@
 
 # Introduction
 
-The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards) and [use](3_Open_Source_Software_Use) as well as [contribute](4_Open_Source_Software_Contribute) to Open Source Software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
+The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribute.md) to Open Source Software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
 
 ## Strategic Environment
 
 ### Organizational Overview
 
-Openness and transparency are fundamental to ensuring Canadians’ trust in their government and in democracy overall. Citizens expect their government to be open, transparent, and accountable. They also expect their government to deliver real, meaningful results, in a fair, efficient, and responsible manner. The Government of Canada’s commitment to openness is intended to foster greater transparency and accountability, and to help create a more cost-effective, efficient, and responsive government for all Canadians. ([Third Biennial Plan to the Open Government Partnership](https://open.canada.ca/en/content/third-biennial-plan-open-government-partnership))
+Openness and transparency are fundamental to ensuring Canadians’ trust in the4ir government and in democracy overall. Citizens expect their government to be open, transparent, and accountable. They also expect their government to deliver real, meaningful results, in a fair, efficient, and responsible manner. The Government of Canada’s commitment to openness is intended to foster greater transparency and accountability, and to help create a more cost-effective, efficient, and responsive government for all Canadians. ([Third Biennial Plan to the Open Government Partnership](https://open.canada.ca/en/content/third-biennial-plan-open-government-partnership))
 
 The Government of Canada is committed to raising the bar on openness and transparency. The ministerial mandate letters sent to each of the Cabinet Ministers reinforces expectations that all federal departments and agencies will do their part to ensure an open, honest government that is accountable to Canadians, lives up to the highest ethical standards, and advances Canadians' priorities with a renewed sense of collaboration.
 
@@ -60,7 +60,7 @@ The Government of Canada recognizes that small and medium businesses are a key d
 
 Adopting and using open standards means you can move between different technologies when you need to, thus avoiding vendor lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and proprietary software vendors.
 
-OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage an [Open Market](5_Open_Markets).
+OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage an [Open Market](5_Open_Markets.md).
 
 #### Community, Demography and Society
 
