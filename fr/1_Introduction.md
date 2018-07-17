@@ -4,7 +4,7 @@
 
 # Introduction
 
-L'objectif de ce livre blanc est de décrire les facteurs déterminants, les avantages, les considérations et la gouvernance dont il faut tenir compte pour déterminer quand et où adopter des [normes ouvertes](2_Normes_ouvertes) et [utiliser](3_Logiciel_libre_Utilisation) ainsi que [contribuer](4_Logiciel_libre_Contribution) aux logiciels libres. Ce livre blanc saisit l'approche du gouvernement du Canada pour passer à un environnement plus ouvert qui comprend des changements dans notre façon de travailler, d'acheter et de fournir de l'information et des services.
+L'objectif de ce livre blanc est de décrire les facteurs déterminants, les avantages, les considérations et la gouvernance dont il faut tenir compte pour déterminer quand et où adopter des [normes ouvertes](2_Normes_ouvertes.md) et [utiliser](3_Logiciel_libre_Utilisation.md) ainsi que [contribuer](4_Logiciel_libre_Contribution.md) aux logiciels libres. Ce livre blanc saisit l'approche du gouvernement du Canada pour passer à un environnement plus ouvert qui comprend des changements dans notre façon de travailler, d'acheter et de fournir de l'information et des services.
 
 ## Environnement stratégique
 

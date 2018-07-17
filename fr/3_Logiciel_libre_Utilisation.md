@@ -72,7 +72,7 @@ De nombreux services publics et applications libres desservent un secteur d'acti
 
 #### Modification interne
 
-Toutes les [licences](4_Logiciel_libre_Contribution) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
+Toutes les [licences](4_Logiciel_libre_Contribution.md) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
 
 Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les « Lignes directrices sur les LL du CNRC » (disponibles à partir de GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
 
@@ -90,7 +90,7 @@ L'une des principales caractéristiques des LL est que n'importe qui peut les di
 
 Les organisations modernes optent pour les LL pour mettre au point leurs logiciels. Parmi les avantages documentés par rapport aux logiciels mis au point par une poignée de développeurs, il y a la qualité des solutions générées par la diversité des idées et des communautés qui se forment autour d'un défi commun. L'exposition de la problématique à d'autres organisations intéressées apporte également un capital humain supplémentaire pour relever les défis. Par exemple, le système d'exploitation libre Linux est le plus grand projet de développement au monde; des milliers de personnes contribuent à chaque publication. De nombreuses entreprises concurrentes contribuent à Linux et à d'autres LL, ce qui leur permet de tirer parti du travail d'une communauté mondiale de développeurs de LL et de faire passer les développeurs d'un travail de faible valeur à un travail de grande valeur.
 
-L'utilisation des LL permet de personnaliser les produits, fait progresser l'interopérabilité entre les outils grâce à l'utilisation de [normes libres](2_Open_Standards.md) et améliore la qualité globale du produit final. Voici d'autres avantages :
+L'utilisation des LL permet de personnaliser les produits, fait progresser l'interopérabilité entre les outils grâce à l'utilisation de [normes libres](2_Normes_ouvertes.md) et améliore la qualité globale du produit final. Voici d'autres avantages :
 
 #### Évitement de l'asservissement à un fournisseur
 
@@ -275,11 +275,11 @@ L'interopérabilité des licences pose rarement des problèmes pour une simple u
 
 Bien que l'interopérabilité des licences ne soit pas une préoccupation pour l'utilisation des LL, le format et l'interopérabilité des données peuvent avoir une incidence sur les décisions d'utiliser ou non les LL. Pour évaluer l'interopérabilité des données, il est important de faire une analyse au cas par cas. Les logiciels exclusifs peuvent toujours mettre en oeuvre des « normes libres » largement interopérables pour les données. De la même façon, les LL peuvent, dans certains cas, utiliser des normes spécialisées non publiées et non libres pour le stockage des données.
 
-Toutefois, les tendances culturelles et la dynamique du modèle opérationnel des LL tendent à pousser les projets de LL vers l'utilisation de l'interopérabilité et des [normes libres](2_Open_Standards.md) pour la lecture, la rédaction et le stockage des données. En effet, même lorsque les LL ne mettent pas en oeuvre une norme libre pour l'échange de données, la disponibilité du code source offre toujours une « mise en oeuvre libre » à tout le moins. Le code source est un exemple que n'importe qui d'autre peut mettre en oeuvre la même fonctionnalité pour lire et écrire le format de données sous-jacent.
+Toutefois, les tendances culturelles et la dynamique du modèle opérationnel des LL tendent à pousser les projets de LL vers l'utilisation de l'interopérabilité et des [normes libres](2_Normes_ouvertes.md) pour la lecture, la rédaction et le stockage des données. En effet, même lorsque les LL ne mettent pas en oeuvre une norme libre pour l'échange de données, la disponibilité du code source offre toujours une « mise en oeuvre libre » à tout le moins. Le code source est un exemple que n'importe qui d'autre peut mettre en oeuvre la même fonctionnalité pour lire et écrire le format de données sous-jacent.
 
 ### Publication de logiciels libres
 
-Voir le [code source libre](4_Code_source_libre.md).
+Voir le [code source libre](4_Logiciel_libre_Contribution.md).
 
 ### Logiciels libres privilégiées
 

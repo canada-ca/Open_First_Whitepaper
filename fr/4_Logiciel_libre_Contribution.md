@@ -73,7 +73,7 @@ Pendant les processus d'embauche, la direction de la TI peut utiliser les contri
 
 #### Sécurité
 
-Comme nous l'avons vu en ce qui a trait au [logiciel libre](3_Logiciel_libre_Utilisation), la distribution de LL présente également des avantages et des inconvénients en matière de sécurité. Le LL surveille davantage le code pour régler les problèmes de sécurité, mais, en même temps, il le met à la disposition de ceux qui ont des objectifs malveillants.
+Comme nous l'avons vu en ce qui a trait au [logiciel libre](3_Logiciel_libre_Utilisation.md), la distribution de LL présente également des avantages et des inconvénients en matière de sécurité. Le LL surveille davantage le code pour régler les problèmes de sécurité, mais, en même temps, il le met à la disposition de ceux qui ont des objectifs malveillants.
 
 #### Science ouverte
 
