@@ -76,7 +76,7 @@ During hiring processes IT management may use contributions as a metric to asses
 
 #### Security
 
-As discussed with respect to [Open Source Software](3_Open_Source_Software#security), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
+As discussed with respect to [Open Source Software](3_Open_Source_Software_Use.md#security), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
 
 #### Open Science
 

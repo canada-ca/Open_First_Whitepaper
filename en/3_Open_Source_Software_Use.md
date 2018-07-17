@@ -1,4 +1,4 @@
-[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution)
+[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution.md)
 
 ## Open Source Software Use
 
@@ -72,7 +72,7 @@ As one example within the specialty area of geomatics, [MapServer](http://mapser
 
 #### Internal Modification
 
-All [OSS licences](4_Open_Source_Software_Contribution#licenses) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
+All [OSS licences](4_Open_Source_Software_Contribution.md#oss-licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
 
 However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the `NRC Open Source Software Guidelines` (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
 
@@ -279,7 +279,7 @@ However, cultural tendencies and the dynamics of the OSS business model tend to 
 
 ### Contributing to Open Source Software
 
-See [Open Source Code](4_Open_Source_Code.md).
+See [Open Source Code](4_Open_Source_Software_Contribution.md).
 
 ### Preferred Open Source Software
 
