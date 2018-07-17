@@ -28,7 +28,7 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 #### Copyright
 
-[Licence](9_Annex_Legal) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
+[Licence](9_Annex_Legal.md) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
 
 As well, certain OSS third-party projects require contributors to assign their contribution's ownership to the project, through the use of Copyright Assignment Agreements. In order for an employee of the Government of Canada to contribute code to such projects, further analysis will be required.
 
@@ -40,7 +40,7 @@ When we publicly release an in-house software program under an OSS licence, it e
 
 When collaborating to develop new features or creating a new project built on existing OSS, a company or organization also leverages all the work that collaborators have previously invested. If distributing modifications as OSS, prior work can even include code and libraries under reciprocal licences (which a company or organization can only ever distribute if its project is OSS as well).
 
-With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
+With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
 
 #### Long-term Feasibility
 
