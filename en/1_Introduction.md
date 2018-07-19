@@ -40,17 +40,15 @@ In recent years, the Government of Canada has taken multiple steps towards being
 
 > Interoperability, increase speed of development and technological environment, lifetime expectancy of solution, modularity, reuse of similar solutions, industry investing in open source, new disrupting technologies (blockchain, artificial intelligence)
 
-Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
+Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability, independence and substitutability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
 
 Using open source software means you can benefit from solving common problems with readily available open source technology and you have more time and resource for customized solutions to solve the rare or unique problems. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and encourages the identification and elimination of defects not recognized by the original development team. For the public sector, like all organizations, cost is important, but other public benefits can also motivate public sector use of OSS.
 
-From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining application itself rather than the pool. *Syntax to be reviewed* Procuring services of an OSS also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
+From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining application itself rather than the pool. Using OSS and service providers also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
 
 #### Economy
 
-The Government of Canada recognizes that small and medium businesses are a key driver of the economy and needs to remove barriers to entry in its own activities. *Source* + [Open Markets](5_Open_Markets.md)
-
-> Need sources, point to Open Markets section.
+The Government of Canada recognizes that small and medium businesses are a key driver of the economy and needs to remove barriers to entry in its own activities. (Source?)
 
 Adopting and using open standards means you can move between different technologies when you need to, thus avoiding lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and closed-source software.
 
@@ -68,19 +66,11 @@ Releasing an in-house software code under an OSS licence can encourage external 
 
 ## Strategic Fit
 
-Digital Standards
+> notes: Interoperability, flexibility, modularity, etc.
 
-The [OneGC Digital Architectural Standard] asks that you "Build and develop open":
+The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the [use of OSS](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) since, by their nature, they are publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html) by making source code open and reusable under an appropriate open source software licence, so that other developers can benefit from your work and build on it.
 
-- Actively use and contribute to open source tools and solutions
-- Develop in the open by sharing and reusing all types of code and platform configuration
-
-notes:
-
-- Interoperability, flexibility, modularity, etc.
-- Alignment with international community
-
-The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the use of OSS since, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html) by making source code open and reusable under an appropriate open source software licence, so that other developers can benefit from your work and build on it.
+There are great opportunities to learn and engage with our D7 partners, for example by aligning and collaborating with the [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) on selecting open standards for government.
 
 ## Detailed Description of the Business Need
 
@@ -88,7 +78,7 @@ The GC Digital Playbook includes principles on the [use of open standards](https
 
 Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations (US, UK, France, Italy, Estonia, New Zealand, etc.). Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
-Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction (quote open source use section).
+Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
 
