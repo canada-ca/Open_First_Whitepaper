@@ -28,7 +28,7 @@ In May 2018, TBS reached a [MOU on cooperation in the field of digital governmen
 
 ### Business Need
 
-The Government of Canada's departments and agencies need to find effective ways to offer the best digital services possible to citizens and users. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems and avoiding vendor lock-in to enable greater flexibility in the management of IT solutions. The GC also needs to attract digital talent and increase job satisfaction by embracing leading practices and the latest technologies. Finally, the GC must provide public benefits to the public-at-large as well as support the Canadian economy and communities.
+The Government of Canada's departments and agencies need to find effective ways to offer the best digital services possible to citizens and users. This implies working in the open by default, by releasing all non-sensitive data, information and source code under an open licence that enables sharing and reuse. There's a need for improved interoperability between systems; more independence from data formats, software, technologies and vendors; substitutability of solutions and service providers and; avoiding lock-in to enable greater flexibility in the management of IT solutions. The GC also needs to attract digital talent and increase job satisfaction by embracing leading practices and the latest technologies. Finally, the GC must provide public benefits to the public-at-large as well as support the Canadian economy and communities.
 
 ### Drivers for Change
 
@@ -40,11 +40,11 @@ In recent years, the Government of Canada has taken multiple steps towards being
 
 > Interoperability, increase speed of development and technological environment, lifetime expectancy of solution, modularity, reuse of similar solutions, industry investing in open source, new disrupting technologies (blockchain, artificial intelligence)
 
-Leveraging technologies that are built on open standards mitigate against the risk of vendor lock-in and offers the interoperability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
+Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
 
 Using open source software means you can benefit from solving common problems with readily available open source technology and you have more time and resource for customized solutions to solve the rare or unique problems. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and encourages the identification and elimination of defects not recognized by the original development team. For the public sector, like all organizations, cost is important, but other public benefits can also motivate public sector use of OSS.
 
-From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining application itself rather than the pool. *Syntax to be reviewed* Procuring services of an OSS also helps avoid vendor lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
+From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining application itself rather than the pool. *Syntax to be reviewed* Procuring services of an OSS also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
 
 #### Economy
 
@@ -52,7 +52,7 @@ The Government of Canada recognizes that small and medium businesses are a key d
 
 > Need sources, point to Open Markets section.
 
-Adopting and using open standards means you can move between different technologies when you need to, thus avoiding vendor lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and proprietary software vendors.
+Adopting and using open standards means you can move between different technologies when you need to, thus avoiding lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and closed-source software.
 
 OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage an [Open Market](5_Open_Markets.md).
 
@@ -88,7 +88,7 @@ The GC Digital Playbook includes principles on the [use of open standards](https
 
 Open standards and OSS are only slowly gaining traction in the Government of Canada (GC), particularly when compared to the private sector and other public administrations (US, UK, France, Italy, Estonia, New Zealand, etc.). Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
-Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of vendor Lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction (quote open source use section).
+Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of open source software supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction (quote open source use section).
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
 
@@ -115,7 +115,7 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 1. Current state of technology investments:
    1. Single source providers
    2. Closed-source solutions and standards
-   3. Vendor lock-in.
+   3. Lock-in.
    4. Legacy systems architecture and size and integration (all modules are integrated and can't easily be picked appart)
 
 ## Scope
