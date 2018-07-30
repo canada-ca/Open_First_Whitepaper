@@ -19,7 +19,7 @@ The drivers that have been identified for the question of "Why Open?" include:
 - Accelerate the development of an interoperable eco-system
 - Share code and solutions with other countries, provinces, territories, and municipalities
 - Increase the ease of interconnected services with provinces territories, municipalities, and other governments
-- Implement an ecosystem taht enables open procurement practices which will spur growth and innovation.
+- Implement an ecosystem that enables open procurement practices which will spur growth and innovation.
 
 The Government of Canada is the country's largest employer. Adopting an Open First approach will have huge benefits. Canada can lead in more innovative, inclusive, and agile government.
 
