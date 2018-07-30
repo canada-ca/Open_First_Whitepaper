@@ -158,7 +158,7 @@ OSS project openness and availability of source code allows IT professionals to 
 
 #### IT Talent and Job Satisfaction
 
-The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionnals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
+The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
 - OSS is widely used by companies, from development to production, generating high demand for talent;
 - Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume;
