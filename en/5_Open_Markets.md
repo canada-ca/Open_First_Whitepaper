@@ -6,7 +6,7 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Examples](#examples)
 
-This section will look at the approch to the procurment and use of open standards open source software.
+This section will look at the approach to the procurment and use of open standards open source software.
 
 The two componenets of open markets that will be looked at in this section include:
 
