@@ -106,7 +106,7 @@ If TBS wants the GC to become an open organization and shift to a more open cult
    1. Single source providers
    2. Closed-source solutions and standards
    3. Lock-in.
-   4. Legacy systems architecture and size and integration (all modules are integrated and can't easily be picked appart)
+   4. Legacy systems architecture and size and integration (all modules are integrated and can't easily be picked apart)
 
 ## Scope
 
