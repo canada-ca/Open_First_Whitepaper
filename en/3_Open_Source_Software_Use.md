@@ -158,7 +158,7 @@ OSS project openness and availability of source code allows IT professionals to 
 
 #### IT Talent and Job Satisfaction
 
-The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionnals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
+The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
 - OSS is widely used by companies, from development to production, generating high demand for talent;
 - Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume;
@@ -218,7 +218,7 @@ In general, the same factors applicable to an evaluation of the feature set and 
 - **Longevity** Longevity, measured in both in terms of the age of the product and the number of versions released, indicates a project's stability and chance of survival.
 - **Licence** Software is available for re-use under an OSS licence and code is in a common code repository. The licence of a project can affect the level of legal risk which you must assume (see [Legal Risk Management](9_Annex_Legal.md#legal-risk-management)).
 - **Support Availability** Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software). Support for OSS can be provided by the community and/or paid support services businesses.
-- **Documentation** User documentation provides important information to help users install software and use its features.  Technical documentation provides requirments and instructions for installation, development, deployment and configuration of the software.
+- **Documentation** User documentation provides important information to help users install software and use its features.  Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.
 - **Security** Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
 - **Functionality** Specific functionality needs depend on the business case for the software and need to be assessed on a case-by-case basis.
 - **Integration** Where a software package will interact with other pieces of software, or with particular data formats, compatibility and the ability to integrate the software and data together becomes a paramount consideration.

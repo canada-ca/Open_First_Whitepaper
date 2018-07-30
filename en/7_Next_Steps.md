@@ -45,7 +45,7 @@ GC EARB members endorsed the following:
 
 ### [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
-- List of open Standards with EARB endorsment, as well as others being used in Canadian public administrations
+- List of open Standards with EARB endorsement, as well as others being used in Canadian public administrations
 - List of OSS being used in Canadian public administrations
 - List of open source code released by Canadian public administrations
 

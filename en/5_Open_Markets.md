@@ -6,12 +6,12 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Examples](#examples)
 
-This section will look at the approch to the procurment and use of open standards open source software.
+This section will look at the approach to the procurement and use of open standards open source software.
 
-The two componenets of open markets that will be looked at in this section include:
+The two components of open markets that will be looked at in this section include:
 
 1. Procurement of open source tools
-2. Process changes to existing procurment practices
+2. Process changes to existing procurement practices
 
 Fair and Transparent - We are working on making procurement more fair and transparent to meet the following D7 Principle of Open Markets:
 
