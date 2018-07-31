@@ -8,9 +8,7 @@
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
-- [OSS licences](#oss-licences)
-- [Code Repositories](#code-repositories)
-- [Examples](#examples)
+- [GC Digital Playbook](#gc-digital-playbook)
 
 ### Contribution
 
@@ -199,18 +197,6 @@ Examples of open Internet source code repositories, include, but are not limited
 
 Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
-### Examples
+### GC Digital Playbook
 
-#### US
-
-- [Digital Services Playbook](https://playbook.cio.gov/) - If the codebase has not been released under an open source license, explain why.
-- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Develop our work in the open - publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
-- [Federal Source Code Policy](https://sourcecode.cio.gov/) - Pilot program that requires agencies, when commissioning new custom software, to release at least 20% of new custom-developed code as OSS.
-
-#### UK
-
-- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by making all new source code open by default.
-
-#### Canada
-
-- [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
+- [Work in the open by default](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html)

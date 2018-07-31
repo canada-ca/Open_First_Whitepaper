@@ -7,13 +7,11 @@
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
-- [Licences de LL](#licences-de-LL-privilégiées)
-- [Répertoires de codes](#répertoires-de-codes)
-- [Exemples](#exemples)
+- [Guide numérique du GC](#guide-numérique-du-gc)
 
 ### Contribution
 
-Dans un but de clarification, ce livre blanc considère autant la publication du code source développée par le Gouvernement du Canada que toutes autres formes de contributions à des projets de tierces parties comme étant une forme de contribution à la communauté des logiciels libres.  
+Dans un but de clarification, ce livre blanc considère autant la publication du code source développée par le Gouvernement du Canada que toutes autres formes de contributions à des projets de tierces parties comme étant une forme de contribution à la communauté des logiciels libres.
 
 ### Diffusion de logiciels libres
 
@@ -196,18 +194,6 @@ Des exemples de référentiels de code source Internet ouverts incluent, mais ne
 
 Les logiciels ouverts rassemblent souvent une communauté disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les communautés de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
 
-### Exemples
+### Guide numérique du GC
 
-#### États-Unis
-
-- [Digital Services Playbook](https://playbook.cio.gov/) - Si la base de codes n'a pas été diffusée en vertu d'une licence libre, expliquez pourquoi.
-- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Élaborer notre travail en public - publier tous les codes sources créés ou modifiés par 18F, qu'ils aient été élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés par 18F.
-- [Federal Source Code Policy](https://sourcecode.cio.gov/) - Programme-pilote qui exige que les organismes, lorsqu'ils mettent en service un nouveau logiciel personnalisé, diffusent au moins 20 % du nouveau code personnalisé en tant que LL.
-
-#### Royaume-Uni
-
-- [Code de pratiques technologiques](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Facilitez l'ouverture en faisant en sorte que tout nouveau code source soit ouvert par défaut.
-
-#### Canada
-
-- Ressources naturelles Canada - [Guide d'introduction aux licences de logiciels libres et gratuits](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)
+- [Travailler ouvertement par défaut](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/5-travailler-ouvertement-par-defaut.html)
