@@ -4,7 +4,6 @@
 
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Examples](#examples)
 
 This section will look at the approach to the procurement and use of open standards open source software.
 

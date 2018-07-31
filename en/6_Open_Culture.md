@@ -136,4 +136,4 @@ In order to help these employees overcome their fear, open communications are re
 
 For an organization that is traditionally risk averse and used to operate within the boundaries of pre-established processes knowing its activities may be scrutinized by the public, working openly may seem counter-intuitive and against the best interest of its departments.
 
-However, the Government of Canada has set a clear direction towards becoming an Open Government. Supporting this new direction, Treasury Board Secretariat Canada has put in place Digital Standards, Digital Architecture Standards as well as a Digital Playbook that clearly identify why and how the departments and agencies need to operate openly.
+However, the Government of Canada has set a clear direction towards becoming an Open Government. Supporting this new direction, Treasury Board Secretariat Canada has put in place a Digital Playbook with Digital Standards that clearly identify why and how the departments and agencies need to operate openly.

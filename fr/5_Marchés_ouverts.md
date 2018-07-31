@@ -4,7 +4,6 @@
 
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
-- [Exemples](#exemples)
 
 Dans cette section, nous examinerons l'approche adoptée pour l'acquisition et l'utilisation de normes ouvertes et de logiciels libres.
 

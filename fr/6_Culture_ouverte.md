@@ -128,4 +128,12 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 
 #### Zone de confort
 
+Il est possible que travailler ouvertement puisse pousser certains employés hors de leur zone de confort et conduire à une certaine peur de l'inconnu et des critiques potentiels de cette approche. Pour les employés qui ont travaillé exclusivement dans des groupes fermés, savoir que le code que vous développez peut être accessible pour tout le monde à consulter et à étudier pourrait être très intimidant et stressant.
+
+Afin d'aider ces employés à surmonter leur peur, des communications ouvertes sont nécessaires et un soutien doit être fourni pour les aider à surmonter les obstacles qu'ils peuvent percevoir. Comme toute nouvelle approche de gestion, le temps et la formation peuvent être nécessaires pour aider tout le monde à réussir.
+
 #### Pratiques établies et bureaucracie
+
+Pour une organisation traditionnellement réticente au risque et habituée à opérer dans les limites des processus préétablis, savoir que ses activités peuvent être scrutées par le public, travailler ouvertement peut sembler contre-intuitif et contraire au meilleur intérêt de ses services.
+
+Cependant, le gouvernement du Canada a établi une orientation claire en vue de devenir un gouvernement ouvert. À l'appui de cette nouvelle orientation, le Secrétariat du Conseil du Trésor du Canada a mis en place un guide numérique avec des normes numériques qui indiquent clairement pourquoi et comment les ministères et les organismes doivent fonctionner ouvertement.
