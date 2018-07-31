@@ -11,7 +11,7 @@
 - [Pratiques exemplaires pour l'utilisation des logiciels libres](#pratiques-exemplaires-pour-l-utilisation-des-logiciels-libres)
 - [Publication de logiciels libres](#publication-de-logiciels-libres)
 - [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
-- [Exemples](#exemples)
+- [Guide numérique du GC](#guide-numérique-du-gc)
 
 ### Désambiguïsation
 
@@ -287,31 +287,10 @@ Les critères d'évaluation des LL sont définis ci-dessus dans la section [Éva
 
 Pour tirer le maximum d'avantages économiques et en matière de qualité, il faut utiliser les LL de façon concertée et coordonnée. Le Conseil d'examen de l'architecture intégrée (CEAI) du Secrétariat du Conseil du Trésor (SCT) tiendra à jour une liste des LL préférés en fonction de l'évaluation des solutions par les ministères présents. Cette liste ne doit pas freiner l'innovation ou la mise à l'essai de nouvelles solutions, ce qui peut faciliter l'évolution de la liste. D'un autre côté, elle définit les LL à privilégier et, avec le temps, cernera les LL à abandonner. Elle participe ainsi à la convergence graduelle de l'utilisation des LL et favorise une culture de collaboration entre les ministères et organismes, mais aussi avec les communautés des LL. À ce titre, elle doit être intégrée aux plans stratégiques de gestion de l'information (GI) et de technologie de l'information (TI) des ministères et organismes et prise en compte lors des nouveaux développements, achats, mises à niveau ou migrations.
 
-### Exemples
-
-#### États-Unis
-
-- [Digital Services Playbook](https://playbook.cio.gov/) - Un contrat qui s'assure que les solutions libres sont évaluées lorsque des choix technologiques sont faits et que l'on envisage des solutions de LL à chaque couche de la pile.
-- [Politique sur les logiciels libres 18F](https://github.com/18F/open-source-policy/blob/master/policy.md) - Utilisation de LL dans les projets et contribution en retour à la communauté des LL.
-- [Foire aux questions sur les LL du département de la Défense](http://dodcio.defense.gov/Open-Source-Software-FAQ/) - Ressources éducatives pour les employés et les entrepreneurs du gouvernement afin de comprendre les politiques et les questions juridiques relatives à l'utilisation des LL au sein du département de la Défense.
-- [Mémoire du département de la Défense sur les directives concernant les LL](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) - Il y a eu de mauvaises compréhensions et interprétations des lois, des politiques et des règlements existants qui concernent les logiciels et qui s'appliquent aux LL, qui ont entravé l'utilisation et le développement efficaces des LL au sein du département de la Défense.
-
-#### Royaume-Uni
-
-- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Ouvrir les choses en accordant la même importance aux LL lorsque vous choisissez la technologie - en tenant compte du coût total de la propriété du service, y compris les coûts de sortie et de transition.
-
-#### France
-
-- La France a une liste de LL recommandée sur son site [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/socle-logiciels-libres). Ce site est mis à jour chaque année depuis 2012 et il couvre les LL pour les postes de travail, les serveurs, les bases de données et les environnements de développement.
-
-#### Australie
-
-- [Australian Government Open Source Software Policy](http://www.finance.gov.au/sites/default/files/australian-government-open-source-software-policy-2013.pdf) - Les processus d'approvisionnement doivent tenir compte activement et équitablement de tous les types de logiciels disponibles. Les organismes participeront activement aux activités des communautés de LL et y contribueront au besoin.
-
-#### Canada
-
 Parmi les exemples d'utilisation continue de LL par le gouvernement du Canada (GC), il y a l'infrastructure liée à la météorologie à Environnement Canada, les outils 2.0 du GC mis en oeuvre par le Secrétariat du Conseil du Trésor (SCT) (c.-à-d. GCpédia and GCconnex), le [Portail du gouvernement ouvert](https://ouvert.canada.ca), et plusieurs autres ministères qui contribuent ouvertement au projet libre de Boîte à outils de l'expérience Web sur GitHub. ([source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-fra.html) Ces éléments sont courants, mais peu de mesure sont prises pour les mettre à jour les politiques, la gouvernance, le financement et les processus du GC afin de veiller à ce que les outils libres soient utilisés au bon endroit et au bon moment. De plus, il est nécessaire de veiller à ce que les LL soient appuyés de façon durable et à ce qu'il y ait une politique et une orientation appropriées pour les employés.
 
 Le présent livre blanc vise à évaluer l'utilisation actuelle des programmes, des activités et des outils de LL par le GC. Il vise également à cerner les lacunes actuelles afin de tracer la voie à suivre pour créer un environnement ouvert plus complet.
 
-- [Ressources naturelles Canada – Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295664/cgdi_ip_33_f.pdf)
+### Guide numérique du GC
+
+- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/6-utiliser-normes-solutions-ouvertes.html)

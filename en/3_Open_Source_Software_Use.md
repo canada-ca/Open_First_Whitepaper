@@ -11,7 +11,7 @@
 - [Best Practices for using OSS](#best-practices-for-using-oss)
 - [Contributing to Open Source Software](#contributing-to-open-source-software)
 - [Preferred Open Source Software](#preferred-open-source-software)
-- [Examples](#examples)
+- [GC Digital Playbook](#gc-digital-playbook)
 
 ### Disambiguation
 
@@ -287,31 +287,8 @@ The criteria used for evaluating OSS are defined above in the [Software Evaluati
 
 To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of preferred OSS will be maintained by the Enterprise Architecture Review Board (EARB) at TBS based on solutions assessments departments present. This list is not an obstacle to innovation or testing of new solutions, which can help the evolution of the list. On the other hand it defines OSS to privilege and with time will indicates the OSS to give up. It thus participates in the gradual convergence of OSS use and promotes a culture of collaboration between departments and agencies, but also with OSS communities. As such, it must be integrated into the IM-IT strategic plans of departments and agencies and taken into account during new developments, purchases, upgrades or migrations.
 
-### Examples
-
-#### US
-
-- [Digital Services Playbook](https://playbook.cio.gov/) - Contract ensures open source solutions are evaluated when technology choices are made and consider OSS solutions at every layer of the stack.
-- [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) - Use OSS in our projects and contribute back to the open source community.
-- [DoD Open Source Software FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/) - Educational resource for government employees and government contractors to understand the policies and legal issues relating to the use of OSS in the DoD.
-- [DoD Memorandum on Guidance Regarding Open Source Software](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) - There have been misconceptions and misinterpretations of the existing laws, policies and regulations that deal with software and apply to OSS, that have hampered effective DoD use and development of OSS.
-
-#### UK
-
-- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) - Make things open by giving equal consideration to free or open source software when you choose technology - taking account of the total cost of ownership of the service, including exit and transition costs.
-
-#### France
-
-- France has a list of recommended OSS in it's [Socle interministériel des logiciels libres](http://references.modernisation.gouv.fr/socle-logiciels-libres). It's been updated every year since 2012 and covers OSS for workstations, servers, databases and development environments.
-
-#### Australia
-
-- [Australian Government Open Source Software Policy](http://www.finance.gov.au/sites/default/files/australian-government-open-source-software-policy-2013.pdf) - Procurement processes must actively and fairly consider all types of available software. Agencies will actively participate in OSS communities and contribute back where appropriate.
-
-#### Canada
-
 Examples of the GC’s continuous utilization of open source software (OSS) can be found in Environment Canada’s weather infrastructure, TBS’s Government of Canada 2.0 tools (i.e. GCpedia and GCconnex), the [Open Government Portal](https://open.canada.ca), as well as in multiple departments openly contributing to the Web Experience Toolkit OSS project on GitHub. ([Source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-eng.html)) Although prevalent, there has been little done to update GC policies, governance, funding and processes to ensure that open source tools are being used at the right place and at the right time. Moreover, a need exists to ensure that OSS is supported in a sustainable way and that there is appropriate policy and guidance for employees.
 
-This whitepaper aims to assess the GC’s current use of OSS tools, programs and activities. It also aims to identify current gaps to outline a path forward in creating a more complete open environment.
+### GC Digital Playbook
 
-- [Natural Resources Canada Free and Open Source Software Licensing Primer](http://ftp.maps.canada.ca/pub/nrcan_rncan/publications/ess_sst/295/295663/cgdi_ip_33_e.pdf)
+- [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html)
