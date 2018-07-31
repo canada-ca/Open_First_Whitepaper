@@ -6,8 +6,7 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for Adopting Open Standards](#best-practices-for-adopting-open-standards)
 - [Preferred Open Standards](#preferred-open-standards)
-- [Other open standards in GC](#other-open-standards-in-GC)
-- [UK Open Standards for Government](#uk-open-standards-for-government)
+- [GC Digital Playbook](#gc-digital-playbook)
 
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source software and closed-source software to work together.
 
@@ -43,6 +42,10 @@ The adoption of a cloud-first approach for an organization is therefore a unique
 
 OSS tends to use and help define open standards and publicly available specifications. These products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 
+### Risks and Drawbacks
+
+> add risks
+
 ### Best Practices for Adopting Open Standards
 
 #### Define principles for selecting open standards
@@ -77,34 +80,17 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
-### Other open standards in GC
+#### Other open standards in GC
 
-The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) recommends the following open standards.
-
-#### Text
-
-- [American Standard Code for Information Interchange (ASCII)](https://www.iso.org/standard/4777.html)
-- [Electronic Publication (EPUB) 3.0](http://www.idpf.org/epub/301/spec/epub-publications.html)
-- [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
-- [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
-- [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
-- [UTF-8](https://tools.ietf.org/html/rfc3629)
-- [UTF-16](https://tools.ietf.org/html/rfc2781)
-
-#### Presentation
-
-- [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
-- [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html)
-
-The LAC guidelines also lists recommended formats for email, still images, audio, video, geospatial, computer aided design (CAD) and data sets. France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and the Canadian Heritage `Elements of a Technical Interoperability Framework` report (available on GCpedia) identify a lot of the same open standards as recommended.
+The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) lists recommended formats for texts, presentations, emails, still images, audio, video, geospatial, computer aided design (CAD) and data sets. The Canadian Heritage [Elements of a Technical Interoperability Framework report](https://wiki.gccollab.ca/Elements_of_a_Technical_Interoperability_Framework_for_Canadian_Heritage), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) identify a lot of the same open standards as recommended.
 
 The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) list "Use of Commonly Owned Standards" as a principle, with the intent that datasets released by the Government of Canada be in freely available file formats as often as possible.
 
 Public Services and Procurement Canada (PSPC) has been piloting the [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/) to demonstrate use of the standard by linking the phases of the procurement process using data from procurements conducted by PSPC on behalf of government departments and agencies. ([source](https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot))
 
-### UK open standards for government
+#### UK open standards for government
 
-The UK government is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selected after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
+The [UK Open Standards Board](https://www.gov.uk/government/groups/open-standards-board) is selecting a set of open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services better for users. Open standards are selected after a period of peer review and public comment through the [Standards Hub](https://github.com/alphagov/open-standards). The following are the endorsed [Open standards for government](https://www.gov.uk/government/publications/open-standards-for-government).
 
 - **Viewing government documents**: [HTML5](https://www.w3.org/TR/html5/), [Portable Document Format/Archival (PDF/A) 1](https://www.iso.org/standard/38920.html), [Portable Document Format/Archival (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Sharing or collaborating with government documents**: [Open Document Format (ODF)](https://www.iso.org/standard/66363.html)
@@ -118,3 +104,7 @@ The UK government is selecting a set of open standards for use in government tec
 - **Persistent resolvable identifiers**: [Hypertext Transfer Protocol (HTTP) 1.1](https://tools.ietf.org/html/rfc2616), [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
 - **Exchange of contact information**: [vCard](https://tools.ietf.org/html/rfc6350)
 - **Exchange of calendar events**: [iCalendar](https://tools.ietf.org/html/rfc5545)
+
+### GC Digital Playbook
+
+- [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html)

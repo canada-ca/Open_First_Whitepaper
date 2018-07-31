@@ -3,9 +3,10 @@
 ## Normes ouvertes
 
 - [Avantages](#avantages)
+- [Risques et inconvénients](#risques-et-inconvénients)
+- [Pratiques exemplaires pour l'adoption de normes ouvertes](#pratiques-exemplaires-pour-l-adoption-de-normes-ouvertes)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
-- [Autres normes ouvertes au GC](#autres-normes-ouvertes-au-gc)
-- [Normes ouvertes pour le gouvernement du Royaume Uni](#normes-ouvertes-pour-le-gouvernement-du-royaume-uni)
+- [Guide numérique du GC](#guide-numérique-du-gc)
 
 Les normes ouvertes sont un ensemble de règles conçues pour faire un travail spécifique dans la technologie. Ils sont également conçus en collaboration et libres d'utilisation. Les normes ouvertes permettent aux logiciels libres et aux logiciels exclusifs de fonctionner ensemble.
 
@@ -75,34 +76,17 @@ La [Norme sur l'accessibilité des sites Web du GC](https://www.tbs-sct.gc.ca/po
 
 - [Règles sur l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
-### Autres normes ouvertes au GC
+#### Autres normes ouvertes au GC
 
-Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fichier à utiliser pour transférer des ressources documentaires](http://www.bac-lac.gc.ca/fra/services/gestion-ressources-documentaires-gouvernement/lignes-directrices/Pages/lignes-directrices-formats-fichier-transferers-ressources-documentaires.aspx) recommande les normes ouvertes suivantes.
-
-#### Texte
-
-- [Code standard américain pour l'échange d'information (ASCII)](https://www.iso.org/standard/4777.html)
-- [Publication électronique (EPUB) 3.0](http://www.idpf.org/epub/301/spec/epub-publications.html)
-- [Formats de document ouvert (ODF)](https://www.iso.org/standard/66363.html)
-- [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html)
-- [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
-- [UTF-8](https://tools.ietf.org/html/rfc3629)
-- [UTF-16](https://tools.ietf.org/html/rfc2781)
-
-#### Présentation
-
-- [Format de document ouvert (FDO)](https://www.iso.org/standard/66363.html)
-- [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html)
-
-Les lignes directrices de BAC énumèrent également les formats recommandés pour les courriels, les images fixes, les enregistrements audio, vidéo, géospatiaux, la conception assistée par ordinateur (CAO) et les jeux de données. Le [Référentiel Général d'interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) de la France, le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) du Québec et les « Éléments d'un cadre d'interopérabilité technique » de Patrimoine canadien (disponible à partir de GCpédia) identifient plusieurs des mêmes normes ouvertes recommandées.
+Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fichier à utiliser pour transférer des ressources documentaires](http://www.bac-lac.gc.ca/fra/services/gestion-ressources-documentaires-gouvernement/lignes-directrices/Pages/lignes-directrices-formats-fichier-transferers-ressources-documentaires.aspx) énumèrent les formats recommandés pour les textes, présentations, courriels, images fixes, audio, vidéo, géospatial, la conception assistée par ordinateur (CAO) et les jeux de données. Le rapport de Patrimoine Canadien sur les [Éléments d'un cadre d'interopérabilité technique](https://wiki.gccollab.ca/%C3%89l%C3%A9ments_pour_un_cadre_d%27interop%C3%A9rabilit%C3%A9_technique_pour_Patrimoine_Canadien), le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) du Québec et le [Référentiel Général d'interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) de la France identifient plusieurs des mêmes normes ouvertes recommandées.
 
 [Les principes des données ouvertes du GC](https://ouvert.canada.ca/fr/principes-de-donnees-ouvertes) indique que « l'utilisation de formats communs » est l'un des principes des données ouvertes, de sorte que les jeux de données diffusés par le gouvernement du Canada soient dans des formats de fichier librement accessibles le plus souvent possible.
 
 Services publics et Approvisionnement Canada (SPAC) a mis à l'essai le [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/) afin de démontrer l'utilisation de la norme en établissant des liens entre les phases du processus d'approvisionnement à l'aide des données provenant des approvisionnements effectués par SPAC au nom des ministères et organismes gouvernementaux. ([source](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts)).
 
-### Normes ouvertes pour le gouvernement du Royaume Uni
+#### Normes ouvertes pour le gouvernement du Royaume Uni
 
-Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera utilisé dans la technologie gouvernementale. L'objectif est de les appliquer uniformément à l'ensemble des organismes gouvernementaux, afin d'améliorer les services aux utilisateurs. Les normes ouvertes sont sélectionnées après une période d'examen par les pairs et de commentaires du public par l'entremise du [Centre des normes](https://github.com/alphagov/open-standards). Voir les normes approuvées suivantes : [Normes ouvertes pour le gouvernement](https://www.gov.uk/government/publications/open-standards-for-government).
+Le [Conseil des normes ouvertes du Royaume-Uni](https://www.gov.uk/government/groups/open-standards-board) sélectionne un ensemble de normes ouvertes pour être utilisé dans la technologie gouvernementale. L'objectif est de les appliquer uniformément à l'ensemble des organismes gouvernementaux, afin d'améliorer les services aux utilisateurs. Les normes ouvertes sont sélectionnées après une période d'examen par les pairs et de commentaires du public par l'entremise du [Centre des normes](https://github.com/alphagov/open-standards). Ce qui suit sont les [Normes ouvertes pour le gouvernement](https://www.gov.uk/government/publications/open-standards-for-government) approuvées.
 
 - **Consulter les documents gouvernementaux** : [HTML5](https://w3.org/TR/html5/) [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html) [Format/archivage de documents portables (PDF/A) 2](https://www.iso.org/standard/50655.html)
 - **Partage ou collaboration en lien avec des documents gouvernementaux** : [Format de document ouvert (FDO)](https://www.iso.org/standard/66363.html)
@@ -116,3 +100,7 @@ Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera
 - **Identificateurs persistants et résolubles** : [Protocole de transfert hypertexte (HTTP) 1.1](https://tools.ietf.org/html/rfc2616), [Identificateur uniforme des ressources (URI)](https://tools.ietf.org/html/rfc3986)
 - **Échange de coordonnées** : [vCard](https://tools.ietf.org/html/rfc6350)
 - **Échange d'événements du calendrier** : [iCalendar](https://tools.ietf.org/html/rfc5545)
+
+### Guide numérique du GC
+
+- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/6-utiliser-normes-solutions-ouvertes.html)
