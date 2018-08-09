@@ -237,12 +237,11 @@ Thus, although a direct comparison between all potential solutions – both OSS 
 
 #### Support
 
-Vetting and implementing an OSS Solution is generally the easy part. It is the maintenance and support of critical OSS infrastructure that becomes the real challenge. The risk of running software that comes without warranty or maintainer liability is significant. With OSS there are an array of support models to choose from, and the right choice is going to vary depending on our business needs. These options are not mutually exclusive, and we may find, for instance, that our business is best served by utilizing various degrees of each of the options below. Whatever our needs, the best way to squeeze the most benefit out of OSS while mitigating risk is to ensure our business adopts a strong, strategic model for support, and we utilize it to the most optimal degree possible. ([source]())
+Vetting and implementing an OSS Solution is generally the easy part. It is the maintenance and support of critical OSS infrastructure that becomes the real challenge. The risk of running software that comes without warranty or maintainer liability is significant. With OSS there are an array of support models to choose from, and the right choice is going to vary depending on our business needs. These options are not mutually exclusive, and we may find, for instance, that our business is best served by utilizing various degrees of each of the options below. Whatever our needs, the best way to squeeze the most benefit out of OSS while mitigating risk is to ensure our business adopts a strong, strategic model for support, and we utilize it to the most optimal degree possible.
 
-Approach:
-• Develop a support plan as part of the product adoption process
-• Determine skills and requirements for the support based on Organization skill/resources, OSS component characteristics and the overall application characteristics.
-• Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches. 
+- Develop a support plan as part of the product adoption process
+- Determine skills and requirements for the support based on Organization skill/resources, OSS component characteristics and the overall application characteristics.
+- Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches. 
 
 ##### Self-support
 
@@ -259,7 +258,8 @@ The benefits of relying on our internal IT teams and staff to support OSS that w
   - Interacting with communities to request features and report bugs
   - Shepherding product knowledge to stakeholders
 
-Owning an open source implementation could be met with immediate challenges such as”
+Owning an open source implementation could be met with immediate challenges such as
+
 - Viable only if we have sufficient in house expertise
 - Poor documentation
 - Slow response from communities
