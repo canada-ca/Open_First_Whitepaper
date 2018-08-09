@@ -283,11 +283,11 @@ See [Open Source Code](4_Open_Source_Software_Contribution.md).
 
 ### Preferred Open Source Software
 
-The criteria used for evaluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. Preferred OSS must also support the use of [Open Standards](2_Open_Standards.md).
+The criteria used for evaluating OSS are defined above in the [Software Evaluation and Procurement](#software-evaluation-and-procurement) section. OSS must also support the use of [Open Standards](2_Open_Standards.md).
 
-To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of preferred OSS will be maintained by the Enterprise Architecture Review Board (EARB) at TBS based on solutions assessments departments present. This list is not an obstacle to innovation or testing of new solutions, which can help the evolution of the list. On the other hand it defines OSS to privilege and with time will indicates the OSS to give up. It thus participates in the gradual convergence of OSS use and promotes a culture of collaboration between departments and agencies, but also with OSS communities. As such, it must be integrated into the IM-IT strategic plans of departments and agencies and taken into account during new developments, purchases, upgrades or migrations.
+To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of OSS currently used by the GC will be maintained by the Enterprise Architecture Review Board (EARB) and Open Government team at TBS based on self identification, the application portfolio management (APM) and solutions assessments presented by departments.
 
-Examples of the GC’s continuous utilization of open source software (OSS) can be found in Environment Canada’s weather infrastructure, TBS’s Government of Canada 2.0 tools (i.e. GCpedia and GCconnex), the [Open Government Portal](https://open.canada.ca), as well as in multiple departments openly contributing to the Web Experience Toolkit OSS project on GitHub. ([Source](http://www.ssc-spc.gc.ca/pages/itir-triti/itir-triti-afac-271115-pres1-eng.html)) Although prevalent, there has been little done to update GC policies, governance, funding and processes to ensure that open source tools are being used at the right place and at the right time. Moreover, a need exists to ensure that OSS is supported in a sustainable way and that there is appropriate policy and guidance for employees.
+The list of OSS used is currently available on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
 ### GC Digital Playbook
 
