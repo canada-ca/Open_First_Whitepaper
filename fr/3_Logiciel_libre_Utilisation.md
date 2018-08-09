@@ -235,7 +235,11 @@ En plus de cette difficulté, les processus établis d'acquisition de logiciels 
 
 Par conséquent, bien qu'une comparaison directe entre toutes les solutions possibles – libres et exclusives – soit une pratique utile, il peut également être nécessaire pour les entreprises et les organisations de revoir les procédures et processus existants afin de veiller à ce qu'ils tiennent compte adéquatement des deux catégories de logiciels.
 
-#### Formation et soutien
+#### Soutien
+
+... Ajouter traduction..
+
+#### Formation
 
 Selon le contexte, il est prudent d'affecter des ressources appropriées à la formation et à l'aide aux LL. Même si cela n'est peut-être pas nécessaire lorsqu'il s'agit simplement d'installer un nouveau LL sur un serveur (où seul le personnel compétent est susceptible d'interagir avec lui), cet élément est particulièrement important quand il est question des logiciels de bureautique libres. Souvent, les utilisateurs sont plus habitués aux logiciels exclusifs, populaires depuis longtemps, et ils connaissent peut-être peu les LL. Les organisations qui ont opté pour les applications de bureau libres ont tiré plusieurs leçons utiles et pratiques exemplaires de leur décision. ([source](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088)
 
@@ -254,10 +258,6 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 ##### Formation
 
 - Offre une formation adéquate et se concentrer sur les fonctionnalités générales quotidiennes des logiciels.
-
-##### Soutien
-
-- Donner accès à plusieurs types de soutien, comme les foires aux questions (FAQ) et les guides, l'accès au soutien par téléphone et par courriel, et l'accès à une personne-ressource.
 
 ##### Fonctionnalité
 

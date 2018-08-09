@@ -235,7 +235,63 @@ Compounding this difficulty, established software procurement and service tender
 
 Thus, although a direct comparison between all potential solutions – both OSS and closed-source – is a helpful practice, it may also be necessary for businesses and organizations to revisit existing processes and procedures in order to ensure that these adequately envision both categories of software.
 
-#### Training and Support
+#### Support
+
+Vetting and implementing an OSS Solution is generally the easy part. It is the maintenance and support of critical OSS infrastructure that becomes the real challenge. The risk of running software that comes without warranty or maintainer liability is significant. With OSS there are an array of support models to choose from, and the right choice is going to vary depending on our business needs. These options are not mutually exclusive, and we may find, for instance, that our business is best served by utilizing various degrees of each of the options below. Whatever our needs, the best way to squeeze the most benefit out of OSS while mitigating risk is to ensure our business adopts a strong, strategic model for support, and we utilize it to the most optimal degree possible. ([source]())
+
+Approach:
+• Develop a support plan as part of the product adoption process
+• Determine skills and requirements for the support based on Organization skill/resources, OSS component characteristics and the overall application characteristics.
+• Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches. 
+
+##### Self-support
+
+The benefits of relying on our internal IT teams and staff to support OSS that we deploy are:
+
+- We have the source code, we are in control
+- leverage our existing resources,
+- option to hire specialists to maintain the products internally.
+- When necessary, we can find educational material and training to sharpen our skills,
+- designate code owners to be responsible for the various open source code that has been implemented. These owners would be responsible for:
+  - Keeping ahead of new updates and functionality
+  - Being vigilant and proactive about security notifications
+  - Vetting software internally against business processes to ensure relevance
+  - Interacting with communities to request features and report bugs
+  - Shepherding product knowledge to stakeholders
+
+Owning an open source implementation could be met with immediate challenges such as”
+- Viable only if we have sufficient in house expertise
+- Poor documentation
+- Slow response from communities
+- Lack of POCs relevant to your domain
+
+So, despite the benefits on paper for self-support, this model is typically not enough to get the reliability we expect out of our critical systems.
+
+###### GC Community
+
+The GC Community initially will offer the same type of support as that described for the global community support below. The difference is that with this community there is potential to introduce other tiers of support - for example if a product was developed using OSS by a peer department an MOU could be put in place where 2nd or 3rd line support could be provided by the peer department or their SME could be made available to our department as a temporary resource, and vise versa should we be the owners/SME’s of a specific OSS solution. The GC community introduces many possibilities around support, collaborative development code sharing and reuse, which we must explore further and discuss with the broader GC.
+
+###### Global Community
+
+Support from the community provides the advantage of staying with the original software distribution. This is not a direct support approach. This is a research approach where one would seek help and advice by posting questions and describing the situation online and engaging a community of developers and users of the same OSS product or project.
+
+Engagement sources: Project sites, repositories (i.e. GitHub), mailing lists, forums, bug trackers, FAQs, conferences consortia meetings community get-togethers
+
+##### Vendor
+
+The majority of major open source software packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distrobutions.
+
+Engaging third parties for source code level support may lead to branching from the software distribution of the mainline community/vendor. To maintain the branched version of the software requires additional effort, technical expertise and resources. Therefore, it is prudent to use community supported version. There are companies who provide "enterprise" editions of the community software that they maintain, and those editions often come with options for SLA-based support and training. There's also organizations who can help us build the support infrastructure we need internally, or even provide that support team for us. Though these options aren't free, it's worth mentioning that numerous studies have confirmed the financial benefits of OSS in a business setting, even with paid support. OSS plus paid support does not exceed the price of paid software plus paid support. It's just simple math. When juxtaposed to the license costs associated with supporting a sophisticated commercial infrastructure, or the hiring costs associated with building and maintaining an internal support team, the ROI is generally substantial.
+
+Since the source code for open source software is freely available by definition, this means we don't have to restrict ourselves to choosing between the support offerings of companies that supply support contracts. We can be proactive and put your exact support requirements out to tender. By selecting the right commercial provider as an architectural partner in our development endeavors surrounding open source, we can obtain both the freedom and flexibility gained from adopting free software, and the peace of mind that comes with commercial-grade enterprise support. The major motivation for adopting OSS is to have multiple choices for the software solutions and more competition amongst service providers but without any lock-in or loss of intellectual property (IP). If any support model creates the lock-in or loss of IP under the name of OSS, the main purpose for opting OSS is nullified.
+
+##### Mixing Support models
+
+By combining models, we can leverage the best from each of them where the commercial support compliments the internal and community(ies) support.
+
+The mix of models will evolve over time where an organization will typically start with internal support and develop some internal skills then due to demand the number of 3rd party support contracts will increase on an as needed basis usually for the more critical resource intensive applications.
+
+#### Training
 
 Depending on the context, it is prudent to allocate appropriate resources for training and assistance with OSS. Although this may not be necessary when merely installing new OSS on a server (where only knowledgeable staff are likely to interact with it), it is particularly important when migrating over to OSS desktop software. Often, users are more accustomed to traditionally-popular closed-source software packages, and may have little familiarity with OSS. Organizations which have made the switch to OSS desktop applications identify several helpful lessons learned and best practices. ([source](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088))
 
@@ -254,10 +310,6 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 ##### Training
 
 - Provide proper training and focus on the general everyday functionalities of the software.
-
-##### Support
-
-- Provide access to several kinds of support, such as FAQs and guides, access to telephone and email support, and access to a contact person.
 
 ##### Functionality
 
