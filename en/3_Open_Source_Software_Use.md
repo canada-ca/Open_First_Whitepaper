@@ -241,7 +241,7 @@ Vetting and implementing an OSS Solution is generally the easy part. It is the m
 
 - Develop a support plan as part of the product adoption process
 - Determine skills and requirements for the support based on Organization skill/resources, OSS component characteristics and the overall application characteristics.
-- Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches. 
+- Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches.
 
 ##### Self-support
 
@@ -263,13 +263,13 @@ Owning an open source implementation could be met with immediate challenges such
 - Viable only if we have sufficient in house expertise
 - Poor documentation
 - Slow response from communities
-- Lack of POCs relevant to your domain
+- Lack of proof of concepts relevant to your domain
 
 So, despite the benefits on paper for self-support, this model is typically not enough to get the reliability we expect out of our critical systems.
 
 ###### GC Community
 
-The GC Community initially will offer the same type of support as that described for the global community support below. The difference is that with this community there is potential to introduce other tiers of support - for example if a product was developed using OSS by a peer department an MOU could be put in place where 2nd or 3rd line support could be provided by the peer department or their SME could be made available to our department as a temporary resource, and vise versa should we be the owners/SME’s of a specific OSS solution. The GC community introduces many possibilities around support, collaborative development code sharing and reuse, which we must explore further and discuss with the broader GC.
+The GC Community initially will offer the same type of support as that described for the global community support below. The difference is that with this community there is potential to introduce other tiers of support - for example if a product was developed using OSS by a peer department an MOU could be put in place where 2nd or 3rd line support could be provided by the peer department or their SME could be made available to our department as a temporary resource, and vise versa should we be the owners of a specific OSS solution. The GC community introduces many possibilities around support, collaborative development code sharing and reuse, which we must explore further and discuss with the broader GC.
 
 ###### Global Community
 
@@ -279,7 +279,7 @@ Engagement sources: Project sites, repositories (i.e. GitHub), mailing lists, fo
 
 ##### Vendor
 
-The majority of major open source software packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distrobutions.
+The majority of major open source software packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distributions.
 
 Engaging third parties for source code level support may lead to branching from the software distribution of the mainline community/vendor. To maintain the branched version of the software requires additional effort, technical expertise and resources. Therefore, it is prudent to use community supported version. There are companies who provide "enterprise" editions of the community software that they maintain, and those editions often come with options for SLA-based support and training. There's also organizations who can help us build the support infrastructure we need internally, or even provide that support team for us. Though these options aren't free, it's worth mentioning that numerous studies have confirmed the financial benefits of OSS in a business setting, even with paid support. OSS plus paid support does not exceed the price of paid software plus paid support. It's just simple math. When juxtaposed to the license costs associated with supporting a sophisticated commercial infrastructure, or the hiring costs associated with building and maintaining an internal support team, the ROI is generally substantial.
 
