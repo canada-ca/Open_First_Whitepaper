@@ -14,7 +14,7 @@ Open standards are a set of rules designed to do a specific job in technology. T
 
 #### Interoperability
 
-For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, synchronous or ashynchronuous, through the availability of open data.
+For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, synchronous or asynchronous, through the availability of open data.
 
 ##### Independence and substitutability
 
