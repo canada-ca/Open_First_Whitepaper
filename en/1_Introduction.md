@@ -1,7 +1,5 @@
 [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Standards »](2_Open_Standards.md)
 
-> A new Introduction structure is being proposed to best fit the Treasury Board Secretariat [business case guide](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/business-case-guide.html).
-
 # Introduction
 
 The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribution.md) to Open Source Software. This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
@@ -38,8 +36,6 @@ In recent years, the Government of Canada has taken multiple steps towards being
 
 #### Technology and Efficiency
 
-> Interoperability, increase speed of development and technological environment, lifetime expectancy of solution, modularity, reuse of similar solutions, industry investing in open source, new disrupting technologies (blockchain, artificial intelligence)
-
 Leveraging technologies that are built on open standards mitigate against the risk of lock-in and offers the interoperability, independence and substitutability required to design enterprise level applications and services. OSS by default encourages the use of open standards and their inherent flexibility enables rapid response to changing missions and markets as well as swift provisioning of both known and unanticipated users.
 
 Using open source software means you can benefit from solving common problems with readily available open source technology and you have more time and resource for customized solutions to solve the rare or unique problems. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and encourages the identification and elimination of defects not recognized by the original development team. For the public sector, like all organizations, cost is important, but other public benefits can also motivate public sector use of OSS.
@@ -65,8 +61,6 @@ Releasing an in-house software code under an OSS licence can encourage external 
 ### Business Outcomes
 
 ## Strategic Fit
-
-> notes: Interoperability, flexibility, modularity, etc.
 
 The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the [use of OSS](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html) since, by their nature, they are publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html) by making source code open and reusable under an appropriate open source software licence, so that other developers can benefit from your work and build on it.
 
