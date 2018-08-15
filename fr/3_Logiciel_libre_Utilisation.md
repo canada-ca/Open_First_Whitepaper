@@ -155,6 +155,7 @@ L'ouverture des projets de LL et la disponibilité du code source permettent aux
 - interagir facilement avec la communauté (développeurs, utilisateurs) pour poser des questions, suggérer des améliorations et signaler les bogues;
 - trouver rapidement de l'information pertinente par de nombreux canaux ouverts (p. ex., documentation, wiki, forum, système de suivi des bogues) et l'améliorer au besoin;
 - influencer la feuille de route du projet.
+- étant donnée une communauté suffisamment large autour d'un logiciel libre, la solution finale désirée pourrait déjà exister en tant que paquet prêt pour la mise en production, ce qui réduirait le besoin en développement, soutien et révision de sécurité nécessaire avant le déploiement.
 
 #### Compétences en matière de technologie de l'information (TI) et satisfaction au travail
 

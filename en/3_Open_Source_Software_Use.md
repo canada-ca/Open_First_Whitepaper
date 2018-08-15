@@ -155,6 +155,7 @@ OSS project openness and availability of source code allows IT professionals to 
 - Easily interact with the community (developers, users) to ask questions, suggest enhancements and report bugs;
 - Quickly find relevant information through many open channels (e.g. documentation, wiki, forum, bug tracking system) and improve it as required; and
 - Influence the roadmap of the project.
+- Given a large enough OSS community, the desired end-state solution may already exist as a production ready package which would thus reduce the amount of development, support, security review that needs to be done before deployment.
 
 #### IT Talent and Job Satisfaction
 
