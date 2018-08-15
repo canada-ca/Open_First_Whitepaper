@@ -50,7 +50,7 @@ OSS tends to use and help define open standards and publicly available specifica
 
 #### Standards Proliferation
 
-Standards are created to answer specific needs and the proliferation of competing standards may increase the required time spent selecting the right one to reduce the issues in the long term management of data, information and applications. Co-creation of standards may take time and the emergence of new ones when an agreement can not be reached amongst stakeholders may increase the risk of settling for a given choice (for example VHS vs Betamax, Blu-ray vs HD-DVD) as the broader market may take a different direction.
+Standards are created to answer specific needs and the proliferation of competing standards may increase the required time spent selecting the right one to reduce the issues in the long term management of data, information and applications. Co-creation of standards may take time and the emergence of new ones when an agreement can not be reached amongst stakeholders may increase the risk of settling for a given choice as the broader market may take a different direction.
 
 ### Best Practices for Adopting Open Standards
 
