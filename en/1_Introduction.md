@@ -121,7 +121,7 @@ Each concept will have the following structure.
 - Risks and Drawbacks
 - Best Practices
 
-The following concepts are not part of the whitepaper as they have their own dedicated teams. Their importance is nonetheless recognized as critical to a more open and transparent government of Canada.
+The following concepts are not part of the whitepaper as they have their own dedicated teams. Their importance is nonetheless recognized as critical to an open and transparent government of Canada.
 
 - The broader Open Government initiatives:
   - Open Government Partnership
