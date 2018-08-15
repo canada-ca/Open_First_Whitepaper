@@ -106,6 +106,29 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 
 ### Boundaries
 
+This whitepaper has for scope the following elements.
+
+- Open Standards
+- Open Source Software Use
+- Open Source Software Contribution
+- Open Markets
+- Open Culture
+- Common Legal Considerations
+
+Each concept will have the following structure.
+
+- Benefits
+- Risks and Drawbacks
+- Best Practices
+
+The following concepts are not part of the whitepaper as they have their own dedicated teams. Their importance is nonetheless recognized as critical to an open and transparent government of Canada.
+
+- The broader Open Government initiatives:
+  - Open Government Partnership
+  - Open Data
+  - Open Information
+  - Open Science
+
 ### Stakeholder Analysis
 
 - Public administration:
