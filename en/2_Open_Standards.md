@@ -14,13 +14,13 @@ Open standards are a set of rules designed to do a specific job in technology. T
 
 #### Interoperability
 
-For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, through the availability of open data.
+For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, synchronously or ashynchronuously, through the availability of open data.
 
 ##### Independence and substitutability
 
 From an internal perspective, interoperability is closely linked to the issue of enterprise architecture, in that it allows its various components to be decoupled while remaining integrated. Thus, the [Quebec government's common interoperability framework](http://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/) (CCIGQ) is linked to the Cadre de référence de l'architecture d'entreprise gouvernementale (government enterprise architecture reference framework); and version 2 of France's [Référentiel général d'interopérabilité](http://references.modernisation.gouv.fr/interoperabilite) (General Guidelines for Interoperability) refers back to the [Cadre Commun d'Urbanisation du Système d'Information de l'État](http://references.modernisation.gouv.fr/sites/default/files/Cadre%20Commun%20d%27Urbanisation%20du%20SI%20de%20l%27Etat%20v1.0_0.pdf) (common enterprise architecture framework for the State information system).
 
-In the context of enterprise architecture fully under your control, one option is to ensure the components have clear integration patterns, either via the products directly or by using a family of products generally offered by a single vendor. This approach can have functional advantages (generally in terms of a smooth integration between products), but it has the disadvantage of tying internal information technologies to an external system or a particular vendor. This connection can become both a technical handicap (by ruling out the possibility of adopting new, more relevant solutions) and an economic handicap (by decreasing opportunities to negotiate and by increasing switching costs). In an ideal interoperability scenario, however, the building blocks are substitutable: each one can be changed more easily and independently. This approach strengthens the freedom of choice and makes enterprise architecture more flexible, because each building block can be replaced by another with the same functionality without impacting the rest of the systems.
+In the context of enterprise architecture fully under the organization's control, one option is to ensure the components have clear integration patterns, either via the products directly or by using a family of products generally offered by a single vendor. This approach can have functional advantages (generally in terms of a smooth integration between products), but it has the disadvantage of tying internal information technologies to an external system or a particular vendor. This connection can become both a technical handicap (by ruling out the possibility of adopting new, more relevant solutions) and an economic handicap (by decreasing opportunities to negotiate and by increasing switching costs). In an ideal interoperability scenario, however, the building blocks are substitutable: each one can be changed more easily and independently. This approach strengthens the freedom of choice and makes enterprise architecture more flexible, because each building block can be replaced by another with the same functionality without impacting the rest of the systems.
 
 ##### Application adherence - Vendor lock-in
 
@@ -48,7 +48,9 @@ OSS tends to use and help define open standards and publicly available specifica
 
 ### Risks and Drawbacks
 
-> add risks
+#### Standards Proliferation
+
+Standards are created to answer specific needs and the proliferation of competing standards may increase the required time spent selecting the right one to reduce the issues in the long term management of data, information and applications. Co-creation of standards may take time and the emergence of new ones when an agreement can not be reached amongst stakeholders may increase the risk of settling for a given choice (for example VHS vs Betamax, Blu-ray vs HD-DVD) as the broader market may take a different direction.
 
 ### Best Practices for Adopting Open Standards
 
