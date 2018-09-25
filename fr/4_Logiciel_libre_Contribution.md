@@ -196,4 +196,4 @@ Les logiciels ouverts rassemblent souvent une communauté disparate de développ
 
 ### Guide numérique du GC
 
-- [Travailler ouvertement par défaut](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/5-travailler-ouvertement-par-defaut.html)
+- [Travailler ouvertement par défaut](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/3-travailler-ouvertement-par-defaut.html)

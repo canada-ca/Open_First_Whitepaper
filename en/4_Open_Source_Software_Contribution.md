@@ -199,4 +199,4 @@ Open source software often brings together a disparate community of developers, 
 
 ### GC Digital Playbook
 
-- [Work in the open by default](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/5-work-in-open-by-default.html)
+- [Work in the open by default](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/3-work-in-open-by-default.html)

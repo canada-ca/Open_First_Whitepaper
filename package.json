@@ -21,8 +21,8 @@
   "homepage": "https://github.com/canada-ca/Open_First_Whitepaper#readme",
   "devDependencies": {
     "cspell": "^3.1.3",
-    "markdown-link-check": "^3.6.2",
-    "markdownlint-cli": "^0.10.0"
+    "markdown-link-check": "^3.7.2",
+    "markdownlint-cli": "^0.13.0"
   },
   "dependencies": {}
 }

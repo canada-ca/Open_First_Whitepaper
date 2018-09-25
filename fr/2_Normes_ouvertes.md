@@ -107,4 +107,4 @@ Le [Conseil des normes ouvertes du Royaume-Uni](https://www.gov.uk/government/gr
 
 ### Guide numérique du GC
 
-- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/6-utiliser-normes-solutions-ouvertes.html)
+- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/4-utiliser-normes-solutions-ouvertes.html)

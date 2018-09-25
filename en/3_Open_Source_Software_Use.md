@@ -344,4 +344,4 @@ The list of OSS used is currently available on the [Open Resource Exchange](http
 
 ### GC Digital Playbook
 
-- [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-use-open-standards-solutions.html)
+- [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html)
