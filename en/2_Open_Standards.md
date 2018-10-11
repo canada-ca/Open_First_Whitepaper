@@ -22,7 +22,7 @@ From an internal perspective, interoperability is closely linked to the issue of
 
 In the context of enterprise architecture fully under the organization's control, one option is to ensure the components have clear integration patterns, either via the products directly or by using a family of products generally offered by a single vendor. This approach can have functional advantages (generally in terms of a smooth integration between products), but it has the disadvantage of tying internal information technologies to an external system or a particular vendor. This connection can become both a technical handicap (by ruling out the possibility of adopting new, more relevant solutions) and an economic handicap (by decreasing opportunities to negotiate and by increasing switching costs). In an ideal interoperability scenario, however, the building blocks are substitutable: each one can be changed more easily and independently. This approach strengthens the freedom of choice and makes enterprise architecture more flexible, because each building block can be replaced by another with the same functionality without impacting the rest of the systems.
 
-##### Application adherence - Vendor lock-in
+##### Application adherence - Lock-in
 
 Internally, interoperability can be viewed in two dimensions: the horizontal dimension (between two separate applications), which by nature is the dimension at play when two different systems interact; and the vertical dimension, which concerns the components of a single application. This is typically the case between the application itself and the underlying infrastructure components (for example, an application may require a specific database that, itself, works only on a particular operating system, without any functionalities coming into play). This is where application adherence factors in, falling outside the scope of interoperability but nevertheless sharing a number of fundamental principles with it.
 
@@ -50,7 +50,7 @@ OSS tends to use and help define open standards and publicly available specifica
 
 #### Standards Proliferation
 
-Standards are created to answer specific needs and the proliferation of competing standards may increase the required time spent selecting the right one to reduce the issues in the long term management of data, information and applications. Co-creation of standards may take time and the emergence of new ones when an agreement can not be reached amongst stakeholders may increase the risk of settling for a given choice as the broader market may take a different direction.
+Standards are created to answer specific needs and the proliferation of competing standards may increase the required time spent selecting the right one to reduce the issues in the long term management of data, information and applications. Co-creation of standards may take time and the emergence of new ones when an agreement can not be reached amongst stakeholders may increase the risk of settling for an other standard as the broader market may take a different direction.
 
 ### Best Practices for Adopting Open Standards
 
