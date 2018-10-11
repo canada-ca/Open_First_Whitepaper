@@ -111,7 +111,6 @@ Bien qu'une licence de LL puisse accorder une licence de brevet plus étendue qu
 
 Par conséquent, à titre de pratique exemplaire, vous devez, chaque fois que vous modifiez un LL, déterminer si les modifications visent l'utilisation du logiciel d'une manière qui pourrait impliquer d'autres licences de brevet ou faisant en sorte que les licences de brevet existantes ne couvrent pas la nouvelle utilisation.
 
-
 #### Clauses de résiliation de brevet et de représailles
 
 De nombreuses licences de LL tentent de protéger le logiciel contre les poursuites pour contrefaçon de brevet en incluant des clauses de résiliation automatique. Ces clauses s'appliquent chaque fois qu'un titulaire de licence allègue qu'une partie du logiciel viole son brevet. Par exemple, la [licence Apache version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) énonce succinctement ce qui suit :
