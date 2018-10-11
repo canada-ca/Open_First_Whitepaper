@@ -5,25 +5,6 @@
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 
-Dans cette section, nous examinerons l'approche adoptée pour l'acquisition et l'utilisation de normes ouvertes et de logiciels libres.
-
-Les deux composantes des marchés ouverts que nous examinerons dans cette section sont les suivantes :
-
-1. Acquisition d'outils libres
-2. Changements procéduraux des pratiques d'approvisionnement actuelles
-
-Équitable et transparent - Nous œuvrons à rendre l'approvisionnement plus équitable et transparent afin de respecter le principe D5 des marchés ouverts suivant :
-
-- Créer une véritable concurrence pour les entreprises, peu importe leur taille.
-- Encourager et étayer une culture de démarrage.
-- Favoriser la croissance économique par l'ouverture des marchés.
-
-Agile et axé sur les défis - Nous y parvenons en toute souplesse au moyen d'un nouveau processus d'approvisionnement ouvert, de courts défis et de projets itératifs, comme le portail pilote ouvert par défaut
-
-Payer pour ouvrir - Le terme « ouvert » est souvent interprété à tort comme signifiant « gratuit ». Bien que l'un des principaux principes de l'ouverture soit la gratuité des ressources, peu importe qu'il s'agisse de données ou de code source, la fourniture de données ou l'élaboration d'outils libres s'accompagne quand même d'un coût. Par conséquent, le gouvernement du Canada (GC) doit élaborer une approche pour jouer un rôle actif et équitable la collectivité des outils libres.
-
-Il est dans l'intérêt du GC d'encourager l'adoption plus facile d'outils accessibles, sûrs et multilingues pour satisfaire aux besoins des Canadiens. Le GC travaillera énergiquement à l'appui d'un écosystème regroupant des entreprises, des organismes sans but lucratif et des organismes gouvernementaux qui concourront à la croissance de l'innovation ouverte dans nos collectivités.
-
 ### Avantages
 
 #### Impact économique
