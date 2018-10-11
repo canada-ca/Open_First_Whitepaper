@@ -24,37 +24,8 @@ En février 2018, [Le Canada se joint aux autres nations chefs de file de l’è
 
 En mai 2018, le SCT à signé le [Protocole d’entente entre le Secrétariat du Conseil du Trésor du Canada et le ministère des Affaires économiques et des Communications de la République d’Estonie sur la coopération en gouvernement numérique et en économie](https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/protocole-dentente-can-estonie-gouvernement-numerique-economie.html) avec l'Estonie, un membre du D7 de l'OGP.
 
-### Besoin opérationnel
+### Besoin d'affaires
 
-Les agences et départements du Gouvernement du Canada doivent trouver des moyens d'être plus efficients dans leur offres de services aux citoyens. Ceci implique de réduire les investissements redondants en technologie, de fournir une expérience utilisateur améliorée et d'éviter le menottage contractuel.
+Les ministères et agences du gouvernement du Canada doivent trouver des moyens efficaces d'offrir les meilleurs services numériques possibles aux citoyens et aux utilisateurs. Cela implique de travailler ouvertement par défaut, en publiant toutes les données, informations et codes sources non sensibles sous une licence ouverte permettant le partage et la réutilisation. Il faut améliorer l'interopérabilité entre les systèmes; une plus grande indépendance des formats de données, des logiciels, des technologies et des fournisseurs; la substituabilité des solutions et des fournisseurs de services et; éviter l'enfermement pour permettre une plus grande flexibilité dans la gestion des solutions informatiques. Le GC doit également attirer du talents numériques et augmenter la satisfaction au travail en adoptant des pratiques de pointe et les technologies les plus récentes. Enfin, le GC doit offrir des avantages publics au grand public et soutenir l'économie et les collectivités canadiennes.
 
-Autrement dit, le besoin opérationnel implique :
-
-- Une interopérabilité accrue entre les données et systèmes des agences et départements du Gouvernement du Canada lorsqu'un système peut être identifié comme source de vérité unique.
-- Un respect des principes d'expérience utilisateur dans la conception des solutions aux citoyens, et ce dans un environnement ou le développement continue et l'amélioration continue sont rapides et flexibles.
-- Des solutions accessibles pour tous afin que tous les Canadiens puissent recevoir des services équitables.
-- Une culture de gouvernance des données personnelles, de sécurité et de collaboration ouverte par défaut pour que tous les Canadiens puissent avoir confiance en l'exactitude des données qu'ils accèdent ainsi qu'à la sécurité de leur données.
-
-### Facteurs de changement
-
-### Résultats opérationnels
-
-## Concordance stratégique
-
-## Description détaillée du besoin opérationnel
-
-### Énoncé du problème/de la possibilité
-
-### Exigences prioritaires (de haut niveau)
-
-### Hypothèses
-
-### Contraintes
-
-### Dépendances
-
-## Portée
-
-### Limites
-
-### Analyse des intervenants
+** Traduction!
