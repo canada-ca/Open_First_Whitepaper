@@ -2,6 +2,7 @@
 
 ## Logiciel libre - Contribution
 
+- [Contribution](#contribution)
 - [Diffusion de logiciels libres](#diffusion-de-logiciels-libres)
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Avantages](#avantages)
@@ -26,6 +27,8 @@ Les développeurs qui contribuent aux LL et les distribuent proviennent d'enviro
 #### Droit d'auteur
 
 La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du gouvernement du Canada pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au gouvernement du Canada.
+
+De plus, certains projets OSS exigent que les contributeurs attribuent la propriété de leur contribution au projet, en utilisant des accords de cession de droits d'auteur. Afin qu'un employé du gouvernement du Canada puisse contribuer au code pour de tels projets, une analyse plus poussée sera nécessaire.
 
 ### Avantages
 
