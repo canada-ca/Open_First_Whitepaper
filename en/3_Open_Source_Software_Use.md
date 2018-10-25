@@ -58,7 +58,7 @@ The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lis
 
 Especially on the internet, OSS has long been a cornerstone of server software. OSS web server software such as Apache and Nginx run more than 65% of the active sites on the internet according to [Netcraft February 2017 Web Server Survey](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). The OSS database server MySQL and MariaDB is widely popular, and the OSS-licensed TomCat software captures a majority of the Java application servers market. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
-Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada website at [Canada.ca](https://www.canada.gc.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
+Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada website at [Canada.ca](https://www.canada.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
 
 #### Desktop Productivity Software
 
