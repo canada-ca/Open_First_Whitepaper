@@ -1,4 +1,4 @@
-[« Page précédente : Marchés ouverts](5_Marchés_ouverts.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Prochaines étapes »](7_Prochaines_étapes.md)
+[<- Page précédente : Marchés ouverts](5_Marchés_ouverts.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Prochaines étapes ->](7_Prochaines_étapes.md)
 
 ## Culture ouverte
 
@@ -11,7 +11,7 @@ Partout dans le monde, les gouvernements ont adopté des pratiques en matière d
 
 Une approche axée sur l'ouverture d'abord ne touchera pas seulement les technologues, mais l'ensemble du gouvernement, des agents d'approvisionnement aux politiciens. Par conséquent, il faut viser une meilleure compréhension des contextes dans lesquels le gouvernement du Canada tire parti des outils libres et adopte des pratiques de libre accès.
 
-La réponse à la question « Pourquoi l'ouverture? » repose notamment sur les motifs suivants :
+La réponse à la question "Pourquoi l'ouverture?" repose notamment sur les motifs suivants :
 
 - Bâtir ensemble et apprendre les uns des autres.
 - Formuler conjointement des solutions plus rapidement et de façon plus transparente.
@@ -60,7 +60,7 @@ Dans les organisations ouvertes, la transparence règne. Dans la mesure du possi
 Dans les organisations ouvertes, la transparence se manifeste comme suit :
 
 - Toute personne qui travaille sur un projet ou une initiative a accès par défaut à tous les documents pertinents.
-- Les gens divulguent volontairement leur travail, invitent d'autres personnes à participer à des projets avant qu'ils ne soient terminés ou « finals » et répondent de manière positive aux demandes d'informations supplémentaires.
+- Les gens divulguent volontairement leur travail, invitent d'autres personnes à participer à des projets avant qu'ils ne soient terminés ou "finals" et répondent de manière positive aux demandes d'informations supplémentaires.
 - Les personnes touchées par les décisions peuvent consulter et examiner les processus et les arguments qui ont mené à ces décisions, et elles peuvent les commenter et y répondre.
 - Les dirigeants encouragent les gens à raconter leurs échecs et leurs réussites sans crainte d'incidences; les associés parlent ouvertement des deux.
 - Les gens apprécient à la fois les réussites et les échecs pour les leçons qu'ils peuvent en tirer.

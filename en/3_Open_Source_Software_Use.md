@@ -1,4 +1,4 @@
-[« Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution »](4_Open_Source_Software_Contribution.md)
+[<- Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution ->](4_Open_Source_Software_Contribution.md)
 
 ## Open Source Software Use
 
@@ -52,7 +52,7 @@ For more details on licence clauses and other legal issues, see: [Annex A - Lega
 
 Within the context of OSS use where one does not distribute the software, there are five scenarios in which organizations typically make use of OSS: web and file services, desktop office suites, specialty software applications, customized software for in-house use, and customized software for use within other departments in the same organization.
 
-The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 "professional" OSS solutions with reviews and evaluations.
+The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 professional OSS solutions with reviews and evaluations.
 
 #### Server-side software
 
@@ -72,9 +72,9 @@ As one example within the specialty area of geomatics, [MapServer](http://mapser
 
 #### Internal Modification
 
-All [OSS licences](4_Open_Source_Software_Contribution.md#oss-licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
+All [OSS licences](9_Annex_Legal.md#licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
 
-However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the `NRC Open Source Software Guidelines` (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
+However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the "NRC Open Source Software Guidelines" (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
 
 #### Internal Distribution
 
@@ -92,17 +92,17 @@ OSS is how modern organizations build software. Documented advantages over softw
 
 Using OSS allows for product customization, advances interoperability between tools through the use of [Open Standards](2_Open_Standards.md), and improves the overall quality of the final product. Other benefits include:
 
-#### Avoiding Vendor Lock-in
+#### Avoiding Lock-in
 
 When a closed-source software application becomes entrenched into an organization’s or business’s processes or products, the organization becomes beholden, or “locked-in”, to that software vendor for any new features, for bug fixes, and in many cases, for receiving product support. Where a vendor is unwilling to implement a new feature, you may need to switch to an alternative – often at considerable cost. Where a particular vendor is slow to provide bug fixes or support, this can adversely affect your own timelines and may also impose a security risk.
 
-OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines.
+OSS provides an advantage in that it creates [open markets](5_Open_Markets.md) for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines.
 
 The flexibility of using OSS compel GC to meet user needs by modifying existing or creating new OSS. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
 
 #### Support for the Local Economy and Communities
 
-Depending on the dynamics of a software industry in a particular locality, OSS use may better support local businesses in the area. Because OSS is openly available, distributable, and modifiable, a wider breadth of smaller “support service” businesses may provide commercial services. Rather than a single vendor providing the warranty and technical support, any competent local IT business can provide these services. Rather than a single vendor being the only party in a position to customize software, a local consulting or software development business can provide specialized versions of the software. This dynamic can directly contribute to Canadian economic growth.
+Depending on the dynamics of a software industry in a particular locality, OSS use may better support local businesses in the area. Because OSS is openly available, distributable, and modifiable, a wider breadth of smaller support service businesses may provide commercial services. Rather than a single vendor providing the warranty and technical support, any competent local IT business can provide these services. Rather than a single vendor being the only party in a position to customize software, a local consulting or software development business can provide specialized versions of the software. This dynamic can directly contribute to Canadian economic growth.
 
 Publicly available source code enables continuous and broad peer review. Whether simply publishing the completed code or opening the development process, the practice of expanding the review and testing process to a wider audience beyond the development team ensures increased software reliability and security. Developing in the open also allows for other opinions to help adjust the direction of a product to maximize its usefulness to the community it serves.
 

@@ -1,4 +1,4 @@
-[« Previous Page : Open Source Software Contribution](4_Open_Source_Software_Contribution.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Culture »](6_Open_Culture.md)
+[<- Previous Page : Open Source Software Contribution](4_Open_Source_Software_Contribution.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Culture ->](6_Open_Culture.md)
 
 ## Open Markets
 

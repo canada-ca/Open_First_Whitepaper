@@ -1,4 +1,4 @@
-[« Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciel libre - Contribution »](4_Logiciel_libre_Contribution.md)
+[<- Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciel libre - Contribution ->](4_Logiciel_libre_Contribution.md)
 
 ## Logiciels libres - Utilisation
 
@@ -17,7 +17,7 @@
 
 Les logiciels libres et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué.
 
-Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes « logiciel libre et ouvert » (LLO) ou « logiciel libre et en source ouverte » (FLOSS, pour « free/libre open source software »). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme « logiciel libre » (LL) pour englober les termes « logiciel libre » et « logiciels à source ouverte ».
+Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes "logiciels libres et à source ouverte" (FOSS, pour _free open source software_ ou FLOSS, pour _free/libre open source software_). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme "logiciels libres (LL)" pour englober les termes "logiciel libre" et "logiciels à source ouverte".
 
 ### Historique
 
@@ -29,7 +29,7 @@ Après l'abrogation du décret de consentement par le département de la Justice
 
 À la suite de ce changement, Richard Stallman et le projet GNU ont commencé la conception d'un système d'exploitation offrant une alternative libre à UNIX. À la même période environ, la Free Software Foundation (FSF) a été créée pour promouvoir l'utilisation de LL. Le système d'exploitation avait à la fois besoin du noyau et des outils nécessaires à l'installation, à l'exécution et au développement de programmes. Le projet GNU a mis au point les outils, mais il manquait un noyau fonctionnel. C'est à ce moment que Linus Torvalds, un adolescent finlandais, a développé le premier noyau Linux dans le cadre d'un projet scolaire.
 
-L'ensemble du noyau Linux et des outils GNU, communément appelé « Linux », a été publié dans le cadre de la [licence publique générale GNU](https://www.gnu.org/licenses/gpl-3.0.fr.html) (GPL), un modèle de licence créé par le projet GNU. La licence GPL a accordé aux bénéficiaires des droits illimités de redistribution du logiciel à condition que le code source ne puisse pas être tenu secret. Avec la popularité croissante de Linux, de ses milliers de contributeurs et de ses milliards d'utilisateurs, l'industrie a appris à suivre et à adopter les modalités de la licence GPL. Vers la fin des années 1990, la licence GPL et le paradigme des licences libres ont gagné en popularité et reçu un accueil largement favorable à l'échelle de l'industrie.
+L'ensemble du noyau Linux et des outils GNU, communément appelé "Linux", a été publié dans le cadre de la [licence publique générale GNU](https://www.gnu.org/licenses/gpl-3.0.fr.html) (GPL), un modèle de licence créé par le projet GNU. La licence GPL a accordé aux bénéficiaires des droits illimités de redistribution du logiciel à condition que le code source ne puisse pas être tenu secret. Avec la popularité croissante de Linux, de ses milliers de contributeurs et de ses milliards d'utilisateurs, l'industrie a appris à suivre et à adopter les modalités de la licence GPL. Vers la fin des années 1990, la licence GPL et le paradigme des licences libres ont gagné en popularité et reçu un accueil largement favorable à l'échelle de l'industrie.
 
 ### Propriété intellectuelle
 
@@ -52,11 +52,11 @@ Pour plus de détails sur les clauses de licences et d'autres questions juridiqu
 
 Dans le contexte de l'utilisation d'un logiciel libre pour lequel personne ne distribue le logiciel, les organisations s'en servent habituellement à cinq fins : services Web et de fichiers, suite bureautique, application logicielle spécialisée, logiciel personnalisé à des fins internes et logiciel personnalisé qui sera utilisé par d'autres services de la même organisation.
 
-Le [Guide de l'open source](http://www.open-source-guide.com/) de Smile énumère actuellement plus de 350 solutions « professionnelles » de LL avec examens et évaluations.
+Le [Guide de l'open source](http://www.open-source-guide.com/) de Smile énumère actuellement plus de 350 solutions professionnelles de LL avec examens et évaluations.
 
 #### Logiciel côté serveur
 
-Surtout par l'entremise d'Internet, les LL sont depuis longtemps une pierre angulaire du logiciel serveur. Les LL de serveur Web comme Apache et Nginx exploitent plus de 65 % des sites actifs dans Internet selon l'[enquête sur les serveurs Web de février 2017 de Netcraft](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). Les serveurs libres de bases de données MySQL et MariaDB sont très populaires, et le LL Tomcat occupe la majorité du marché des serveurs d'applications Java. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
+Surtout sur l'Internet, les LL sont depuis longtemps une pierre angulaire du logiciel serveur. Les LL de serveur Web comme Apache et Nginx exploitent plus de 65 % des sites actifs dans Internet selon l'[enquête sur les serveurs Web de février 2017 de Netcraft](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). Les serveurs libres de bases de données MySQL et MariaDB sont très populaires, et le LL Tomcat occupe la majorité du marché des serveurs d'applications Java. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
 Les organisations du secteur public déploient des LL pour les serveurs aussi rapidement que les organisations du secteur privé. Par exemple, le site Web principal du gouvernement du Canada à [Canada.ca](https://www.canada.gc.ca) utilise le serveur Web libre Apache. Le Conseil national de recherches du Canada (CNRC) utilise Apache, MySQL et l'outil d'authentification OpenLDAP pour les publications électroniques. En fait, dans l'ensemble, les logiciels côté serveur demeurent la principale utilisation des LL au sein des organisations du secteur public. (Exemples plus récents...)
 
@@ -72,17 +72,17 @@ De nombreux services publics et applications libres desservent un secteur d'acti
 
 #### Modification interne
 
-Toutes les [licences](4_Logiciel_libre_Contribution.md) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
+Toutes les [licences](9_Annexe_Légale.md#licences) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
 
-Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les « Lignes directrices sur les LL du CNRC » (disponibles à partir de GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
+Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les "Lignes directrices sur les LL du CNRC" (disponibles sur GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
 
 #### Distribution interne
 
-Le scénario d'« utilisation sans distribution » (c.‑à‑d. le contexte qui ne déclenche pas d'obligations en matière de licence réciproque) a une portée relativement vaste. En général, la distribution interne au sein d'une entreprise ou d'une organisation ne constitue pas un « transfert » ou une « distribution » de nature juridique, et elle ne comprend pas d'obligations en matière licence réciproque. Par exemple, la licence GPL considère la distribution comme étant « tout type de propagation qui permet à d'autres parties de faire ou de recevoir des copies ». Une société n'est qu'une seule partie juridique et elle peut faire des LL, les modifier et les distribuer à ses employés sans déclencher d'autres obligations.
+Le scénario d'"utilisation sans distribution" (c.‑à‑d. le contexte qui ne déclenche pas d'obligations en matière de licence réciproque) a une portée relativement vaste. En général, la distribution interne au sein d'une entreprise ou d'une organisation ne constitue pas un "transfert" ou une "distribution" de nature juridique, et elle ne comprend pas d'obligations en matière licence réciproque. Par exemple, la licence GPL considère la distribution comme étant "tout type de propagation qui permet à d'autres parties de faire ou de recevoir des copies". Une société n'est qu'une seule partie juridique et elle peut faire des LL, les modifier et les distribuer à ses employés sans déclencher d'autres obligations.
 
-Étant donné que les ministères distincts fonctionnent de façon semi-autonome, on peut appuyer que les différents ministères constituent des « parties » différentes. Toutefois, cette interprétation est peu probable. Une telle interprétation serait incompatible avec l'interprétation juridique générale selon laquelle le gouvernement fédéral ou un gouvernement provincial constitue une seule entité juridique. Un document de recherche de 2005 intitulé [Legal Issues for the Use of Free and Open Source Software in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) démontre qu'Eben Moglen, avocat général de la Free Software Foundation (FSF), qui encourage habituellement une interprétation forte et étendue de la distribution, considère que les « organismes du gouvernement fédéral peuvent partager des LL sans "distribution" ».
+Étant donné que les ministères distincts fonctionnent de façon semi-autonome, on peut appuyer que les différents ministères constituent des "parties" différentes. Toutefois, cette interprétation est peu probable. Une telle interprétation serait incompatible avec l'interprétation juridique générale selon laquelle le gouvernement fédéral ou un gouvernement provincial constitue une seule entité juridique. Un document de recherche de 2005 intitulé [Legal Issues for the Use of Free and Open Source Software in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) démontre qu'Eben Moglen, avocat général de la Free Software Foundation (FSF), qui encourage habituellement une interprétation forte et étendue de la distribution, considère que les "organismes du gouvernement fédéral peuvent partager des LL sans "distribution"".
 
-Toutefois, la distribution entre des entités juridiques différentes du gouvernement fédéral et d'un gouvernement provincial, ou entre gouvernements provinciaux, constitue presque certainement une « distribution ».
+Toutefois, la distribution entre des entités juridiques différentes du gouvernement fédéral et d'un gouvernement provincial, ou entre gouvernements provinciaux, constitue presque certainement une "distribution".
 
 ### Avantages
 
@@ -92,17 +92,17 @@ Les organisations modernes optent pour les LL pour mettre au point leurs logicie
 
 L'utilisation des LL permet de personnaliser les produits, fait progresser l'interopérabilité entre les outils grâce à l'utilisation de [normes libres](2_Normes_ouvertes.md) et améliore la qualité globale du produit final. Voici d'autres avantages :
 
-#### Évitement de l'asservissement à un fournisseur
+#### Évitement de l'enfermement
 
-Lorsqu'une application logicielle exclusive est intégrée aux processus ou aux produits d'une organisation ou d'une entreprise, cette organisation devient dépendante de ce fournisseur de logiciels, ou « asservie », pour les nouvelles fonctionnalités, les corrections de bogues et, dans bien des cas, le soutien du produit. Si un fournisseur n'est pas disposé à mettre en oeuvre une nouvelle fonction, il faudra peut-être opter pour une solution de rechange, souvent à un coût considérable. Lorsqu'un fournisseur tarde à fournir des correctifs de bogue ou du soutien, cela peut avoir une incidence négative sur vos propres échéances et peut aussi poser un risque pour la sécurité.
+Lorsqu'une application logicielle exclusive est intégrée aux processus ou aux produits d'une organisation ou d'une entreprise, cette organisation devient dépendante de ce fournisseur de logiciels, ou "enfermé", pour les nouvelles fonctionnalités, les corrections de bogues et, dans bien des cas, le soutien du produit. Si un fournisseur n'est pas disposé à mettre en oeuvre une nouvelle fonction, il faudra peut-être opter pour une solution de rechange, souvent à un coût considérable. Lorsqu'un fournisseur tarde à fournir des correctifs de bogue ou du soutien, cela peut avoir une incidence négative sur vos propres échéances et peut aussi poser un risque pour la sécurité.
 
-Les LL comportent un avantage en ce sens qu'il crée un marché ouvert pour les fournisseurs de tous les types de soutien. Toute entreprise de soutien ayant des compétences suffisantes en développement de logiciels peut ajouter de nouvelles fonctions et corriger des bogues dans le logiciel. Les utilisateurs de LL peuvent aussi passer à un fournisseur de soutien différent chaque fois qu'une entreprise existante ne répond plus à leurs besoins ou ne respectent plus leurs échéances.
+Les LL comportent un avantage en ce sens qu'il crée des [marchés ouverts](5_Marchés_ouverts.md) pour les fournisseurs de tous les types de soutien. Toute entreprise de soutien ayant des compétences suffisantes en développement de logiciels peut ajouter de nouvelles fonctions et corriger des bogues dans le logiciel. Les utilisateurs de LL peuvent aussi passer à un fournisseur de soutien différent chaque fois qu'une entreprise existante ne répond plus à leurs besoins ou ne respectent plus leurs échéances.
 
 La souplesse de l'utilisation des LL oblige le gouvernement du Canada (GC) à répondre aux besoins des utilisateurs en modifiant ou en créant de nouveaux LL. Les LL sont particulièrement adaptées au prototypage et à l'expérimentation rapides. Le processus de mise à l'essai génère des coûts minimes, et le processus favorise le recensement et l'élimination des défauts non reconnus par l'équipe de développement originale.
 
 #### Soutien de l'économie et des communautés locales
 
-Selon la dynamique de l'industrie du logiciel à un endroit donné, l'utilisation des LL pourrait mieux appuyer les entreprises locales de la région. Étant donné que les LL sont disponibles, distribuables et modifiables, un plus grand nombre de petites entreprises offrant des « services de soutien » peuvent offrir des services commerciaux. Au lieu d'un seul fournisseur qui offre la garantie et le soutien technique, toute entreprise locale de la technologie de l'information (TI) compétente peut fournir ces services. Au lieu d'un seul fournisseur qui est le seul à pouvoir personnaliser les logiciels, une entreprise locale de consultation ou de développement de logiciels peut fournir des versions spécialisées du logiciel. Cette dynamique peut contribuer directement à la croissance économique canadienne.
+Selon la dynamique de l'industrie du logiciel à un endroit donné, l'utilisation des LL pourrait mieux appuyer les entreprises locales de la région. Étant donné que les LL sont disponibles, distribuables et modifiables, un plus grand nombre de petites entreprises offrant des services de soutien peuvent offrir des services commerciaux. Au lieu d'un seul fournisseur qui offre la garantie et le soutien technique, toute entreprise locale de la technologie de l'information (TI) compétente peut fournir ces services. Au lieu d'un seul fournisseur qui est le seul à pouvoir personnaliser les logiciels, une entreprise locale de consultation ou de développement de logiciels peut fournir des versions spécialisées du logiciel. Cette dynamique peut contribuer directement à la croissance économique canadienne.
 
 Le code source accessible au public permet un examen continu et général par les pairs. Qu'il s'agisse simplement de publier le code terminé ou d'ouvrir le processus de développement, la pratique consistant à étendre le processus d'examen et de mise à l'essai à un public plus large au-delà de l'équipe de développement assure une fiabilité et une sécurité accrues des logiciels. Le fait de se développer dans un environnement libre permet aussi à d'autres opinions d'éclairer l'orientation d'un produit afin de maximiser son utilité pour la communauté qu'il dessert.
 
@@ -112,7 +112,7 @@ Le code créé par une administration publique appartient au public. En mettant 
 
 Le coût total de propriété de toute application logicielle comprend trois grandes catégories de dépenses : (1) les coûts initiaux d'octroi de licence et de mise en oeuvre; (2) les coûts permanents d'entretien et de soutien; et (3) les coûts de mise à niveau ou de transition des logiciels.
 
-Lorsqu'on utilise des LL, le coût de licence initial est nul (à l'exception des coûts internes d'évaluation du logiciel et d'octroi de licence). Une licence LL est toujours « libre » et accordée au monde entier, en ce sens qu'elle permet à tout le monde d'utiliser le logiciel sans frais exigibles. De plus, en raison du fait que les licences de LL donnent à chacun le droit de redistribuer le logiciel, presque tous les LL peuvent être téléchargés gratuitement par l'entremise d'Internet.
+Lorsqu'on utilise des LL, le coût de licence initial est nul (à l'exception des coûts internes d'évaluation du logiciel et d'octroi de licence). Une licence LL est toujours "libre" et accordée au monde entier, en ce sens qu'elle permet à tout le monde d'utiliser le logiciel sans frais exigibles. De plus, en raison du fait que les licences de LL donnent à chacun le droit de redistribuer le logiciel, presque tous les LL peuvent être téléchargés gratuitement par l'entremise d'Internet.
 
 De plus, les coûts d'entretien permanent des LL sont souvent moins élevés. En ce qui concerne les logiciels exclusifs, le fournisseur et ses partenaires d'affaires sont souvent les seules entreprises capables d'offrir le soutien nécessaire (soit parce que la licence du logiciel accorde au fournisseur un contrat de soutien exclusif ou que le fournisseur est le seul à détenir l'expertise spécialisée ou la capacité d'examen ou d'utilisation du code source). Cela peut nuire à un appel d'offres concurrentiel et, dans certains cas, entraîner un mauvais soutien sans solution de rechange. En revanche, les LL permettent à quiconque d'installer, de réparer et d'appuyer autrement le logiciel. Cela favorise un appel d'offres plus concurrentiel pour les services de soutien entre les entreprises. En ce qui concerne les mises à niveau des logiciels, certains fournisseurs exclusifs exigent que les titulaires de licence achètent une nouvelle licence ou paient des frais de mise à niveau pour les nouvelles versions d'un logiciel. En revanche, pour les LL, aucune nouvelle licence n'est nécessaire pour commencer à utiliser la nouvelle version d'un logiciel.
 
@@ -120,16 +120,16 @@ La souplesse des LL permet de réagir rapidement à l'évolution des missions et
 
 #### Sécurité
 
-L'un des aspects les plus mal compris du modèle de développement des LL concerne les avantages qu'ils offrent en matière de sécurité. La sécurité des LL repose sur un code véritablement renforcé qui est mis à l'essai par un grand nombre d'examinateurs dans diverses circonstances. Linus Torvalds a simplement fait remarquer que « les belles paroles ne valent rien, mais montrez-moi plutôt le code. »
+L'un des aspects les plus mal compris du modèle de développement des LL concerne les avantages qu'ils offrent en matière de sécurité. La sécurité des LL repose sur un code véritablement renforcé qui est mis à l'essai par un grand nombre d'examinateurs dans diverses circonstances. Linus Torvalds a simplement fait remarquer que "les belles paroles ne valent rien, mais montrez-moi plutôt le code."
 
-Lorsque vous utilisez des LL, le code source est publié ouvertement dans son intégralité. Il est donc difficile pour quiconque d'insérer subrepticement un code malveillant. Il permet également aux vérificateurs de la sécurité et aux chercheurs en sécurité d'inspecter le code pour y déceler des lacunes. Bien que la sécurité des logiciels soit une préoccupation pour toutes les entités, elle revêt une importance primordiale pour les gouvernements. Voilà pourquoi les organismes de défense et de sécurité nationale utilisent très souvent des LL. Le document de recherche de 2008 intitulé « [Open Source Technology and Policy](http://www.cambridge.org/gb/academic/subjects/computer-science/computing-and-society/open-source-technology-and-policy) », donne l'exemple de l'utilisation étendue des LL au sein du département de la Défense des États-Unis et de la National Security Agency et explique les avantages pour la sécurité :
+Lorsque vous utilisez des LL, le code source est publié ouvertement dans son intégralité. Il est donc difficile pour quiconque d'insérer subrepticement un code malveillant. Il permet également aux vérificateurs de la sécurité et aux chercheurs en sécurité d'inspecter le code pour y déceler des lacunes. Bien que la sécurité des logiciels soit une préoccupation pour toutes les entités, elle revêt une importance primordiale pour les gouvernements. Voilà pourquoi les organismes de défense et de sécurité nationale utilisent très souvent des LL. Le document de recherche de 2008 intitulé "[Open Source Technology and Policy](http://www.cambridge.org/gb/academic/subjects/computer-science/computing-and-society/open-source-technology-and-policy)", donne l'exemple de l'utilisation étendue des LL au sein du département de la Défense des États-Unis et de la National Security Agency et explique les avantages pour la sécurité :
 > L'un des principaux facteurs de l'attrait des logiciels libres dans les applications de sécurité (et de sécurité nationale) est leur capacité de vérification. Il est évidemment plus difficile de dissimuler des choses dans du code source libre. Par ailleurs, les gouvernements peuvent avoir des raisons de se méfier du contenu des codes exclusif. Dans le contexte américain, le principal fournisseur exclusif est une société des États-Unis; on peut donc s'attendre du gouvernement qu'il travaille sur les mécanismes de divulgation avec le fournisseur. Il s'agit toutefois d'un scénario moins probable pour les entités détenues à l'étranger. Par exemple, est-ce que Microsoft est susceptible de divulguer un code exclusif au gouvernement vénézuélien parce que ce gouvernement veut examiner les applications Microsoft pour y déceler des pièges ou des lacunes de sécurité?
 
 Par conséquent, lorsqu'un LL est bien élaboré et bien inspecté par des tiers, la sécurité est généralement améliorée. Il existe aussi certains risques pour la sécurité, dont il est question ci-dessous.
 
 ##### Recours au durcissement plutôt qu'à l'obscurcissement
 
-Le logiciel libre s'appuie sur de bonnes pratiques de sécurité plutôt que sur l'obscurcissement. On croit souvent à tort que le fait de cacher un code aide à prévenir les attaques réussies. Comme le recommande l'organisme de normalisation du National Institute of Standards and Technology (NIST) : « La sécurité d'un système ne devrait pas dépendre du secret de la mise en oeuvre ou de ses composantes. » Les pratiques de développement des LL reposent sur le durcissement (ou l'amélioration de la sécurité) du code en le mettant à la disposition des pairs pour qu'ils puissent le mettre à l'essai et tentent de le briser, puis en réglant les problèmes relevés.
+Le logiciel libre s'appuie sur de bonnes pratiques de sécurité plutôt que sur l'obscurcissement. On croit souvent à tort que le fait de cacher un code aide à prévenir les attaques réussies. Comme le recommande l'organisme de normalisation du National Institute of Standards and Technology (NIST) : "La sécurité d'un système ne devrait pas dépendre du secret de la mise en oeuvre ou de ses composantes." Les pratiques de développement des LL reposent sur le durcissement (ou l'amélioration de la sécurité) du code en le mettant à la disposition des pairs pour qu'ils puissent le mettre à l'essai et tentent de le briser, puis en réglant les problèmes relevés.
 
 Les LL ne sont pas toujours plus sûrs, mais, en théorie et en pratique, le modèle de sécurité des LL a démontré qu'ils favorisent une réaction plus rapide aux problèmes de sécurité et facilitent leur correction.
 
@@ -162,7 +162,7 @@ L'ouverture des projets de LL et la disponibilité du code source permettent aux
 Le [Rapport sur les emplois en logiciels libres 2018](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) a constaté que l'embauche de talents en LL est une priorité pour 80% des gestionnaires d'embauche. Il a également montré que seulement 3% des professionnels de LL disent que l'argent est la meilleure partie de leur travail. Un nombre croissant de professionnels de la TI ont des antécédents ou de l'expérience dans le domaine des services opérationnels pour de nombreuses raisons :
 
 - Les LL sont largement utilisés par les entreprises, du développement à la production, ce qui générant une forte demande de compétences;
-- Les contributions aux projets de LL permettent de faire partie d'un « réseau de confiance » public et de produire un curriculum vitæ précieux;
+- Les contributions aux projets de LL permettent de faire partie d'un "réseau de confiance" public et de produire un curriculum vitæ précieux;
 - Certains préfèrent travailler avec les LL parce que cela améliore leur satisfaction au travail (voir l'avantage suivant);
 - plus de possibilités d'apprentissage, car ils ont accès à toute la mécanique;
 - le sentiment positif qu'ils prennent part à quelque chose de plus important qu'eux-mêmes grâce aux contributions aux LL (corrections de code source, rapports de bogues, mises à jour de la documentation, etc.);
@@ -184,9 +184,9 @@ La connaissance que possède l'utilisateur des LL est souvent beaucoup plus faib
 
 #### Sécurité
 
-Étant donné que tout le code source des LL est publié ouvertement, n'importe qui – y compris les « pirates aux mauvaises intentions » – peut examiner le code pour y déceler des failles de sécurité. En particulier, les attaquants malveillants peuvent observer où les LL partagent la même conception, la même base de codes ou la même architecture que le logiciel qui peut avoir des vulnérabilités connues en matière de sécurité. ([source][https://www.igi-global.com/book/handbook-research-open-source-software/494])
+Étant donné que tout le code source des LL est publié ouvertement, n'importe qui – y compris les "pirates aux mauvaises intentions" – peut examiner le code pour y déceler des failles de sécurité. En particulier, les attaquants malveillants peuvent observer où les LL partagent la même conception, la même base de codes ou la même architecture que le logiciel qui peut avoir des vulnérabilités connues en matière de sécurité. ([source][https://www.igi-global.com/book/handbook-research-open-source-software/494])
 
-Bien sûr, il faut tenir compte de ce désavantage par rapport aux avantages de sécurité mentionnés précédemment. Dans bien des cas, les pirates malveillants peuvent toujours avoir accès au code source des logiciels exclusifs lorsque les ententes de non-divulgation, les procédures éthiques de l'entreprise ou les mécanismes de sécurité des fournisseurs font défaut. Ou ils peuvent démonter le système binaire exclusif et l'analyser pour cerner les défauts potentiels. Attendu que la sécurité des logiciels exclusifs dépend d'une tentative de maintien d'un déséquilibre d'information entre les « bienveillants » (analystes de la sécurité informatique) et les « malveillants » (pirates informatiques mal intentionnés), la sécurité des LL dépend d'un processus concurrentiel ouvert pour trouver et combler les failles de sécurité. Les modèles reposent sur des stratégies différentes, et chaque modèle comporte des risques particuliers qu'une organisation doit évaluer et prendre en considération.
+Bien sûr, il faut tenir compte de ce désavantage par rapport aux avantages de sécurité mentionnés précédemment. Dans bien des cas, les pirates malveillants peuvent toujours avoir accès au code source des logiciels exclusifs lorsque les ententes de non-divulgation, les procédures éthiques de l'entreprise ou les mécanismes de sécurité des fournisseurs font défaut. Ou ils peuvent démonter le système binaire exclusif et l'analyser pour cerner les défauts potentiels. Attendu que la sécurité des logiciels exclusifs dépend d'une tentative de maintien d'un déséquilibre d'information entre les "bienveillants" (analystes de la sécurité informatique) et les "malveillants" (pirates informatiques mal intentionnés), la sécurité des LL dépend d'un processus concurrentiel ouvert pour trouver et combler les failles de sécurité. Les modèles reposent sur des stratégies différentes, et chaque modèle comporte des risques particuliers qu'une organisation doit évaluer et prendre en considération.
 
 #### Perte de contrôle sur la gestion des logiciels
 
@@ -196,7 +196,7 @@ Il en va de même pour les codes sources modifiés ou mélangés sans surveillan
 
 #### Expertise interne
 
-Ceux qui envisagent d'utiliser et de mettre au point des sources libres « internes » doivent veiller à  ce qu'ils aient le bon niveau d'expertise pour la gérer efficacement. Le personnel est habituellement formé à l'utilisation de logiciels exclusifs, de sorte que l'introduction de nouvelles solutions libre peut nécessiter un recyclage.
+Ceux qui envisagent d'utiliser et de mettre au point des sources libres "internes" doivent veiller à  ce qu'ils aient le bon niveau d'expertise pour la gérer efficacement. Le personnel est habituellement formé à l'utilisation de logiciels exclusifs, de sorte que l'introduction de nouvelles solutions libre peut nécessiter un recyclage.
 
 #### Disponibilité des fournisseurs
 
@@ -230,7 +230,7 @@ Le site Web [OpenHub](https://www.openhub.net/) fournit de nombreuses mesures u
 
 Lorsqu'il s'agit de prendre des décisions en matière d'acquisition de logiciels, il est pratique courante d'évaluer les LL sur un pied d'égalité avec les logiciels exclusifs (exemples...). À partir d'une liste des exigences opérationnelles, un organisme gouvernemental ou une entreprise peut évaluer dans quelle mesure l'ensemble de fonctions d'un LL correspond aux exigences et calculer le coût global par fonction pendant la durée de vie utile du logiciel.
 
-Ce type d'évaluation constitue un point de départ utile. Cependant, plusieurs personnes interrogées ont fait état d'expériences difficiles dans l'établissement de comparaisons « de pommes à pommes » entre les LL et les logiciels exclusifs. Bien qu'une évaluation du coût total de la propriété soit possible pour les deux, il est difficile de tenir compte de facteurs comme les avantages pour le public (p. ex., l'efficacité économique globale, le soutien aux entreprises locales, etc.).
+Ce type d'évaluation constitue un point de départ utile. Cependant, plusieurs personnes interrogées ont fait état d'expériences difficiles dans l'établissement de comparaisons "de pommes à pommes" entre les LL et les logiciels exclusifs. Bien qu'une évaluation du coût total de la propriété soit possible pour les deux, il est difficile de tenir compte de facteurs comme les avantages pour le public (p. ex., l'efficacité économique globale, le soutien aux entreprises locales, etc.).
 
 En plus de cette difficulté, les processus établis d'acquisition de logiciels et d'appel d'offres de services sont parfois adaptés aux solutions exclusives. Les processus ne sont pas toujours assez souples pour évaluer et traiter adéquatement les solutions libres. Par exemple, un processus d'approvisionnement peut d'abord comprendre un appel d'offres pour le contrat de licence initial. Dans ce cas-ci, les entreprises fondées sur des LL ne sont pas susceptibles de soumissionner, car elles n'ont pas de licences à vendre. Lorsque la prochaine étape d'un processus d'approvisionnement consisterait à lancer un appel d'offres pour des services de soutien, les entreprises de soutien basées sur les LL pourraient déjà être écartées. Les fournisseurs de logiciels exclusifs interdisent souvent à quiconque d'assurer l'entretien ou le soutien de leur produit, ce qui empêche les entreprises fondées sur des LL de participer à l'ensemble du processus. ([source](http://www.cbc.ca/news/technology/an-open-door-for-open-source-1.810739)
 
@@ -238,7 +238,27 @@ Par conséquent, bien qu'une comparaison directe entre toutes les solutions poss
 
 #### Soutien
 
-... Ajouter traduction..
+** Traduction!
+
+##### Self-support
+
+** Traduction!
+
+###### GC Community
+
+** Traduction!
+
+###### Global Community
+
+** Traduction!
+
+##### Vendor
+
+** Traduction!
+
+##### Mixing Support models
+
+** Traduction!
 
 #### Formation
 
@@ -251,7 +271,7 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 
 ##### Migration
 
-- Modérer le rythme de la migration, en évitant une approche de « big bang » (p. ex., favoriser d'abord l'adoption volontaire pour avoir des utilisateurs expérimentés qui peuvent ensuite aider leurs collègues).
+- Modérer le rythme de la migration, en évitant une approche de "big bang" (p. ex., favoriser d'abord l'adoption volontaire pour avoir des utilisateurs expérimentés qui peuvent ensuite aider leurs collègues).
 - Prévoir une période de transition durant laquelle les utilisateurs ont accès aux logiciels existants et à l'alternative libre.
 - Obtenir le soutien de la haute direction.
 - Susciter une attitude positive chez les utilisateurs.
@@ -274,9 +294,9 @@ Pour plus de détails sur la gestion des risques et d'autres questions juridique
 
 L'interopérabilité des licences pose rarement des problèmes pour une simple utilisation de LL, à condition qu'il n'y ait pas de distribution du logiciel. Comme on l'a déjà mentionné, en général, les seules obligations en matière de licence que l'on doit accepter et respecter en cas de simple utilisation sont des avis d'exonération de garantie et de non-responsabilité. Même lorsque des logiciels provenant de sources multiples sont modifiés et combinés en vertu de licences multiples, ces avis ne sont jamais susceptibles d'entrer en conflit. Les avis n'imposent qu'une obligation passive, c'est-à-dire qu'ils ne vous obligent pas à prendre une mesure particulière ou à renoncer à une mesure précise. Le titulaire d'une licence n'a qu'à accepter le risque juridique imposé.
 
-Bien que l'interopérabilité des licences ne soit pas une préoccupation pour l'utilisation des LL, le format et l'interopérabilité des données peuvent avoir une incidence sur les décisions d'utiliser ou non les LL. Pour évaluer l'interopérabilité des données, il est important de faire une analyse au cas par cas. Les logiciels exclusifs peuvent toujours mettre en oeuvre des « normes libres » largement interopérables pour les données. De la même façon, les LL peuvent, dans certains cas, utiliser des normes spécialisées non publiées et non libres pour le stockage des données.
+Bien que l'interopérabilité des licences ne soit pas une préoccupation pour l'utilisation des LL, le format et l'interopérabilité des données peuvent avoir une incidence sur les décisions d'utiliser ou non les LL. Pour évaluer l'interopérabilité des données, il est important de faire une analyse au cas par cas. Les logiciels exclusifs peuvent toujours mettre en oeuvre des "normes libres" largement interopérables pour les données. De la même façon, les LL peuvent, dans certains cas, utiliser des normes spécialisées non publiées et non libres pour le stockage des données.
 
-Toutefois, les tendances culturelles et la dynamique du modèle opérationnel des LL tendent à pousser les projets de LL vers l'utilisation de l'interopérabilité et des [normes libres](2_Normes_ouvertes.md) pour la lecture, la rédaction et le stockage des données. En effet, même lorsque les LL ne mettent pas en oeuvre une norme libre pour l'échange de données, la disponibilité du code source offre toujours une « mise en oeuvre libre » à tout le moins. Le code source est un exemple que n'importe qui d'autre peut mettre en oeuvre la même fonctionnalité pour lire et écrire le format de données sous-jacent.
+Toutefois, les tendances culturelles et la dynamique du modèle opérationnel des LL tendent à pousser les projets de LL vers l'utilisation de l'interopérabilité et des [normes libres](2_Normes_ouvertes.md) pour la lecture, la rédaction et le stockage des données. En effet, même lorsque les LL ne mettent pas en oeuvre une norme libre pour l'échange de données, la disponibilité du code source offre toujours une "mise en oeuvre libre" à tout le moins. Le code source est un exemple que n'importe qui d'autre peut mettre en oeuvre la même fonctionnalité pour lire et écrire le format de données sous-jacent.
 
 ### Publication de logiciels libres
 

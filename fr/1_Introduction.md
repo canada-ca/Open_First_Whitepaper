@@ -1,4 +1,4 @@
-[Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Normes ouvertes »](2_Normes_ouvertes.md)
+[Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Normes ouvertes ->](2_Normes_ouvertes.md)
 
 # Introduction
 
@@ -12,7 +12,7 @@ L'ouverture et la transparence sont fondamentales pour assurer la confiance des 
 
 Le gouvernement du Canada est déterminé à relever la barre sur l'ouverture et la transparence. Dans les lettres de mandat des ministres de son Cabinet, le premier ministre a de nouveau insisté sur ses attentes selon lesquelles tous les ministres fédéraux devaient contribuer à s'assurer que le gouvernement fasse preuve d'ouverture, d'honnêteté et d'imputabilité face à tous les Canadiens et toutes les Canadiennes, que nous respections les plus hautes normes en matière d'éthique et que nous travaillons à faire avancer les priorités des citoyens dans un nouvel esprit de collaboration.
 
-Nous abordons dans ce sens avec le [Portail du Gouvernement Ouvert](https://open.canada.ca/fr) qui permet la recherche dans les jeux de données ouverts du GC. Le Canada est également un membre actif du _Open Government Partnership_ (OGP) depuis 2012; En septembre 2017, le Canada est arrivé premier dans l'élection des nouveaux membres du comité d'organisation de l'OGP et a pleinement assumé son rôle au sein du comité d'organisation. ................................
+Nous abordons dans ce sens avec le [Portail du Gouvernement Ouvert](https://open.canada.ca/fr) qui permet la recherche dans les jeux de données ouverts du GC. Le Canada est également un membre actif du _Open Government Partnership_ (OGP) depuis 2012; En septembre 2017, le Canada est arrivé premier dans l'élection des nouveaux membres du comité d'organisation de l'OGP et a pleinement assumé son rôle au sein du comité d'organisation. Le Canada sera aussi l’hôte du Sommet mondial du PGO qui aura lieu à Ottawa, en mai 2019.
 
 En octobre 2017, le Secrétariat du Conseil du Trésor du Canada (SCT) a signé le [Protocole d'entente concernant le gouvernement numérique avec le Royaume-Uni](https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/protocole-dentente-concernant-gouvernement-numerique.html) qui inclue les données ouvertes et le gouvernement ouvert, mais également d'autres principes de développement comme les standards ouverts, les logiciels libres et les marchés ouverts.
 

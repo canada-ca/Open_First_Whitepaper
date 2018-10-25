@@ -1,4 +1,4 @@
-[« Page précédente : Introduction](1_Introduction.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciels libres (open source) - Utilisation »](3_Logiciel_libre_Utilisation.md)
+[<- Page précédente : Introduction](1_Introduction.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciels libres (open source) - Utilisation ->](3_Logiciel_libre_Utilisation.md)
 
 ## Normes ouvertes
 

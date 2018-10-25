@@ -1,4 +1,4 @@
-[« Page précédente : Prochaines étapes](7_Prochaines_étapes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res)
+[<- Page précédente : Prochaines étapes](7_Prochaines_étapes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res)
 
 ## Définitions
 

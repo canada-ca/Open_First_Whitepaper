@@ -1,4 +1,4 @@
-[« Previous Page : Open Source Software Use](3_Open_Source_Software_Use.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets »](5_Open_Markets.md)
+[<- Previous Page : Open Source Software Use](3_Open_Source_Software_Use.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Markets ->](5_Open_Markets.md)
 
 ## Open Source Software Contribution
 
@@ -112,7 +112,7 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 
 #### Community Participation
 
-In general, a successful OSS is built upon, and depends upon, collaboration and community participation. It is considered a good practice to try to “give back” to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
+In general, a successful OSS is built upon, and depends upon, collaboration and community participation. It is considered a good practice to try to give back to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
 
 Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
 
