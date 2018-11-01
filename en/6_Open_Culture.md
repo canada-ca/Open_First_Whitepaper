@@ -7,7 +7,7 @@
 
 To become open by default, government will require changes to the policies, practices, and the culture of the institution.
 
-Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of openness within the GC. However, this has been limited to particular practices and domains.
+Governments around the world have adopted open source practices, including the release of open data, the use of open source software, and the sharing of knowledge with other public and private institutions. All of these efforts have helped to foster a culture of openness within the Government of Canada (GC). However, this has been limited to particular practices and domains.
 
 An Open First approach will affect not only the technologists, but will affect everyone from the procurement officers to the politicians as well as everyone else in-between. As such, there needs to be an improved understanding for when and where the GC leverages open source tools and adopts open source practices.
 
@@ -21,7 +21,7 @@ The drivers that have been identified for the question of "Why Open?" include:
 - Increase the ease of interconnected services with provinces territories, municipalities, and other governments
 - Implement an ecosystem that enables open procurement practices which will spur growth and innovation.
 
-The Government of Canada is the country's largest employer. Adopting an Open First approach will have huge benefits. Canada can lead in more innovative, inclusive, and agile government.
+The GC is the country's largest employer. Adopting an Open First approach will have huge benefits. Canada can lead in more innovative, inclusive, and agile government.
 
 ### Open Organization
 
@@ -136,4 +136,4 @@ In order to help these employees overcome their fear, open communications are re
 
 For an organization that is traditionally risk averse and used to operate within the boundaries of pre-established processes knowing its activities may be scrutinized by the public, working openly may seem counter-intuitive and against the best interest of its departments.
 
-However, the Government of Canada has set a clear direction towards becoming an Open Government. Supporting this new direction, Treasury Board Secretariat Canada has put in place a Digital Playbook with Digital Standards that clearly identify why and how the departments and agencies need to operate openly.
+However, the GC has set a clear direction towards becoming an Open Government. Supporting this new direction, Treasury Board Secretariat Canada has put in place a Digital Playbook with Digital Standards that clearly identify why and how the departments and agencies need to operate openly.

@@ -7,9 +7,9 @@
 
 Pour devenir ouvert par défaut, le gouvernement devra modifier ses politiques, ses pratiques et sa culture.
 
-Partout dans le monde, les gouvernements ont adopté des pratiques en matière de libre accès, y compris la publication de données ouvertes, l'utilisation de logiciels libres et le partage des connaissances avec d'autres institutions publiques et privées. Tous ces efforts ont contribué à favoriser une culture d'ouverture au sein du gouvernement du Canada. Toutefois, cette ouverture se limite pour le moment à des pratiques et à des domaines particuliers.
+Partout dans le monde, les gouvernements ont adopté des pratiques en matière de libre accès, y compris la publication de données ouvertes, l'utilisation de logiciels libres et le partage des connaissances avec d'autres institutions publiques et privées. Tous ces efforts ont contribué à favoriser une culture d'ouverture au sein du gouvernement du Canada (GC). Toutefois, cette ouverture se limite pour le moment à des pratiques et à des domaines particuliers.
 
-Une approche axée sur l'ouverture d'abord ne touchera pas seulement les technologues, mais l'ensemble du gouvernement, des agents d'approvisionnement aux politiciens. Par conséquent, il faut viser une meilleure compréhension des contextes dans lesquels le gouvernement du Canada tire parti des outils libres et adopte des pratiques de libre accès.
+Une approche axée sur l'ouverture d'abord ne touchera pas seulement les technologues, mais l'ensemble du gouvernement, des agents d'approvisionnement aux politiciens. Par conséquent, il faut viser une meilleure compréhension des contextes dans lesquels le GC tire parti des outils libres et adopte des pratiques de libre accès.
 
 La réponse à la question "Pourquoi l'ouverture?" repose notamment sur les motifs suivants :
 
@@ -21,7 +21,7 @@ La réponse à la question "Pourquoi l'ouverture?" repose notamment sur les moti
 - Accroître la facilité d'emploi des services interconnectés avec les provinces, les territoires, les municipalités et d'autres gouvernements.
 - Mettre en œuvre un écosystème permettant l'adoption de pratiques d'approvisionnement ouvertes qui stimuleront la croissance économique et l'innovation.
 
-Le gouvernement du Canada est le plus important employeur au pays. L'adoption d'une approche axée sur l'ouverture d'abord aura d'énormes avantages. Le Canada peut être un chef de file en matière de gouvernement plus innovateur, plus inclusif et plus souple.
+Le GC est le plus important employeur au pays. L'adoption d'une approche axée sur l'ouverture d'abord aura d'énormes avantages. Le Canada peut être un chef de file en matière de gouvernement plus innovateur, plus inclusif et plus souple.
 
 ### Organisation ouverte
 
@@ -136,4 +136,4 @@ Afin d'aider ces employés à surmonter leur peur, des communications ouvertes s
 
 Pour une organisation traditionnellement réticente au risque et habituée à opérer dans les limites des processus préétablis, savoir que ses activités peuvent être scrutées par le public, travailler ouvertement peut sembler contre-intuitif et contraire au meilleur intérêt de ses services.
 
-Cependant, le gouvernement du Canada a établi une orientation claire en vue de devenir un gouvernement ouvert. À l'appui de cette nouvelle orientation, le Secrétariat du Conseil du Trésor du Canada a mis en place un guide numérique avec des normes numériques qui indiquent clairement pourquoi et comment les ministères et les organismes doivent fonctionner ouvertement.
+Cependant, le GC a établi une orientation claire en vue de devenir un gouvernement ouvert. À l'appui de cette nouvelle orientation, le Secrétariat du Conseil du Trésor du Canada a mis en place un guide numérique avec des normes numériques qui indiquent clairement pourquoi et comment les ministères et les organismes doivent fonctionner ouvertement.

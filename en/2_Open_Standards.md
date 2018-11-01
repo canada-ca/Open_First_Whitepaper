@@ -6,7 +6,7 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for Adopting Open Standards](#best-practices-for-adopting-open-standards)
 - [Preferred Open Standards](#preferred-open-standards)
-- [GC Digital Playbook](#gc-digital-playbook)
+- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
 
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source software and closed-source software to work together.
 
@@ -14,7 +14,7 @@ Open standards are a set of rules designed to do a specific job in technology. T
 
 #### Interoperability
 
-For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own IM-IT environment, and interoperability with the IM-IT environments of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, synchronous or asynchronous, through the availability of open data.
+For any organization, especially public administrations, the need for interoperability is at two distinct yet overlapping levels: internal interoperability with its own information and communication technologies (ICT), and interoperability with the ICTs of external stakeholders (other administrations, the public, businesses, associations), whether directly or indirectly, synchronous or asynchronous, through the availability of open data.
 
 ##### Independence and substitutability
 
@@ -44,7 +44,7 @@ The adoption of a cloud-first approach for an organization is therefore a unique
 
 [Open source software](3_Open_Source_Software_Use.md) (OSS) is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
 
-OSS tends to use and help define open standards and publicly available specifications. These products are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
+OSS tends to use and help define open standards and publicly available specifications. OSS are, by their nature, publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable. From a design standpoint, interoperability and OSS are clearly separate, as are OSS and open standards. From a cultural and historical standpoint, however, there are strong ties between these concepts. This can be explained by the "community of values" - due to their open nature, OSS economic models are based less on strategies to lock in the user and more on interoperability to benefit the user. The use of open standards is necessary to ensure interoperability between products or systems.
 
 ### Risks and Drawbacks
 
@@ -90,7 +90,7 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) lists recommended formats for texts, presentations, emails, still images, audio, video, geospatial, computer aided design (CAD) and data sets. The Canadian Heritage [Elements of a Technical Interoperability Framework report](https://wiki.gccollab.ca/Elements_of_a_Technical_Interoperability_Framework_for_Canadian_Heritage), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) identify a lot of the same open standards as recommended.
 
-The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) list "Use of Commonly Owned Standards" as a principle, with the intent that datasets released by the Government of Canada be in freely available file formats as often as possible.
+The [GC Open Data Principles](http://open.canada.ca/en/open-data-principles) list "Use of Commonly Owned Standards" as a principle, with the intent that datasets released by the GC be in freely available file formats as often as possible.
 
 Public Services and Procurement Canada (PSPC) has been piloting the [Open Contracting Data Standard](http://standard.open-contracting.org/latest/en/) to demonstrate use of the standard by linking the phases of the procurement process using data from procurements conducted by PSPC on behalf of government departments and agencies. ([source](https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot))
 
@@ -111,6 +111,6 @@ The [UK Open Standards Board](https://www.gov.uk/government/groups/open-standard
 - **Exchange of contact information**: [vCard](https://tools.ietf.org/html/rfc6350)
 - **Exchange of calendar events**: [iCalendar](https://tools.ietf.org/html/rfc5545)
 
-### GC Digital Playbook
+### Government of Canada Digital Playbook
 
 - [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html)

@@ -8,15 +8,15 @@
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
-- [GC Digital Playbook](#gc-digital-playbook)
+- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
 
 ### Contribution
 
-For the purpose of clarification, this whitepaper considers both releasing Government of Canada source code as well as any other forms of contributions to third-party projects a contribution to the OSS community.
+For the purpose of clarification, this whitepaper considers both releasing Government of Canada (GC) source code as well as any other forms of contributions to third-party projects a contribution to the OSS community.
 
 ### Releasing Open Source Software Code
 
-The Government of Canada creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
+The GC creates greater transparency and accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
 
 When developing entirely new software, a business or government organization needs to make a choice between keeping the source code restricted or releasing it as OSS. Governments and non-profit organizations may wish to release software as OSS to provide a range of additional benefits to OSS communities, businesses, and the general public. Software vendors and other businesses often release software as OSS where it is ancillary to their core business. They thereby benefit from others collaborating on the software, spreading out the development costs, without reducing their market share for their core competencies.
 
@@ -26,9 +26,9 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 #### Copyright
 
-[Licence](9_Annex_Legal.md) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by Government of Canada employees during work hours is Copyright (c) Crown Copyright, Government of Canada.
+[Licence](9_Annex_Legal.md) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by GC employees during work hours is Copyright (c) Crown Copyright, GC.
 
-As well, certain OSS third-party projects require contributors to assign their contribution's ownership to the project, through the use of Copyright Assignment Agreements. In order for an employee of the Government of Canada to contribute code to such projects, further analysis will be required.
+As well, certain OSS third-party projects require contributors to assign their contribution's ownership to the project, through the use of Copyright Assignment Agreements. In order for an employee of the GC to contribute code to such projects, further analysis will be required.
 
 ### Benefits
 
@@ -74,7 +74,7 @@ During hiring processes IT management may use contributions as a metric to asses
 
 #### Security
 
-As discussed with respect to [Open Source Software](3_Open_Source_Software_Use.md#security), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
+As discussed with respect to [Open Source Software (OSS) use](3_Open_Source_Software_Use.md#security), OSS distribution likewise has security pros and cons. OSS puts more eyes on the code to fix security issues but, at the same time, it makes the code available to those with malicious aims.
 
 #### Open Science
 
@@ -98,7 +98,7 @@ It should be noted, however, that for many software projects in which government
 
 There are many examples of thriving OSS projects such as the Linux kernel, the Apache web server and the Firefox Web Browser. These projects involve active communities with hundreds, and in some cases thousands, of software developers. However, there is also a relatively high count of OSS projects where active development has ceased. Some of these projects are likely those of individual developers who registered a project but made no subsequent efforts or headway in developing a community. In any case, the numbers do suggest a cautionary tale: to properly execute a OSS project, you should be prepared to invest the resources to see a project through a first release and any lag in community involvement.
 
-It also depends on what the goals are when publishing code as OSS. For the Government of Canada, it may simply be to host the source code publicly (to make it accessible to others or to work in the open) and the project doesn't need external contributions to keep it going. In that case a community is an appreciated collateral benefit if it happens. In other cases, you may also want to create a community and for the project to continue to exist without the GC being the main contributor.
+It also depends on what the goals are when publishing code as OSS. For the GC, it may simply be to host the source code publicly (to make it accessible to others or to work in the open) and the project doesn't need external contributions to keep it going. In that case a community is an appreciated collateral benefit if it happens. In other cases, you may also want to create a community and for the project to continue to exist without the GC being the main contributor.
 
 #### Legal Complexities
 
@@ -112,7 +112,7 @@ Opinions are equally divided on whether releasing software as OSS increases or d
 
 #### Community Participation
 
-In general, a successful OSS is built upon, and depends upon, collaboration and community participation. It is considered a good practice to try to give back to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in Open Source Software Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
+In general, a successful OSS is built upon, and depends upon, collaboration and community participation. It is considered a good practice to try to give back to the community from which you receive benefits. Not only does such reciprocity help keep a OSS software project alive and well, but it also helps you establish ties and a good rapport with other community members. This, in turn, can help when you request community support or submit feature requests. This is explored in a 2005 research paper [The Role of Social Capital in OSS Communities](https://pdfs.semanticscholar.org/c22c/99099f93e56e9f4a7e9450f73594d32a8ee4.pdf).
 
 Even without contributing any code, there are numerous other ways that you can contribute to a OSS software project. For example, any user might consider one or more of the following activities:
 
@@ -195,8 +195,8 @@ Examples of open Internet source code repositories, include, but are not limited
 
 #### Managing Project Participation
 
-Open source software often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
+OSS often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
-### GC Digital Playbook
+### Government of Canada Digital Playbook
 
 - [Work in the open by default](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/3-work-in-open-by-default.html)

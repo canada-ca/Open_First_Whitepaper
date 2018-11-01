@@ -8,15 +8,15 @@
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
-- [Guide numérique du GC](#guide-numérique-du-gc)
+- [Guide numérique du gouvernement du Canada](#guide-numérique-du-gouvernement-du-canada)
 
 ### Contribution
 
-Dans un but de clarification, ce livre blanc considère autant la publication du code source développée par le Gouvernement du Canada que toutes autres formes de contributions à des projets de tierces parties comme étant une forme de contribution à la communauté des logiciels libres.
+Dans un but de clarification, ce livre blanc considère autant la publication du code source développée par le gouvernement du Canada (GC) que toutes autres formes de contributions à des projets de tierces parties comme étant une forme de contribution à la communauté des logiciels libres.
 
 ### Diffusion de logiciels libres
 
-Grâce aux données ouvertes, à l'information ouverte et au dialogue ouvert, le gouvernement du Canada est en mesure d'accroître la transparence et la reddition de comptes, d'accentuer la mobilisation des citoyens et de stimuler l'innovation et les possibilités économiques.
+Grâce aux données ouvertes, à l'information ouverte et au dialogue ouvert, le GC est en mesure d'accroître la transparence et la reddition de comptes, d'accentuer la mobilisation des citoyens et de stimuler l'innovation et les possibilités économiques.
 
 Au moment de mettre au point un logiciel entièrement nouveau, une entreprise ou un organisme gouvernemental doit choisir entre le maintien du code source restreint ou la diffusion de celui-ci en tant que logiciel libres (LL). Il arrive que les gouvernements et les organismes sans but lucratif diffusent le logiciel à titre de LL pour offrir une gamme d'avantages supplémentaires aux lcommunautés, aux entreprises et au grand public. Les entreprises, notamment les fournisseurs de logiciels, diffusent souvent des logiciels en tant que LL lorsqu'ils sont accessoires à leurs activités de base. Ils tirent ainsi avantage du fait que d'autres personnes collaborent au logiciel, répartissant ainsi les coûts de développement sans pour autant réduire leur part de marché en ce qui concerne leur activité de base.
 
@@ -26,9 +26,9 @@ Les développeurs qui contribuent aux LL et les distribuent proviennent d'enviro
 
 #### Droit d'auteur
 
-La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du gouvernement du Canada pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au gouvernement du Canada.
+La licence et le droit d'auteur sont deux choses distinctes. Dans certains cas, la licence peut accorder des droits supplémentaires au titulaire du droit d'auteur. Les oeuvres réalisées par des employés du GC pendant les heures de travail sont visées par un droit d'auteur qui appartient à l'État ou au GC.
 
-De plus, certains projets OSS exigent que les contributeurs attribuent la propriété de leur contribution au projet, en utilisant des accords de cession de droits d'auteur. Afin qu'un employé du gouvernement du Canada puisse contribuer au code pour de tels projets, une analyse plus poussée sera nécessaire.
+De plus, certains projets OSS exigent que les contributeurs attribuent la propriété de leur contribution au projet, en utilisant des accords de cession de droits d'auteur. Afin qu'un employé du GC puisse contribuer au code pour de tels projets, une analyse plus poussée sera nécessaire.
 
 ### Avantages
 
@@ -197,6 +197,6 @@ Des exemples de référentiels de code source Internet ouverts incluent, mais ne
 
 Les logiciels ouverts rassemblent souvent une communauté disparate de développeurs, allant des amateurs bénévoles aux entreprises commerciales. En l'absence d'une structure officielle de gestion et de communication, comme c'est le cas dans un environnement de développement organisationnel unifié, les communautés de LL utilisent diverses techniques pour autogérer leurs projets dans cet environnement.
 
-### Guide numérique du GC
+### Guide numérique du gouvernement du Canada
 
 - [Travailler ouvertement par défaut](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/3-travailler-ouvertement-par-defaut.html)

@@ -6,7 +6,7 @@
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour l'adoption de normes ouvertes](#pratiques-exemplaires-pour-l-adoption-de-normes-ouvertes)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
-- [Guide numérique du GC](#guide-numérique-du-gc)
+- [Guide numérique du gouvernement du Canada](#guide-numérique-du-gouvernement-du-canada)
 
 Les normes ouvertes sont un ensemble de règles conçues pour faire un travail spécifique dans la technologie. Ils sont également conçus en collaboration et libres d'utilisation. Les normes ouvertes permettent aux logiciels libres et aux logiciels exclusifs de fonctionner ensemble.
 
@@ -14,7 +14,7 @@ Les normes ouvertes sont un ensemble de règles conçues pour faire un travail s
 
 #### Interopérabilité
 
-Pour toute organisation, en particulier pour les administrations publiques, les besoins d'interopérabilité se situent à deux niveaux distincts mais qui se chevauchent, soit l'interopérabilité interne avec son propre environnement de la GI/TI et l'interopérabilité avec les environnements de la GI/TI des intervenants externes (autres administrations, le public, les entreprises, les associations), directement ou indirectement, par la disponibilité de données ouvertes.
+Pour toute organisation, en particulier pour les administrations publiques, les besoins d'interopérabilité se situent à deux niveaux distincts mais qui se chevauchent, soit l'interopérabilité interne avec ses propres technologies de l'information et de la communication (TIC) et celle avec les TIC des acteurs externes (autres administrations, le public, les entreprises, les associations), directement ou indirectement, par la disponibilité de données ouvertes.
 
 ##### Indépendance et substituabilité
 
@@ -44,7 +44,7 @@ La mise en œuvre d'une approche infonuagique en premier est une occasion unique
 
 Le [Logiciel libre](3_Logiciel_libre_Utilisation.md) (LL) est un moyen de développer et de distribuer des logiciels. Le code est souvent écrit en collaboration, et il peut être téléchargé, utilisé et modifié par n'importe qui.
 
-Le LL utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les produits de logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la « collectivité des valeurs » - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
+Le LL utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la "collectivité des valeurs" - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
 
 ### Risques et inconvénients
 
@@ -90,7 +90,7 @@ La [Norme sur l'accessibilité des sites Web du GC](https://www.tbs-sct.gc.ca/po
 
 Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fichier à utiliser pour transférer des ressources documentaires](http://www.bac-lac.gc.ca/fra/services/gestion-ressources-documentaires-gouvernement/lignes-directrices/Pages/lignes-directrices-formats-fichier-transferers-ressources-documentaires.aspx) énumèrent les formats recommandés pour les textes, présentations, courriels, images fixes, audio, vidéo, géospatial, la conception assistée par ordinateur (CAO) et les jeux de données. Le rapport de Patrimoine Canadien sur les [Éléments d'un cadre d'interopérabilité technique](https://wiki.gccollab.ca/%C3%89l%C3%A9ments_pour_un_cadre_d%27interop%C3%A9rabilit%C3%A9_technique_pour_Patrimoine_Canadien), le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) du Québec et le [Référentiel Général d'interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) de la France identifient plusieurs des mêmes normes ouvertes recommandées.
 
-[Les principes des données ouvertes du GC](https://ouvert.canada.ca/fr/principes-de-donnees-ouvertes) indique que « l'utilisation de formats communs » est l'un des principes des données ouvertes, de sorte que les jeux de données diffusés par le gouvernement du Canada soient dans des formats de fichier librement accessibles le plus souvent possible.
+[Les principes des données ouvertes du GC](https://ouvert.canada.ca/fr/principes-de-donnees-ouvertes) indique que "l'utilisation de formats communs" est l'un des principes des données ouvertes, de sorte que les jeux de données diffusés par le GC soient dans des formats de fichier librement accessibles le plus souvent possible.
 
 Services publics et Approvisionnement Canada (SPAC) a mis à l'essai le [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/) afin de démontrer l'utilisation de la norme en établissant des liens entre les phases du processus d'approvisionnement à l'aide des données provenant des approvisionnements effectués par SPAC au nom des ministères et organismes gouvernementaux. ([source](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts)).
 
@@ -111,6 +111,6 @@ Le [Conseil des normes ouvertes du Royaume-Uni](https://www.gov.uk/government/gr
 - **Échange de coordonnées** : [vCard](https://tools.ietf.org/html/rfc6350)
 - **Échange d'événements du calendrier** : [iCalendar](https://tools.ietf.org/html/rfc5545)
 
-### Guide numérique du GC
+### Guide numérique du gouvernement du Canada
 
 - [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/4-utiliser-normes-solutions-ouvertes.html)

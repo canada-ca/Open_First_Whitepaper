@@ -1,6 +1,6 @@
 [<- Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution ->](4_Open_Source_Software_Contribution.md)
 
-## Open Source Software Use
+## Open Source Software (OSS) Use
 
 - [Disambiguation](#disambiguation)
 - [History](#history)
@@ -8,16 +8,16 @@
 - [Using open source software](#using-open-source-software)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for using OSS](#best-practices-for-using-oss)
+- [Best Practices for using Open Source Software](#best-practices-for-using-open-source-software)
 - [Contributing to Open Source Software](#contributing-to-open-source-software)
 - [Preferred Open Source Software](#preferred-open-source-software)
-- [GC Digital Playbook](#gc-digital-playbook)
+- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
 
 ### Disambiguation
 
-Free software and open source software is software where the source code is distributed and can be used, copied, studied and redistributed.
+Free software and open source software (OSS) is software where the source code is distributed and can be used, copied, studied and redistributed.
 
-Free software and open source software are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
+Free software and OSS are almost equivalent but represent two different visions and neither want to be included in the other. You will find authors using "free open source software (FOSS)" or "free/Libre open source software (FLOSS)". For the purposes of this whitepaper we opted to use "open source software (OSS)" to talk about free (in the sense of freedom) software and open source software.
 
 ### History
 
@@ -35,9 +35,9 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 
 #### Licences
 
-Today, the GPL licence is in its third version (GNU GPLv3) and is only one of several dozen types of open source licences. The Open Source Initiative has approved more than 80 open source licences. These generally fall into one of two categories: permissive licences and reciprocal licences.
+Today, the GPL licence is in its third version (GNU GPLv3) and is only one of several dozen types of open source licences. The Open Source Initiative (OSI) has approved more than 80 open source licences. These generally fall into one of two categories: permissive licences and reciprocal licences.
 
-Even amongst the licences that the FSF and OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
+Even amongst the licences that the Free Software Foundation (FSF) and the OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
 
 - General disclaimers of warranty and/or liability;
 - Notice obligations, which generally require notifying downstream users of the particular OSS licence that applies to the work;
@@ -58,11 +58,11 @@ The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lis
 
 Especially on the internet, OSS has long been a cornerstone of server software. OSS web server software such as Apache and Nginx run more than 65% of the active sites on the internet according to [Netcraft February 2017 Web Server Survey](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). The OSS database server MySQL and MariaDB is widely popular, and the OSS-licensed TomCat software captures a majority of the Java application servers market. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
-Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada website at [Canada.ca](https://www.canada.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
+Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada (GC) website at [Canada.ca](https://www.canada.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
 
 #### Desktop Productivity Software
 
-Compared to server-side OSS use, institutional and business use of open source desktop software is a relatively new occurrence. However, a 2008 research paper [The Migration of Public Administrations Towards Open Source Desktop Software](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088) shows that this area of open source software has seen increased interest in recent years, especially in the public sector. For example, public administrators in the City of Paris decided to migrate 17,000 desktop computers with Microsoft Office and Microsoft Internet Explorer over to using OpenOffice.org and Mozilla Firefox. According to an [article published on the European Union's Interoperability Solutions for Public Administrations website](https://joinup.ec.europa.eu/news/french-gendarmerie-open-sou), the French Gendarmerie Nationale (national police) began by using OpenOffice on all its 90,000 PCs. In 2006 it installed web browser Mozilla Firefox and email client Mozilla Thunderbird on all PCs, followed by other OSS desktop tools, including image manipulation software Gimp and multimedia application VLC. In 2008 it implemented Ubuntu Linux on the first 5000 desktops and now have 72,000 Ubuntu Linux workstations. Although LibreOffice and Firefox are amongst the most common OSS desktop productivity applications, a broad range of applications are available.
+Compared to server-side OSS use, institutional and business use of open source desktop software is a relatively new occurrence. However, a 2008 research paper [The Migration of Public Administrations Towards Open Source Desktop Software](https://www.igi-global.com/chapter/migration-public-administrations-towards-open/10088) shows that this area of OSS has seen increased interest in recent years, especially in the public sector. For example, public administrators in the City of Paris decided to migrate 17,000 desktop computers with Microsoft Office and Microsoft Internet Explorer over to using OpenOffice.org and Mozilla Firefox. According to an [article published on the European Union's Interoperability Solutions for Public Administrations website](https://joinup.ec.europa.eu/news/french-gendarmerie-open-sou), the French Gendarmerie Nationale (national police) began by using OpenOffice on all its 90,000 PCs. In 2006 it installed web browser Mozilla Firefox and email client Mozilla Thunderbird on all PCs, followed by other OSS desktop tools, including image manipulation software Gimp and multimedia application VLC. In 2008 it implemented Ubuntu Linux on the first 5000 desktops and now have 72,000 Ubuntu Linux workstations. Although LibreOffice and Firefox are amongst the most common OSS desktop productivity applications, a broad range of applications are available.
 
 #### Specialty Software
 
@@ -74,15 +74,15 @@ As one example within the specialty area of geomatics, [MapServer](http://mapser
 
 All [OSS licences](9_Annex_Legal.md#licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
 
-However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the "NRC Open Source Software Guidelines" (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
+However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the "NRC OSS Guidelines" (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
 
 #### Internal Distribution
 
-The scenario of “use without distribution” (i.e., the context which does not engage reciprocal licensing obligations) is relatively broad in scope. In general, internal distribution within a business or organization does not constitute a legal “distribution” or “conveyance” and does not implicate reciprocal licensing obligations. For example, the GPL considers distribution as “any kind of propagation that enables other parties to make or receive copies”. A corporation is only a single legal party and can make, modify and distribute OSS to its employees without engaging additional obligations.
+The scenario of "use without distribution" (i.e., the context which does not engage reciprocal licensing obligations) is relatively broad in scope. In general, internal distribution within a business or organization does not constitute a legal "distribution" or "conveyance" and does not implicate reciprocal licensing obligations. For example, the GPL considers distribution as "any kind of propagation that enables other parties to make or receive copies". A corporation is only a single legal party and can make, modify and distribute OSS to its employees without engaging additional obligations.
 
-Given that separate government departments operate semi-autonomously, there is a possible argument that the different departments constitute different “parties”. However, this interpretation is unlikely. Such an understanding would be incongruent with the general legal understanding of a federal or provincial Crown as being a single legal entity. A 2005 research paper [Legal Issues for the Use of Free and Open Source Software in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) show that Eben Moglen, general counsel for the FSF, which typically promotes a strong and wide understanding of distribution, takes the view that “federal Government agencies may share free software without making a ‘distribution’“.
+Given that separate government departments operate semi-autonomously, there is a possible argument that the different departments constitute different "parties". However, this interpretation is unlikely. Such an understanding would be incongruent with the general legal understanding of a federal or provincial Crown as being a single legal entity. A 2005 research paper [Legal Issues for the Use of Free and OSS in Government](http://www.austlii.edu.au/au/journals/MelbULawRw/2005/13.html) show that Eben Moglen, general counsel for the FSF, which typically promotes a strong and wide understanding of distribution, takes the view that "federal Government agencies may share free software without making a ‘distribution’".
 
-However, distribution between the different legal entities of the federal crown and a provincial crown, or between provincial crowns, almost certainly constitutes “distribution”.
+However, distribution between the different legal entities of the federal crown and a provincial crown, or between provincial crowns, almost certainly constitutes "distribution".
 
 ### Benefits
 
@@ -94,7 +94,7 @@ Using OSS allows for product customization, advances interoperability between to
 
 #### Avoiding Lock-in
 
-When a closed-source software application becomes entrenched into an organization’s or business’s processes or products, the organization becomes beholden, or “locked-in”, to that software vendor for any new features, for bug fixes, and in many cases, for receiving product support. Where a vendor is unwilling to implement a new feature, you may need to switch to an alternative – often at considerable cost. Where a particular vendor is slow to provide bug fixes or support, this can adversely affect your own timelines and may also impose a security risk.
+When a closed-source software application becomes entrenched into an organization’s or business’s processes or products, the organization becomes beholden, or "locked-in", to that software vendor for any new features, for bug fixes, and in many cases, for receiving product support. Where a vendor is unwilling to implement a new feature, you may need to switch to an alternative – often at considerable cost. Where a particular vendor is slow to provide bug fixes or support, this can adversely affect your own timelines and may also impose a security risk.
 
 OSS provides an advantage in that it creates [open markets](5_Open_Markets.md) for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines.
 
@@ -112,15 +112,15 @@ The code created by public administration belongs to the public. By developing O
 
 The total cost of ownership for using any software application involves three over-arching categories of expenses: (1) up-front licensing and implementation costs, (2) on-going maintenance and support costs, and (3) software upgrade or transition costs.
 
-When using OSS, the up-front licensing cost is zero (aside from internal costs of assessing the software and the licence). A OSS licence is always “open” and granted to the world, in that it licenses everyone to use the software without any fees due. Moreover, due to the fact that OSS licences grant everyone the right to redistribute the software, nearly all OSS packages are available for free download over the internet.
+When using OSS, the up-front licensing cost is zero (aside from internal costs of assessing the software and the licence). A OSS licence is always "open" and granted to the world, in that it licenses everyone to use the software without any fees due. Moreover, due to the fact that OSS licences grant everyone the right to redistribute the software, nearly all OSS packages are available for free download over the internet.
 
 As well, OSS software often incurs lower on-going maintenance costs. With closed-source software, the vendor and its select business partners are quite often the only businesses able to provide adequate support (either because the software licence grants the vendor an exclusive support contract, or due to the vendor's specialized expertise with the software and its sole ability to examine and work with the source code). This can potentially undermine competitive tendering and, in some cases, result in poor support with no available alternative. OSS, on the other hand, permits anyone to install, fix, and otherwise support the software. This can allow for a more competitive tendering of support services amongst firms. With respect to software upgrades, some closed-source vendors require licensees to purchase a new licence, or pay an upgrade fee, for new versions of the software. For OSS, on the other hand, no new licence is necessary to start using a new version of the software.
 
-The flexibility of OSS enables rapid response to changing missions and markets as well as rapid provisioning of both known and unanticipated users. Being scalable in both directions leads to a risk reduction of longer term financial implications (and potential redundant licences). Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the Government of Canada.
+The flexibility of OSS enables rapid response to changing missions and markets as well as rapid provisioning of both known and unanticipated users. Being scalable in both directions leads to a risk reduction of longer term financial implications (and potential redundant licences). Support and maintenance of OSS - as opposed to more burdensome usages of proprietary software - provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely the GC.
 
 #### Security
 
-One of the most misunderstood aspects of the Open Source Software (OSS) development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
+One of the most misunderstood aspects of the OSS development model is the security benefits it offers. OSS security relies on genuinely hardened code that is tested by a large number of reviewers in a wide variety of circumstances. Linus Torvalds simply noted, "talk is cheap, show me the code."
 
 When using OSS, all of the source code is openly published. This makes it difficult for anyone to surreptitiously insert malicious code. It also allows security auditors and security researchers to inspect the code for flaws. While software security is a concern for all entities, it is of paramount importance to governments. For this reason, defence and national security agencies very often use OSS. As shown in the 2008 research paper [Open Source Technology and Policy](http://www.cambridge.org/gb/academic/subjects/computer-science/computing-and-society/open-source-technology-and-policy#reAzLTMdGB0YmGoC.97) gives the example of extensive use of OSS within U.S. D.o.D. and NSA and explain the security benefits:
 >  A key factor in the attractiveness of open software in security (and national security) applications is its auditability. It is obviously harder to conceal things in open source code, while, conversely, governments may have reason to be leery of what may lurk inside proprietary code...In the U.S. context, the major proprietary vendor Microsoft is a domestic corporation, so at least the government can be expected to work out disclosure mechanisms with the vendor. However, this is a less likely scenario for foreign-held entities. For example, is Microsoft likely to disclose proprietary code to the government of Venezuela because that government wants to scrutinize Microsoft applications for security flaws or traps?
@@ -184,9 +184,9 @@ User familiarity with OSS software packages is often much lower than with closed
 
 #### Security
 
-Because all of the source code of OSS is openly published, anyone – including “black hat hackers” – can examine the code for security holes. In particular, malicious attackers can observe where OSS software shares the same design, code base, or architecture as software that may have known security vulnerabilities. ([source](https://www.igi-global.com/book/handbook-research-open-source-software/494))
+Because all of the source code of OSS is openly published, anyone – including "black hat hackers" – can examine the code for security holes. In particular, malicious attackers can observe where OSS software shares the same design, code base, or architecture as software that may have known security vulnerabilities. ([source](https://www.igi-global.com/book/handbook-research-open-source-software/494))
 
-Of course, one must weigh this drawback against the aforementioned security benefits. In many cases, malicious hackers can still obtain access to the source code of closed-source software where non-disclosure agreements, company ethics procedures, or vendor security mechanisms fail. Or they can disassemble the closed binary and analyze it to identify potential flaws. Whereas closed-source software security depends on an attempt to maintain an information imbalance between the “white hats” (computer security analysts) and the “black hats” (malicious computer hackers), OSS software security depends upon an open competitive process of finding and closing security holes. The models rely on different strategies, and each has its particular risks that an organization must weigh and consider.
+Of course, one must weigh this drawback against the aforementioned security benefits. In many cases, malicious hackers can still obtain access to the source code of closed-source software where non-disclosure agreements, company ethics procedures, or vendor security mechanisms fail. Or they can disassemble the closed binary and analyze it to identify potential flaws. Whereas closed-source software security depends on an attempt to maintain an information imbalance between the "white hats" (computer security analysts) and the "black hats" (malicious computer hackers), OSS software security depends upon an open competitive process of finding and closing security holes. The models rely on different strategies, and each has its particular risks that an organization must weigh and consider.
 
 #### Loss of Control over Software Management
 
@@ -206,7 +206,7 @@ Large system integrators may be reluctant to propose open source solutions which
 
 Some open source projects evolve rapidly with short release cycles, which can require more work to deploy the updates to the users. On the other side, some projects can have a very slow rate of change attributed by a lack of participation by the community (users, vendors...). This is why it is important to carefully assess the level of activity of a given community if we envision relying on it in some ways.
 
-### Best Practices for using OSS
+### Best Practices for Using Open Source Software
 
 #### Software Evaluation and Procurement
 
@@ -230,7 +230,7 @@ The [OpenHub](https://www.openhub.net/) Website provides many useful metrics to 
 
 In making software procurement decisions, it is common practice to assess OSS on equal footing with closed-source software (examples..). Starting from a list of business requirements, a government organization or business can assess how well the feature set of a OSS software package matches the requirements, and calculate the overall cost-per-feature over the required lifetime of the software.
 
-This type of assessment provides a useful starting point. However, several interviewees reported difficult experiences in making “apples-to-apples” comparisons between OSS and closed- source software. Although an assessment of the total cost of ownership is feasible for both, it is difficult to account for factors such as benefits to the public (e.g., overall economic efficiency, support for local businesses, etc.).
+This type of assessment provides a useful starting point. However, several interviewees reported difficult experiences in making "apples-to-apples" comparisons between OSS and closed- source software. Although an assessment of the total cost of ownership is feasible for both, it is difficult to account for factors such as benefits to the public (e.g., overall economic efficiency, support for local businesses, etc.).
 
 Compounding this difficulty, established software procurement and service tendering processes are sometimes tailored towards closed-source solutions. The processes are not always flexible enough to properly assess and address OSS solutions. For example, a procurement process may first involve a call for tenders on the initial licensing contract. Here, OSS-based businesses are not likely to bid, as they have no licences to sell. Where the next stage of a procurement process would call for tenders on support services, OSS-based support businesses may already be closed out. Closed-source software vendors often prohibit anyone else from servicing or providing support for their product, thereby barring OSS-based businesses from the whole process. ([source](http://www.cbc.ca/news/technology/an-open-door-for-open-source-1.810739))
 
@@ -280,11 +280,11 @@ Engagement sources: Project sites, repositories (i.e. GitHub), mailing lists, fo
 
 ##### Vendor
 
-The majority of major open source software packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distributions.
+The majority of major OSS packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distributions.
 
 Engaging third parties for source code level support may lead to branching from the software distribution of the mainline community/vendor. To maintain the branched version of the software requires additional effort, technical expertise and resources. Therefore, it is prudent to use community supported version. There are companies who provide "enterprise" editions of the community software that they maintain, and those editions often come with options for SLA-based support and training. There's also organizations who can help us build the support infrastructure we need internally, or even provide that support team for us. Though these options aren't free, it's worth mentioning that numerous studies have confirmed the financial benefits of OSS in a business setting, even with paid support. OSS plus paid support does not exceed the price of paid software plus paid support. It's just simple math. When juxtaposed to the license costs associated with supporting a sophisticated commercial infrastructure, or the hiring costs associated with building and maintaining an internal support team, the ROI is generally substantial.
 
-Since the source code for open source software is freely available by definition, this means we don't have to restrict ourselves to choosing between the support offerings of companies that supply support contracts. We can be proactive and put your exact support requirements out to tender. By selecting the right commercial provider as an architectural partner in our development endeavors surrounding open source, we can obtain both the freedom and flexibility gained from adopting free software, and the peace of mind that comes with commercial-grade enterprise support. The major motivation for adopting OSS is to have multiple choices for the software solutions and more competition amongst service providers but without any lock-in or loss of intellectual property (IP). If any support model creates the lock-in or loss of IP under the name of OSS, the main purpose for opting OSS is nullified.
+Since the source code for OSS is freely available by definition, this means we don't have to restrict ourselves to choosing between the support offerings of companies that supply support contracts. We can be proactive and put your exact support requirements out to tender. By selecting the right commercial provider as an architectural partner in our development endeavors surrounding open source, we can obtain both the freedom and flexibility gained from adopting free software, and the peace of mind that comes with commercial-grade enterprise support. The major motivation for adopting OSS is to have multiple choices for the software solutions and more competition amongst service providers but without any lock-in or loss of intellectual property (IP). If any support model creates the lock-in or loss of IP under the name of OSS, the main purpose for opting OSS is nullified.
 
 ##### Mixing Support models
 
@@ -303,7 +303,7 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 
 ##### Migration
 
-- Moderate the pace of migration, avoiding a “big bang” approach (e.g., first institute voluntary adoption to cultivate a base of experienced users who can then assist their colleagues);
+- Moderate the pace of migration, avoiding a "big bang" approach (e.g., first institute voluntary adoption to cultivate a base of experienced users who can then assist their colleagues);
 - Provide a transition phase where users have access to both existing software and the open source alternative;
 - Secure the support of top management;
 - Create a positive attitude with users.
@@ -326,13 +326,13 @@ For more details on legal risk management and other legal issues, see: [Annex A 
 
 Licence interoperability is rarely an issue for mere OSS use, as long as there is no distribution of the software. As previously discussed, generally the only licence obligations that one must accept and follow in the case of mere use are a disclaimer of warranty and disclaimer of liability. Even when software from multiple sources is modified and combined under multiple licences, these disclaimers are never likely to conflict. Disclaimers impose only a passive obligation – that is, they do not require you to take any particular action or forebear from any particular action. A licensee need only accept the legal risk imposed.
 
-Although licence interoperability is not a concern for OSS use, format and data interoperability can affect decisions on whether or not to use OSS. To assess the interoperability of data, it is important to conduct a case-by-case analysis. Closed-source software can still implement widely-interoperable “open standards” for data. By the same token, OSS may in some cases use specialized non published and non-open standards for storing data.
+Although licence interoperability is not a concern for OSS use, format and data interoperability can affect decisions on whether or not to use OSS. To assess the interoperability of data, it is important to conduct a case-by-case analysis. Closed-source software can still implement widely-interoperable "open standards" for data. By the same token, OSS may in some cases use specialized non published and non-open standards for storing data.
 
-However, cultural tendencies and the dynamics of the OSS business model tend to drive OSS projects towards the use of interoperable and [Open Standards](2_Open_Standards.md) for reading, writing and storing data. Indeed, even where OSS does not implement an open standard for data interchange, at the very least the availability of the source code always provides an “open implementation”. The source code serves as an example that anyone else can follow to implement the same functionality for reading and writing the underlying data format.
+However, cultural tendencies and the dynamics of the OSS business model tend to drive OSS projects towards the use of interoperable and [Open Standards](2_Open_Standards.md) for reading, writing and storing data. Indeed, even where OSS does not implement an open standard for data interchange, at the very least the availability of the source code always provides an "open implementation". The source code serves as an example that anyone else can follow to implement the same functionality for reading and writing the underlying data format.
 
 ### Contributing to Open Source Software
 
-See [Open Source Code](4_Open_Source_Software_Contribution.md).
+See [Open Source Software Contribution](4_Open_Source_Software_Contribution.md).
 
 ### Preferred Open Source Software
 
@@ -342,6 +342,6 @@ To achieve maximum benefits both economically and in terms of quality, OSS shoul
 
 The list of OSS used is currently available on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
-### GC Digital Playbook
+### Government of Canada Digital Playbook
 
 - [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html)
