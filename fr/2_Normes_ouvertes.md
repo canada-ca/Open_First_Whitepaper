@@ -2,13 +2,45 @@
 
 ## Normes ouvertes
 
+- [Interopérabilité](#interopérabilité)
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
 - [Pratiques exemplaires pour l'adoption de normes ouvertes](#pratiques-exemplaires-pour-l-adoption-de-normes-ouvertes)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
 - [Guide numérique du gouvernement du Canada](#guide-numérique-du-gouvernement-du-canada)
 
-Les normes ouvertes sont un ensemble de règles conçues pour faire un travail spécifique dans la technologie. Ils sont également conçus en collaboration et libres d'utilisation. Les normes ouvertes permettent aux logiciels libres et aux logiciels exclusifs de fonctionner ensemble.
+Les normes ouvertes sont un ensemble de règles conçues pour faire un travail spécifique dans la technologie. Les normes ouvertes désignent les formats de fichier, les protocoles et les interfaces d'application qui peuvent être mis en oeuvre par toute personne (dans le cadre de logiciels libres et de logiciels exclusifs) puisque les spécifications sont disponibles gratuitement et que leur élaboration et leur normalisation sont ouvertes et transparentes. Ce travail de normalisation est effectué par des organismes spécialisés qui sont habituellement soit des organismes gouvernementaux ou des organismes créés par des professionnels d'un secteur industriel donné. Le Groupe de travail IETF, l'Organisation internationale de normalisation (ISO) et l'Organisation pour l'avancement des normes sur l'information structurée (OASIS) en sont des exemples.
+
+La définition exacte des normes ouvertes peut varier d'une administration à l'autre, mais il y a un haut niveau de convergence dans le [Référentiel Général d'interopérabilité] de la France  (http://references.modernisation.gouv.fr/interoperabilite) (RGI), le [Cadre commun d'interopérabilité du gouvernement du Québec](https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) (CCIGQ), le [Cadre d'interopérabilité européen](https://ec.europa.eu/isa2/eif_en) (CIE) et les [Principes de normes ouvertes](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard-definition) du Bureau du Cabinet britannique.
+
+Inspirés par les quatre documents stratégiques, les critères suivants définissent les normes ouvertes :
+
+- le processus d'élaboration de la norme est ouvert et transparent pour toutes les parties intéressées et ne peut pas être contrôlé par une seule personne ou entité ayant des intérêts particuliers;
+- une plateforme indépendante, neutre et utilisable pour de multiples mises en oeuvre;
+- les spécifications et le matériel de soutien sont disponibles gratuitement, sous réserve de restrictions limitées;
+- les normes sont appuyées par la collectivité et elles font preuve d'indépendance ou d'une procédure régulière approuvée par un consensus approximatif entre les participants.
+
+### Interopérabilité
+
+La capacité des organisations à interagir en vue d'atteindre des objectifs mutuellement bénéfiques, et compte la mise en commun de renseignements et de connaissances entre ces organisations, à travers les processus opérationnels qu'elles appuient, au moyen de l'échange de données entre leurs systèmes des TIC. L'interopérabilité est une capacité que possède un produit ou un système, dont les interfaces sont intégralement connues, à fonctionner avec d'autres produits ou systèmes existants ou futurs et ce sans restriction d'accès ou de mise en oeuvre.
+
+Cette définition est aussi un rappel du lien vital entre l'interopérabilité et les normes ouvertes. Les interfaces précisées font l'objet de processus de normalisation afin que l'émergence et le maintien de références courantes et documentées soit assurés.
+
+Le fond de la question n'est pas seulement technique; il repose aussi sur un ensemble de préoccupations à différents niveaux. Le [CIE](https://ec.europa.eu/isa2/eif_en) les définit comme suit :
+
+- **La gouvernance de l'interopérabilité** s'entend des décisions relatives aux cadres d'interopérabilité, aux dispositions institutionnelles, aux structures organisationnelles, aux rôles et responsabilités, aux politiques, aux accords et à d'autres aspects du maintien et du suivi de l'interopérabilité aux niveaux national et européen.
+- **L'interopérabilité juridique** veille à ce que les organisations opérant sous différents cadres juridiques, politiques et stratégies puissent travailler ensemble.
+- **L'interopérabilité organisationnelle** désigne la façon dont les administrations publiques harmonisent leurs processus opérationnels, leurs responsabilités et leurs attentes pour atteindre des objectifs communs et mutuellement bénéfiques.
+- **L'interopérabilité sémantique** veille à ce que le format et le sens précis des données et de l'information échangées soient préservés et compris tout au long des échanges entre les parties, autrement dit « ce qui est envoyé est ce qui est compris ». Dans le [CIE](https://ec.europa.eu/isa2/eif_en), l'interopérabilité sémantique couvre les aspects sémantiques et syntaxiques.
+- **L'interopérabilité technique** couvre les applications et les infrastructures reliant les systèmes et les services. Les aspects de l'interopérabilité technique comprennent les spécifications des interfaces, les services d'interconnexion, les services d'intégration de données, la présentation et l'échange de données et les protocoles de communication sécurisés.
+
+#### Interopérabilité interne
+
+L'interopérabilité interne est beaucoup plus axée sur la dimension technique. Il faut porter une attention particulière à sa définition pour veiller à ce qu'elle reflète fidèlement les attentes associées au terme, particulièrement en termes d'indépendance - le terme souveraineté est parfois utilisé - et de neutralité.
+
+Les anciens systèmes constituent un obstacle majeur à l'interopérabilité. Historiquement, les applications et les systèmes d'information des administrations publiques ont été développés de façon ascendante, en essayant de résoudre des problèmes locaux et spécifiques au domaine. Il en est résulté une GI/TI fragmentée qui est difficile à interopérer. En raison de la taille de l'administration publique et de la fragmentation des solutions de GI/TI, la pléthore de systèmes existants crée un obstacle supplémentaire à l'interopérabilité dans la couche technique.
+
+L'interopérabilité technique devrait être assurée, dans la mesure du possible, par l'utilisation de normes ouvertes.
 
 ### Avantages
 
@@ -50,7 +82,7 @@ Le LL utilise habituellement ou contribue à définir les normes ouvertes et les
 
 #### Standards Proliferation
 
-Les normes sont créées pour répondre à des besoins spécifiques et la prolifération des normes concurrentes peut augmenter le temps nécessaire pour sélectionner le bon de réduire les problèmes dans la gestion à long terme des données, des informations et des applications. La co-création de normes peut prendre du temps et l’émergence de nouvelles normes s'il n’est pas possible de parvenir à un accord entre les parties prenantes peut augmenter le risque de passer à une autre norme, le marché élargi pouvant prendre une direction différente.
+Les normes sont créées pour répondre à des besoins spécifiques et la prolifération des normes concurrentes peut augmenter le temps nécessaire pour sélectionner le bon de réduire les problèmes dans la gestion à long terme des données, des informations et des applications. La co-création de normes peut prendre du temps et l'émergence de nouvelles normes s'il n'est pas possible de parvenir à un accord entre les parties prenantes peut augmenter le risque de passer à une autre norme, le marché élargi pouvant prendre une direction différente.
 
 ### Pratiques exemplaires pour l'adoption de normes ouvertes
 

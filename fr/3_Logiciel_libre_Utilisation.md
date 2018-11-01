@@ -2,7 +2,7 @@
 
 ## Logiciels libres - Utilisation
 
-- [Désambiguïsation](#désambiguïsation)
+- [Définitions](#définitions)
 - [Historique](#historique)
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Utilisation des logiciels libres](#utilisation-des-logiciels-libres)
@@ -13,9 +13,21 @@
 - [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
 - [Guide numérique du gouvernement du Canada](#guide-numérique-du-gouvernement-du-canada)
 
-### Désambiguïsation
+### Définitions
 
-Les logiciels libres (LL) et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué.
+#### Logiciels libres
+
+Les logiciels libre sont des logiciels qui respectent la liberté et la collectivité des utilisateurs. Le terme « libre » ("free" en anglais) est davantage une question de liberté que de prix, car il fait référence à la liberté des utilisateurs.
+
+Le terme « logiciel libre » a d'abord été proposé par Richard Stallman et défendu par la _Free Software Foundation_ (FSF). Le logiciel libre est défini par [quatre libertés essentielles](https://www.gnu.org/philosophy/free-sw.fr.html) : La liberté d'exécuter le programme, la liberté d'étudier son fonctionnement, la liberté de le modifier et la liberté de le redistribuer. L'accès au code source est une condition préalable de ces libertés; il ne constitue pas le but ultime en soi.
+
+#### Logiciel à source ouverte
+
+Logiciel dont le code source est rendu disponible avec une licence dans laquelle le titulaire du droit d'auteur donne les droits d'étudier, de modifier et de distribuer le logiciel à n'importe qui et à n'importe quelle fin.
+
+Le terme utilisé par l'_Open Source Initiative_ (OSI). La [définition du logiciel à source ouverte](https://opensource.org/docs/osd) s'appuie sur dix critères.
+
+#### Désambiguïsation
 
 Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes "logiciels libres et à source ouverte" (FOSS, pour _free open source software_ ou FLOSS, pour _free/libre open source software_). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme "logiciels libres (LL)" pour englober les termes "logiciel libre" et "logiciels à source ouverte".
 
@@ -27,17 +39,19 @@ Les licences d'utilisation de logiciels (libres ou exclusives) tirent leur origi
 
 Après l'abrogation du décret de consentement par le département de la Justice des États-Unis en 1983, AT&T a commercialisé Unix en tant que produit exclusif et adopté des conditions de licence plus restrictives. Pendant ce temps, il y a eu l'avènement des micro-ordinateurs (ou ordinateurs personnels) dans les années 1980, ce qui a conduit à une normalisation des logiciels. Cette normalisation a ensuite incité les entreprises à distribuer leurs logiciels sous forme binaire seulement parce que les utilisateurs avaient moins besoin d'examiner ou de corriger le code source. La licence exclusive est donc devenue le modèle dominant pour l'octroi de licences de logiciels.
 
-À la suite de ce changement, Richard Stallman et le projet GNU ont commencé la conception d'un système d'exploitation offrant une alternative libre à UNIX. À la même période environ, la Free Software Foundation (FSF) a été créée pour promouvoir l'utilisation de LL. Le système d'exploitation avait à la fois besoin du noyau et des outils nécessaires à l'installation, à l'exécution et au développement de programmes. Le projet GNU a mis au point les outils, mais il manquait un noyau fonctionnel. C'est à ce moment que Linus Torvalds, un adolescent finlandais, a développé le premier noyau Linux dans le cadre d'un projet scolaire.
+À la suite de ce changement, Richard Stallman et le projet GNU ont commencé la conception d'un système d'exploitation offrant une alternative libre à UNIX. À la même période environ, la FSF a été créée pour promouvoir l'utilisation de LL. Le système d'exploitation avait à la fois besoin du noyau et des outils nécessaires à l'installation, à l'exécution et au développement de programmes. Le projet GNU a mis au point les outils, mais il manquait un noyau fonctionnel. C'est à ce moment que Linus Torvalds, un adolescent finlandais, a développé le premier noyau Linux dans le cadre d'un projet scolaire.
 
 L'ensemble du noyau Linux et des outils GNU, communément appelé "Linux", a été publié dans le cadre de la [licence publique générale GNU](https://www.gnu.org/licenses/gpl-3.0.fr.html) (GPL), un modèle de licence créé par le projet GNU. La licence GPL a accordé aux bénéficiaires des droits illimités de redistribution du logiciel à condition que le code source ne puisse pas être tenu secret. Avec la popularité croissante de Linux, de ses milliers de contributeurs et de ses milliards d'utilisateurs, l'industrie a appris à suivre et à adopter les modalités de la licence GPL. Vers la fin des années 1990, la licence GPL et le paradigme des licences libres ont gagné en popularité et reçu un accueil largement favorable à l'échelle de l'industrie.
 
 ### Propriété intellectuelle
 
+La propriété intellectuelle est une catégorie de propriété qui comprend les créations intangibles de l'intellect humain et englobe principalement les droits d'auteur, les brevets et les marques de commerce. Elle comprend également d'autres types de droits, comme les secrets commerciaux, les droits de publicité, les droits moraux et les droits contre la concurrence déloyale.
+
 #### Licences
 
-Aujourd'hui, la licence GPL en est à sa troisième version (GNU GPLv3) et elle n'est qu'un des nombreux types de licences libres. La _Open Source Initiative_ (OSI) a approuvé plus de 80 licences libres. Ces licences appartiennent habituellement à l'une de deux catégories suivantes : les licences permissives et les licences réciproques.
+Aujourd'hui, la licence GPL en est à sa troisième version (GNU GPLv3) et elle n'est qu'un des nombreux types de licences libres. L'OSI a approuvé plus de 80 licences libres. Ces licences appartiennent habituellement à l'une de deux catégories suivantes : les licences permissives et les licences réciproques.
 
-Même parmi les licences que la _Free Software Foundation_ (FSF) et l'OSI approuvent parce qu'elles possèdent les caractéristiques de base du LL, les modalités et les obligations varient grandement. On observe toutefois plusieurs catégories de clauses courantes :
+Même parmi les licences que la FSF et l'OSI approuvent parce qu'elles possèdent les caractéristiques de base du LL, les modalités et les obligations varient grandement. On observe toutefois plusieurs catégories de clauses courantes :
 
 - les avis généraux sur l'exonération de garantie ou la non-responsabilité;
 - les obligations de notification, qui exigent généralement d'aviser les utilisateurs en aval de la licence de LL qui s'applique à l'oeuvre;

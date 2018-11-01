@@ -2,7 +2,7 @@
 
 ## Open Source Software (OSS) Use
 
-- [Disambiguation](#disambiguation)
+- [Definitions](#definitions)
 - [History](#history)
 - [Intellectual property](#intellectual-property)
 - [Using open source software](#using-open-source-software)
@@ -13,7 +13,21 @@
 - [Preferred Open Source Software](#preferred-open-source-software)
 - [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
 
-### Disambiguation
+### Definitions
+
+#### Free Software
+
+Free software is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom.
+
+Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF). Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html). The freedom to run the program, study how it works, modify it and redistribute it. Access to the source code is a precondition for these freedoms and not the end goal itself.
+
+#### Open Source Software
+
+Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+
+The name used by the Open Source Initiative. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
+
+#### Disambiguation
 
 Free software and open source software (OSS) is software where the source code is distributed and can be used, copied, studied and redistributed.
 
