@@ -1,4 +1,4 @@
-[« Previous Page : Open Standards](8_Définitions.md) | [Table of Contents](../README.md#table-of-contents)
+[« Previous Page : Prochaines étapes](7_Prochaines_étapes.md) | [Table of Contents](../README.md#table-of-contents)
 
 ## Annex A - Legal
 
