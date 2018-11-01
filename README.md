@@ -19,7 +19,7 @@ We want to learn as much as possible from Canadians, our partners, academics and
 5. [Open Markets](en/5_Open_Markets.md)
 6. [Open Culture](en/6_Open_Culture.md)
 7. [Next Steps](en/7_Next_Steps.md)
-8. [Definitions](en/8_Definitions.md)
+8. [Legal Annex](en/Annex_Legal.md)
 
 ## How to Contribute
 
@@ -48,7 +48,7 @@ Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos
 5. [Marchés ouverts](fr/5_Marchés_ouverts.md)
 6. [Culture ouverte](fr/6_Culture_ouverte.md)
 7. [Prochaines étapes](fr/7_Prochaines_étapes.md)
-8. [Définitions](fr/8_Définitions.md)
+8. [Annexe légale](fr/Annexe_légale.md)
 
 ## Comment contribuer
 

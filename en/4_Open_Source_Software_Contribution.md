@@ -26,7 +26,7 @@ Developers who contribute to OSS and distribute it come from wide and varied env
 
 #### Copyright
 
-[Licence](9_Annex_Legal.md) and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by GC employees during work hours is Copyright (c) Crown Copyright, GC.
+Licence and copyright are two separate things. In some cases the licence may grant additional rights to the copyright holder(s). Work done by GC employees during work hours is Copyright (c) Crown Copyright, GC.
 
 As well, certain OSS third-party projects require contributors to assign their contribution's ownership to the project, through the use of Copyright Assignment Agreements. In order for an employee of the GC to contribute code to such projects, further analysis will be required.
 
@@ -161,7 +161,7 @@ Some security considerations to keep in mind when developing software:
 
 You must publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, Canadian Digital Service (CDS) uses the MIT licence. All code produced by civil servants is automatically covered by Crown Copyright.
 
-You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on [Managing Licence Obligations](9_Annex_Legal.md#managing-licence-obligations). As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
+You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on [Managing Licence Obligations](Annex_Legal.md#managing-licence-obligations). As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
 
 Where you distribute a project consisting entirely of your own code, or consisting of your own code along with permissively-licenced code and code which does not engage reciprocal obligations, you can choose the OSS licence yourself. The licence you choose should reflect your business requirements. All common OSS licences can be adopted for works by government, industry, or the education sector - you need to look at particular project aims.
 

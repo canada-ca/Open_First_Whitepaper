@@ -60,7 +60,7 @@ Même parmi les licences que la FSF et l'OSI approuvent parce qu'elles possèden
 
 On retrouve les deux premiers types de clauses, soit les avis et les obligations de notification, dans presque toutes les licences de LL. En fait, la [licence BSD à deux clauses](https://opensource.org/licenses/BSD-2-Clause), courte et populaire, contient à peine plus que ces deux obligations. D'autres licences plus vastes, comme la licence GPL, contiennent des clauses qui énoncent ces quatre obligations.
 
-Pour plus de détails sur les clauses de licences et d'autres questions juridiques, voir: [Annexe A - Légale](9_Annexe_Légale.md)
+Pour plus de détails sur les clauses de licences et d'autres questions juridiques, voir: [Annexe Légale](Annexe_légale.md)
 
 ### Utilisation des logiciels libres
 
@@ -86,7 +86,7 @@ De nombreux services publics et applications libres desservent un secteur d'acti
 
 #### Modification interne
 
-Toutes les [licences](9_Annexe_Légale.md#licences) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
+Toutes les [licences](Annexe_légale.md#licences) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
 
 Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les "Lignes directrices sur les LL du CNRC" (disponibles sur GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
 
@@ -231,7 +231,7 @@ En général, les mêmes facteurs qui s'appliquent à l'évaluation de l'ensembl
 - **communauté** Une forte communauté d'utilisateurs participant à un projet permet aux gens de répondre aux questions, de tester les logiciels, de signaler les bogues, de suggérer des améliorations et de susciter un intérêt général pour les logiciels.
 - **Activité de publication** Une forte communauté de développeurs ayant des antécédents de publication et une participation continue tend à démontrer que les correctifs et les améliorations aux logiciels se poursuivront à l'avenir.
 - **Longévité** La longévité, mesurée en fonction de l'âge du produit et du nombre de versions publiées, indique la stabilité et les chances de survie d'un projet.
-- **Licence** Le logiciel est disponible pour une réutilisation en vertu d'une licence de LL, et le code se trouve dans un dépôt de codes communs. La licence d'un projet peut avoir une incidence sur le niveau de risque juridique que vous devez assumer (voir [Gestion des risques juridiques](9_Annexe_Légale.md#gestion-des-risques-juridique)).
+- **Licence** Le logiciel est disponible pour une réutilisation en vertu d'une licence de LL, et le code se trouve dans un dépôt de codes communs. La licence d'un projet peut avoir une incidence sur le niveau de risque juridique que vous devez assumer (voir [Gestion des risques juridiques](Annexe_légale.md#gestion-des-risques-juridique)).
 - **Disponibilité du soutien** Les considérations de soutien comprennent le soutien aux utilisateurs (c.-à-d. la disponibilité de l'aide pour l'installation et l'utilisation) et la maintenance (c.-à-d. la résolution des problèmes dans le logiciel). Le soutien des LL peut être fourni par la communauté ou les entreprises de services de soutien rémunérés.
 - **Documentation** La documentation de l'utilisateur fournit des renseignements importants pour aider les utilisateurs à installer le logiciel et à utiliser ses fonctions.  La documentation technique fournit les exigences et les instructions pour l'installation, le développement, le déploiement et la configuration du logiciel.
 - **Sécurité** Bien que le code des LL soit vérifiable, cela ne signifie pas nécessairement qu'il est sécurisé. La qualité du code et le temps de réponse habituel pour corriger les lacunes de sécurité aident à indiquer le niveau de sécurité du logiciel.
@@ -302,7 +302,7 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 
 Dans l'ensemble, il est peu probable qu'une licence de LL influe fortement sur la décision d'utiliser ou non des LL. Comme on l'a mentionné précédemment, une simple utilisation de LL déclenche peu d'obligations relatives aux licences. Plus important encore, les obligations réciproques en matière de licence ne s'appliquent pas. Dans ce contexte, seulement trois caractéristiques des licences de LL ont tendance à être très différentes des licences exclusives, et il faut s'y attarder : (1) l'absence de garantie; 2) l'avis de non-responsabilité et d'absence d'indemnisation; et (3) l'absence de clause de compétence législative ou de clause attributive de compétence.
 
-Pour plus de détails sur la gestion des risques et d'autres questions juridiques, voir: [Annexe A - Légale](9_Annexe_Légale.md)
+Pour plus de détails sur la gestion des risques et d'autres questions juridiques, voir: [Annexe légale](Annexe_légale.md)
 
 #### Interopérabilité et harmonisation des licences
 

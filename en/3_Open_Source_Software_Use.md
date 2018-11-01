@@ -60,7 +60,7 @@ Even amongst the licences that the Free Software Foundation (FSF) and the OSI ap
 
 The first two types of clauses - disclaimers and notice obligations – are present in nearly every OSS licence. In fact, the short and popular [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause) contains little more than these two bare obligations. Other more expansive licences, such as the GPL, contain clauses setting out all four of these obligations.
 
-For more details on licence clauses and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
+For more details on licence clauses and other legal issues, see: [Legal Annex](Annex_Legal.md)
 
 ### Using open source software
 
@@ -86,7 +86,7 @@ As one example within the specialty area of geomatics, [MapServer](http://mapser
 
 #### Internal Modification
 
-All [OSS licences](9_Annex_Legal.md#licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
+All [OSS licences](Annex_Legal.md#licences) grant users broad rights to modify the software. Since reciprocal obligations only engage upon distribution, one can exercise this right to modify the software for internal use without triggering any additional legal obligations. The legal context of modifying OSS and using it internally is the same as merely using it internally without modification.
 
 However, although there is no legal difference between these two scenarios, some organizations and businesses may still wish to establish a policy of handling modified software differently, like the "NRC OSS Guidelines" (available on GCpedia). Tracking and handling modified software with extra caution can help ensure that an organization or business does not mistakenly distribute the software at a future time (which would then raise additional legal implications).
 
@@ -231,7 +231,7 @@ In general, the same factors applicable to an evaluation of the feature set and 
 - **Community** A strong user community involved in a project provides people to answer questions, test the software, report bugs, suggest improvements and drive forward overall interest in the software.
 - **Release Activity** A strong developer community with a history of releases and continued involvement tends to demonstrate that fixes and improvements to the software will continue into the future.
 - **Longevity** Longevity, measured in both in terms of the age of the product and the number of versions released, indicates a project's stability and chance of survival.
-- **Licence** Software is available for re-use under an OSS licence and code is in a common code repository. The licence of a project can affect the level of legal risk which you must assume (see [Legal Risk Management](9_Annex_Legal.md#legal-risk-management)).
+- **Licence** Software is available for re-use under an OSS licence and code is in a common code repository. The licence of a project can affect the level of legal risk which you must assume (see [Legal Risk Management](Annex_Legal.md#legal-risk-management)).
 - **Support Availability** Support considerations include user support (i.e., the availability of assistance with installation and usage) and maintenance (i.e., fixing problems in the software). Support for OSS can be provided by the community and/or paid support services businesses.
 - **Documentation** User documentation provides important information to help users install software and use its features.  Technical documentation provides requirements and instructions for installation, development, deployment and configuration of the software.
 - **Security** Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security level of the software.
@@ -334,7 +334,7 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 
 Overall, the particular OSS licence is unlikely to strongly impact a decision on whether or not to use OSS. As previously noted, few licence obligations engage upon the mere use of OSS. Most importantly, reciprocal licensing obligations do not apply. Only three features of OSS licences tend to strongly differ from closed-source licences in this context and merit special consideration: (1) the lack of a warranty; (2) the disclaimer of liability and lack of indemnification; and (3) the lack of choice of law and choice of forum clauses.
 
-For more details on legal risk management and other legal issues, see: [Annex A - Legal](9_Annex_Legal.md)
+For more details on legal risk management and other legal issues, see: [Legal Annex](Annex_Legal.md)
 
 #### Interoperability and Licence Alignment
 
