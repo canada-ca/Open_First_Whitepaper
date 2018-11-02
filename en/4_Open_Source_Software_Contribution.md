@@ -159,7 +159,7 @@ Some security considerations to keep in mind when developing software:
 
 #### Choosing a Licence
 
-You must publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, Canadian Digital Service (CDS) uses the MIT licence. All code produced by civil servants is automatically covered by Crown Copyright.
+You must publish your code under an [Open Source Initiative approved licence](https://opensource.org/licenses). For example, Canadian Digital Service (CDS) uses the MIT licence. Other recommended licences are Apache 2.0, GPL 3.0, LGPL 3.0 and AGPL 3.0. All code produced by civil servants is automatically covered by Crown Copyright.
 
 You will not always have a choice as to which licence you apply. Where a reciprocal licence obligation is in force, you need to license your code under the same licence - see the section on [Managing Licence Obligations](Annex_Legal.md#managing-licence-obligations). As well, even if you are not under a strict legal obligation to apply a particular licence, you may still wish to adopt the same licence as an existing software project or community in order to become involved with it.
 
