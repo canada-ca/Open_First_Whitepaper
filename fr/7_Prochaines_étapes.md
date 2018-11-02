@@ -2,11 +2,7 @@
 
 ## Prochaines étapes
 
-### Prochaines étapes recommandées
-
-#### Approbations du CCSO et du CEAI
-
-##### Normes ouvertes
+### Normes ouvertes
 
 - **Approbation des normes ouvertes actuelles définies dans la Norme sur l'interopérabilité des sites Web du GC et la Norme sur l'accessibilité des sites Web**
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom
@@ -14,6 +10,7 @@
 
 - **Exiger que tous les nouveaux achats, mises à niveau ou migrations (y compris les solutions d'informatique en nuage) stockent et gèrent les données selon les normes ouvertes**.
   - Intégrer l'utilisation de normes ouvertes au calcul du coût total de propriété d'une solution, y compris les coûts d'abandon ou de transition.
+  - Configurer des solutions existantes pour utiliser des normes ouvertes dans la mesure du possible.
   - Processus du CEAI pour appuyer l'application active lors de l'adoption de solutions.
 
 - **Approbation des normes ouvertes préférées actuelles (projets-pilotes, principes, lignes directrices) au GC**.
@@ -27,43 +24,35 @@
   - Collaborer avec le Royaume-Uni pour sélectionner de nouvelles normes ouvertes pour les gouvernements
   - Adapter et adopter les directives du Royaume-Uni sur l'ODF et l'approvisionnement au CG
 
-##### Utilisation de logiciels libres
+### Utilisation de logiciels libres
 
-- **Approuver un navigateur Web libre, une suite bureautique libre et d'autres outils de productivité à l'intention de tous les appareils technologiques en milieu de travail des ministères et organismes**.
-  - Prévoir l'abandon des liens avec le système d'exploitation actuel à source exclusive en favorisant l'utilisation de plateformes ou d'applications Web libres.
+- **Prévoir l'abandon des liens avec le système d'exploitation actuel à source exclusive en favorisant l'utilisation de plateformes ou d'applications Web libres**.
+  - Approuver un navigateur Web libre, une suite bureautique libre et d'autres outils de productivité à l'intention de tous les appareils technologiques en milieu de travail des ministères et organismes.
 
-- **Exiger que tous les nouveaux achats, mises à niveau ou migrations (y compris les solutions d'informatique en nuage) envisagent activement et équitablement les logiciels libres pendant l'approvisionnement**.
-  - Sélectionner les logiciels libres en fonction de leur flexibilité inhérente supplémentaire, lorsqu'il n'y a pas de différence importante de coût global (coût du cycle de vie complet) avec les solutions à source exclusive.
+- **Exiger que tous les nouveaux achats, mises à niveau ou migrations (y compris les solutions d'informatique en nuage) envisagent activement et équitablement les logiciels libres (LL) pendant l'approvisionnement**.
+  - Intégrer l'utilisation de LL au calcul du coût total de propriété d'une solution, y compris les coûts d'abandon ou de transition.
+  - Sélectionner les LL en fonction de leur flexibilité inhérente supplémentaire, lorsqu'il n'y a pas de différence importante de coût global (coût du cycle de vie complet) avec les solutions à source exclusive.
   - Processus du CEAI pour appuyer l'application active lors de l'adoption de solutions.
 
-- **Utiliser les composantes du logiciel libre dans les projets de développement et élaborer des solutions en fonction des logiciels libres existants**
+- **Utiliser les composantes du logiciel libre dans les projets de développement et élaborer des solutions en fonction des LL existants**
 
-##### Contribution de logiciels libres
+### Contribution aux logiciels libres
 
-- **Appuie et apporte une contribution active (code, questions, mise à l'essai, feuille de route..) aux logiciels libres utilisés par le gouvernement du Canada ou lorsqu'il y a des avantages pour les Canadiens**.
+- **Appuie et apporte une contribution active (code, questions, mise à l'essai, feuille de route..) aux LL utilisés par le gouvernement du Canada ou lorsqu'il y a des avantages pour les Canadiens**.
+
 - **Appuyer des initiatives telles que la Fondation Linux [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) afin de veiller à ce que les bibliothèques essentielles pour les communications Internet modernes soient surveillées et prises en charge**.
 
-##### Diffuser le code élaboré à l'interne dans le cadre des licences des logiciels libres
+#### Diffuser le code élaboré à l'interne dans le cadre des licences des logiciels libres
 
 - **Publier à titre de logiciel libre tous les codes sources créés ou modifiés, qu'ils soient élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés**.
+  - Se conformer aux licences des projets de LL auxquels ils contribuent.
+  
 - **Encourage les contributions à ses projets de logiciel libre, qu'il s'agisse de codes, de commentaires, de rapports de bogues, de demandes de caractéristiques ou d'orientation stratégique globale**.
 
-##### Établissement d'une collectivité de source ouverte
+### Établissement d'une collectivité de source ouverte
 
-- **Remettre des prix et récompenser les ministères, les unités et les personnes qui utilisent des normes ouvertes et des logiciels libres au GC**.
+- **Remettre des prix et récompenser les ministères, les unités et les personnes qui utilisent des normes ouvertes et des LL au GC**.
 
 ### Autre
 
-#### Stratégie d'adoption des normes ouvertes
-
-- configurer des solutions existantes pour utiliser des normes ouvertes dans la mesure du possible;
-- mettre à jour la stratégie d'adoption de l'informatique en nuage pour refléter l'orientation sur les normes ouvertes.
-
-#### stratégie d'adoption des logiciels libres
-
-- intégrer l'utilisation de normes ouvertes au calcul du coût total de propriété d'une solution, y compris les coûts d'abandon ou de transition.
-- mettre à jour la stratégie d'adoption de l'informatique en nuage pour refléter l'orientation des logiciels libres.
-
-#### Stratégie de contribution des logiciels libres
-
-- se conformer aux licences des projets de logiciels libres auxquels ils contribuent.
+- **Mettre à jour la stratégie d'adoption de l'informatique en nuage pour refléter l'orientation sur l'utilisation de normes ouvertes et de LL**.
