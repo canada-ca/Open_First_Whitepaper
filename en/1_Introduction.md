@@ -84,7 +84,7 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 ### Assumptions
 
 1. Some existing OSS may require additional development to meet business needs and proper assessment of the tools selected must be done, just as is the case with closed-source software. To help better evaluate OSS, best practices have been identified in a later [section](3_Open_Source_Software_Use.md#best-practices-for-using-open-source-software).
-2. Some GC source code may not be allowed to be released under an OSS licence due to various reasons including, but not limited to source code of software: used in national defense systems, related to unanounced policies or laws, etc.
+2. Some GC source code may not be allowed to be released under an OSS licence due to various reasons including, but not limited to source code of software: used in national defense systems, related to unannounced policies or laws, etc.
 3. Some GC departments and agencies may show resistance to follow this direction for a variety of reasons including, but not limited to: lack of maturity in software development practices and methodologies, lack of trained staff, large dependency on legacy systems built off of closed-source code, etc.
 
 ### Constraints
