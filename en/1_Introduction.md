@@ -78,21 +78,21 @@ If TBS wants the GC to become an open organization and shift to a more open cult
 
 ### Prioritized Requirements (High Level)
 
-1. Use open standards and OSS.
-2. Make all GC source code open and reusable.
+1. The GC must use open standards and OSS by default to ensure interoperability between systems.
+2. Make all GC source code open and reusable to the GC as a whole as well as the population so that others may benefit from the public administrations' investments as well as contribute back when possible..
 
 ### Assumptions
 
-1. Some existing OSS may require additional development to meet business needs.
-2. Some GC source code may not be allowed to be released under an OSS licence.
-3. Some GC departments and agencies may show resistance to follow this direction.
+1. Some existing OSS may require additional development to meet business needs and proper assessment of the tools selected must be done, just as is the case with closed-source software. To help better evaluate OSS, best practices have been identified in a later [section](3_Open_Source_Software_Use.md#best-practices-for-using-open-source-software).
+2. Some GC source code may not be allowed to be released under an OSS licence due to various reasons including, but not limited to source code of software: used in national defense systems, related to unanounced policies or laws, etc.
+3. Some GC departments and agencies may show resistance to follow this direction for a variety of reasons including, but not limited to: lack of maturity in software development practices and methodologies, lack of trained staff, large dependency on legacy systems built off of closed-source code, etc.
 
 ### Constraints
 
-1. Internal expertise is limited with regards to OSS: Technical knowledge, Intellectual property and Legal advisory, Security aspects of working in the open, etc.
-2. Supporting policies are limited: Standard, Guidance, etc.
-3. Cultural change is hard: Knowing that your work is available for all to see, etc.
-4. Departments and Agencies budget allocation and management: Funding is per project per organization, renders inter-departmental collaboration complex.
+1. It appears that internal expertise is varied across departments and agencies with regards to OSS, from limited to highly invested: technical knowledge of the staff, intellectual property, legal advisory and procurement subject matter experts trained in OSS, security aspects of working in the open and using OSS guidelines, etc. are not equally available across the GC as a whole.
+2. There are no GC-wide supporting policies for the use, contribution or creation of OSS. A few departments have been proactive and have put in place OSS committees, developed internal working groups and established policies, but these are not the norm, rather the exception.
+3. The cultural change is hard and complex: it's a challenge for some developers to think of having their work publicly available, the current procurement processes and legal frameworks are not designed to support the GC obtaining OSS as a form of solution; and most subject matter experts have never been exposed to this different side of the software industry which presents its own challenges of fear, uncertainty and doubts.
+4. The current model of departments and agencies budget allocation and management is based on programs and projects per organization. This model makes it harder, although not impossible, to collaborate between departments to work together on OSS that could bring value to each organization. Additional provisions to ease inter-departmental cooperation on OSS that are of benefit to each should be designed.
 
 ### Dependencies
 
