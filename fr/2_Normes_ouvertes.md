@@ -151,6 +151,8 @@ Le [Conseil des normes ouvertes du Royaume-Uni](https://www.gov.uk/government/gr
 - **Échange de coordonnées** : [vCard](https://tools.ietf.org/html/rfc6350)
 - **Échange d'événements du calendrier** : [iCalendar](https://tools.ietf.org/html/rfc5545)
 
-### Guide numérique du gouvernement du Canada
+### Normes numériques du gouvernement du Canada
 
-- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/4-utiliser-normes-solutions-ouvertes.html)
+Les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/fonctionpublique/modernisation/normes-numeriques-gouvernement-canada.html) incluent une norme pour utiliser des normes et des solutions ouvertes.
+
+Le comité d'examen de l'architecture intégrée (CEAI) du GC se servira [Architectural Standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/en/gc-earb.html) pour évaluer les investissements et les solutions en matière de numérique. Les normes architecturales sur le numérique viennent compléter les normes sur le numérique du gouvernement du Canada, en misant sur les pratiques exemplaires qui visent la planification architecturale et la conception. Sous [Architecture d'application](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/fr/ceai-gc.html#architecture-dapplication) ils incluent une norme pour utilisez des normes ouvertes et des logiciels libres pour éviter l'enfermement lorsque des logiciels libres ou des normes ouvertes sont disponibles.

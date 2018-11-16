@@ -356,6 +356,8 @@ To achieve maximum benefits both economically and in terms of quality, OSS shoul
 
 The list of OSS used is currently available on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
 
-### Government of Canada Digital Playbook
+### Government of Canada Digital Standards
 
-- [Use open standards and solutions](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html)
+The [GC Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) include a standard to use open standards and solutions.
+
+The GC Enterprise Architecture Review Board (GC EARB) will use the [Architectural Standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/en/gc-earb.html) to evaluate digital solutions to ensure the GC acts as a single enterprise. The Architectural Standards build upon the Government of Canada Digital Standards, focusing on best practices for architectural and design planning. Under [Application Architecture](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/en/gc-earb.html#application-architecture) they include a standard to Use Open Standards and Open Source Software to avoid lock-in where open source software or open standards are available.

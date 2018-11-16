@@ -199,4 +199,4 @@ Les logiciels ouverts rassemblent souvent une communauté disparate de développ
 
 ### Guide numérique du gouvernement du Canada
 
-- [Travailler ouvertement par défaut](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/3-travailler-ouvertement-par-defaut.html)
+Les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/fonctionpublique/modernisation/normes-numeriques-gouvernement-canada.html) incluent une norme pour travailler ouvertement par défaut pour rendre accessibles toutes les données de nature non sensible, les renseignements et le code source pour échange et les réutilisation sous une licence ouverte.

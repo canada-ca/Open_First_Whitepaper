@@ -199,4 +199,4 @@ OSS often brings together a disparate community of developers, ranging from volu
 
 ### Government of Canada Digital Playbook
 
-- [Work in the open by default](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/3-work-in-open-by-default.html)
+The [GC Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) include a standard to work in the open and make all non-sensitive data, information and source code open for sharing and reuse under an open licence.
