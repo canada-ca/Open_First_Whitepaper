@@ -118,6 +118,14 @@ The [GC Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
+The Treasury Board information or technology standard (TBITS) [Implementation Criteria for Codes for the Representation of Currencies and Funds (TBITS 12)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17280) make the following open standard mandatory for the representation of currencies and funds in the exchange of data both inside and outside the GC.
+
+- **Currency codes**: [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html)
+
+The TBITS [Implementation Criteria for all-Numeric Representation of Dates and Times (TBITS 36)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17284) make the following open standard mandatory for the numeric format of calendar dates for the purpose of exchanging machine-readable data between departments and agencies.
+
+- **Date and time**: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
+
 #### Other open standards in GC
 
 The Library and Archives Canada (LAC) [Guidelines on File Formats for Transferring Information Resources of Enduring Value](http://www.bac-lac.gc.ca/eng/services/government-information-resources/guidelines/Pages/guidelines-file-formats-transferring-information-resources-enduring-value.aspx) lists recommended formats for texts, presentations, emails, still images, audio, video, geospatial, computer aided design (CAD) and data sets. The Canadian Heritage [Elements of a Technical Interoperability Framework report](https://wiki.gccollab.ca/Elements_of_a_Technical_Interoperability_Framework_for_Canadian_Heritage), Québec's [Cadre Commun d'Interopérabilité du Gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) and France's [Référentiel Général d'Interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) identify a lot of the same open standards as recommended.
