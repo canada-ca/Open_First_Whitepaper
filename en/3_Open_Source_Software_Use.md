@@ -17,7 +17,7 @@
 
 #### Free Software
 
-Free software is software that respects users' freedom and community. The term “free” is more a matter of liberty than price, as it refers to the users’ freedom.
+Free software is software that respects users' freedom and community. The term "free" is more a matter of liberty than price, as it refers to the users’ freedom.
 
 Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF). Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html). The freedom to run the program, study how it works, modify it and redistribute it. Access to the source code is a precondition for these freedoms and not the end goal itself.
 
@@ -25,7 +25,7 @@ Free software is the original name put forward by Richard Stallman and defended 
 
 Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 
-The name used by the Open Source Initiative. Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
+The name used by the Open Source Initiative (OSI). Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by ten criteria.
 
 #### Disambiguation
 
@@ -41,7 +41,7 @@ Software licensing (open source and proprietary) trace their origins from a comm
 
 After the US Justice Department lifted the consent decree in 1983, AT&T commercialized Unix as a proprietary product and adopted more closed licensing terms. Meanwhile, the 1980s saw the advent of microcomputers (PCs), which led to the standardization of software. This standardization, in turn, encouraged companies to distribute their software in binary-only form because there was less need for users to investigate or troubleshoot source code. And so proprietary licensing became the dominant model for licensing software.
 
-Following to this change, Richard Stallman and the GNU Project started to build an operating system that would be a free alternative to UNIX. This is around the same time as the Free Software Foundation was started to promote the use of free software. The operating system needed both kernel and the tools necessary to install, run and develop programs for it. The GNU Project developed the tools but was missing a working kernel. This is when Linus Torvalds, a teenager in Finland, developed the first Linux kernel as a school project.
+Following to this change, Richard Stallman and the GNU Project started to build an operating system that would be a free alternative to UNIX. This is around the same time as the FSF was started to promote the use of free software. The operating system needed both kernel and the tools necessary to install, run and develop programs for it. The GNU Project developed the tools but was missing a working kernel. This is when Linus Torvalds, a teenager in Finland, developed the first Linux kernel as a school project.
 
 The combination of the Linux kernel and the GNU tools - most commonly called Linux - was released under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPL), a licensing model that was created by the GNU Project. The GPL granted recipients unfettered rights to redistribute software with the condition that the source code could not be kept secret. As Linux grew in popularity, with thousands of contributors and billions of users, the industry learned to follow and adopt GPL’s terms. By the late 1990s, GPL and the open source licensing paradigm more broadly gained traction and industry-wide acceptance.
 
@@ -49,9 +49,9 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 
 #### Licences
 
-Today, the GPL licence is in its third version (GNU GPLv3) and is only one of several dozen types of open source licences. The Open Source Initiative (OSI) has approved more than 80 open source licences. These generally fall into one of two categories: permissive licences and reciprocal licences.
+Today, the GPL licence is in its third version and is only one of several dozen types of open source licences. The [OSI has approved more than 80 open source licences](https://opensource.org/licenses/alphabetical). These generally fall into one of two categories: permissive licences and reciprocal licences.
 
-Even amongst the licences that the Free Software Foundation (FSF) and the OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
+Even amongst the licences that the FSF and the OSI approve as sharing the basic characteristics of OSS, the various terms and obligations vary greatly. However, there are several categories of clauses commonly encountered:
 
 - General disclaimers of warranty and/or liability;
 - Notice obligations, which generally require notifying downstream users of the particular OSS licence that applies to the work;

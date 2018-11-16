@@ -17,7 +17,7 @@
 
 #### Logiciels libres
 
-Les logiciels libre sont des logiciels qui respectent la liberté et la collectivité des utilisateurs. Le terme « libre » ("free" en anglais) est davantage une question de liberté que de prix, car il fait référence à la liberté des utilisateurs.
+Les logiciels libre sont des logiciels qui respectent la liberté et la collectivité des utilisateurs. Le terme "libre" (_free_ en anglais) est davantage une question de liberté que de prix, car il fait référence à la liberté des utilisateurs.
 
 Le terme « logiciel libre » a d'abord été proposé par Richard Stallman et défendu par la _Free Software Foundation_ (FSF). Le logiciel libre est défini par [quatre libertés essentielles](https://www.gnu.org/philosophy/free-sw.fr.html) : La liberté d'exécuter le programme, la liberté d'étudier son fonctionnement, la liberté de le modifier et la liberté de le redistribuer. L'accès au code source est une condition préalable de ces libertés; il ne constitue pas le but ultime en soi.
 
@@ -49,7 +49,7 @@ La propriété intellectuelle est une catégorie de propriété qui comprend les
 
 #### Licences
 
-Aujourd'hui, la licence GPL en est à sa troisième version (GNU GPLv3) et elle n'est qu'un des nombreux types de licences libres. L'OSI a approuvé plus de 80 licences libres. Ces licences appartiennent habituellement à l'une de deux catégories suivantes : les licences permissives et les licences réciproques.
+Aujourd'hui, la licence GPL en est à sa troisième version et elle n'est qu'un des nombreux types de licences libres. L'[OSI a approuvé plus de 80 licences libres](https://opensource.org/licenses/alphabetical). Ces licences appartiennent habituellement à l'une de deux catégories suivantes : les licences permissives et les licences réciproques.
 
 Même parmi les licences que la FSF et l'OSI approuvent parce qu'elles possèdent les caractéristiques de base du LL, les modalités et les obligations varient grandement. On observe toutefois plusieurs catégories de clauses courantes :
 

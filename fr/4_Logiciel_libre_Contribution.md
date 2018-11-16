@@ -159,7 +159,7 @@ Voici quelques aspects de sécurité à garder à l'esprit lors du développemen
 
 #### Choisir une licence
 
-Vous devez publier votre code sous une licence [licence approuvée Open Source Initiative](https://opensource.org/licenses). Par exemple, le Service numérique canadien (SNC) utilise la licence du MIT. Les autres licences recommandées sont Apache 2.0, GPL 3.0, LGPL 3.0 et AGPL 3.0. Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
+Vous devez publier votre code sous une licence [licence approuvée par l'_Open Source Initiative_](https://opensource.org/licenses). Par exemple, le Service numérique canadien (SNC) utilise la licence du MIT. Les autres licences recommandées sont Apache 2.0, GPL 3.0, LGPL 3.0 et AGPL 3.0. Tous les codes produits par des fonctionnaires sont automatiquement couverts par le droit d'auteur de la Couronne.
 
 Vous n'aurez pas toujours le choix de la licence que vous demanderez. Lorsqu'une obligation afférente à une licence réciproque est en vigueur, vous devez accorder une licence à votre code en vertu de la même licence - voir la section [Gérer les obligations relatives aux licences](Annexe_légale.md#gérer-les-obligations-relatives-aux-licences). De plus, même si vous n'êtes pas strictement tenu par la loi d'appliquer une licence particulière, vous pourriez quand même vouloir adopter la même licence qu'un projet ou une communauté de logiciels existants afin d'y participer.
 
