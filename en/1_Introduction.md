@@ -44,11 +44,9 @@ From a support and maintenance perspective, OSS - as opposed to more burdensome 
 
 #### Economy
 
-The GC recognizes that small and medium businesses are a key driver of the economy and needs to remove barriers to entry in its own activities. (Source?)
-
 Adopting and using open standards means you can move between different technologies when you need to, thus avoiding lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and closed-source software.
 
-OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage an [Open Market](5_Open_Markets.md).
+OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage [Open Markets](5_Open_Markets.md).
 
 #### Community, Demography and Society
 
@@ -75,69 +73,3 @@ Open standards and OSS are only slowly gaining traction in the GC (GC), particul
 Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
-
-### Prioritized Requirements (High Level)
-
-1. Use open standards and OSS.
-2. Make all GC source code open and reusable.
-
-### Assumptions
-
-1. Some existing OSS may require additional development to meet business needs.
-2. Some GC source code may not be allowed to be released under an OSS licence.
-3. Some GC departments and agencies may show resistance to follow this direction.
-
-### Constraints
-
-1. Internal expertise is limited with regards to OSS: Technical knowledge, Intellectual property and Legal advisory, Security aspects of working in the open, etc.
-2. Supporting policies are limited: Standard, Guidance, etc.
-3. Cultural change is hard: Knowing that your work is available for all to see, etc.
-4. Departments and Agencies budget allocation and management: Funding is per project per organization, renders inter-departmental collaboration complex.
-
-### Dependencies
-
-1. Current state of technology investments:
-   1. Single source providers
-   2. Closed-source solutions and standards
-   3. Lock-in.
-   4. Legacy systems architecture and size and integration (all modules are integrated and can't easily be picked apart)
-
-## Scope
-
-### Boundaries
-
-This whitepaper has for scope the following elements.
-
-- Open Standards
-- OSS Use
-- OSS Contribution
-- Open Markets
-- Open Culture
-- Common Legal Considerations
-
-Each concept will have the following structure.
-
-- Benefits
-- Risks and Drawbacks
-- Best Practices
-
-The following concepts are not part of the whitepaper as they have their own dedicated teams. Their importance is nonetheless recognized as critical to an open and transparent GC.
-
-- The broader Open Government initiatives:
-  - Open Government Partnership
-  - Open Data
-  - Open Information
-  - Open Science
-
-### Stakeholder Analysis
-
-- Public administration:
-  - Federal
-    - Geospatial community
-  - Provincial
-  - Municipal
-- International partners
-  - Countries
-  - Foundations
-- Private companies
-- Citizens
