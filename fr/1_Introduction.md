@@ -8,7 +8,7 @@ L'objectif de ce livre blanc est de décrire les facteurs déterminants, les ava
 
 Ce livre blanc contient les éléments suivants : Normes ouvertes ; utilisation des logiciels libres ; contribution aux logiciels libres (y compris la publication de logiciels libres) ; marchés ouverts ; culture ouverte ; et quelques considérations juridiques communes. Chaque concept aura la structure suivante : les avantages, les risques et les inconvénients et les pratiques exemplaires.
 
-Les concepts suivants ne font pas partie du livre blanc car ils ont leurs propres équipes et communautés dédiées : les initiatives plus larges de gouvernement ouvert, y compris le partenariat de gouvernement ouvert, les données ouvertes, l'information ouverte, le dialogue ouvert, la science ouverte. Leur importance est néanmoins reconnue comme essentielle pour un CA ouvert et transparent.
+Les concepts suivants ne font pas partie du livre blanc car ils ont leurs propres équipes et communautés dédiées : les initiatives plus larges de gouvernement ouvert, y compris le partenariat de gouvernement ouvert, les données ouvertes, l'information ouverte, le dialogue ouvert, la science ouverte. Leur importance est néanmoins reconnue comme essentielle pour un GC ouvert et transparent.
 
 ## Environnement stratégique
 
