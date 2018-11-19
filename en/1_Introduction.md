@@ -46,11 +46,11 @@ Leveraging technologies that are built on open standards mitigate against the ri
 
 Using OSS means you can benefit from solving common problems with readily available technology and you have more time and resource for customized solutions to solve the rare or unique problems. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and encourages the identification and elimination of defects not recognized by the original development team. For the public sector, like all organizations, cost is important, but other public benefits can also motivate public sector use of OSS.
 
-From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining application itself rather than the pool. Using OSS and service providers also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
+From a support and maintenance perspective, OSS - as opposed to more burdensome usages of proprietary software and their users licences - provides a real cost advantage where multiple copies of software are required, or when the user base grows. Since there is no need to manage individual user licence, the focus is more on maintaining the application itself. Using OSS and service providers also helps avoid lock-in as it is possible to seek other service providers to support the maintenance and development of the solution.
 
 #### Economy
 
-Adopting and using open standards means you can move between different technologies when you need to, thus avoiding lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and closed-source software.
+Adopting and using open standards means it is possible to move between different technologies when needed, thus avoiding lock-in and opening up the range of companies that the organization can purchase from. Doing so would encourage more of them to use the same standards and encourage a wider range of both open source and closed-source software.
 
 OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage [Open Markets](5_Open_Markets.md).
 
@@ -81,7 +81,7 @@ There are great opportunities to learn and engage with our D7 partners, for exam
 
 ### Problem/Opportunity Statement
 
-Open standards and OSS are only slowly gaining traction in the GC (GC), particularly when compared to the private sector and other public administrations (US, UK, France, Italy, Estonia, New Zealand, etc.). Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
+Open standards and OSS are only slowly gaining traction in the GC, particularly when compared to the private sector and other public administrations (US, UK, France, Italy, Estonia, New Zealand, etc.). Relatively low levels of adoption have been attributed to a lack of understanding of the potential benefits, accompanied by a risk-averse technical and procurement culture, compounded by significant levels of misconceptions.
 
 Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
