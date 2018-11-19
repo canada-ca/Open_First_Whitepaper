@@ -5,24 +5,6 @@
 - [Organisation ouverte](#organisation-ouverte)
 - [Risques et inconvénients](#risques-et-inconvénients)
 
-Pour devenir ouvert par défaut, le gouvernement devra modifier ses politiques, ses pratiques et sa culture.
-
-Partout dans le monde, les gouvernements ont adopté des pratiques en matière de libre accès, y compris la publication de données ouvertes, l'utilisation de logiciels libres et le partage des connaissances avec d'autres institutions publiques et privées. Tous ces efforts ont contribué à favoriser une culture d'ouverture au sein du gouvernement du Canada (GC). Toutefois, cette ouverture se limite pour le moment à des pratiques et à des domaines particuliers.
-
-Une approche axée sur l'ouverture d'abord ne touchera pas seulement les technologues, mais l'ensemble du gouvernement, des agents d'approvisionnement aux politiciens. Par conséquent, il faut viser une meilleure compréhension des contextes dans lesquels le GC tire parti des outils libres et adopte des pratiques de libre accès.
-
-La réponse à la question "Pourquoi l'ouverture?" repose notamment sur les motifs suivants :
-
-- Bâtir ensemble et apprendre les uns des autres.
-- Formuler conjointement des solutions plus rapidement et de façon plus transparente.
-- Concevoir des solutions communes et durables pour résoudre des problèmes opérationnels communs.
-- Accélérer le développement d'un écosystème interopérable.
-- Partager les codes et les solutions avec d'autres pays, provinces, territoires et municipalités.
-- Accroître la facilité d'emploi des services interconnectés avec les provinces, les territoires, les municipalités et d'autres gouvernements.
-- Mettre en œuvre un écosystème permettant l'adoption de pratiques d'approvisionnement ouvertes qui stimuleront la croissance économique et l'innovation.
-
-Le GC est le plus important employeur au pays. L'adoption d'une approche axée sur l'ouverture d'abord aura d'énormes avantages. Le Canada peut être un chef de file en matière de gouvernement plus innovateur, plus inclusif et plus souple.
-
 ### Organisation ouverte
 
 La [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition) a été rédigée par les [Open Organization Ambassadors](https://opensource.com/open-organization/resources/ambassadors-program), un groupe formé de membres de la collectivité [opensource.com](https://opensource.com/) qui se consacrent à enseigner comment les principes du libre accès peuvent améliorer (et, ultimement, redéfinir) les cultures organisationnelles.

@@ -44,11 +44,9 @@ From a support and maintenance perspective, OSS - as opposed to more burdensome 
 
 #### Economy
 
-The GC recognizes that small and medium businesses are a key driver of the economy and needs to remove barriers to entry in its own activities. (Source?)
-
 Adopting and using open standards means you can move between different technologies when you need to, thus avoiding lock-in and opening up the range of companies you can purchase from. Doing so would encourage more of them to use the same standards as you and encourage a wider range of both open source and closed-source software.
 
-OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage an [Open Market](5_Open_Markets.md).
+OSS provides an advantage in that it creates an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software; OSS users can also switch to a different support provider whenever an existing company no longer meets their needs or timelines. Using OSS may better support local businesses in Canada as it would encourage [Open Markets](5_Open_Markets.md).
 
 #### Community, Demography and Society
 

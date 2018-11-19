@@ -118,6 +118,14 @@ La [Norme sur l'accessibilité des sites Web du GC](https://www.tbs-sct.gc.ca/po
 
 - [Règles sur l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
+La norme du Conseil du Trésor sur la technologie ou l'information (NCTTI) [Critères d'applicabilité des codes pour la représentation des monnaies et types de fonds (NCTTI 12)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=17280) rend la norme ouverte suivante obligatoire pour la représentation des devises et des types de fonds dans les échanges de données à l'intérieur et à l'extérieur du GC.
+
+- **Codes de monnaies**: [ISO 4217](https://www.iso.org/fr/iso-4217-currency-codes.html)
+
+La NCTTI [Critères d'applicabilité de la représentation numérique de la date et de l'heure (NCTTI 36)](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=17284) rend la norme ouverte suivante obligatoire pour la structure numérique de présentation des dates civiles aux fins d’échange de données sur des supports lisibles par machine entre les divers ministères et organismes.
+
+- **Date et heure**: [ISO 8601](https://www.iso.org/fr/iso-8601-date-and-time-format.html)
+
 #### Autres normes ouvertes au GC
 
 Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fichier à utiliser pour transférer des ressources documentaires](http://www.bac-lac.gc.ca/fra/services/gestion-ressources-documentaires-gouvernement/lignes-directrices/Pages/lignes-directrices-formats-fichier-transferers-ressources-documentaires.aspx) énumèrent les formats recommandés pour les textes, présentations, courriels, images fixes, audio, vidéo, géospatial, la conception assistée par ordinateur (CAO) et les jeux de données. Le rapport de Patrimoine Canadien sur les [Éléments d'un cadre d'interopérabilité technique](https://wiki.gccollab.ca/%C3%89l%C3%A9ments_pour_un_cadre_d%27interop%C3%A9rabilit%C3%A9_technique_pour_Patrimoine_Canadien), le [Cadre commun d'interopérabilité du gouvernement du Québec](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/architecture_entreprise_gouvernementale/AEG_3.1-CCIGQinteroperabilite.pdf) du Québec et le [Référentiel Général d'interopérabilité](http://references.modernisation.gouv.fr/sites/default/files/Referentiel_General_Interoperabilite_V2.pdf) de la France identifient plusieurs des mêmes normes ouvertes recommandées.
@@ -143,6 +151,8 @@ Le [Conseil des normes ouvertes du Royaume-Uni](https://www.gov.uk/government/gr
 - **Échange de coordonnées** : [vCard](https://tools.ietf.org/html/rfc6350)
 - **Échange d'événements du calendrier** : [iCalendar](https://tools.ietf.org/html/rfc5545)
 
-### Guide numérique du gouvernement du Canada
+### Normes numériques du gouvernement du Canada
 
-- [Utiliser des normes et des solutions ouvertes](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/fr/4-utiliser-normes-solutions-ouvertes.html)
+Les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/fonctionpublique/modernisation/normes-numeriques-gouvernement-canada.html) incluent une norme pour utiliser des normes et des solutions ouvertes.
+
+Le comité d'examen de l'architecture intégrée (CEAI) du GC se servira [Architectural Standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/en/gc-earb.html) pour évaluer les investissements et les solutions en matière de numérique. Les normes architecturales sur le numérique viennent compléter les normes sur le numérique du gouvernement du Canada, en misant sur les pratiques exemplaires qui visent la planification architecturale et la conception. Sous [Architecture d'application](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/gc-earb-ceai/fr/ceai-gc.html#architecture-dapplication) ils incluent une norme pour utilisez des normes ouvertes et des logiciels libres pour éviter l'enfermement lorsque des logiciels libres ou des normes ouvertes sont disponibles.
