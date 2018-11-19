@@ -4,6 +4,12 @@
 
 The objective of this whitepaper is to outline the drivers, benefits, risks, considerations, and governance taken into account when determining when and where to adopt [Open Standards](2_Open_Standards.md) and [use](3_Open_Source_Software_Use.md) as well as [contribute](4_Open_Source_Software_Contribution.md) to Open Source Software (OSS). This whitepaper captures the Government of Canada's (GC) approach to move towards a more open environment which includes changes in how we work, purchase solutions, and provide information and services to Canadians.
 
+## Scope
+
+This whitepaper has for scope the following elements: Open Standards; OSS Use; OSS Contribution (which includes publishing OSS); Open Markets; Open Culture; and some common Legal Considerations. Each concept will have the following structure: the benefits; the risks and drawbacks; and best practices.
+
+The following concepts are not part of the whitepaper as they have their own dedicated teams and communities: the broader Open Government initiatives including the Open Government Partnership, Open Data, Open Information, Open Dialogue, Open Science. Their importance is nonetheless recognized as critical to an open and transparent GC.
+
 ## Strategic Environment
 
 ### Organizational Overview
@@ -80,13 +86,3 @@ Open standards and OSS are only slowly gaining traction in the GC (GC), particul
 Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
-
-### Boundaries
-
-This whitepaper has for scope the following elements: Open Standards; OSS Use; OSS Contribution (which includes publishing OSS); Open Markets; Open Culture; and some common Legal Considerations.
-
-Each concept will have the following structure: the benefits; the risks and drawbacks; and best practices.
-
-The following concepts are not part of the whitepaper as they have their own dedicated teams and communities: the broader Open Government initiatives including the Open Government Partnership, Open Data, Open Information, Open Dialogue, Open Science.
-
-Their importance is nonetheless recognized as critical to an open and transparent GC.
