@@ -73,3 +73,69 @@ Open standards and OSS are only slowly gaining traction in the GC (GC), particul
 Open Standards are essential to ensure interoperability between systems and enables easier migration and transitions to different systems. More so, the use of OSS supports interoperability and information sharing and should be considered in the assessment of IM-IT solutions. Both help mitigate the risks of lock-in, enable the GC to support for the Canadian economy and open communities, provide lower total cost of ownership, attract top digital talent and lead to better job satisfaction.
 
 If TBS wants the GC to become an open organization and shift to a more open culture especially around digital and technology, it should strongly endorse the adoption of open Standards for data, information and communications; the use of OSS in our technology stack; contributing to upstream development of OSS; releasing code developed internally under OSS licenses and collaborating more widely with other public administrations in Canada and around the world.
+
+### Prioritized Requirements (High Level)
+
+1. The GC must use open standards and OSS by default to ensure interoperability between systems.
+2. Make all GC source code open and reusable to the GC as a whole as well as the population so that others may benefit from the public administrations' investments as well as contribute back when possible..
+
+### Assumptions
+
+1. Some existing OSS may require additional development to meet business needs and proper assessment of the tools selected must be done, just as is the case with closed-source software. To help better evaluate OSS, best practices have been identified in a later [section](3_Open_Source_Software_Use.md#best-practices-for-using-open-source-software).
+2. Some GC source code may not be allowed to be released under an OSS licence due to various reasons including, but not limited to source code of software: used in national defense systems, related to unannounced policies or laws, etc.
+3. Some GC departments and agencies may show resistance to follow this direction for a variety of reasons including, but not limited to: lack of maturity in software development practices and methodologies, lack of trained staff, large dependency on legacy systems built off of closed-source code, etc.
+
+### Constraints
+
+1. It appears that internal expertise is varied across departments and agencies with regards to OSS, from limited to highly invested: technical knowledge of the staff, intellectual property, legal advisory and procurement subject matter experts trained in OSS, security aspects of working in the open and using OSS guidelines, etc. are not equally available across the GC as a whole.
+2. There are no GC-wide supporting policies for the use, contribution or creation of OSS. A few departments have been proactive and have put in place OSS committees, developed internal working groups and established policies, but these are not the norm, rather the exception.
+3. The cultural change is hard and complex: it's a challenge for some developers to think of having their work publicly available, the current procurement processes and legal frameworks are not designed to support the GC obtaining OSS as a form of solution; and most subject matter experts have never been exposed to this different side of the software industry which presents its own challenges of fear, uncertainty and doubts.
+4. The current model of departments and agencies budget allocation and management is based on programs and projects per organization. This model makes it harder, although not impossible, to collaborate between departments to work together on OSS that could bring value to each organization. Additional provisions to ease inter-departmental cooperation on OSS that are of benefit to each should be designed.
+
+### Dependencies
+
+1. Current state of technology investments:
+   1. Single source providers
+   2. Closed-source solutions and standards
+   3. Lock-in.
+   4. Legacy systems architecture and size and integration (all modules are integrated and can't easily be picked apart)
+
+## Scope
+
+### Boundaries
+
+This whitepaper has for scope the following elements.
+
+- Open Standards
+- OSS Use
+- OSS Contribution
+- Open Markets
+- Open Culture
+- Common Legal Considerations
+
+Each concept will have the following structure.
+
+- Benefits
+- Risks and Drawbacks
+- Best Practices
+
+The following concepts are not part of the whitepaper as they have their own dedicated teams. Their importance is nonetheless recognized as critical to an open and transparent GC.
+
+- The broader Open Government initiatives:
+  - Open Government Partnership
+  - Open Data
+  - Open Information
+  - Open Science
+
+### Stakeholder Analysis
+
+- Public administration:
+  - Federal
+    - Geospatial community
+  - Provincial
+  - Municipal
+- International partners
+  - Countries
+  - Foundations
+- Private companies
+- Citizens
