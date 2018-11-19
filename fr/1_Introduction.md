@@ -4,6 +4,12 @@
 
 L'objectif de ce livre blanc est de décrire les facteurs déterminants, les avantages, les considérations et la gouvernance dont il faut tenir compte pour déterminer quand et où adopter des [normes ouvertes](2_Normes_ouvertes.md) et [utiliser](3_Logiciel_libre_Utilisation.md) ainsi que [contribuer](4_Logiciel_libre_Contribution.md) aux logiciels libres (LL). Ce livre blanc saisit l'approche du gouvernement du Canada (GC) pour passer à un environnement plus ouvert qui comprend des changements dans notre façon de travailler, d'acheter et de fournir de l'information et des services aux Canadiens.
 
+## Portée
+
+Ce livre blanc contient les éléments suivants : Normes ouvertes ; utilisation des logiciels libres ; contribution aux logiciels libres (y compris la publication de logiciels libres) ; marchés ouverts ; culture ouverte ; et quelques considérations juridiques communes. Chaque concept aura la structure suivante : les avantages, les risques et les inconvénients et les pratiques exemplaires.
+
+Les concepts suivants ne font pas partie du livre blanc car ils ont leurs propres équipes et communautés dédiées : les initiatives plus larges de gouvernement ouvert, y compris le partenariat de gouvernement ouvert, les données ouvertes, l'information ouverte, le dialogue ouvert, la science ouverte. Leur importance est néanmoins reconnue comme essentielle pour un CA ouvert et transparent.
+
 ## Environnement stratégique
 
 ### Survol de l'organisation
