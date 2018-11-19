@@ -58,6 +58,13 @@ Releasing an in-house software code under an OSS licence can encourage external 
 
 ### Business Outcomes
 
+The expected results of the GC working in the open, using open standards and open source software are as follows
+
+* Canadians are able to find, use and contribute to GC software projects and source code as well as open source software used by the GC to support meaningful engagement with their government and communities.
+* Enable greater flexibility in the management of information and communication technologies (ICT).
+* Support and increase collaboration with other public administrations in Canada and around the world.
+* Improve the overall availability of re-usable technology within government and society.
+
 ## Strategic Fit
 
 The GC Digital Playbook includes principles on the [use of open standards](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html) to ensure your system works and communicates with other products or systems, and can easily be upgraded and expanded; the [use of OSS](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/4-use-open-standards-solutions.html) since, by their nature, they are publicly available specifications, and the availability of their source code promotes open, democratic debate around their specifications, making them both more robust and interoperable; and [working in the open](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/3-work-in-open-by-default.html) by making source code open and reusable under an appropriate OSS licence, so that other developers can benefit from your work and build on it.
