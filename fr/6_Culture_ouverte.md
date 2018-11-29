@@ -11,7 +11,7 @@ La [Open Organization Definition](https://opensource.com/open-organization/resou
 
 #### Définition
 
-L'ouverture joue un rôle de plus en plus central dans la façon dont les groupes et les équipes de toutes tailles travaillent ensemble pour atteindre des objectifs communs. Aujourd'hui, les organisations les plus avant-gardistes — quelles que soient leurs missions — adoptent l'ouverture en tant qu'orientation essentielle au succès. Ces organisations ont constaté ce que peut leur apporter l'ouverture, notamment :
+L'ouverture joue un rôle de plus en plus central dans la façon dont les groupes et les équipes de toutes tailles travaillent ensemble pour atteindre des objectifs communs. Aujourd'hui, les organisations les plus avant-gardistes - quelles que soient leurs missions - adoptent l'ouverture en tant qu'orientation essentielle au succès. Ces organisations ont constaté ce que peut leur apporter l'ouverture, notamment :
 
 - **Plus grande souplesse**, car leurs membres sont plus aptes à travailler ensemble et en fonction d'une même vision pour atteindre des objectifs.
 - **Innovation accélérée**, car les idées provenant de l'intérieur et de l'extérieur de l'organisation sont prises en considération de façon plus équitable et sont plus rapidement mises à l'essai.
@@ -19,7 +19,7 @@ L'ouverture joue un rôle de plus en plus central dans la façon dont les groupe
 
 Mais l'ouverture est fluide. L'ouverture est multidimensionnelle. L'ouverture est contestée.
 
-Bien que chaque organisation soit différente — et que chaque exemple d'une organisation ouverte soit par conséquent unique —, nous croyons que les cinq caractéristiques suivantes sont les conditions fondamentales de l'ouverture dans la plupart des contextes :
+Bien que chaque organisation soit différente - et que chaque exemple d'une organisation ouverte soit par conséquent unique -, nous croyons que les cinq caractéristiques suivantes sont les conditions fondamentales de l'ouverture dans la plupart des contextes :
 
 - Transparence
 - Inclusivité
@@ -42,7 +42,7 @@ Dans les organisations ouvertes, la transparence règne. Dans la mesure du possi
 Dans les organisations ouvertes, la transparence se manifeste comme suit :
 
 - Toute personne qui travaille sur un projet ou une initiative a accès par défaut à tous les documents pertinents.
-- Les gens divulguent volontairement leur travail, invitent d'autres personnes à participer à des projets avant qu'ils ne soient terminés ou "finals" et répondent de manière positive aux demandes d'informations supplémentaires.
+- Les gens divulguent volontairement leur travail, invitent d'autres personnes à participer à des projets avant qu'ils ne soient terminés ou « finals » et répondent de manière positive aux demandes d'informations supplémentaires.
 - Les personnes touchées par les décisions peuvent consulter et examiner les processus et les arguments qui ont mené à ces décisions, et elles peuvent les commenter et y répondre.
 - Les dirigeants encouragent les gens à raconter leurs échecs et leurs réussites sans crainte d'incidences; les associés parlent ouvertement des deux.
 - Les gens apprécient à la fois les réussites et les échecs pour les leçons qu'ils peuvent en tirer.
@@ -90,7 +90,7 @@ Dans les organisations ouvertes, la collaboration se manifeste comme suit :
 
 ##### Collectivité
 
-Les organisations ouvertes sont communales. Dans les organisations ouvertes, la participation repose sur des valeurs et des objectifs communs, et ce sont ces valeurs — plus que les emplacements géographiques ou les positions hiérarchiques arbitraires — qui aident à déterminer les limites et les conditions de cette participation. Les valeurs fondamentales sont claires, mais elles font aussi l'objet de révisions et de critiques continues, et elles sont déterminantes dans la définition des conditions qui sous-tendent la réussite ou l'échec d'une organisation (voir aussi _facilité d'adaptation_).
+Les organisations ouvertes sont communales. Dans les organisations ouvertes, la participation repose sur des valeurs et des objectifs communs, et ce sont ces valeurs - plus que les emplacements géographiques ou les positions hiérarchiques arbitraires - qui aident à déterminer les limites et les conditions de cette participation. Les valeurs fondamentales sont claires, mais elles font aussi l'objet de révisions et de critiques continues, et elles sont déterminantes dans la définition des conditions qui sous-tendent la réussite ou l'échec d'une organisation (voir aussi _facilité d'adaptation_).
 
 Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 
@@ -100,6 +100,8 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 - Les gens ont un langage commun et travaillent ensemble afin de veiller à que les idées ne se perdent pas au fil des communications. Ils sont à l'aise de partager leurs connaissances et leurs histoires pour faire avancer le travail du groupe.
 
 #### Renseignements connexes
+
+** Traduction!
 
 - [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
 - [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
@@ -114,8 +116,8 @@ Il est possible que travailler ouvertement puisse pousser certains employés hor
 
 Afin d'aider ces employés à surmonter leur peur, des communications ouvertes sont nécessaires et un soutien doit être fourni pour les aider à surmonter les obstacles qu'ils peuvent percevoir. Comme toute nouvelle approche de gestion, le temps et la formation peuvent être nécessaires pour aider tout le monde à réussir.
 
-#### Pratiques établies et bureaucracie
+#### Pratiques établies et bureaucratie
 
 Pour une organisation traditionnellement réticente au risque et habituée à opérer dans les limites des processus préétablis, savoir que ses activités peuvent être scrutées par le public, travailler ouvertement peut sembler contre-intuitif et contraire au meilleur intérêt de ses services.
 
-Cependant, le GC a établi une orientation claire en vue de devenir un gouvernement ouvert. À l'appui de cette nouvelle orientation, le Secrétariat du Conseil du Trésor du Canada a mis en place un guide numérique avec des normes numériques qui indiquent clairement pourquoi et comment les ministères et les organismes doivent fonctionner ouvertement.
+Cependant, le gouvernement du Canada a établi une orientation claire en vue de devenir un gouvernement ouvert. À l'appui de cette nouvelle orientation, le Secrétariat du Conseil du Trésor du Canada a mis en place un guide relatif au numérique avec des normes relatives au numérique qui indiquent clairement pourquoi et comment les ministères et les organismes doivent fonctionner ouvertement.

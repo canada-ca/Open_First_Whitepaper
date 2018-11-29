@@ -47,6 +47,8 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 
 ### Intellectual property
 
+** Translation
+
 #### Licences
 
 Today, the GPL licence is in its third version and is only one of several dozen types of open source licences. The [OSI has approved more than 80 open source licences](https://opensource.org/licenses/alphabetical). These generally fall into one of two categories: permissive licences and reciprocal licences.
@@ -173,7 +175,7 @@ OSS project openness and availability of source code allows IT professionals to 
 
 #### IT Talent and Job Satisfaction
 
-The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
+The [2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/) found that hiring open source talent is a priority for 80% of hiring managers.  It also showed only 3% of OSS professionals say money is the best part of their job. There's a growing number of IT professionals with OSS background/experience due to many reasons:
 
 - OSS is widely used by companies, from development to production, generating high demand for talent;
 - Contributions to OSS projects help being part of a public "network of trust" and lead to a valuable resume;
@@ -210,7 +212,7 @@ The same is true for source code modified or mixed without proper oversight, inc
 
 #### In-house Expertise
 
-Those considering using and developing open source "in-house" must ensure that they have the right level of expertise to manage it effectively. Staff are often traditionally trained in using proprietary software so the introduction of new open source solutions may require retraining.
+Those considering using and developing OSS "in-house" must ensure that they have the right level of expertise to manage it effectively. Staff are often traditionally trained in using proprietary software so the introduction of new open source solutions may require retraining.
 
 #### Supplier Availability
 
@@ -321,10 +323,6 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 - Provide a transition phase where users have access to both existing software and the open source alternative;
 - Secure the support of top management;
 - Create a positive attitude with users.
-
-##### Training
-
-- Provide proper training and focus on the general everyday functionalities of the software.
 
 ##### Functionality
 

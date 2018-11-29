@@ -31,13 +31,13 @@ If this is your first time contributing on GitHub, don't worry! Let us know if y
 
 _______________________________________________________________________________
 
-# Livre blanc ouvert en premier (BROUILLON)
+# Livre blanc Ouvert en premier (BROUILLON)
 
-Le Secrétariat du Conseil du Trésor du Canada procède à la rédaction d'un livre blanc visant à consolider notre pensée sur la manière de faire passer le gouvernement à une approche « ouverte ». Le document élaborera et détaillera le sujet de l'« ouverture » afin d'inspirer quelques initiatives, y compris le nouveau Conseil d'examen de l'architecture intégrée (CEAI), qui influeraient l'écosystème et les approches en gestion et technologies de l'information. Il est à espérer que certains changements stratégiques seront apportés à l'approche que préconise le gouvernement du Canada (GC), à la lumière de ce que le livre blanc amènera, y compris l'élaboration d'une Stratégie sur le numérique en matière de gestion de l'information / technologies de l'information (GI/TI) qui saura favoriser l'adoption de normes ouvertes ainsi que l'utilisation et la contribution aux logiciels libres. Ces facteurs représenteraient l'élément central de la Politique sur le numérique du GC. Il ne s'agit pas tout simplement des normes ouvertes et des logiciels libres. Nous tenons également compte du code source ouvert, du marché libre et de la culture ouverte.
+Le Secrétariat du Conseil du Trésor du Canada procède à la rédaction d'un Livre blanc visant à consolider notre pensée sur la manière de faire passer le gouvernement à une approche « ouverte ». Le document élaborera et détaillera le sujet de l'« ouverture » afin d'inspirer quelques initiatives, y compris le nouveau Conseil d'examen de l'architecture intégrée (CEAI), qui influeraient l'écosystème et les approches en matière de gestion de l'information et de la technologie de l'information (GI/TI). Il est à espérer que certains changements stratégiques seront apportés à l'approche que préconise le gouvernement du Canada, à la lumière de ce que le Livre blanc amènera, y compris l'élaboration d'une Stratégie relative au numérique en matière de gestion de l'information/technologie de l'information (GI/TI), qui saura favoriser l'adoption de normes ouvertes ainsi que l'utilisation et la contribution aux logiciels libres. Ces facteurs représenteraient l'élément central de la Politique sur le numérique du gouvernement du Canada. Il ne s'agit pas tout simplement de normes ouvertes et de logiciels libres. Nous tenons également compte du code source ouvert, du marché libre et de la culture ouverte.
 
-Ce livre blanc est le fruit d'une collaboration entre plusieurs membres de la collectivité des logiciels libres du GC, afin d'obtenir une image intégrale de l'ouverture au sein du GC. Une fois que nous serons mieux en mesure de comprendre l'utilisation que nous faisons des outils, programmes et activités ouverts, nous pourrons trouver de nouvelles façons de travailler, de construire et de fournir des services. Bien que nous ayons fait une première tentative de collecte d'information, y compris des pratiques exemplaires et des études de cas juridictionnelles, il reste encore beaucoup à faire pour peaufiner le présent document. Si vous avez de quoi à ajouter, nous vous encourageons à nous faire part de vos idées, de votre expertise et de vos références.
+Le présent Livre blanc est le fruit d'une collaboration entre plusieurs membres de la collectivité des logiciels libres du gouvernement du Canada, afin d'obtenir une image intégrale de l'ouverture au sein du gouvernement du Canada. Une fois que nous serons mieux en mesure de comprendre l'utilisation que nous faisons des outils, programmes et activités ouverts, nous pourrons trouver de nouvelles façons de travailler, de construire et de fournir des services. Bien que nous ayons fait une première tentative de collecte d'information, y compris des pratiques exemplaires et des études de cas juridictionnelles, il reste encore beaucoup à faire pour peaufiner le présent document. Si vous avez de quoi à ajouter, nous vous encourageons à nous faire part de vos idées, de votre expertise et de vos références.
 
-Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos partenaires, des universitaires et des experts techniques afin que nous puissions procéder à la mise à jour des politiques, de la gouvernance, du financement et des processus du GC, dans une optique ouverte.
+Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos partenaires, des universitaires et des experts techniques afin que nous puissions procéder à la mise à jour des politiques, de la gouvernance, du financement et des processus du gouvernement du Canada, dans une optique ouverte.
 
 ## Table des matières
 
@@ -48,12 +48,12 @@ Nous tenons à en apprendre autant que possible de la part des Canadiens, de nos
 5. [Marchés ouverts](fr/5_Marchés_ouverts.md)
 6. [Culture ouverte](fr/6_Culture_ouverte.md)
 7. [Prochaines étapes](fr/7_Prochaines_étapes.md)
-8. [Annexe légale](fr/Annexe_légale.md)
+8. [Annexe A - Questions d'ordre juridique](fr/Annexe_légale.md)
 
 ## Comment contribuer
 
-Lorsque vous contribuez au présent livre blanc, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
+Lorsque vous contribuez au présent Livre blanc, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise de la rubrique Enjeux (_Issues_).
 
-N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
+N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (_Fork_) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (_Fork_), de sorte que vous puissiez envoyer une demande de tirage (_Pull Request_).
 
 Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! Faites-nous part de vos questions.

@@ -4,7 +4,7 @@
 
 ### Normes ouvertes
 
-- **Approbation des normes ouvertes actuelles définies dans la Norme sur l'interopérabilité des sites Web du GC et la Norme sur l'accessibilité des sites Web**
+- **Approbation des normes ouvertes actuelles définies dans la Norme sur l'interopérabilité des sites Web du gouvernement du Canada et la Norme sur l'accessibilité des sites Web**
   - HTML5, UTF-8, RDFa Lite, Schema.org, Atom
   - WCAG 2.0
 
@@ -13,16 +13,16 @@
   - Configurer des solutions existantes pour utiliser des normes ouvertes dans la mesure du possible.
   - Processus du CEAI pour appuyer l'application active lors de l'adoption de solutions.
 
-- **Approbation des normes ouvertes préférées actuelles (projets-pilotes, principes, lignes directrices) au GC**.
+- **Approbation des normes ouvertes préférées actuelles (projets-pilotes, principes, lignes directrices) au gouvernement du Canada**.
   - Norme relative aux données sur l'octroi de contrats ouverts (projet-pilote de la Norme relative aux données sur l'octroi de contrats ouverts de SPAC).
-  - PDF/A, EPUB3, XML, CSV (principes d'information et des données ouvertes du GC)
-  - EPUB3, PDF/A, ODF, EML, MBOX... (Lignes directrices de BAC sur les formats de fichier pour le transfert de ressources documentaires ayant une valeur durable)
+  - PDF/A, EPUB3, XML, CSV (principes d'information et des données ouvertes du gouvernement du Canada).
+  - EPUB3, PDF/A, ODF, EML, MBOX... (Lignes directrices de BAC sur les formats de fichier pour le transfert de ressources documentaires ayant une valeur durable).
 
 - **Harmonisation avec les normes ouvertes du Royaume-Uni pour le gouvernement**
-  - Adopter les normes ouvertes sélectionnées par le Open Standards Board du Royaume-Uni
+  - Adopter les normes ouvertes sélectionnées par le Open Standards Board du Royaume-Uni.
     - HTML5, PDF/A, ODF, Norme relative aux données sur l'octroi de contrats ouverts, Vcard, iCalendar...
-  - Collaborer avec le Royaume-Uni pour sélectionner de nouvelles normes ouvertes pour les gouvernements
-  - Adapter et adopter les directives du Royaume-Uni sur l'ODF et l'approvisionnement au CG
+  - Collaborer avec le Royaume-Uni pour sélectionner de nouvelles normes ouvertes pour les gouvernements.
+  - Adapter et adopter les directives du Royaume-Uni sur l'ODF et l'approvisionnement au CG.
 
 ### Utilisation de logiciels libres
 
@@ -40,18 +40,18 @@
 
 - **Appuie et apporte une contribution active (code, questions, mise à l'essai, feuille de route..) aux LL utilisés par le gouvernement du Canada ou lorsqu'il y a des avantages pour les Canadiens**.
 
-- **Appuyer des initiatives telles que la Fondation Linux [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) afin de veiller à ce que les bibliothèques essentielles pour les communications Internet modernes soient surveillées et prises en charge**.
+- **Appuyer des initiatives telles que la [Core Infrastructure Initiative](https://www.coreinfrastructure.org/) de la Fondation Linux afin de veiller à ce que les bibliothèques essentielles pour les communications Internet modernes soient surveillées et prises en charge**.
 
 #### Diffuser le code élaboré à l'interne dans le cadre des licences des logiciels libres
 
 - **Publier à titre de logiciel libre tous les codes sources créés ou modifiés, qu'ils soient élaborés à l'interne par le personnel du gouvernement ou dans le cadre de contrats négociés**.
   - Se conformer aux licences des projets de LL auxquels ils contribuent.
   
-- **Encourage les contributions à ses projets de logiciel libre, qu'il s'agisse de codes, de commentaires, de rapports de bogues, de demandes de caractéristiques ou d'orientation stratégique globale**.
+- **Encourage les contributions à ses projets de logiciel libre, qu'il s'agisse de codes, de commentaires, de rapports sur les bogues, de demandes de caractéristiques ou d'orientation stratégique globale**.
 
 ### Établissement d'une collectivité de source ouverte
 
-- **Remettre des prix et récompenser les ministères, les unités et les personnes qui utilisent des normes ouvertes et des LL au GC**.
+- **Remettre des prix et récompenser les ministères, les unités et les personnes qui utilisent des normes ouvertes et des LL au gouvernement du Canada**.
 
 ### Autre
 
