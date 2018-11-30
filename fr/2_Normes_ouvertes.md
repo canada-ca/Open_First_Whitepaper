@@ -5,7 +5,7 @@
 - [Interopérabilité](#interopérabilité)
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
-- [Pratiques exemplaires pour l'adoption de normes ouvertes](#pratiques-exemplaires-pour-l-adoption-de-normes-ouvertes)
+- [Pratiques exemplaires pour l'adoption de normes ouvertes](#pratiques-exemplaires-pour-ladoption-de-normes-ouvertes)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
 - [Normes relatives au numérique du gouvernement du Canada](#normes-relatives-au-numérique-du-gouvernement-du-canada)
 

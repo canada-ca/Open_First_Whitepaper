@@ -108,7 +108,7 @@ In open organizations, community looks like:
 
 ### Risks and Drawbacks
 
-#### Zone of comfort
+#### Zone of Comfort
 
 It is possible that working in the open may be pushing some employees out of their zone of comfort and lead to some fear of the unknown and of potential critics of this approach. For employees that have been working exclusively in closed groups, knowing that the code you develop may be accessible for everyone to consult and study could be very daunting and stressful.
 

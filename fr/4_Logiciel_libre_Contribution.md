@@ -7,7 +7,7 @@
 - [Propriété intellectuelle](#propriété-intellectuelle)
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
-- [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-LL)
+- [Pratiques exemplaires pour la diffusion de LL](#pratiques-exemplaires-pour-la-diffusion-de-logiciels-libres)
 - [Normes relatives au numérique du gouvernement du Canada](#normes-relatives-au-numérique-du-gouvernement-du-canada)
 
 ### Contribution
@@ -108,7 +108,7 @@ La diffusion d'un logiciel en tant que LL exige habituellement un examen juridiq
 
 Les avis sont partagés quant à savoir si la diffusion de logiciels augmente ou diminue le risque de responsabilité en matière de brevets. D'une part, la distribution de votre code en tant que LL l'expose à un examen plus approfondi. D'autres peuvent consulter le code et tenter de trouver des cas de contrefaçon de brevet. D'autre part, les collaborateurs des projets de LL peuvent contribuer à la restructuration des brevets dès la découverte d'une contrefaçon. Les conséquences négatives possibles sur les relations publiques et les crédits de bienveillance de poursuites en matière de brevets contre une collectivité de LL peuvent également avoir un effet dissuasif important. Des organisations sans but lucratif comme le [Software Freedom Law Center](http://www.softwarefreedom.org/) offrent également des ressources pour aider les auteurs de projets de LL à se défendre contre les poursuites pour contrefaçon de brevet et les revendications de brevet invalides. Autre inconvénient : les bénévoles ont rarement des portefeuilles de brevets de défense. Toutefois, du même coup, le fait de s'en prendre à des particuliers est également coûteux pour les avocats plaidants en matière de brevets. La plupart des particuliers n'ont pas une valeur nette suffisante pour qu'une poursuite en matière de brevets contre eux en vaille la chandelle.
 
-### Pratiques exemplaires pour la diffusion de LL
+### Pratiques exemplaires pour la diffusion de logiciels libres
 
 #### Participation communautaire
 
@@ -123,7 +123,7 @@ Même sans fournir de code, il y a de nombreuses autres façons de contribuer à
 - **Contribuer à l'infrastructure** : Fournir du matériel, offrir du temps sur un serveur ou même aider à maintenir le contenu du portail Web du projet.
 - **Promouvoir le logiciel** : Faire profiter les autres des avantages d'un logiciel et rédiger des critiques.
 
-#### Décision de distribuer le logiciel en tant que LL
+#### Décision de distribuer le logiciel en tant que logiciel libre
 
 La décision d'octroyer ou non une licence de logiciel en tant que LL passe toujours par une évaluation des exigences opérationnelles et des objectifs du projet. Les exigences opérationnelles auront une grande incidence sur la pondération que vous devriez accorder aux divers avantages et inconvénients. Les entreprises et les organisations lancent des logiciels sous forme de LL à de nombreuses étapes du cycle de développement. Dans certains cas, le logiciel a connu de nombreuses versions et itérations avant de devenir LL. Dans d'autres cas, le logiciel peut commencer sa vie en tant que projet collaboratif de LL entre plusieurs parties. La philosophie de développement des LL est parfois décrite comme suit : « diffusez tôt, diffusez souvent et soyez à l'écoute de vos clients ». Toutefois, il est généralement de bon aloi d'avoir un plan pour l'architecture initiale du projet avant de commencer la distribution en tant que LL. Ce plan peut simplement consister à demander à plusieurs collaborateurs de commencer à travailler sur l'architecture au début du projet. Toutefois, lorsqu'il n'existe aucun plan, les développeurs œuvrant sur différents éléments du projet pourraient éprouver des difficultés à intégrer leurs éléments respectifs ou à travailler en fonction d'une application cohésive.
 

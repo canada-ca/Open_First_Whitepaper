@@ -7,7 +7,7 @@
 - [Risks and Drawbacks](#risks-and-drawbacks)
 - [Best Practices for Adopting Open Standards](#best-practices-for-adopting-open-standards)
 - [Preferred Open Standards](#preferred-open-standards)
-- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
+- [Government of Canada Digital Standards](#government-of-canada-digital-standards)
 
 Open standards are a set of rules designed to do a specific job in technology. Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 

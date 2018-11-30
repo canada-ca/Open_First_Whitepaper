@@ -7,7 +7,7 @@
 
 ### Benefits
 
-#### Economic impact
+#### Economic Impact
 
 Public administrations adopting policies on open standards and OSS have an positive impact on the economy by creating an open marketplace for providers of all types of support. Any support business with sufficient software development competencies can add new features and fix bugs in the software. OSS use may better support businesses and expertise in Canada.
 
@@ -19,7 +19,7 @@ A [PAC report on the impact of OSS in France 2015-2020 (French)](http://www.data
 
 An [article from IGI Global on The Impact of Open Source Software on Employment in the USA](http://www.igi-global.com/article/open-growth/104678), drawing on US employment projections for 2008-2018, predicts OSS will have a positive impact on employment growth in well-paid salary jobs across multiple sectors of the US economy. OSS-related software development jobs are widely diffuse throughout the economy, help build a skilled labour force and offer wages significantly above the national average. OSS is thus believed to be a strong contributor to growth in high-value employment in the US. The authors also posit that, as industries are exposed to the benefits of OSS as a result of the broad diffusion of OSS-related jobs, open innovation processes outside software development may be adopted through a process of learning and imitation.
 
-#### Increase use of Canadian Resources
+#### Increase Use of Canadian Resources
 
 As a small number of large foreign companies become increasingly influential in the current global technological ecosystem the government of Canada's (GC) procurement process has come to reflect this. As a result, Canada has become overly reliant on foreign services and businesses rather than directing government funds to promoting the development of Canadian industry or investing in developing in-house talent. The GoC should take advantage of this opportunity by reducing its reliance on commercial software and increasing its promotion of Canadian industry and talent.
 
@@ -27,7 +27,7 @@ According to [Public Services and Procurement Canada](https://www.tpsgc-pwgsc.gc
 
 ### Risks and Drawbacks
 
-#### Existing relations with software companies
+#### Existing Relations with Software Companies
 
 Some companies with existing contracts with the GC may not agree with a new direction from that would stop entrenched practices that lead to vendor lock-in situations.
 

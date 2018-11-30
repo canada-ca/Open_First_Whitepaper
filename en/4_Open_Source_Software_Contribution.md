@@ -4,11 +4,11 @@
 
 - [Contribution](#contribution)
 - [Releasing Open Source Software](#releasing-open-source-software-code)
-- [Intellectual property](#intellectual-property)
+- [Intellectual Property](#intellectual-property)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for releasing OSS](#best-practices-for-releasing-oss)
-- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
+- [Best Practices for Releasing Open Source Software](#best-practices-for-releasing-oss)
+- [Government of Canada Digital Standards](#government-of-canada-digital-standards)
 
 ### Contribution
 
@@ -22,7 +22,7 @@ When developing entirely new software, a business or government organization nee
 
 Developers who contribute to OSS and distribute it come from wide and varied environments across the public sector, private sector and academia. Studies show numerous and diverse motivations for FOSS participation, ranging from economic gain to a sense of civic duty towards social and technological advancement. Risks and drawbacks of OSS participation also widely differ, depending on the context. ([source](http://www.irma-international.org/viewtitle/10083/))
 
-### Intellectual property
+### Intellectual Property
 
 #### Copyright
 
@@ -40,7 +40,7 @@ When collaborating to develop new features or creating a new project built on ex
 
 With increasing global competition, rising R&D costs and shortening product life cycles, companies are reducing their reliance on traditional models of closed innovation. Increasingly they depend on accessing external sources of knowledge and collaborating with individuals, companies and other organizations that possess relevant knowledge that may be used to benefit the organization's innovation process. ([source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2493736))
 
-#### Long-term Feasibility
+#### Long-Term Feasibility
 
 Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. For example, an organization or company may develop a software tool with a fixed and limited research and development budget. For the project to continue and grow, the participation of other collaborators is necessary.
 
@@ -108,7 +108,7 @@ Releasing software as OSS usually requires a careful legal consideration of the 
 
 Opinions are equally divided on whether releasing software as OSS increases or decreases the risk of patent liability. On the one hand, distributing your code as OSS opens it up to further scrutiny. Others can look through the code and attempt to find patent infringements. On the other hand, collaborators on OSS projects may help re-engineer around patents as soon as an infringement is discovered. The potential adverse consequences on public relations and good will in launching a patent lawsuit against a OSS community can also have a strong deterrent effect. Non-profit organizations such as the [Software Freedom Law Center](http://www.softwarefreedom.org/) also offer resources to help OSS projects defend against patent infringement suits and invalid patent claims. Another drawback is that individual volunteers rarely have defensive patent portfolios. However, by the same token, going after individuals is also expensive for patent litigators. Most individuals alone do not have enough net worth to make a patent lawsuit against them worthwhile.
 
-### Best Practices for releasing OSS
+### Best Practices for Releasing Open Source Software
 
 #### Community Participation
 
@@ -123,7 +123,7 @@ Even without contributing any code, there are numerous other ways that you can c
 - **Contribute to the infrastructure**: contribute hardware, donate server time, or even help maintain content on the project web portal;
 - **Promote the software**: espouse the benefits of the software to others and write reviews.
 
-#### Deciding to Distribute Software as OSS
+#### Deciding to Distribute Software as Open Source Software
 
 A decision on whether to license software as OSS should always start with an assessment of the business requirements and the aims of the project. The business requirements will greatly impact the weight that you should give to various benefits and drawbacks. Companies and organizations release software as OSS at many different stages of the development cycle. In some cases, software has seen many releases and iterations before it becomes OSS. In other cases, software may commence its life as a collaborative OSS project amongst several parties. The OSS development philosophy is sometimes described as: "release early, release often and listen to your customers". However, it is generally a good practice to have a plan for the initial project architecture before starting distribution as OSS. The plan may be as simple as having several collaborators start working on the architecture when the project commences. Where no plan exists, however, developers working on different pieces of the project might run into difficulties integrating their respective pieces or working into a cohesive application.
 
@@ -181,7 +181,7 @@ The following chart details other key differences in this decision:
 
 [Choosealicence.com](https://choosealicense.com/) simplifies the process of selecting an OSS licence by presenting definitions of the most widely used licenses.
 
-#### Choosing a source code repository
+#### Choosing a Source Code Repository
 
 You must make your source code publicly available in an open internet source code repository. For example, CDS’ code is on [GitHub](https://github.com/cds-snc). This includes code developed for you by a third party, such as a development agency.
 
@@ -197,6 +197,6 @@ Examples of open Internet source code repositories, include, but are not limited
 
 OSS often brings together a disparate community of developers, ranging from volunteer hobbyists to commercial enterprises. In the absence of a formal management and communication structure as found in a unified corporate development environment, OSS communities use a variety of techniques to self-manage their projects in this environment.
 
-### Government of Canada Digital Playbook
+### Government of Canada Digital Standards
 
 The [GC Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html) include a standard to work in the open and make all non-sensitive data, information and source code open for sharing and reuse under an open licence.

@@ -8,8 +8,8 @@
 - [Utilisation des logiciels libres](#utilisation-des-logiciels-libres)
 - [Avantages](#avantages)
 - [Risques et inconvénients](#risques-et-inconvénients)
-- [Pratiques exemplaires pour l'utilisation des logiciels libres](#pratiques-exemplaires-pour-l-utilisation-des-logiciels-libres)
-- [Publication de logiciels libres](#publication-de-logiciels-libres)
+- [Pratiques exemplaires pour l'utilisation des logiciels libres](#pratiques-exemplaires-pour-lutilisation-de-logiciels-libres)
+- [Contribution aux logiciels libres](#contribution-aux-logiciels-libres)
 - [Logiciels libres privilégiées](#logiciels-libres-privilégiées)
 - [Normes relatives au numérique du gouvernement du Canada](#normes-relatives-au-numérique-du-gouvernement-du-canada)
 
@@ -295,7 +295,7 @@ Le soutien de la collectivité offre l'avantage de conserver la distribution ori
 ##### Vendeur
 
 La majorité des principaux LL qu'une entreprise peut utiliser sont accompagnés d'une option de support commercial payant. Red Hat et Canonical, par exemple, offrent tous deux un support commercial pour leurs distributions Linux.
- 
+
 L'engagement de tiers pour le support au niveau du code source peut conduire à une dérivation de la distribution principale du logicielle de la collectivité/du fournisseur. La maintenance de la version bifurquée du logiciel nécessite des efforts, une expertise technique et des ressources supplémentaires. Par conséquent, il est prudent d'utiliser la version supportée par la collectivité. Il y a des entreprises qui fournissent des éditions « d'entreprise » des logiciels communautaires qu'elles maintiennent, et ces éditions sont souvent accompagnées d'options pour le support et la formation basés sur un accord de niveau de service. Il y a aussi des organisations qui peuvent nous aider à bâtir l'infrastructure de soutien dont nous avons besoin à l'interne, ou même nous fournir cette équipe de soutien. Bien que ces options ne soient pas gratuites, il convient de mentionner que de nombreuses études ont confirmé les avantages financiers du LL dans un contexte commercial, même avec un soutien rémunéré. Le LL plus l'assistance payée ne dépasse pas le prix du logiciel payant plus l'assistance payée. C'est juste des maths simples. Lorsqu'on juxtapose les coûts de licence associés au soutien d'une infrastructure commerciale sophistiquée ou les coûts d'embauche associés à la création et au maintien d'une équipe de soutien interne, le rendement du capital investi est généralement considérable.
 
 Comme le code source des LL est par définition librement disponible, cela signifie que nous n'avons pas à nous limiter à choisir entre les offres de support des entreprises qui fournissent des contrats de support. Nous pouvons être proactifs et répondre à vos besoins exacts en matière d'assistance. En choisissant le bon fournisseur commercial comme partenaire architectural dans nos efforts de développement autour de l'open source, nous pouvons obtenir à la fois la liberté et la flexibilité qu'offre l'adoption de LL, et la tranquillité d'esprit que procure le support aux entreprises de qualité commerciale. La principale motivation de l'adoption du LL est d'avoir des choix multiples pour les solutions logicielles et plus de concurrence entre les fournisseurs de services, mais sans aucun blocage ou perte de propriété intellectuelle (PI). Si un modèle de soutien crée l'immobilisation ou la perte d'une PI sous le nom de LL, l'objectif principal de l'option de LL est annulé.

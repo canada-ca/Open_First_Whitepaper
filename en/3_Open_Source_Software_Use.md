@@ -4,14 +4,14 @@
 
 - [Definitions](#definitions)
 - [History](#history)
-- [Intellectual property](#intellectual-property)
-- [Using open source software](#using-open-source-software)
+- [Intellectual Property](#intellectual-property)
+- [Using Open Source Software](#using-open-source-software)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for using Open Source Software](#best-practices-for-using-open-source-software)
+- [Best Practices for Using Open Source Software](#best-practices-for-using-open-source-software)
 - [Contributing to Open Source Software](#contributing-to-open-source-software)
 - [Preferred Open Source Software](#preferred-open-source-software)
-- [Government of Canada Digital Playbook](#government-of-canada-digital-playbook)
+- [Government of Canada Digital Standards](#government-of-canada-digital-standards)
 
 ### Definitions
 
@@ -45,7 +45,7 @@ Following to this change, Richard Stallman and the GNU Project started to build 
 
 The combination of the Linux kernel and the GNU tools - most commonly called Linux - was released under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPL), a licensing model that was created by the GNU Project. The GPL granted recipients unfettered rights to redistribute software with the condition that the source code could not be kept secret. As Linux grew in popularity, with thousands of contributors and billions of users, the industry learned to follow and adopt GPL’s terms. By the late 1990s, GPL and the open source licensing paradigm more broadly gained traction and industry-wide acceptance.
 
-### Intellectual property
+### Intellectual Property
 
 Intellectual property is a category of property that includes the intangible creations of the human intellect and includes mainly copyrights, patents and trademarks. It also includes other types of rights, such as trade secrets, advertising rights, moral rights and rights against unfair competition.
 
@@ -64,13 +64,13 @@ The first two types of clauses - disclaimers and notice obligations – are pres
 
 For more details on licence clauses and other legal issues, see: [Legal Annex](Annex_Legal.md)
 
-### Using open source software
+### Using Open Source Software
 
 Within the context of OSS use where one does not distribute the software, there are five scenarios in which organizations typically make use of OSS: web and file services, desktop office suites, specialty software applications, customized software for in-house use, and customized software for use within other departments in the same organization.
 
 The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lists over 350 professional OSS solutions with reviews and evaluations.
 
-#### Server-side software
+#### Server-Side Software
 
 Especially on the internet, OSS has long been a cornerstone of server software. OSS web server software such as Apache and Nginx run more than 65% of the active sites on the internet according to [Netcraft February 2017 Web Server Survey](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). The OSS database server MySQL and MariaDB is widely popular, and the OSS-licensed TomCat software captures a majority of the Java application servers market. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
@@ -242,7 +242,7 @@ In general, the same factors applicable to an evaluation of the feature set and 
 
 The [OpenHub](https://www.openhub.net/) Website provides many useful metrics to help with evaluation of OSS. For example, it lists security vulnerabilities of the project, the number of contributors, and the frequency of software updates.
 
-##### Comparing OSS and Closed-source software
+##### Comparing OSS and Closed-Source Software
 
 In making software procurement decisions, it is common practice to assess OSS on equal footing with closed-source software. Starting from a list of business requirements, a government organization or business can assess how well the feature set of a OSS software package matches the requirements, and calculate the overall cost-per-feature over the required lifetime of the software.
 
@@ -260,7 +260,7 @@ Vetting and implementing an OSS Solution is generally the easy part. It is the m
 - Determine skills and requirements for the support based on Organization skill/resources, OSS component characteristics and the overall application characteristics.
 - Determine how OSS components will be maintained/kept up to date with bug and vulnerability patches.
 
-##### Self-support
+##### Self-Support
 
 The benefits of relying on our internal IT teams and staff to support OSS that we deploy are:
 
@@ -300,7 +300,7 @@ Engaging third parties for source code level support may lead to branching from 
 
 Since the source code for OSS is freely available by definition, this means we don't have to restrict ourselves to choosing between the support offerings of companies that supply support contracts. We can be proactive and put your exact support requirements out to tender. By selecting the right commercial provider as an architectural partner in our development endeavors surrounding open source, we can obtain both the freedom and flexibility gained from adopting free software, and the peace of mind that comes with commercial-grade enterprise support. The major motivation for adopting OSS is to have multiple choices for the software solutions and more competition amongst service providers but without any lock-in or loss of intellectual property (IP). If any support model creates the lock-in or loss of IP under the name of OSS, the main purpose for opting OSS is nullified.
 
-##### Mixing Support models
+##### Mixing Support Models
 
 By combining models, we can leverage the best from each of them where the commercial support compliments the internal and community(ies) support.
 
