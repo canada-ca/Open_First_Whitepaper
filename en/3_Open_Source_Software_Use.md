@@ -47,7 +47,7 @@ The combination of the Linux kernel and the GNU tools - most commonly called Lin
 
 ### Intellectual property
 
-** Translation
+Intellectual property is a category of property that includes the intangible creations of the human intellect and includes mainly copyrights, patents and trademarks. It also includes other types of rights, such as trade secrets, advertising rights, moral rights and rights against unfair competition.
 
 #### Licences
 
@@ -74,7 +74,7 @@ The Smile [Open Source Guide](http://www.open-source-guide.com/en) currently lis
 
 Especially on the internet, OSS has long been a cornerstone of server software. OSS web server software such as Apache and Nginx run more than 65% of the active sites on the internet according to [Netcraft February 2017 Web Server Survey](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). The OSS database server MySQL and MariaDB is widely popular, and the OSS-licensed TomCat software captures a majority of the Java application servers market. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
-Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada (GC) website at [Canada.ca](https://www.canada.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations. (more recent examples..)
+Public sector organizations deploy OSS for servers as readily as private sector organizations. For example, the primary Government of Canada (GC) website at [Canada.ca](https://www.canada.ca) runs on the open source Apache web server. The National Research Council (NRC) uses Apache, MySQL, and the OpenLDAP authentication tool for electronic publications. In fact, overall, server-side software remains the primary use of OSS within public sector organizations.
 
 #### Desktop Productivity Software
 
@@ -244,7 +244,7 @@ The [OpenHub](https://www.openhub.net/) Website provides many useful metrics to 
 
 ##### Comparing OSS and Closed-source software
 
-In making software procurement decisions, it is common practice to assess OSS on equal footing with closed-source software (examples..). Starting from a list of business requirements, a government organization or business can assess how well the feature set of a OSS software package matches the requirements, and calculate the overall cost-per-feature over the required lifetime of the software.
+In making software procurement decisions, it is common practice to assess OSS on equal footing with closed-source software. Starting from a list of business requirements, a government organization or business can assess how well the feature set of a OSS software package matches the requirements, and calculate the overall cost-per-feature over the required lifetime of the software.
 
 This type of assessment provides a useful starting point. However, several interviewees reported difficult experiences in making "apples-to-apples" comparisons between OSS and closed- source software. Although an assessment of the total cost of ownership is feasible for both, it is difficult to account for factors such as benefits to the public (e.g., overall economic efficiency, support for local businesses, etc.).
 
@@ -286,19 +286,17 @@ So, despite the benefits on paper for self-support, this model is typically not 
 
 ###### GC Community
 
-The GC Community initially will offer the same type of support as that described for the global community support below. The difference is that with this community there is potential to introduce other tiers of support - for example if a product was developed using OSS by a peer department an MOU could be put in place where 2nd or 3rd line support could be provided by the peer department or their SME could be made available to our department as a temporary resource, and vise versa should we be the owners of a specific OSS solution. The GC community introduces many possibilities around support, collaborative development code sharing and reuse, which we must explore further and discuss with the broader GC.
+The GC Community initially will offer the same type of support as that described for the global community support below. The difference is that with this community there is potential to introduce other tiers of support - for example if a product was developed using OSS by a peer department an memorandum of understanding could be put in place where 2nd or 3rd line support could be provided by the peer department or their subject matter expert  could be made available to our department as a temporary resource, and vise versa should we be the owners of a specific OSS solution. The GC community introduces many possibilities around support, collaborative development code sharing and reuse, which we must explore further and discuss with the broader GC.
 
 ###### Global Community
 
 Support from the community provides the advantage of staying with the original software distribution. This is not a direct support approach. This is a research approach where one would seek help and advice by posting questions and describing the situation online and engaging a community of developers and users of the same OSS product or project.
 
-Engagement sources: Project sites, repositories (i.e. GitHub), mailing lists, forums, bug trackers, FAQs, conferences consortia meetings community get-togethers
-
 ##### Vendor
 
 The majority of major OSS packages that a business might use come with the option of paid commercial support. Red Hat and Canonical, for instance, both offer commercial support for their Linux distributions.
 
-Engaging third parties for source code level support may lead to branching from the software distribution of the mainline community/vendor. To maintain the branched version of the software requires additional effort, technical expertise and resources. Therefore, it is prudent to use community supported version. There are companies who provide "enterprise" editions of the community software that they maintain, and those editions often come with options for SLA-based support and training. There's also organizations who can help us build the support infrastructure we need internally, or even provide that support team for us. Though these options aren't free, it's worth mentioning that numerous studies have confirmed the financial benefits of OSS in a business setting, even with paid support. OSS plus paid support does not exceed the price of paid software plus paid support. It's just simple math. When juxtaposed to the license costs associated with supporting a sophisticated commercial infrastructure, or the hiring costs associated with building and maintaining an internal support team, the ROI is generally substantial.
+Engaging third parties for source code level support may lead to branching from the software distribution of the mainline community/vendor. To maintain the branched version of the software requires additional effort, technical expertise and resources. Therefore, it is prudent to use community supported version. There are companies who provide "enterprise" editions of the community software that they maintain, and those editions often come with options for service level agreement based support and training. There's also organizations who can help us build the support infrastructure we need internally, or even provide that support team for us. Though these options aren't free, it's worth mentioning that numerous studies have confirmed the financial benefits of OSS in a business setting, even with paid support. OSS plus paid support does not exceed the price of paid software plus paid support. It's just simple math. When juxtaposed to the license costs associated with supporting a sophisticated commercial infrastructure, or the hiring costs associated with building and maintaining an internal support team, the return on investment is generally substantial.
 
 Since the source code for OSS is freely available by definition, this means we don't have to restrict ourselves to choosing between the support offerings of companies that supply support contracts. We can be proactive and put your exact support requirements out to tender. By selecting the right commercial provider as an architectural partner in our development endeavors surrounding open source, we can obtain both the freedom and flexibility gained from adopting free software, and the peace of mind that comes with commercial-grade enterprise support. The major motivation for adopting OSS is to have multiple choices for the software solutions and more competition amongst service providers but without any lock-in or loss of intellectual property (IP). If any support model creates the lock-in or loss of IP under the name of OSS, the main purpose for opting OSS is nullified.
 

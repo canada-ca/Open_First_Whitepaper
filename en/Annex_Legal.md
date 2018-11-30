@@ -46,9 +46,7 @@ There is one distinctive and commonly-encountered feature of OSS that tends to d
 >  To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.
 >  For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code.
 
-Only some OSS licences contain this stipulation: other popular licences such as the MIT, BSD and Apache licences do not. Licences without this stipulation are generally referred to as permissive. In these cases, the author of any modifications is under no obligation to place his or her changes under the same licence, or even under a OSS licence at all. In general, the author of the modifications can even use and redistribute the modified software as a closed-source software application. The two different types of OSS licences are illustrated in the figure below.
-
-(Image?)
+Only some OSS licences contain this stipulation: other popular licences such as the MIT, BSD and Apache licences do not. Licences without this stipulation are generally referred to as permissive. In these cases, the author of any modifications is under no obligation to place his or her changes under the same licence, or even under a OSS licence at all. In general, the author of the modifications can even use and redistribute the modified software as a closed-source software application.
 
 However, blurring the distinction between these types of licences, different reciprocal licences stipulate varying degrees of when this reciprocal obligation to distribute under the same licence engages. This is perhaps the most confusing aspect of OSS licences and deserves careful attention. To determine whether a certain activity implicates a reciprocal obligation, one must consider (1) the type of distribution and (2) the extent of integration with the original code.
 

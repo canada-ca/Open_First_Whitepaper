@@ -101,12 +101,10 @@ Dans les organisations ouvertes, la collectivité se manifeste comme suit :
 
 #### Renseignements connexes
 
-** Traduction!
-
-- [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - How to build a culture of innovation in your organization
-- [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Practical Tips for Igniting Passion and Performance
-- [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions for building the workplace of the future
-- [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Open principles and practices for a more innovative IT department
+- [The Open Organization Workbook](https://opensource.com/open-organization/resources/workbook) - Comment bâtir une culture de l'innovation dans votre organisation
+- [Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide) - Conseils pratiques pour allumer la passion et la performance
+- [Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual) - Instructions pour construire le lieu de travail de l'avenir
+- [Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change) - Principes et pratiques ouverts pour un service TI plus innovant
 
 ### Risques et inconvénients
 

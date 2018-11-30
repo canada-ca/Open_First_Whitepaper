@@ -29,9 +29,9 @@ Le terme utilisé par l'_Open Source Initiative_ (OSI). La [définition du logic
 
 #### Désambiguïsation
 
-** Traduction!
+Les logiciels libres (LL) et les logiciels à source ouverte sont des logiciels dont le code source est distribué et peut être utilisé, copié, étudié et redistribué.
 
-Les logiciels libres et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes « logiciels libres et à source ouverte » (FOSS, pour _free open source software_ ou FLOSS, pour _free/libre open source software_). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme « logiciels libres (LL) » pour englober les termes « logiciel libre » et « logiciels à source ouverte ».
+Les LL et les logiciels à source ouverte sont presque équivalents, mais ils correspondent à deux visions différentes, et aucun ne veut être inclus dans l'autre. Des auteurs utilisent les termes « logiciels libres et à source ouverte » (FOSS, pour _free open source software_ ou FLOSS, pour _free/libre open source software_). Aux fins du présent livre blanc, nous avons choisi d'utiliser le terme « logiciels libres (LL) » pour englober les termes « logiciel libre » et « logiciels à source ouverte ».
 
 ### Historique
 
@@ -74,7 +74,7 @@ Le [Guide de l'open source](http://www.open-source-guide.com/) de Smile énumèr
 
 Surtout dans Internet, les LL sont depuis longtemps une pierre angulaire du logiciel serveur. Les LL de serveur Web comme Apache et Nginx exploitent plus de 65 % des sites actifs dans Internet selon l'[enquête sur les serveurs Web de février 2017 de Netcraft](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html). Les serveurs libres de bases de données MySQL et MariaDB sont très populaires, et le LL Tomcat occupe la majorité du marché des serveurs d'applications Java. ([source](https://blog.jelastic.com/2016/04/14/software-stacks-market-share-first-quarter-of-2016/))
 
-Les organisations du secteur public déploient des LL pour les serveurs aussi rapidement que les organisations du secteur privé. Par exemple, le site Web principal du gouvernement du Canada à [Canada.ca](https://www.canada.ca) utilise le serveur Web libre Apache. Le Conseil national de recherches du Canada (CNRC) utilise Apache, MySQL et l'outil d'authentification OpenLDAP pour les publications électroniques. En fait, dans l'ensemble, les logiciels côté serveur demeurent la principale utilisation des LL au sein des organisations du secteur public. (Exemples plus récents...)
+Les organisations du secteur public déploient des LL pour les serveurs aussi rapidement que les organisations du secteur privé. Par exemple, le site Web principal du gouvernement du Canada à [Canada.ca](https://www.canada.ca) utilise le serveur Web libre Apache. Le Conseil national de recherches du Canada (CNRC) utilise Apache, MySQL et l'outil d'authentification OpenLDAP pour les publications électroniques. En fait, dans l'ensemble, les logiciels côté serveur demeurent la principale utilisation des LL au sein des organisations du secteur public.
 
 #### Suite bureautique sur la productivité
 
@@ -244,7 +244,7 @@ Le site Web [OpenHub](https://www.openhub.net/) fournit de nombreuses mesures u
 
 ##### Comparaison des logiciels libres et exclusifs
 
-Lorsqu'il s'agit de prendre des décisions en matière d'acquisition de logiciels, il est pratique courante d'évaluer les LL sur un pied d'égalité avec les logiciels exclusifs (exemples...). À partir d'une liste des exigences opérationnelles, une organisation gouvernementale ou une entreprise peut évaluer dans quelle mesure l'ensemble de fonctions d'un LL correspond aux exigences et calculer le coût global par fonction pendant la durée de vie utile du logiciel.
+Lorsqu'il s'agit de prendre des décisions en matière d'acquisition de logiciels, il est pratique courante d'évaluer les LL sur un pied d'égalité avec les logiciels exclusifs. À partir d'une liste des exigences opérationnelles, une organisation gouvernementale ou une entreprise peut évaluer dans quelle mesure l'ensemble de fonctions d'un LL correspond aux exigences et calculer le coût global par fonction pendant la durée de vie utile du logiciel.
 
 Ce type d'évaluation constitue un point de départ utile. Cependant, plusieurs personnes interrogées ont fait état d'expériences difficiles dans l'établissement de comparaisons « entre pommes » entre les LL et les logiciels exclusifs. Bien qu'une évaluation du coût total de la propriété soit possible pour les deux, il est difficile de tenir compte de facteurs comme les avantages pour le public (p. ex., l'efficacité économique globale, le soutien aux entreprises locales, etc.).
 
@@ -252,29 +252,59 @@ En plus de cette difficulté, les processus établis d'acquisition de logiciels 
 
 Par conséquent, bien qu'une comparaison directe entre toutes les solutions possibles – libres et exclusives – soit une pratique utile, il peut également être nécessaire pour les entreprises et les organisations de revoir les procédures et processus existants afin de veiller à ce qu'ils tiennent compte adéquatement des deux catégories de logiciels.
 
-#### Soutien
+#### Support
 
-** Traduction!
+La vérification et la mise en œuvre d'une solution LL est généralement la partie la plus facile. C'est la maintenance et le support de l'infrastructure LL critique qui devient le vrai défi. Le risque d'utiliser un logiciel sans garantie ni responsabilité du fournisseur est important. Avec les LL, il existe toute une gamme de modèles de support parmi lesquels choisir, et le bon choix va varier en fonction de nos besoins opérationnel. Ces options ne s'excluent pas mutuellement, et nous pouvons constater, par exemple, que notre entreprise est mieux servie en utilisant divers degrés de chacune des options ci-dessous. Quels que soient nos besoins, la meilleure façon de tirer le meilleur parti des LL tout en atténuant les risques est de nous assurer que notre entreprise adopte un modèle de soutien solide et stratégique et que nous l'utilisons de la façon la plus optimale possible.
 
-##### Self-support
+- Élaborer un plan de soutien dans le cadre du processus d'adoption du produit.
+- Déterminer les compétences et les besoins en matière de soutien en fonction des compétences/ressources de l'organisation, des caractéristiques des composants LL et des caractéristiques générales de l'application.
+- Déterminer comment les composants OSS seront maintenus à jour avec les correctifs de bogues et de vulnérabilités.
 
-** Traduction!
+##### Autosuffisance
 
-###### GC Community
+Les avantages de compter sur nos équipes informatiques internes et sur notre personnel pour soutenir les LL que nous déployons sont les suivants :
 
-** Traduction!
+- nous avons le code source, nous avons le contrôle;
+- tirer parti de nos ressources existantes;
+- la possibilité d'engager des spécialistes pour l'entretien interne des produits;
+- Si nécessaire, nous pouvons trouver du matériel pédagogique et des formations pour affiner nos compétences;
+- désigner les propriétaires de code pour qu'ils soient responsables des divers codes open source qui ont été mis en œuvre. Ces propriétaires seraient responsables de :
+  - garder une longueur d'avance sur les nouvelles mises à jour et fonctionnalités;
+  - être vigilant et proactif en ce qui concerne les notifications de sécurité;
+  - vérification interne des logiciels par rapport aux processus d'affaires afin de s'assurer de leur pertinence;
+  - interagir avec les collectivités pour demander des fonctionnalités et signaler des bogues;
+  - transmettre la connaissance du produit aux parties prenantes.
 
-###### Global Community
+Posséder une implémentation libre pourrait se heurter à des défis immédiats tels que
 
-** Traduction!
+- viable seulement si nous avons suffisamment d'expertise en interne;
+- mauvaise documentation;
+- la lenteur de la réaction des collectivités;
+- manque de preuve des concepts pertinents à votre domaine.
 
-##### Vendor
+Ainsi, malgré les avantages sur papier de l'autosuffisance, ce modèle n'est généralement pas suffisant pour obtenir la fiabilité à laquelle nous nous attendons de nos systèmes essentiels.
 
-** Traduction!
+###### Collectivité du gouvernement du Canada
 
-##### Mixing Support models
+La collectivité du gouvernement du Canada offrira initialement le même type de soutien que celui décrit ci-dessous pour le soutien de la collectivité mondiale. La différence est qu'avec cette collectivités, il est possible d'introduire d'autres niveaux de soutien - par exemple, si un produit a été développé à l'aide du LL par un ministère homologue, un protocole d'entente pourrait être mis en place où le soutien de deuxième ou troisième ligne pourrait être fourni par le ministère homologue ou son expert en la matière pourrait être mis temporairement à la disposition de notre ministère, et vice versa si nous sommes propriétaires d'une solution spécifique au LL. La collectivités du gouvernement du Canada présente de nombreuses possibilités en matière de soutien, de partage et de réutilisation des codes d'élaboration en collaboration, que nous devons explorer davantage et discuter avec l'ensemble du gouvernement du Canada.
 
-** Traduction!
+###### Collectivité mondiale
+
+Le soutien de la collectivité offre l'avantage de conserver la distribution originale du logiciel. Il ne s'agit pas d'une approche de soutien direct. Il s'agit d'une approche de recherche où l'on chercherait de l'aide et des conseils en posant des questions et en décrivant la situation en ligne et en impliquant une collectivité de développeurs et d'utilisateurs du même produit ou projet LL.
+
+##### Vendeur
+
+La majorité des principaux LL qu'une entreprise peut utiliser sont accompagnés d'une option de support commercial payant. Red Hat et Canonical, par exemple, offrent tous deux un support commercial pour leurs distributions Linux.
+ 
+L'engagement de tiers pour le support au niveau du code source peut conduire à une dérivation de la distribution principale du logicielle de la collectivité/du fournisseur. La maintenance de la version bifurquée du logiciel nécessite des efforts, une expertise technique et des ressources supplémentaires. Par conséquent, il est prudent d'utiliser la version supportée par la collectivité. Il y a des entreprises qui fournissent des éditions « d'entreprise » des logiciels communautaires qu'elles maintiennent, et ces éditions sont souvent accompagnées d'options pour le support et la formation basés sur un accord de niveau de service. Il y a aussi des organisations qui peuvent nous aider à bâtir l'infrastructure de soutien dont nous avons besoin à l'interne, ou même nous fournir cette équipe de soutien. Bien que ces options ne soient pas gratuites, il convient de mentionner que de nombreuses études ont confirmé les avantages financiers du LL dans un contexte commercial, même avec un soutien rémunéré. Le LL plus l'assistance payée ne dépasse pas le prix du logiciel payant plus l'assistance payée. C'est juste des maths simples. Lorsqu'on juxtapose les coûts de licence associés au soutien d'une infrastructure commerciale sophistiquée ou les coûts d'embauche associés à la création et au maintien d'une équipe de soutien interne, le rendement du capital investi est généralement considérable.
+
+Comme le code source des LL est par définition librement disponible, cela signifie que nous n'avons pas à nous limiter à choisir entre les offres de support des entreprises qui fournissent des contrats de support. Nous pouvons être proactifs et répondre à vos besoins exacts en matière d'assistance. En choisissant le bon fournisseur commercial comme partenaire architectural dans nos efforts de développement autour de l'open source, nous pouvons obtenir à la fois la liberté et la flexibilité qu'offre l'adoption de LL, et la tranquillité d'esprit que procure le support aux entreprises de qualité commerciale. La principale motivation de l'adoption du LL est d'avoir des choix multiples pour les solutions logicielles et plus de concurrence entre les fournisseurs de services, mais sans aucun blocage ou perte de propriété intellectuelle (PI). Si un modèle de soutien crée l'immobilisation ou la perte d'une PI sous le nom de LL, l'objectif principal de l'option de LL est annulé.
+
+##### Mélange des modèles de support
+
+En combinant les modèles, nous pouvons tirer le meilleur parti de chacun d'eux lorsque le soutien commercial complète le soutien interne et celui de la ou des communautés.
+
+Le mélange de modèles évoluera au fil du temps où une organisation commencera généralement par un soutien interne et développera certaines compétences internes, puis, en raison de la demande, le nombre de contrats de soutien de tierce partie augmentera au besoin, habituellement pour les applications les plus exigeantes en ressources.
 
 #### Formation
 
