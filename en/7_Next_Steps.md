@@ -1,4 +1,4 @@
-[<- Previous Page : Open Culture](6_Open_Culture.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Legal Annex ->](Annex_Legal.md)
+[<- Previous Page : Open Culture](6_Open_Culture.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Annex A - Legal Issues ->](Annex_Legal.md)
 
 ## Next Steps
 

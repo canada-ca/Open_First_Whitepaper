@@ -1,6 +1,6 @@
 [<- Previous Page : Open Standards](2_Open_Standards.md) | [Table of Contents](../README.md#table-of-contents) | [Next Page: Open Source Software Contribution ->](4_Open_Source_Software_Contribution.md)
 
-## Open Source Software (OSS) Use
+## Open Source Software Use
 
 - [Definitions](#definitions)
 - [History](#history)
@@ -62,7 +62,7 @@ Even amongst the licences that the FSF and the OSI approve as sharing the basic 
 
 The first two types of clauses - disclaimers and notice obligations – are present in nearly every OSS licence. In fact, the short and popular [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause) contains little more than these two bare obligations. Other more expansive licences, such as the GPL, contain clauses setting out all four of these obligations.
 
-For more details on licence clauses and other legal issues, see: [Legal Annex](Annex_Legal.md)
+For more details on licence clauses and other legal issues, see: [Annex A - Legal Issues](Annex_Legal.md)
 
 ### Using Open Source Software
 
@@ -330,7 +330,7 @@ Depending on the context, it is prudent to allocate appropriate resources for tr
 
 Overall, the particular OSS licence is unlikely to strongly impact a decision on whether or not to use OSS. As previously noted, few licence obligations engage upon the mere use of OSS. Most importantly, reciprocal licensing obligations do not apply. Only three features of OSS licences tend to strongly differ from closed-source licences in this context and merit special consideration: (1) the lack of a warranty; (2) the disclaimer of liability and lack of indemnification; and (3) the lack of choice of law and choice of forum clauses.
 
-For more details on legal risk management and other legal issues, see: [Legal Annex](Annex_Legal.md)
+For more details on legal risk management and other legal issues, see: [Annex A - Legal Issues](Annex_Legal.md)
 
 #### Interoperability and Licence Alignment
 

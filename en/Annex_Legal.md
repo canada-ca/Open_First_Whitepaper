@@ -1,6 +1,6 @@
 [« Previous Page : Next Steps](7_Next_Steps.md) | [Table of Contents](../README.md#table-of-contents)
 
-## Annex A - Legal
+## Annex A - Legal Issues
 
 - [Intellectual property](#intellectual-property)
 - [Managing Licence Obligations](#managing-licence-obligations)

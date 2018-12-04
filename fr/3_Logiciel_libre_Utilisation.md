@@ -1,4 +1,4 @@
-[<- Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciel libre - Contribution ->](4_Logiciel_libre_Contribution.md)
+[<- Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciels libres - Contribution ->](4_Logiciel_libre_Contribution.md)
 
 ## Logiciels libres - Utilisation
 
