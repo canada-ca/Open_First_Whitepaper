@@ -187,7 +187,7 @@ You must make your source code publicly available in an open internet source cod
 
 Examples of open Internet source code repositories, include, but are not limited to:
 
-- Gitlab
+- GitLab
 - Github
 - Framagit
 - Bitbucket
