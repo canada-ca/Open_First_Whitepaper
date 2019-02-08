@@ -1,4 +1,4 @@
-[<- Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciel libre - Contribution ->](4_Logiciel_libre_Contribution.md)
+[<- Page précédente : Normes ouvertes](2_Normes_ouvertes.md) | [Table des matières](../README.md#table-des-mati%C3%A8res) | [Page suivante : Logiciels libres - Contribution ->](4_Logiciel_libre_Contribution.md)
 
 ## Logiciels libres - Utilisation
 
@@ -62,7 +62,7 @@ Même parmi les licences que la FSF et l'OSI approuvent parce qu'elles possèden
 
 On retrouve les deux premiers types de clauses, soit les avis et les obligations de notification, dans presque toutes les licences de LL. En fait, la [licence BSD à deux clauses](https://opensource.org/licenses/BSD-2-Clause), courte et populaire, contient à peine plus que ces deux obligations. D'autres licences plus vastes, comme la licence GPL, contiennent des clauses qui énoncent ces quatre obligations.
 
-Pour obtenir de plus amples détails sur les clauses de licences et d'autres questions juridiques, veuillez consulter l'[annexe A – Questions d’ordre juridique](Annexe_légale.md).
+Pour obtenir de plus amples détails sur les clauses de licences et d'autres questions juridiques, veuillez consulter l'[annexe A - Questions d'ordre juridique](Annexe_légale.md).
 
 ### Utilisation des logiciels libres
 
@@ -90,7 +90,7 @@ De nombreux services publics et applications libres desservent un secteur d'acti
 
 Toutes les [licences](Annexe_légale.md#licences) de LL accordent aux utilisateurs de vastes droits pour modifier le logiciel. Étant donné que seule la distribution peut déclencher des obligations réciproques, il est possible de modifier les logiciels à des fins internes sans déclencher d'autres obligations juridiques. Le contexte juridique de la modification d'un LL et de son utilisation interne est le même que celui de son utilisation interne sans modification.
 
-Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les « Lignes directrices sur les LL du CNRC » (disponibles par l’entremise de GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
+Cependant, bien qu'il n'y ait pas de différence juridique entre ces deux scénarios, certaines organisations et entreprises pourraient toujours souhaiter établir une politique différente pour le traitement des logiciels modifiés, comme les « Lignes directrices sur les LL du CNRC » (disponibles par l'entremise de GCpédia). Le suivi et le traitement des logiciels modifiés avec une plus grande prudence peuvent aider à veiller à ce qu'une organisation ou une entreprise ne distribue pas le logiciel par erreur ultérieurement (ce qui pourrait alors avoir d'autres conséquences juridiques).
 
 #### Distribution interne
 
@@ -114,7 +114,7 @@ Lorsqu'une application logicielle exclusive est intégrée aux processus ou aux 
 
 Les LL comportent un avantage en ce sens qu'il crée [marchés ouverts](5_Marchés_ouverts.md) pour les fournisseurs de tous les types de soutien. Toute entreprise de soutien ayant des compétences suffisantes en développement de logiciels peut ajouter de nouvelles fonctions et corriger des bogues dans le logiciel. Les utilisateurs de LL peuvent aussi passer à un fournisseur de soutien différent chaque fois qu'une entreprise existante ne répond plus à leurs besoins ou ne respectent plus leurs échéances.
 
-La souplesse de l'utilisation des LL oblige le gouvernement du Canada à répondre aux besoins des utilisateurs en modifiant ou en créant de nouveaux LL. Les LL sont particulièrement adaptées au prototypage et à l'expérimentation rapides. Le processus de mise à l'essai génère des coûts minimes, et le processus favorise le recensement et l'élimination des défauts non reconnus par l'équipe de développement d’origine.
+La souplesse de l'utilisation des LL oblige le gouvernement du Canada à répondre aux besoins des utilisateurs en modifiant ou en créant de nouveaux LL. Les LL sont particulièrement adaptées au prototypage et à l'expérimentation rapides. Le processus de mise à l'essai génère des coûts minimes, et le processus favorise le recensement et l'élimination des défauts non reconnus par l'équipe de développement d'origine.
 
 #### Soutien de l'économie et des collectivités locales
 
@@ -161,17 +161,17 @@ En publiant ouvertement le code d'un projet et en le rendant facilement accessib
 
 Seul un examen ouvert par des pairs peut rendre possibles des pratiques exemplaires en matière de sécurité. Voilà la base d'une approche fondée sur des données probantes dans n'importe quel domaine d'études. La technologie n'est pas différente et elle ne devrait pas être traitée comme si les fournisseurs étaient les seuls à détenir la vérité.
 
-Si vous voulez en apprendre davantage sur la sécurité des LL, vous pouvez consulter le document [UK CESG OSS – Exploring the Risk (PDF)](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) et [la foire aux questions sur les LL du département de la Défense des États-Unis](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
+Si vous voulez en apprendre davantage sur la sécurité des LL, vous pouvez consulter le document [UK CESG OSS - Exploring the Risk (PDF)](https://www.ncsc.gov.uk/content/files/guidance_files/GPG%2038%20-%20Open%20Source%20Software%20%20-%20issue%201.1%20-%20Oct%2015%20-%20NCSC%20Web.pdf) et [la foire aux questions sur les LL du département de la Défense des États-Unis](http://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management).
 
 #### Gains de productivité
 
 L'ouverture des projets de LL et la disponibilité du code source permettent aux professionnels de la technologie de l'information (TI) d'être plus efficaces à bien des égards, notamment :
 
-- en évaluant ou mettant rapidement à l’essai une plateforme à moindres coûts, et ayant le moins de retards administratifs possibles (p. ex., validation de principe);
+- en évaluant ou mettant rapidement à l'essai une plateforme à moindres coûts, et ayant le moins de retards administratifs possibles (p. ex., validation de principe);
 - interagissant facilement avec la collectivité (développeurs, utilisateurs) pour poser des questions, proposer des améliorations et signaler les bogues;
-- trouvant rapidement de l'information pertinente par l’entremise de nombreux canaux ouverts (p. ex., documentation, wiki, forum, système de suivi des bogues) et en l'améliorant au besoin;
+- trouvant rapidement de l'information pertinente par l'entremise de nombreux canaux ouverts (p. ex., documentation, wiki, forum, système de suivi des bogues) et en l'améliorant au besoin;
 - influençant la feuille de route du projet;
-- tenant compte du fait qu’il existe une collectivité suffisamment large autour d'un logiciel libre, et que la solution finale souhaitable pourrait déjà exister en tant que paquet prêt pour la mise en production, ce qui réduirait les besoins en matière de développement, de soutien et de révision de la sécurité nécessaire avant le déploiement.
+- tenant compte du fait qu'il existe une collectivité suffisamment large autour d'un logiciel libre, et que la solution finale souhaitable pourrait déjà exister en tant que paquet prêt pour la mise en production, ce qui réduirait les besoins en matière de développement, de soutien et de révision de la sécurité nécessaire avant le déploiement.
 
 #### Compétences en matière de technologie de l'information (TI) et satisfaction au travail
 
@@ -196,11 +196,11 @@ Bien entendu, une entreprise ou une organisation gouvernementale doit trouver un
 
 #### Moins de grande familiarité de la part des utilisateurs
 
-La familiarité qu’a l'utilisateur avec les LL est souvent beaucoup plus faible que celle sur les logiciels exclusifs. Les logiciels exclusifs sont bien mis en œuvre dans les écoles (du moins au Canada), et de nombreuses personnes apprennent à utiliser des ordinateurs au moyen de logiciels exclusifs, en raison de leur préinstallation par des fournisseurs de matériel. Voilà pourquoi les LL peuvent exiger plus de formation et de soutien.
+La familiarité qu'a l'utilisateur avec les LL est souvent beaucoup plus faible que celle sur les logiciels exclusifs. Les logiciels exclusifs sont bien mis en œuvre dans les écoles (du moins au Canada), et de nombreuses personnes apprennent à utiliser des ordinateurs au moyen de logiciels exclusifs, en raison de leur préinstallation par des fournisseurs de matériel. Voilà pourquoi les LL peuvent exiger plus de formation et de soutien.
 
 #### Sécurité
 
-Étant donné que tout le code source des LL est publié ouvertement, n'importe qui – y compris les « pirates aux mauvaises intentions » – peut examiner le code pour y déceler des failles de sécurité. En particulier, les attaquants malveillants peuvent observer où les LL partagent la même conception, la même base de codes ou la même architecture que le logiciel qui peut avoir des vulnérabilités connues en matière de sécurité. ([source](https://www.igi-global.com/book/handbook-research-open-source-software/494]))
+Étant donné que tout le code source des LL est publié ouvertement, n'importe qui - y compris les « pirates aux mauvaises intentions » - peut examiner le code pour y déceler des failles de sécurité. En particulier, les attaquants malveillants peuvent observer où les LL partagent la même conception, la même base de codes ou la même architecture que le logiciel qui peut avoir des vulnérabilités connues en matière de sécurité. ([source](https://www.igi-global.com/book/handbook-research-open-source-software/494]))
 
 Bien sûr, il faut tenir compte de ce désavantage par rapport aux avantages de sécurité mentionnés précédemment. Dans bien des cas, les pirates malveillants peuvent toujours avoir accès au code source des logiciels exclusifs lorsque les ententes de non-divulgation, les procédures éthiques de l'organisation ou les mécanismes de sécurité des fournisseurs font défaut. Ou ils peuvent démonter le système binaire exclusif et l'analyser pour cerner les défauts potentiels. Attendu que la sécurité des logiciels exclusifs dépend d'une tentative de maintien d'un déséquilibre d'information entre les « bienveillants » (analystes de la sécurité informatique) et les « malveillants » (pirates informatiques mal intentionnés), la sécurité des LL dépend d'un processus concurrentiel ouvert pour trouver et combler les failles de sécurité. Les modèles reposent sur des stratégies différentes, et chaque modèle comporte des risques particuliers qu'une organisation doit évaluer et prendre en considération.
 
@@ -230,7 +230,7 @@ Certains projets de logiciel libre évoluent rapidement avec de courts cycles de
 
 En général, les mêmes facteurs qui s'appliquent à l'évaluation de l'ensemble de caractéristiques et de la maturité de logiciels exclusifs s'appliquent également aux LL. Les facteurs suivants méritent d'être pris en considération lors de l'évaluation des LL :
 
-- **Collectivité** Une forte collectivité d'utilisateurs participant à un projet permet aux gens de répondre aux questions, de procéder à la mise à l’essai des logiciels, de signaler les bogues, de suggérer des améliorations et de susciter un intérêt général pour les logiciels.
+- **Collectivité** Une forte collectivité d'utilisateurs participant à un projet permet aux gens de répondre aux questions, de procéder à la mise à l'essai des logiciels, de signaler les bogues, de suggérer des améliorations et de susciter un intérêt général pour les logiciels.
 - **Activité de publication** Une forte collectivité de développeurs ayant des antécédents de publication et une participation continue tend à démontrer que les correctifs et les améliorations aux logiciels se poursuivront à l'avenir.
 - **Longévité** La longévité, mesurée en fonction de l'âge du produit et du nombre de versions publiées, indique la stabilité et les chances de survie d'un projet.
 - **Licence** Le logiciel est disponible pour une réutilisation en vertu d'une licence de LL, et le code se trouve dans un dépôt de codes communs. La licence d'un projet peut avoir une incidence sur le niveau de risque juridique que vous devez assumer (voir [Gestion des risques juridiques](Annexe_légale.md#gestion-des-risques-juridique)).
@@ -250,61 +250,61 @@ Ce type d'évaluation constitue un point de départ utile. Cependant, plusieurs 
 
 En plus de cette difficulté, les processus établis d'acquisition de logiciels et d'appel d'offres de services sont parfois adaptés aux solutions exclusives. Les processus ne sont pas toujours assez souples pour évaluer et traiter adéquatement les solutions libres. Par exemple, un processus d'approvisionnement peut d'abord comprendre un appel d'offres pour le contrat de licence initial. Dans ce cas-ci, les entreprises fondées sur des LL ne sont pas susceptibles de soumissionner, car elles n'ont pas de licences à vendre. Lorsque la prochaine étape d'un processus d'approvisionnement consisterait à lancer un appel d'offres pour des services de soutien, les entreprises de soutien basées sur les LL pourraient déjà être écartées. Les fournisseurs de logiciels exclusifs interdisent souvent à quiconque d'assurer l'entretien ou le soutien de leur produit, ce qui empêche les entreprises fondées sur des LL de participer à l'ensemble du processus. ([source](http://www.cbc.ca/news/technology/an-open-door-for-open-source-1.810739))
 
-Par conséquent, bien qu'une comparaison directe entre toutes les solutions possibles – libres et exclusives – soit une pratique utile, il peut également être nécessaire pour les entreprises et les organisations de revoir les procédures et processus existants afin de veiller à ce qu'ils tiennent compte adéquatement des deux catégories de logiciels.
+Par conséquent, bien qu'une comparaison directe entre toutes les solutions possibles - libres et exclusives - soit une pratique utile, il peut également être nécessaire pour les entreprises et les organisations de revoir les procédures et processus existants afin de veiller à ce qu'ils tiennent compte adéquatement des deux catégories de logiciels.
 
-#### Support
+#### Soutien
 
-La vérification et la mise en œuvre d'une solution LL est généralement la partie la plus facile. C'est la maintenance et le support de l'infrastructure LL critique qui devient le vrai défi. Le risque d'utiliser un logiciel sans garantie ni responsabilité du fournisseur est important. Avec les LL, il existe toute une gamme de modèles de support parmi lesquels choisir, et le bon choix va varier en fonction de nos besoins opérationnels. Ces options ne s'excluent pas mutuellement, et nous pouvons constater, par exemple, que notre entreprise est mieux servie en utilisant divers degrés de chacune des options ci-dessous. Quels que soient nos besoins, la meilleure façon de tirer le meilleur parti des LL tout en atténuant les risques est de nous assurer que notre entreprise adopte un modèle de soutien solide et stratégique et que nous l'utilisons de la façon la plus optimale possible.
+La vérification et la mise en œuvre d'une solution LL représente généralement la partie la plus facile. En ce qui a trait à l'infrastructure LL critique, le vrai défi se pose en matière de maintenance et de soutien. Le risque d'utiliser un logiciel sans garantie ni responsabilité de la part du fournisseur en est un qui est important. Avec les LL, il existe toute une gamme de modèles de soutien à partir desquels on peut choisir, et le bon choix variera en fonction de nos besoins opérationnels. Ces options ne s'excluent pas mutuellement, et nous pouvons constater, par exemple, que notre organisation est mieux desservie en utilisant divers degrés de chacune des options qui figurent ci-dessous. Quels que soient nos besoins, la meilleure façon de tirer le meilleur parti des LL, tout en atténuant les risques, est de veiller à ce que notre organisation adopte un modèle de soutien solide et stratégique, et que nous l'utilisions de la façon la plus optimale possible.
 
 - Élaborer un plan de soutien dans le cadre du processus d'adoption du produit.
-- Déterminer les compétences et les besoins en matière de soutien en fonction des compétences/ressources de l'organisation, des caractéristiques des composants LL et des caractéristiques générales de l'application.
-- Déterminer comment les composants OSS seront maintenus à jour avec les correctifs de bogues et de vulnérabilités.
+- Déterminer les compétences et les besoins en matière de soutien en fonction des compétences/ressources de l'organisation, des caractéristiques des composantes LL, et des caractéristiques générales de l'application.
+- Déterminer comment les composantes OSS seront gardées à jour avec les correctifs de bogues et de vulnérabilités.
 
-##### Autosuffisance
+#### Autosuffisance
 
-Les avantages de compter sur nos équipes informatiques internes et sur notre personnel pour soutenir les LL que nous déployons sont les suivants :
+Les avantages de compter sur nos équipes informatiques internes et sur notre personnel pour appuyer les LL que nous déployons sont les suivants :
 
 - nous avons le code source, nous avons le contrôle;
 - tirer parti de nos ressources existantes;
-- la possibilité d'engager des spécialistes pour l'entretien interne des produits;
-- Si nécessaire, nous pouvons trouver du matériel pédagogique et des formations pour affiner nos compétences;
-- désigner les propriétaires de code pour qu'ils soient responsables des divers codes open source qui ont été mis en œuvre. Ces propriétaires seraient responsables de :
+- la possibilité d'embaucher des spécialistes pour effectuer l'entretien interne des produits;
+- au besoin, nous pouvons trouver du matériel pédagogique et de la formation pour affiner nos compétences;
+- nous devons désigner les propriétaires de code afin qu'ils soient responsables des divers codes à source ouverte qui ont été mis en œuvre. Ces propriétaires seraient responsables de ce qui suit :
   - garder une longueur d'avance sur les nouvelles mises à jour et fonctionnalités;
-  - être vigilant et proactif en ce qui concerne les notifications de sécurité;
-  - vérification interne des logiciels par rapport aux processus d'affaires afin de s'assurer de leur pertinence;
+  - être vigilants et proactifs en ce qui concerne les notifications de sécurité;
+  - assurer la vérification interne des logiciels par rapport aux processus opérationnels afin de s'assurer de leur pertinence;
   - interagir avec les collectivités pour demander des fonctionnalités et signaler des bogues;
   - transmettre la connaissance du produit aux parties prenantes.
 
-Posséder une implémentation libre pourrait se heurter à des défis immédiats tels que
+Le fait de procéder à une mise en œuvre libre pourrait présenter certains défis immédiats, tels :
 
-- viable seulement si nous avons suffisamment d'expertise en interne;
-- mauvaise documentation;
+- viable que si nous avons suffisamment d'expertise à l'interne;
+- documentation inappropriée;
 - la lenteur de la réaction des collectivités;
-- manque de preuve des concepts pertinents à votre domaine.
+- manque de preuve de concepts pertinents à votre domaine.
 
-Ainsi, malgré les avantages sur papier de l'autosuffisance, ce modèle n'est généralement pas suffisant pour obtenir la fiabilité à laquelle nous nous attendons de nos systèmes essentiels.
+De plus, malgré les avantages de l'autosuffisance, du moins sur papier, le présent modèle ne suffit généralement pas si on souhaite obtenir la fiabilité à laquelle nous nous attendons de la part de nos systèmes essentiels.
 
-###### Collectivité du gouvernement du Canada
+##### Collectivité du gouvernement du Canada
 
-La collectivité du gouvernement du Canada offrira initialement le même type de soutien que celui décrit ci-dessous pour le soutien de la collectivité mondiale. La différence est qu'avec cette collectivités, il est possible d'introduire d'autres niveaux de soutien - par exemple, si un produit a été développé à l'aide du LL par un ministère homologue, un protocole d'entente pourrait être mis en place où le soutien de deuxième ou troisième ligne pourrait être fourni par le ministère homologue ou son expert en la matière pourrait être mis temporairement à la disposition de notre ministère, et vice versa si nous sommes propriétaires d'une solution spécifique au LL. La collectivités du gouvernement du Canada présente de nombreuses possibilités en matière de soutien, de partage et de réutilisation des codes d'élaboration en collaboration, que nous devons explorer davantage et discuter avec l'ensemble du gouvernement du Canada.
+La collectivité du gouvernement du Canada offrira initialement le même type de soutien que celui qui est décrit ci-dessous, en ce qui a trait au soutien accordé à la collectivité internationale. La différence est que dans le cas de ces collectivités, il est possible d'introduire d'autres niveaux de soutien - par exemple, si un produit a été développé à l'aide du LL par un ministère homologue, un protocole d'entente pourrait être mis en place où le soutien de deuxième ou troisième ligne pourrait être fourni par le ministère homologue, ou son expert en la matière pourrait être mis temporairement à la disposition de notre ministère et vice versa, si nous sommes propriétaires d'une solution spécifique au LL. La collectivité du gouvernement du Canada présente de nombreuses possibilités en matière de soutien, de partage et de réutilisation des codes d'élaboration en collaboration, que nous devons explorer cette option davantage, et en discuter avec l'ensemble du gouvernement du Canada.
 
-###### Collectivité mondiale
+##### Collectivité internationale
 
-Le soutien de la collectivité offre l'avantage de conserver la distribution originale du logiciel. Il ne s'agit pas d'une approche de soutien direct. Il s'agit d'une approche de recherche où l'on chercherait de l'aide et des conseils en posant des questions et en décrivant la situation en ligne et en impliquant une collectivité de développeurs et d'utilisateurs du même produit ou projet LL.
+Le soutien de la collectivité offre l'avantage de conserver la distribution originale du logiciel. Il ne s'agit pas d'une approche de soutien direct. Il s'agit d'une approche de recherche où l'on chercherait à obtenir de l'aide et des conseils en posant des questions et en décrivant la situation en ligne, puis en invitant la collectivité des développeurs et des utilisateurs du même produit ou projet LL à participer.
 
 ##### Vendeur
 
-La majorité des principaux LL qu'une entreprise peut utiliser sont accompagnés d'une option de support commercial payant. Red Hat et Canonical, par exemple, offrent tous deux un support commercial pour leurs distributions Linux.
+La majorité des principaux LL qu'une entreprise peut utiliser sont accompagnés d'une option de soutien commercial payant. Red Hat et Canonical, par exemple, offrent tous deux un soutien commercial pour leur distribution de Linux.
 
-L'engagement de tiers pour le support au niveau du code source peut conduire à une dérivation de la distribution principale du logicielle de la collectivité/du fournisseur. La maintenance de la version bifurquée du logiciel nécessite des efforts, une expertise technique et des ressources supplémentaires. Par conséquent, il est prudent d'utiliser la version supportée par la collectivité. Il y a des entreprises qui fournissent des éditions « d'entreprise » des logiciels communautaires qu'elles maintiennent, et ces éditions sont souvent accompagnées d'options pour le support et la formation basés sur un accord de niveau de service. Il y a aussi des organisations qui peuvent nous aider à bâtir l'infrastructure de soutien dont nous avons besoin à l'interne, ou même nous fournir cette équipe de soutien. Bien que ces options ne soient pas gratuites, il convient de mentionner que de nombreuses études ont confirmé les avantages financiers du LL dans un contexte commercial, même avec un soutien rémunéré. Le LL plus l'assistance payée ne dépasse pas le prix du logiciel payant plus l'assistance payée. C'est juste des maths simples. Lorsqu'on juxtapose les coûts de licence associés au soutien d'une infrastructure commerciale sophistiquée ou les coûts d'embauche associés à la création et au maintien d'une équipe de soutien interne, le rendement du capital investi est généralement considérable.
+L'embauche d'un tiers pour le soutien au niveau du code source peut mener à une dérivation de la distribution principale du logiciel par rapport à la collectivité/au fournisseur. La maintenance de la version bifurquée du logiciel exige que l'on déploie des efforts, une expertise technique et des ressources supplémentaires. Par conséquent, il est prudent d'utiliser la version prise en charge par la collectivité. Il y a des entreprises qui fournissent des éditions intégrées des logiciels communautaires qu'elles prennent en charge, et ces éditions sont souvent accompagnées d'options en matière de soutien et de formation fondés sur un accord de niveau de service. Il y a également des organisations qui peuvent nous aider à bâtir l'infrastructure de soutien dont nous avons besoin à l'interne, ou même nous fournir cette équipe de soutien. Bien que ces options ne soient pas gratuites, il convient de mentionner que de nombreuses études ont confirmé les avantages financiers du LL dans un contexte commercial, même avec un soutien rémunéré. Le LL, en plus de l'assistance payée, ne dépassent pas le prix du logiciel payant, en plus de l'assistance payée. Il s'agit d'une simple question de mathématique. Lorsqu'on juxtapose les coûts de licence associés au soutien d'une infrastructure commerciale sophistiquée ou les coûts d'embauche associés à la création et au maintien d'une équipe de soutien interne, le rendement du capital investi est généralement considérable.
 
-Comme le code source des LL est par définition librement disponible, cela signifie que nous n'avons pas à nous limiter à choisir entre les offres de support des entreprises qui fournissent des contrats de support. Nous pouvons être proactifs et répondre à vos besoins exacts en matière d'assistance. En choisissant le bon fournisseur commercial comme partenaire architectural dans nos efforts de développement autour de l'open source, nous pouvons obtenir à la fois la liberté et la flexibilité qu'offre l'adoption de LL, et la tranquillité d'esprit que procure le support aux entreprises de qualité commerciale. La principale motivation de l'adoption du LL est d'avoir des choix multiples pour les solutions logicielles et plus de concurrence entre les fournisseurs de services, mais sans aucun blocage ou perte de propriété intellectuelle (PI). Si un modèle de soutien crée l'immobilisation ou la perte d'une PI sous le nom de LL, l'objectif principal de l'option de LL est annulé.
+Comme le code source des LL est, par définition, librement disponible, cela signifie que nous n'avons pas à nous limiter à choisir entre les offres de soutien des entreprises qui fournissent des contrats de soutien. Nous pouvons être proactifs et répondre à vos besoins exacts en matière d'aide. En choisissant le bon fournisseur commercial comme partenaire architectural dans le cadre des efforts que nous déployons par rapport au développement entourant la source ouverte, nous pouvons obtenir à la fois la liberté et la flexibilité qu'offre l'adoption de LL, et la tranquillité d'esprit que procure le soutien accordé aux entreprises de qualité commerciale. La principale motivation de l'adoption du LL est d'avoir des choix multiples pour les solutions logicielles et une plus grande compétition de la part des fournisseurs de services, mais sans qu'il n'y ait de blocage ou de perte de propriété intellectuelle (PI). Si un modèle de soutien crée l'immobilisation ou la perte d'une PI sous le nom de LL, l'objectif principal de l'option de LL est annulé.
 
-##### Mélange des modèles de support
+##### Mélange des modèles de soutien
 
-En combinant les modèles, nous pouvons tirer le meilleur parti de chacun d'eux lorsque le soutien commercial complète le soutien interne et celui de la ou des communautés.
+En combinant les modèles, nous pouvons tirer le meilleur parti de chacun d'eux lorsque le soutien commercial vient compléter le soutien interne, de même que celui de la ou des collectivités.
 
-Le mélange de modèles évoluera au fil du temps où une organisation commencera généralement par un soutien interne et développera certaines compétences internes, puis, en raison de la demande, le nombre de contrats de soutien de tierce partie augmentera au besoin, habituellement pour les applications les plus exigeantes en ressources.
+Le mélange de modèles évoluera au fil du temps où une organisation commencera généralement par un soutien interne et perfectionnera certaines compétences internes, puis, en raison de la demande, le nombre de contrats de soutien de tiers augmentera au besoin, habituellement en ce qui a trait aux applications les plus exigeantes en ressources.
 
 #### Formation
 
@@ -330,7 +330,7 @@ Selon le contexte, il est prudent d'affecter des ressources appropriées à la f
 
 Dans l'ensemble, il est peu probable qu'une licence de LL influe fortement sur la décision d'utiliser ou non des LL. Comme on l'a mentionné précédemment, une simple utilisation de LL déclenche peu d'obligations relatives aux licences. Plus important encore, les obligations réciproques en matière de licence ne s'appliquent pas. Dans ce contexte, seulement trois caractéristiques des licences de LL ont tendance à être très différentes des licences exclusives, et il faut s'y attarder : (1) l'absence de garantie; 2) l'avis de non-responsabilité et d'absence d'indemnisation; et (3) l'absence de clause de compétence législative ou de clause attributive de compétence.
 
-Pour obtenir de plus amples détails sur la gestion des risques et d'autres questions juridiques, veuillez consulter l'[annexe A – Questions d’ordre juridique](Annexe_légale.md).
+Pour obtenir de plus amples détails sur la gestion des risques et d'autres questions juridiques, veuillez consulter l'[annexe A - Questions d'ordre juridique](Annexe_légale.md).
 
 #### Interopérabilité et harmonisation des licences
 
