@@ -350,7 +350,7 @@ Les critères d'évaluation des LL sont définis ci-dessus dans la section [Éva
 
 Pour tirer le maximum d'avantages économiques et en matière de qualité, il faut utiliser les LL de façon concertée et coordonnée. Le Conseil d'examen de l'architecture intégrée (CEAI) et l'Équipe du gouvernement ouvert du Secrétariat du Conseil du Trésor tiendront à jour une liste des LL présentement utilisés basé sur l'auto-identification, la gestion de portefeuille d'applications et les évaluations de solutions présentées par les ministères.
 
-La liste des LL utilisés est actuellement accessible à partir du site l'[Échange de ressources ouvert](https://canada-ca.github.io/ore-ero/logiciels-libres.html).
+La liste des LL utilisés est actuellement accessible à partir du site l'[Échange de ressources ouvert](https://canada-ca.github.io/ore-ero/).
 
 ### Normes relatives au numérique du gouvernement du Canada
 
