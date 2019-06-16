@@ -350,7 +350,7 @@ The criteria used for evaluating OSS are defined above in the [Software Evaluati
 
 To achieve maximum benefits both economically and in terms of quality, OSS should be used in a concerted and coordinated manner. A list of OSS currently used by the GC will be maintained by the Enterprise Architecture Review Board (EARB) and Open Government team at TBS based on self identification, the application portfolio management (APM) and solutions assessments presented by departments.
 
-The list of OSS used is currently available on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/open-source-software.html).
+The list of OSS used is currently available on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/).
 
 ### Government of Canada Digital Standards
 
