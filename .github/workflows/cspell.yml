@@ -1,0 +1,39 @@
+name: Spellchecking
+
+on:
+  pull_request:
+    paths:
+    - ".github/workflows/cspell.yml"
+    - "cspell.json"
+    - "package*.json"
+    - "en/**/*.md"
+
+  push:
+    branches-ignore:
+    - "dependabot/**"
+    paths:
+    - ".github/workflows/cspell.yml"
+    - "cspell.json"
+    - "package*.json"
+    - "en/**/*.md"
+
+jobs:
+  cspell:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Run cSpell
+        run: npm run spellcheck

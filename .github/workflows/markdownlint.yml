@@ -1,0 +1,37 @@
+name: Markdownlint
+
+on:
+  pull_request:
+    paths:
+    - ".github/workflows/markdownlint.yml"
+    - ".markdownlint.json"
+    - "package*.json"
+    - "**/*.md"
+
+  push:
+    paths:
+    - ".github/workflows/markdownlint.yml"
+    - ".markdownlint.json"
+    - "package*.json"
+    - "**/*.md"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Run Markdownlint
+        run: npm run lint
