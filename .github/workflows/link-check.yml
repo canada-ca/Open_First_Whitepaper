@@ -1,0 +1,39 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+    - ".github/workflows/link-check.yml"
+    - ".markdown-link-check.json"
+    - "link-check.js"
+    - "package*.json"
+    - "**/*.md"
+
+  push:
+    paths:
+    - ".github/workflows/link-check.yml"
+    - ".markdown-link-check.json"
+    - "link-check.js"
+    - "package*.json"
+    - "**/*.md"
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Run link checks
+        run: npm run link-check
