@@ -9,6 +9,8 @@ on:
     - "**/*.md"
 
   push:
+    branches-ignore:
+    - "dependabot/**"
     paths:
     - ".github/workflows/markdownlint.yml"
     - ".markdownlint.json"

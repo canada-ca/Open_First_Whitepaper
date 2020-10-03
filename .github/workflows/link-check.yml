@@ -10,6 +10,8 @@ on:
     - "**/*.md"
 
   push:
+    branches-ignore:
+    - "dependabot/**"
     paths:
     - ".github/workflows/link-check.yml"
     - ".markdown-link-check.json"
