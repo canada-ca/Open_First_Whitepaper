@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/canada-ca/Open_First_Whitepaper#readme",
   "devDependencies": {
-    "cspell": "^5.3.9",
+    "cspell": "^5.3.11",
     "markdown-link-check": "^3.8.5",
     "markdownlint-cli": "^0.27.1"
   },
