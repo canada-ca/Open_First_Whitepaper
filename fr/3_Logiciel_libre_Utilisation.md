@@ -346,7 +346,7 @@ Voir [Logiciel libre - Contribution](4_Logiciel_libre_Contribution.md).
 
 ### Logiciels libres privilégiées
 
-Les critères d'évaluation des LL sont définis ci-dessus dans la section [Évaluation et acquisition des logiciels](#software-evaluation-and-procurement). Les LL doivent également appuyer l'utilisation des [normes ouvertes](2_Normes_ouvertes.md).
+Les critères d'évaluation des LL sont définis ci-dessus dans la section [Évaluation et acquisition des logiciels](#evaluation-et-acquisition-des-logiciels). Les LL doivent également appuyer l'utilisation des [normes ouvertes](2_Normes_ouvertes.md).
 
 Pour tirer le maximum d'avantages économiques et en matière de qualité, il faut utiliser les LL de façon concertée et coordonnée. Le Conseil d'examen de l'architecture intégrée (CEAI) et l'Équipe du gouvernement ouvert du Secrétariat du Conseil du Trésor tiendront à jour une liste des LL présentement utilisés basé sur l'auto-identification, la gestion de portefeuille d'applications et les évaluations de solutions présentées par les ministères.
 

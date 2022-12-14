@@ -7,7 +7,7 @@
 - [Intellectual Property](#intellectual-property)
 - [Benefits](#benefits)
 - [Risks and Drawbacks](#risks-and-drawbacks)
-- [Best Practices for Releasing Open Source Software](#best-practices-for-releasing-oss)
+- [Best Practices for Releasing Open Source Software](#best-practices-for-releasing-open-source-software)
 - [Government of Canada Digital Standards](#government-of-canada-digital-standards)
 
 ### Contribution
